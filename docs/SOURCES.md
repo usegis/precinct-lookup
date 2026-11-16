@@ -22,7 +22,9 @@ publishes; where a piece is missing, two statewide sources stand in for it:
   Santa Clara, Alameda, Sacramento, Fresno, Ventura, San Mateo, Stanislaus, Sonoma, Tulare,
   Solano, Placer, Santa Barbara, Merced, San Luis Obispo, Santa Cruz, Marin, Yolo, Butte,
   Shasta, Madera, Kings, Sutter, Yuba, Tehama, Calaveras, Siskiyou, Amador, Mariposa, Trinity
-  and Mono. Contra Costa and Plumas post a file, and Mendocino emailed one on request. Santa
+  and Mono. Contra Costa and Plumas post a file, and Mendocino emailed one on request. San Joaquin
+  publishes points for its unincorporated areas, and the City of Bakersfield its own, which
+  cover most of Kern's homes. Santa
   Clara's and Butte's points are from 2020 and Tehama's from 2021, so newer homes come from
   parcels or TIGER.
 - **Parcels:** some smaller counties publish parcels with a site address, which already go a
@@ -30,12 +32,13 @@ publishes; where a piece is missing, two statewide sources stand in for it:
   precinct map the same way. It's less exact: a parcel has one address however many homes it
   holds, and its middle can sit far from the door on a large lot. Only the site address is
   read, never an owner's mailing address. Imperial, Humboldt, Nevada, Lake, Tuolumne, Glenn,
-  Del Norte, Colusa, Sierra and Alpine are built this way; a public address layer would make
-  each of them as exact as the address-point counties.
+  Del Norte, Colusa, Sierra and Alpine are built this way, and San Joaquin's parcels fill in
+  its cities; a public address layer would make each of them as exact as the address-point
+  counties.
 - **TIGER and SWDB:** where a county hasn't published its addresses yet (Lassen and Modoc),
   ranges come from TIGER's address ranges, placed in precincts with SWDB's voters by Census
-  block. That's about 97% right in a city, likely less in the country. Kern and San Joaquin
-  use their own street centerlines in place of TIGER, which gets them closer. One public layer
+  block. That's about 97% right in a city, likely less in the country. Outside Bakersfield,
+  Kern uses its own street centerlines in place of TIGER, which gets it closer. One public layer
   changes this: Inyo, a county of 18,000 people, publishes each address with its precinct, and
   its ranges are 99.9% right.
 
