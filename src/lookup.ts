@@ -3,7 +3,7 @@ import type { Feature, FeatureCollection, Polygon } from 'geojson'
 
 export type Range = [low: number, high: number, precinct: string]
 export type Streets = Record<string, Range[]>
-export type Index = Record<string, { name: string, zipcodes: string[] }>
+export type Index = Record<string, { name: string, zipcodes: string[], aliases?: Record<string, string> }>
 export type Shapes = FeatureCollection<Polygon>
 export interface Source {
   index: () => Promise<Index>
@@ -116,9 +116,10 @@ function precinctsIn (streets: Streets, { number, street }: Address): string[] {
 export async function lookup (text: string, source: Source): Promise<Answer> {
   const address = parseAddress(text)
   if (!address) return { text: 'Please enter a street address, starting with the house number.' }
-  const { zip } = address
-  if (!zip) return { text: 'Please include the zip code.' }
+  if (!address.zip) return { text: 'Please include the zip code.' }
   const counties = await source.index()
+  // A county-only zipcode (92415, 93009) is read as the one around it.
+  const zip = Object.values(counties).map((c) => c.aliases?.[address.zip as string]).find(Boolean) ?? address.zip
   const listed = Object.keys(counties).filter((county) => counties[county].zipcodes.includes(zip))
   if (!listed.length) return { text: 'Invalid address' }
   const files = await Promise.all(listed.map((county) => source.file(county, zip)))

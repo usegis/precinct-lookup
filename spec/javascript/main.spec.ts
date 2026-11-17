@@ -391,6 +391,16 @@ describe('lookup', () => {
     })
   })
 
+  context("with a county-only zip code the county's index aliases", () => {
+    it('reads the zip code around it', async () => {
+      const source = sourceFor(files)
+      const index = await source.index()
+      index[41].aliases = { 94026: '94025' }
+      const found = await lookup('238 Oconnor St 94026', { ...source, index: async () => index })
+      expect([found.text, found.found?.zip]).toEqual(['44007: San Mateo County', '94025'])
+    })
+  })
+
   context('without a zip code', () => {
     beforeEach(() => { text = '238 Oconnor St' })
 

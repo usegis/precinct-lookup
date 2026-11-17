@@ -19,7 +19,8 @@ the data, and copied here whole; build tools and downloads stay out of this repo
 the copy shows each update as a diff.
 
 - `counties/index.json`: each county's name and zipcodes, and its `source` when it isn't
-  address points (`census` or `street`). The page reads the names and zipcodes from here, not
+  address points (`census` or `street`), and `aliases` from a county-only zipcode to the one
+  around it (San Bernardino's 92415, Ventura's 93009). The page reads the names and zipcodes from here, not
   from code.
 - `counties/<county>/streets/<zip>.json`: `{street: [[low, high, precinct], ...]}`. Precinct
   numbers start with the two-digit county number; the page shows them without it.

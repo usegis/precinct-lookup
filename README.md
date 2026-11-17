@@ -92,7 +92,8 @@ The files here cover California, but the lookup works anywhere: make files in th
 your area, host them anywhere, and pass their address to `remoteSource()`.
 
 - `index.json`: `{"41": {"name": "San Mateo County", "zipcodes": ["94025", ...]}}`, with a
-  two-character key for each county.
+  two-character key for each county, and `aliases` where a county-only zipcode (a government
+  center's, like Ventura's 93009) is read as the one around it: `{"93009": "93003"}`.
 - `<county>/streets/<zip>.json`: each street with its ranges, `[low, high, precinct]`, where `low`
   and `high` are on one side of the street (both odd or both even) and the precinct number starts
   with the county's key. Run each street name through the package's `normalizeStreet()`, so it

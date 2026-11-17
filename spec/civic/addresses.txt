@@ -119,6 +119,7 @@ San Benito County Elections, 1601 Lana Way, Hollister, CA 95023
 # San Bernardino: Live map layer, Live address points
 San Bernardino County Elections, 777 E Rialto Avenue, San Bernardino, CA 92415
 San Bernardino Justice Center, 247 West Third Street, San Bernardino, CA 92415
+San Bernardino Justice Center, 247 W 3rd St, San Bernardino, CA 92401
 West Valley Detention Center, 9500 Etiwanda Ave, Rancho Cucamonga, CA 91739
 
 # San Diego: Live map layer, Live address points
@@ -184,6 +185,7 @@ Tuolumne County Elections, 2 S Green Street, Sonora, CA 95370
 
 # Ventura: Live map layer, Live address points
 Ventura County Elections, 800 S Victoria Avenue, Ventura, CA 93009
+Ventura County Elections, 800 S Victoria Ave, Ventura, CA 93003
 
 # Yolo: Live map layer, Live address points
 Yolo County Elections, 625 Court Street, Woodland, CA 95695
