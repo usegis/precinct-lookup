@@ -7,8 +7,8 @@ What each county gives us, and what we do with it.
 The lookup needs two simple, public things from each county: its addresses and its precinct
 boundaries. From them we build street ranges by zipcode (`[low, high, precinct]` on each side of
 a street) and a precinct outline for the map. The
-[precinct-lookup](https://www.npmjs.com/package/precinct-lookup) package reads those files, so
-anyone can build an accurate tool for finding districts, showing a ballot, or a voter guide.
+[precinct-lookup](https://www.npmjs.com/package/precinct-lookup) package reads those files, making public precinct
+information easier to use, for any purpose; a county could use it to launch its own election lookup.
 
 That design is private by default:
 
