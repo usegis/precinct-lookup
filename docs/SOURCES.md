@@ -115,10 +115,15 @@ keeps anyway:
 
 ## No GIS? No problem
 
-Small counties without GIS staff can still get there. Parcels with site addresses, an address list
-with locations, or a precinct map in whatever form the office keeps it is enough to start, and
-we're glad to help turn it into a public layer. [Open an
-issue](https://github.com/woodie/street-ranges/issues) to get in touch.
+Three things any county office can do with what it already has:
+
+1. **Post your street index.** Elections systems keep each street's house-number ranges with
+   their precinct, and can export them as a spreadsheet. Posted on the county website, it's all
+   a lookup needs.
+2. **Share your 9-1-1 address points.** Dispatch keeps every address with its location. A copy
+   as a spreadsheet, with latitude and longitude, works as well as any GIS layer.
+3. **Put a spreadsheet on a map.** A list with latitude and longitude columns becomes a public
+   map layer in a few minutes with a free mapping account, such as ArcGIS Online.
 
 ## A lookup your county owns
 
