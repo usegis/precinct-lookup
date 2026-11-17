@@ -3,7 +3,8 @@
 The public address-to-precinct demo at https://precinct.netpress.com/ and the data behind it:
 street ranges and precinct outlines for all 58 California counties. This repo is public, so
 these notes cover only what it does today: how `counties/` is filled and how the page is
-published. `README.md` has the format; `docs/SOURCES.md` says what each county gives us.
+published. `README.md` has the format; `docs/SOURCES.md` says what each county gives us, the approach and its privacy advantages; keep it current,
+praising counties that share well and inviting the rest, never framing one as falling short.
 
 ## Where things stand (2026-11-13)
 
@@ -78,8 +79,6 @@ check first. Woodie publishes, or says yes first.
 
 ## Known gaps
 
-- Zipcodes used only by county buildings aren't in the ranges, so their official addresses
-  miss: Ventura's 93009 and San Bernardino's 92415.
 - 39 Santa Clara precincts have ranges but no outline, so they answer without a map.
 - On a phone, one finger drags the map rather than scrolling the page.
 - `spec/civic/addresses.txt` has courthouses and jails only for the eight largest counties.

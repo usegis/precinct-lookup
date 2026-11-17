@@ -1,7 +1,25 @@
 # Sources
 
-What each county gives us, and what we do with it. Every county is built from the best it
-publishes; where a piece is missing, two statewide sources stand in for it:
+What each county gives us, and what we do with it.
+
+## The approach
+
+The lookup needs two simple, public things from each county: its addresses and its precinct
+boundaries. From them we build street ranges by zipcode (`[low, high, precinct]` on each side of
+a street) and a precinct outline for the map. The
+[precinct-lookup](https://www.npmjs.com/package/precinct-lookup) package reads those files, so
+anyone can build an accurate tool for finding districts, showing a ballot, or a voter guide.
+
+That design is private by default:
+
+- **No voter data.** The ranges come from public map layers, never from the voter file.
+- **The address stays on the device.** The lookup runs in the browser and fetches only the
+  files for the typed zipcode; the map's tiles show the area on screen, never the address.
+- **No scraping.** Where a county publishes a layer, tools like this one read it as is,
+  instead of querying map viewers or geocoders one address at a time.
+
+Every county is built from the best it publishes; where a piece is missing, two statewide
+sources stand in for it:
 
 - **TIGER:** the Census Bureau's street map, updated every year. For each side of each street
   segment it gives the range of possible house numbers and the zipcode, but not which numbers
@@ -70,6 +88,37 @@ Francisco's street data, ignored and then used as the answer key, measures the m
 themselves; `npm run civic` tries every county's elections office and the largest counties'
 courthouses and jails; and [Public precinct data](PUBLIC_PRECINCT_DATA.md) explains why
 counties publishing each address's precinct ahead of each election matters most.
+
+## Counties leading the way
+
+- **Each address with its precinct:** San Francisco, Monterey, San Benito and Inyo publish it,
+  and El Dorado sent it on request. Nothing to guess: the county's own answer, address by
+  address.
+- **Current precincts, ready for the next election:** Los Angeles, San Diego, Sacramento,
+  Alameda, Solano, Butte and others keep a live precinct layer; Santa Barbara posts each
+  election's shapefile, and Placer sent its September map within days of being asked.
+- **Every address, kept current:** most counties publish address points as a live layer, and
+  San Joaquin's Public Works posts parcels with site addresses, updated this month.
+
+Inyo shows how far a small county can go: its GIS team publishes every address with its
+precinct, supervisor and districts, and its ranges are 99.9% right.
+
+## A little more goes a long way
+
+Most counties already publish one of the two pieces. The other is usually a layer the county
+keeps anyway:
+
+- **Precincts for the coming election,** as a public layer, as soon as they're set. That's when
+  people look up their precinct, and months before SWDB publishes the lines.
+- **Addresses with a location,** as address points or parcels with a site address. Adding
+  each address's precinct, as Inyo does, makes the county's own answer the lookup's answer.
+
+## No GIS? No problem
+
+Small counties without GIS staff can still get there. Parcels with site addresses, an address list
+with locations, or a precinct map in whatever form the office keeps it is enough to start, and
+we're glad to help turn it into a public layer. [Open an
+issue](https://github.com/woodie/street-ranges/issues) to get in touch.
 
 ## A lookup your county owns
 
