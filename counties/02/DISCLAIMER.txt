@@ -1,0 +1,34 @@
+DATA DISCLAIMER
+Alpine County
+
+This project is independent and not endorsed by Alpine County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Alpine County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Alpine County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Statewide Database, 6/26
+https://statewidedatabase.org/
+
+Addresses: Parcels, 2025
+Last edited: 2025-11-28
+https://services1.arcgis.com/9z9tEfqo0TExR9C8/arcgis/rest/services/AlpineCountyParcels_22_23_PublicUpdate/FeatureServer/0
+
+Road centerlines: Street_Lines
+Last edited: 2026-01-21
+https://services1.arcgis.com/9z9tEfqo0TExR9C8/arcgis/rest/services/CountyStreets911_22_23/FeatureServer/1
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+ALPINE COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Road centerlines, Street_Lines
+
+Feature locations in this feature class are approximate. It should not be used
+for legal purposes.

@@ -1,0 +1,54 @@
+DATA DISCLAIMER
+Tuolumne County
+
+This project is independent and not endorsed by Tuolumne County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Tuolumne County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Tuolumne County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Statewide Database, 6/26
+https://statewidedatabase.org/
+
+Addresses: Parcels, 2026
+From: Tuolumne County GIS
+Last edited: 2026-08-12
+https://services3.arcgis.com/afQpMaliVrwHS7Ud/arcgis/rest/services/Parcels_WithSiteAddress/FeatureServer/2
+
+Road centerlines: RoadsAndHighways_OperationalStatusLines
+Last edited: 2026-10-29
+https://services3.arcgis.com/afQpMaliVrwHS7Ud/arcgis/rest/services/Road_Operational_Status_and_Closures_2023_VIEW/FeatureServer/1
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+TUOLUMNE COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Addresses, Parcels_WithSiteAddress
+
+This data, TUOLUMNE.CDD.Parcels_Secured_Asmts_Formatted, is made available under
+the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any
+rights in individual contents of the database are licensed under the Database
+Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+You are free: To Share: To copy, distribute and use the database.
+To Create: To produce works from the database.
+To Adapt: To modify, transform and build upon the database.
+As long as you: Attribute: You must attribute any public use of the database, or
+works produced from the database, in the manner specified in the ODbL. For any
+use or redistribution of the database, or works produced from it, you must make
+clear to others the license of the database and keep intact any notices on the
+original database.
+Share-Alike: If you publicly use any adapted version of this database, or works
+produced from an adapted database, you must also offer that adapted database
+under the ODbL.
+Keep open: If you redistribute the database, or an adapted version of it, then
+you may use technological measures that restrict the work (such as DRM) as long
+as you also redistribute a version without such measures.
+
+LICENSE
+See LICENSE.txt, beside this file.

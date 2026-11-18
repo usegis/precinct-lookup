@@ -1,0 +1,31 @@
+DATA DISCLAIMER
+Sacramento County
+
+This project is independent and not endorsed by Sacramento County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Sacramento County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Sacramento County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+From: Department of Voter Registration and Elections
+Last edited: 2026-08-07
+https://services1.arcgis.com/5NARefyPVtAeuJPU/ArcGIS/rest/services/VoterRegistrationPrecincts/FeatureServer/2
+
+Addresses: Live layer
+Last edited: 2026-11-15
+https://services1.arcgis.com/5NARefyPVtAeuJPU/ArcGIS/rest/services/Address/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+SACRAMENTO COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Precinct map, Voter Registration Precincts and Addresses, Address
+
+This work is licensed under a Creative Commons Public Domain Dedication License

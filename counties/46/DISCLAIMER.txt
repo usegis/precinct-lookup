@@ -1,0 +1,21 @@
+DATA DISCLAIMER
+Sierra County
+
+This project is independent and not endorsed by Sierra County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Sierra County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Sierra County Registrar of Voters.
+
+SOURCES
+
+Precinct map: On request, 1/22
+
+Addresses: Parcels, 2025 (a third party's copy)
+Last edited: 2025-09-04
+https://services2.arcgis.com/2yQutf5QqkjGa5Rs/arcgis/rest/services/SierraParcelAd_ExportFeature/FeatureServer/1
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

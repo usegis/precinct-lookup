@@ -1,0 +1,21 @@
+DATA DISCLAIMER
+Plumas County
+
+This project is independent and not endorsed by Plumas County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Plumas County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Plumas County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Statewide Database, 6/26
+https://statewidedatabase.org/
+
+Addresses: File, 7/26
+https://plumascounty.us/DocumentCenter/View/8506
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

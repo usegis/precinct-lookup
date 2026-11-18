@@ -1,0 +1,24 @@
+DATA DISCLAIMER
+Tehama County
+
+This project is independent and not endorsed by Tehama County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Tehama County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Tehama County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Layer, 2025
+Last edited: 2025-09-09
+https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/Precinct_Blocks_2025_By_Registered_Voters/FeatureServer/0
+
+Addresses: Parcels, 2026
+Last edited: 2025-09-08
+https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/Tehama_Voter_Registration_Precincts_2025_UMWjJf/FeatureServer/0
+
+Street data: Layer, 9/25
+https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/Tehama_Voter_Registration_Precincts_2025_UMWjJf/FeatureServer/0

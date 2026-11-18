@@ -1,0 +1,61 @@
+DATA DISCLAIMER
+Contra Costa County
+
+This project is independent and not endorsed by Contra Costa County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Contra Costa County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Contra Costa County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-07-15
+https://services3.arcgis.com/42Dx6OWonqK9LoEE/arcgis/rest/services/Precinct_Boundary/FeatureServer/0
+
+Addresses: File, 10/25
+https://gis.cccounty.us/Downloads/General%20County%20Data/CCC_DOIT_AddressData.zip
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+CONTRA COSTA COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Data Disclaimer.pdf, April 11, 2024, in the county's
+CCC_DOIT_AddressData.zip
+
+CONTRA COSTA COUNTY
+DISCLAIMER OF LIABILITY AND WARRANTIES
+User understands and agrees that it is quite possible that errors and omissions
+will occur in data input and/or programming done by County to provide the data
+in the form desired, and user further understands and agrees that it is highly
+probable that errors and omissions will occur in any record keeping process,
+especially when large numbers of records are developed and maintained, and that
+the data may not meet user’s standards as to accuracy or completeness;
+not-withstanding, user agrees to take the data “as is,” fully expecting that
+there may well be errors and omissions in the data obtained from County.
+User further understands and agrees that County makes absolutely no warranty
+whatsoever, whether expressed or implied, as to the accuracy, thoroughness,
+value, quality, validity, merchant ability, suitability, condition, or fitness
+for a particular purpose of the data or any programming used to obtain the data.
+Nor as to whether the data is error-free, up-to-date, complete or based upon
+accurate or meaningful facts.
+User further understands and agrees that it forever waives any and all rights,
+claims, causes of action or other recourse that it might otherwise have against
+County for any injury or damage of any type, whether direct, indirect,
+incidental, consequential or otherwise, resulting from any error or omission in
+data or in any programming used to obtain the data, or in any manner arising out
+of or related to this agreement or the data provided hereunder.
+User agrees that County shall not be liable to user for any liability, claim,
+loss, damage, injury or expense of any kind caused or alleged to be caused,
+directly or indirectly, by the inadequacy of any CMS or GIS Data or any other
+deficiency of the systems, by any delay or failure to provide any service, or by
+any other interruption, disruption or loss of user operations.
+User agrees that it will, irrespective of any alleged liability, claim, loss,
+injury, damage or expense continue to pay all charges in the amounts stated
+herein until this agreement is properly terminated in accordance with its terms.
+
+The county's original file is beside this one: Data Disclaimer.pdf

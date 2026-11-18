@@ -1,0 +1,22 @@
+DATA DISCLAIMER
+Kings County
+
+This project is independent and not endorsed by Kings County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Kings County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Kings County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Statewide Database, 6/26
+https://statewidedatabase.org/
+
+Addresses: Live layer
+Last edited: 2024-09-12
+https://services3.arcgis.com/24gLq1DBBzDfd0cZ/arcgis/rest/services/Elections_Address/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

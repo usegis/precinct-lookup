@@ -1,0 +1,80 @@
+DATA DISCLAIMER
+Solano County
+
+This project is independent and not endorsed by Solano County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Solano County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Solano County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+From: This data is maintained by Solano County GIS.
+Last edited: 2026-11-11
+https://services8.arcgis.com/yZMpWjUY470LlO5I/arcgis/rest/services/current_election_precincts/FeatureServer/0
+
+Addresses: Live layer
+From: This data is maintained by Geographic Technologies Group under the
+guidance of Solano County.
+Last edited: 2026-11-09
+https://services2.arcgis.com/SCn6czzcqKAFwdGU/arcgis/rest/services/Address_Points/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+SOLANO COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Precinct map, Election Precincts
+
+Solano County Disclaimer: By using this data, the user acknowledges that it is
+possible that errors and omissions will occur in data input or programming done
+by the County or for the County to provide the GIS layers and/or other data in
+the form desired. The user further understands and agrees that it is possible
+that errors and omissions will occur in record keeping processes, especially
+when large numbers of records are developed and maintained, and that data may
+not meet the user's standards as to accuracy or completeness. Notwithstanding,
+the user agrees to take the data “as is”, fully expecting that there may be
+errors and omissions associated with the data. The user further understands and
+agrees that the County makes absolutely no warranty whatsoever, whether
+expressed or implied, as to the accuracy, thoroughness, value, quality,
+validity, merchantability, suitability, condition or fitness for a particular
+purpose of the data or any programming used to obtain the data, nor as to
+whether the data is error-free, up-to-date, complete or based upon accurate or
+meaningful facts. This data layer was made using Solano County GIS files with
+varying degrees of scale, accuracy, precision, correctness, and alignment and
+therefore cannot be used for situations requiring survey grade measurement.
+Solano County disclaims liability for any loss that may result from the use of
+its data and user accepts any and all risks associated with using this data.
+User acknowledges data limitations and accepts responsibility for data-based
+judgments.
+
+From: Addresses, Address Points
+
+Use is intended for Solano County, Geographic Technologies Group, Cities of
+Solano County, and other parties.
+Address point placement is adjusted to the current available imagery. Imagery
+most recently flown by Sanborn, 2024.
+Disclaimer: By using this data, the user acknowledges that it is possible that
+errors and omissions will occur in data input or programming done by the County
+or for the County to provide the GIS layers and/or other data in the form
+desired. The user further understands and agrees that it is possible that errors
+and omissions will occur in record keeping processes, especially when large
+numbers of records are developed and maintained, and that data may not meet the
+user's standards as to accuracy or completeness. Notwithstanding, the user
+agrees to take the data “as is”, fully expecting that there may be errors and
+omissions associated with the data. The user further understands and agrees that
+the County makes absolutely no warranty whatsoever, whether expressed or
+implied, as to the accuracy, thoroughness, value, quality, validity,
+merchantability, suitability, condition or fitness for a particular purpose of
+the data or any programming used to obtain the data, nor as to whether the data
+is error-free, up-to-date, complete or based upon accurate or meaningful facts.
+This data layer was made using Solano County GIS files with varying degrees of
+scale, accuracy, precision, correctness, and alignment and therefore cannot be
+used for situations requiring survey grade measurement. Solano County disclaims
+liability for any loss that may result from the use of its data and user accepts
+any and all risks associated with using this data. User acknowledges data
+limitations and accepts responsibility for data based judgments.

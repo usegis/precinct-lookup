@@ -1,0 +1,22 @@
+DATA DISCLAIMER
+Modoc County
+
+This project is independent and not endorsed by Modoc County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Modoc County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Modoc County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2025-10-14
+https://services6.arcgis.com/MIuDOWgDqUpHjCEg/arcgis/rest/services/Voting_Precincts___10_14_25_WFL1/FeatureServer/13
+
+Addresses: Census TIGER
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

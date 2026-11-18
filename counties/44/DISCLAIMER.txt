@@ -1,0 +1,41 @@
+DATA DISCLAIMER
+Santa Cruz County
+
+This project is independent and not endorsed by Santa Cruz County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Santa Cruz County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Santa Cruz County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-06-23
+https://services1.arcgis.com/jJfZghspGKh8J9Jm/arcgis/rest/services/Precincts/FeatureServer/4
+
+Addresses: Live layer
+Last edited: 2026-08-13
+https://services1.arcgis.com/jJfZghspGKh8J9Jm/arcgis/rest/services/Address_Point/FeatureServer/1
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+SANTA CRUZ COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Precinct map, Precincts
+
+The County of Santa Cruz shall not be liable to users of the digital map layers
+and tabular data or to any other person, individual, company, association, firm,
+corporation, or public or private entity regardless of the nature of the
+organization for any loss or damage, whether consequential or otherwise,
+including but not limited to time, money, or goodwill arising from the use,
+operation, or modification of the digital map layers and tabular data. In using
+the digital map layers and tabular data, the user further agrees to indemnify,
+defend, and hold harmless the County of Santa Cruz, its officers, agents, and
+employees from any and all claims, liabilities, and losses whatsoever (together
+with any expenses, damages, court costs, and reasonable attorneys’ fees related
+thereto) arising out of or resulting from use of the digital map layers and
+tabular data.

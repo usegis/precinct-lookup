@@ -473,6 +473,8 @@ describe('start', () => {
   const applyButton = () => document.querySelector<HTMLButtonElement>('button[type=submit]')!
   const resetButton = () => document.querySelector<HTMLButtonElement>('button[type=reset]')!
   const map = () => document.querySelector<HTMLElement>('#map')!
+  const countyData = () => document.querySelector<HTMLElement>('#county-data')!
+  const license = () => document.querySelector<HTMLElement>('#license')!
   const copy = () => document.querySelector<HTMLAnchorElement>('#copy')!
   const box = () => document.querySelector('input')!
   const retype = (text: string) => {
@@ -523,6 +525,34 @@ describe('start', () => {
     it('never sends the street or house number', () => {
       expect(JSON.stringify(fetchFile.mock.calls)).not.toMatch(/BAMBI|2501/i)
     })
+
+    it("links to the county's data disclaimer", () => {
+      expect(document.querySelector('#disclaimer')!.getAttribute('href')).toBe('counties/43/DISCLAIMER.txt')
+    })
+
+    it('shows the data links', () => {
+      expect(countyData().hidden).toBe(false)
+    })
+
+    it('offers no license for a county without its own', () => {
+      expect(license().hidden).toBe(true)
+    })
+  })
+
+  context("when the county's data has its own license", () => {
+    beforeEach(() => {
+      fetchFile.mockImplementation(async (url: string) => reply(
+        ({
+          'counties/index.json': { 55: { name: 'Tuolumne County', zipcodes: ['95370'] } },
+          'counties/55/streets/95370.json': { 'MAIN ST': [[1, 99, '55100101']] }
+        } as Record<string, unknown>)[url] ?? null))
+      typed = '1 Main St 95370'
+    })
+
+    it('links to it', () => {
+      expect(license().hidden).toBe(false)
+      expect(license().querySelector('a')!.getAttribute('href')).toBe('counties/55/LICENSE.txt')
+    })
   })
 
   context('when the visitor edits the address', () => {
@@ -571,6 +601,10 @@ describe('start', () => {
     it('puts the cursor back in the box', () => {
       expect(document.activeElement).toBe(document.querySelector('input'))
     })
+
+    it('hides the data links', () => {
+      expect(countyData().hidden).toBe(true)
+    })
   })
 
   context('when the address has no precinct', () => {
@@ -578,6 +612,10 @@ describe('start', () => {
 
     it('says so', () => {
       expect(result()).toBe("Sorry, that address isn't in the street ranges.")
+    })
+
+    it('shows no data links', () => {
+      expect(countyData().hidden).toBe(true)
     })
 
     it('leaves Apply enabled to try again', () => {

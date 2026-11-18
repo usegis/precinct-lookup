@@ -27,13 +27,17 @@
   <div id="map" role="img" hidden></div>
 </main>
 <footer>
-  <nav>
-    <a href="https://github.com/woodie/street-ranges#readme">code</a> |
-    <a href="https://github.com/woodie/street-ranges/blob/main/docs/SOURCES.md">data</a> |
-    <a href="https://github.com/woodie/street-ranges/issues/new">feedback</a> |
-    <a href="privacy.html">privacy</a>
+  <nav id="county-data" aria-label="County data" hidden>
+    Data: <span id="license" hidden><a href="#">license</a>, </span><a id="disclaimer" href="counties/DISCLAIMER.txt">disclaimer</a>
   </nav>
-  <p>© 2026 Netpress.com · code <a href="https://github.com/woodie/street-ranges/blob/main/LICENSE">MIT</a>, data <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+  <nav aria-label="Project">
+    Code: <a href="https://github.com/woodie/street-ranges#readme">source</a>,
+    <a href="https://github.com/woodie/street-ranges/blob/main/docs/SOURCES.md">data</a>,
+    <a href="https://github.com/woodie/street-ranges/issues/new">feedback</a>,
+    <a href="privacy.html">privacy</a>,
+    <a href="counties/DISCLAIMER.txt">disclaimer</a>
+  </nav>
+  <p>© 2026 Netpress.com · code <a href="https://github.com/woodie/street-ranges/blob/main/LICENSE">MIT</a>, data <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> unless noted</p>
 </footer>
 <script src="main.js"></script>
 <script>StreetRanges.start()</script>

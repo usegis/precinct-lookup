@@ -1,0 +1,22 @@
+DATA DISCLAIMER
+Butte County
+
+This project is independent and not endorsed by Butte County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Butte County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Butte County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-11-06
+https://services.arcgis.com/3t3QfTXFRFX44zo8/arcgis/rest/services/Election_Precincts_BCD/FeatureServer/0
+
+Addresses: Layer, 2024
+https://gisportal.buttecounty.net/arcgis/rest/services/Addresses_with_Supervisor/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

@@ -1,0 +1,23 @@
+DATA DISCLAIMER
+San Joaquin County
+
+This project is independent and not endorsed by San Joaquin County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." San Joaquin County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the San Joaquin County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-09-10
+https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Precincts_24G_JV/FeatureServer/16
+
+Addresses: Several layers
+From: SJC GIS
+https://sjmap.org/server/rest/services/Apps/DistrictViewerSvc/MapServer/1
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

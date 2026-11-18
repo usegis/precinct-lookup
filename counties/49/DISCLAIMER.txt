@@ -1,0 +1,26 @@
+DATA DISCLAIMER
+Sonoma County
+
+This project is independent and not endorsed by Sonoma County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Sonoma County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Sonoma County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+From: County of Sonoma GIS Central, County of Sonoma Clerk Recorder Assessor
+https://socogis.sonomacounty.ca.gov/map/rest/services/rovpublic/Precincts/FeatureServer/0
+
+Addresses: Live layer
+From: The Sonoma County Public Safety Consortium is the owner of this data; the
+County of Sonoma, ISD-GIS Central is the steward of this data. You must source
+attribution “County of Sonoma” when displaying this data (see “Use Limitations”
+below).
+https://socogis.sonomacounty.ca.gov/map/rest/services/BASEPublic/Addresses_Public/MapServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

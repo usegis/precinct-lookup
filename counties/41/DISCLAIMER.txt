@@ -1,0 +1,21 @@
+DATA DISCLAIMER
+San Mateo County
+
+This project is independent and not endorsed by San Mateo County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." San Mateo County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the San Mateo County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+https://gis.smcgov.org/maps25/rest/services/ACRE/ACRE_GIS/MapServer/0
+
+Addresses: Live layer
+https://gis.smcgov.org/maps25/rest/services/PLANNING/PLN_LAYERS_DMZ/MapServer/33
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

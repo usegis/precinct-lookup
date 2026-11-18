@@ -1,0 +1,24 @@
+DATA DISCLAIMER
+Ventura County
+
+This project is independent and not endorsed by Ventura County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Ventura County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Ventura County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+From: Ventura County Clerk-Recorders – Election Division, Ventura County
+Information Technology Services Department – GIS Division
+https://maps.ventura.org/arcgis/rest/services/DataDownloads/Political/MapServer/1
+
+Addresses: Live layer
+From: Ventura County Information Technology Services Department – GIS Division
+https://maps.ventura.org/arcgis/rest/services/DataDownloads/Address/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

@@ -1,0 +1,37 @@
+DATA DISCLAIMER
+Mono County
+
+This project is independent and not endorsed by Mono County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Mono County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Mono County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+From: County of Mono, CA
+IT Department / GIS Division
+PO Box 7657
+437 Old Mammoth Road, Suite 288
+Mammoth Lakes, CA 93546
+(760) 932-5500
+gis@mono.ca.gov
+http://gis.mono.ca.gov
+https://gis.mono.ca.gov/webgis/rest/services/OpenData/Districts/MapServer/22
+
+Addresses: Live layer
+From: County of Mono, CA
+IT Department / GIS Division
+PO Box 7657
+437 Old Mammoth Road, Suite 288
+Mammoth Lakes, CA 93546
+(760) 932-5500
+gis@mono.ca.gov
+http://gis.mono.ca.gov
+https://gis.mono.ca.gov/webgis/rest/services/OpenData/e911/MapServer/2
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

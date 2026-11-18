@@ -9,6 +9,8 @@ export type Env = Pick<typeof globalThis, 'document' | 'fetch'>
 
 // A link to a precinct, like 41-44007 or 07-RICH101: county and number.
 const LINK = /^(\d\d)-0*([0-9A-Z]+)$/i
+// Counties whose data has its own LICENSE.txt.
+const LICENSED = ['55']
 
 const NO_SHAPES: Shapes = { type: 'FeatureCollection', features: [] }
 const TILES = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}'
@@ -45,6 +47,9 @@ export function start ({ document, fetch }: Env = globalThis): void {
   const copyLabel = copy.querySelector('span')!
   const print = document.querySelector<HTMLAnchorElement>('#print')!
   const map = document.querySelector<HTMLElement>('#map')!
+  const countyData = document.querySelector<HTMLElement>('#county-data')!
+  const license = document.querySelector<HTMLElement>('#license')!
+  const disclaimer = document.querySelector<HTMLAnchorElement>('#disclaimer')!
   const window = document.defaultView!
   const { history, location, navigator } = window
   let applied = ''
@@ -75,8 +80,15 @@ export function start ({ document, fetch }: Env = globalThis): void {
   const clearHash = () => history.replaceState(null, '', location.pathname + location.search)
   const hideMap = () => {
     map.hidden = true
+    countyData.hidden = true
     copy.hidden = true
     print.hidden = true
+  }
+  const showCountyData = (county: string) => {
+    license.querySelector('a')!.href = `counties/${county}/LICENSE.txt`
+    license.hidden = !LICENSED.includes(county)
+    disclaimer.href = `counties/${county}/DISCLAIMER.txt`
+    countyData.hidden = false
   }
   const fit = () => {
     leaflet!.invalidateSize()
@@ -122,6 +134,7 @@ export function start ({ document, fetch }: Env = globalThis): void {
         }
         applied = input.value.trim()
         apply.disabled = true
+        showCountyData(answer.found.county)
         await showMap(answer.found, run)
       }
     } catch {

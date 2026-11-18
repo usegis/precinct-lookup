@@ -1,0 +1,23 @@
+DATA DISCLAIMER
+Trinity County
+
+This project is independent and not endorsed by Trinity County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Trinity County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Trinity County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Statewide Database, 6/26
+https://statewidedatabase.org/
+
+Addresses: Live layer
+From: Trinity County Planning Department
+Last edited: 2026-03-10
+https://services2.arcgis.com/32siQkg0O6da8zFF/arcgis/rest/services/Address_Locations/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

@@ -1,0 +1,23 @@
+DATA DISCLAIMER
+Glenn County
+
+This project is independent and not endorsed by Glenn County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Glenn County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Glenn County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-02-19
+https://services3.arcgis.com/GUHJKBhKMcD5JjTe/arcgis/rest/services/Precincts_2_19_26/FeatureServer/0
+
+Addresses: Parcels, 2023
+Last edited: 2023-11-21
+https://services3.arcgis.com/GUHJKBhKMcD5JjTe/arcgis/rest/services/Zoning_Finder/FeatureServer/0
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

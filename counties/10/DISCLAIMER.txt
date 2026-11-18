@@ -1,0 +1,30 @@
+DATA DISCLAIMER
+Fresno County
+
+This project is independent and not endorsed by Fresno County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Fresno County makes no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Fresno County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-11-13
+https://services3.arcgis.com/ibgDyuD2DLBge82s/arcgis/rest/services/ELECTIONS_PRECINCT_VW/FeatureServer/15
+
+Addresses: Live layer
+Last edited: 2026-11-13
+https://services3.arcgis.com/ibgDyuD2DLBge82s/arcgis/rest/services/REGIONAL_ADDRESS_VW/FeatureServer/1
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.
+
+FRESNO COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Addresses, ADDRESS
+
+CC0

@@ -1,0 +1,19 @@
+DATA DISCLAIMER
+Monterey County
+
+This project is independent and not endorsed by Monterey County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Monterey County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Monterey County Registrar of Voters.
+
+SOURCES
+
+Precinct map: File, 8/26
+https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/
+
+Street data: File, 8/26
+https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/

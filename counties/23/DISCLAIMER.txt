@@ -1,0 +1,21 @@
+DATA DISCLAIMER
+Mendocino County
+
+This project is independent and not endorsed by Mendocino County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Mendocino County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the Mendocino County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-09-29
+https://services5.arcgis.com/8y4r60VTvWj2wnDH/arcgis/rest/services/Voter_Precincts_2026_view/FeatureServer/0
+
+Addresses: On request, 11/26
+
+Gaps: Census TIGER address ranges and Statewide Database voters by block.

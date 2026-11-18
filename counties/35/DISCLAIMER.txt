@@ -1,0 +1,45 @@
+DATA DISCLAIMER
+San Benito County
+
+This project is independent and not endorsed by San Benito County.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." San Benito County makes no
+warranty regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through the San Benito County Registrar of Voters.
+
+SOURCES
+
+Precinct map: Live layer
+Last edited: 2026-08-18
+https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/San_Benito_County_Base_Precincts_2026/FeatureServer/2
+
+Street data: Live layer
+https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/ArcOnline_Addresses/FeatureServer/0
+
+SAN BENITO COUNTY'S OWN WORDS
+Copied exactly from each source.
+
+From: Precinct map, San_Benito_County_Base_Precincts_2026
+
+Although every reasonable effort has been made to assure the accuracy of this
+data, the County of San Benito makes no warranty, representation or guaranty as
+to the content, sequence, accuracy, timeliness or completeness of any of the
+data provided herein and explicitly disclaims any representations and
+warranties, including, without limitation, the implied warranties of
+merchantability and fitness for a particular purpose. The County of San Benito
+assumes no liability for any errors, omissions, or inaccuracies in the
+information provided regardless of how caused and assumes no liability for any
+decisions made or actions taken or not taken by the user of the data in reliance
+upon any information or data furnished hereunder.
+In using the digital map layers and tabular data, the user further agrees to
+indemnify, defend, and hold harmless the County of San Benito, its officers,
+agents and employees from any and all claims, liabilities and losses whatsoever
+(together with any expenses, damages, court costs, and reasonable attorneys’
+fees related thereto) arising out of or resulting from use of the digital map
+layers and tabular data.
+To assist the County in improving these maps and database, users are asked to
+submit plans or written analysis concerning errors and discrepancies. The County
+shall evaluate the data submitted and make changes as it deems necessary.
