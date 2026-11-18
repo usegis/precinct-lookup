@@ -60,7 +60,7 @@ Each address with its location, placed on the county's precinct map.
 | Stanislaus (558K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://services.arcgis.com/EeYBJFxLdUojipYa/arcgis/rest/services/Addresses_AGOL/FeatureServer/0) |
 | Sutter (99K) | [Live layer](https://services6.arcgis.com/rHMUPKWdiOvdGXkw/arcgis/rest/services/Elections_Precincts/FeatureServer/0) | [Live layer](https://services6.arcgis.com/rHMUPKWdiOvdGXkw/arcgis/rest/services/Address_Points/FeatureServer/0) |
 | Trinity (16K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://services2.arcgis.com/32siQkg0O6da8zFF/arcgis/rest/services/Address_Locations/FeatureServer/0) |
-| Tulare (485K) | [SWDB, 11/24](https://statewidedatabase.org/) | [Live layer](https://services2.arcgis.com/bYBANhmQGwSSLC0l/ArcGIS/rest/services/SiteStructureAddressPoints/FeatureServer/0) |
+| Tulare (485K) | On request, 10/26 | [Live layer](https://services2.arcgis.com/bYBANhmQGwSSLC0l/ArcGIS/rest/services/SiteStructureAddressPoints/FeatureServer/0) |
 | Ventura (831K) | [Live layer](https://maps.ventura.org/arcgis/rest/services/DataDownloads/Political/MapServer/1) | [Live layer](https://maps.ventura.org/arcgis/rest/services/DataDownloads/Address/FeatureServer/0) |
 | Yolo (224K) | [Live layer](https://gis.yolocounty.gov/ext/rest/services/Public/Elections___Public/FeatureServer/3) | [Live layer](https://gis.yolocounty.gov/ext/rest/services/Public/Addresses/FeatureServer/0) |
 | Yuba (89K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://gis.yuba.org/arcgis/rest/services/Addressing/Addressing_public/FeatureServer/0) |
