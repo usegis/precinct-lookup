@@ -1,8 +1,9 @@
 # GIS data by county
 
-What each California county publishes for a precinct lookup, and what the street ranges here are built
-from. Linked sources are public, and "on request" means the county sent it when asked. The page is
-generated from the build. [Sources](SOURCES.md) explains the approach.
+Every California county publishes its precincts directly or indirectly (after each election) through
+the Statewide Database (SWDB). Most counties publish current precincts and addresses themselves, nearly all as
+live ArcGIS layers or downloadable files. Each county's sources are below, grouped by how its street
+ranges are built. [Sources](SOURCES.md) explains the approach.
 
 ## Street data
 
