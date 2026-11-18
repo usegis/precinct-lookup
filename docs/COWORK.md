@@ -6,9 +6,13 @@ these notes cover only what it does today: how `counties/` is filled and how the
 published. `README.md` has the format; `docs/SOURCES.md` says what each county gives us, the approach and its privacy advantages; keep it current,
 praising counties that share well and inviting the rest, never framing one as falling short.
 
-## Where things stand (2026-11-13)
+## Where things stand (2026-11-17)
 
-- All 58 counties are live, since 2026-11-13.
+- All 58 counties are live, since 2026-11-13; the whole of `counties/` was refreshed on 2026-11-17 (street initials and
+  county street-type abbreviations kept, Lassen's rural ranges, Trinity, Butte).
+- The page reads a typed `716-498` as one house number (716498), never a range, and county abbreviations such as `WY`
+  and `TERR` as `WAY` and `TER`, the same as the build.
+- Woodie to republish the npm package: aliases, hyphenated house numbers and the abbreviations aren't on npm yet.
 - The page is on GitHub Pages with the custom domain precinct.netpress.com (a CNAME at Network
   Solutions); woodie.github.io/street-ranges/ redirects there.
 - Open: confirm Esri's terms allow its basemap tiles on a public page without an API key.
