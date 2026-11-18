@@ -194,6 +194,22 @@ describe('parseAddress', () => {
     })
   })
 
+  context('with a hyphen in the house number', () => {
+    beforeEach(() => { text = '716-498 Hyatt Ln, Janesville, CA 96114' })
+
+    it('reads one number, not a range', () => {
+      expect(address?.number).toBe(716498)
+    })
+  })
+
+  context('with a short part after the hyphen', () => {
+    beforeEach(() => { text = '651-25 Foothill Rd 96114' })
+
+    it('pads it to three digits', () => {
+      expect(address?.number).toBe(651025)
+    })
+  })
+
   context('without a zip code', () => {
     beforeEach(() => { text = '238 Oconnor St' })
 

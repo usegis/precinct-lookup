@@ -68,6 +68,11 @@ export function normalizeStreet (street: string): string {
   return words.join(' ').replace(/^COUNTY RD\b/, 'CO RD').replace(/^ALAMEDA DE LAS PULGAS$/, 'ALAMEDA')
 }
 
+// One address, never a range: Lassen's 716-498 is 716498, and 651-25 is 651025.
+function houseNumber (first: string, after?: string): number {
+  return parseInt(after ? first + after.padStart(3, '0') : first, 10)
+}
+
 export function parseAddress (text: string): Address | null {
   let rest = text.toUpperCase().replace(/\s+/g, ' ').trim()
   const zipMatch = rest.match(/\b(\d{5})(-\d{4})?$/)
@@ -75,8 +80,8 @@ export function parseAddress (text: string): Address | null {
   rest = rest.replace(/,?\s*(CA|CALIFORNIA)$/, '').trim()
   // A place name first, as Google Maps copies it ("Modoc Medical Center, 1111 N Nagle St"), is skipped.
   const part = rest.split(',').map((piece) => piece.trim()).find((piece) => /^\d/.test(piece)) ?? ''
-  const match = part.match(/^(\d+)\S*\s+(.+)$/)
-  return match && { number: parseInt(match[1], 10), street: normalizeStreet(match[2]), zip: zipMatch && zipMatch[1] }
+  const match = part.match(/^(\d+)(?:-(\d+))?\S*\s+(.+)$/)
+  return match && { number: houseNumber(match[1], match[2]), street: normalizeStreet(match[3]), zip: zipMatch && zipMatch[1] }
 }
 
 // Exact, or missing its N/S/E/W; then a known street followed by a city; then missing its St/Ave.
