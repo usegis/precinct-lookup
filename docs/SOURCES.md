@@ -43,7 +43,7 @@ sources stand in for it:
   and Mono. Contra Costa and Plumas post a file, and Mendocino emailed one on request. San Joaquin
   publishes points for its unincorporated areas, and the City of Bakersfield its own, which
   cover most of Kern's homes. Santa
-  Clara's and Butte's points are from 2020 and Tehama's from 2021, so newer homes come from
+  Clara's points are from 2020 and Tehama's from 2021, so newer homes come from
   parcels or TIGER.
 - **Parcels:** some smaller counties publish parcels with a site address, which already go a
   long way. The middle of each parcel stands in for the address, and is placed on the

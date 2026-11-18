@@ -55,7 +55,8 @@ const LAST_WORDS: Record<string, string> = {
   HILL: 'HL',
   SQUARE: 'SQ',
   CROSSING: 'XING',
-  LP: 'LOOP'
+  LP: 'LOOP',
+  TERR: 'TER'
 }
 
 const UNIT = /\s+(?:(?:APT|UNIT|STE|SUITE|SPC|OFC|BLDG|RM|FL|LOT|TRLR|LOWR|UPPR|REAR|FRNT|BSMT|PH)\b|#).*$/
