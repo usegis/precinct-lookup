@@ -1,0 +1,13 @@
+DATA DISCLAIMER
+California counties
+
+This project is independent and not endorsed by any California county.
+
+Errors and omissions may occur in this data, and it may not be accurate,
+complete, or up to date. It is provided "as is." Counties make no warranty
+regarding the accuracy or completeness of the information.
+
+Any precinct, address, or election information should be independently verified
+through your county Registrar of Voters.
+
+Each county's folder has a DISCLAIMER.txt with its sources and its own words.
