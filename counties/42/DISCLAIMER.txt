@@ -1,39 +1,8 @@
-DATA DISCLAIMER
-Santa Barbara County
-
-This project is independent and not endorsed by Santa Barbara County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Santa Barbara County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Santa Barbara County Registrar of Voters.
-
-SOURCES
-
-Precinct map: File, 10/26
-https://www.countyofsb.org/acr-elections-maps
-
-Addresses: Live layer
-From: Regional Fire Communication Center (RFCC) and Santa Barbara County Fire
-Department
-Last edited: 2026-11-06
-https://services.arcgis.com/KkJhFbLnXVqahKz2/arcgis/rest/services/Address_Points/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-SANTA BARBARA COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Addresses, Address Points
-
+DATA
 County of Santa Barbara does not assume liability for any damages caused by any
 errors or omissions in the data, nor as a result of improper use of the dataset.
 No representations, express or implied are made, as to the accuracy of the
 information, maps or data contained herein.
-
-From: RegPrecincts_202610 shapefile metadata
 
 This service has been provided to allow access of County
 Clerk-Recorder-Assessor-Elections public information. Every reasonable effort
@@ -57,3 +26,9 @@ assume liability for any damages caused by any errors or omissions in the data,
 nor as a result of improper use of the dataset. The dataset is for
 representational purposes only and is not intended to obtain coordinate values,
 distances or bearings.
+
+SOURCES
+Precinct map is an October 2026 snapshot provided by Santa Barbara County.
+Address file is a live layer published by Santa Barbara County, last edited
+November 2026. Census TIGER address ranges and Statewide Database voters by
+block. https://github.com/woodie/street-ranges#sources

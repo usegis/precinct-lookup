@@ -1,36 +1,4 @@
-DATA DISCLAIMER
-Nevada County
-
-This project is independent and not endorsed by Nevada County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Nevada County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Nevada County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-From: Nevada County GIS
-Last edited: 2026-08-24
-https://services1.arcgis.com/UvqJJ6GFv4u5BZQj/arcgis/rest/services/Voter_Precincts_PUBLIC/FeatureServer/0
-
-Addresses: Parcels, 2026
-From: Nevada County GIS
-https://maps.nevadacountyca.gov/arcgis/rest/services/web_public/Open_Data_Layers_Nevada_County/FeatureServer/100
-
-Road centerlines: Road Centerlines
-https://maps.nevadacountyca.gov/arcgis/rest/services/web_public/Open_Data_Layers_Nevada_County/FeatureServer/1200
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-NEVADA COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, Voter Precincts
-
+DATA
 PUBLIC USE
 Every reasonable effort has been made to assure the accuracy of the maps and
 data provided; nevertheless, some information may not be accurate. The County of
@@ -40,3 +8,10 @@ or implied, including but not limited to, the implied warranties of
 merchantability and fitness for a particular purpose. Before making decisions
 using the information provided on this map, contact the Nevada County Public
 Counter staff to confirm the validity of the data provided.
+
+SOURCES
+Precinct map is a live layer published by Nevada County, last edited August
+2026. Address file is a 2026 snapshot of parcels published by Nevada County.
+Road centerlines are a live layer published by Nevada County. Census TIGER
+address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

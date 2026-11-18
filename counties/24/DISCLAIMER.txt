@@ -1,30 +1,12 @@
-DATA DISCLAIMER
-Merced County
-
-This project is independent and not endorsed by Merced County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Merced County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Merced County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Merced County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Merced County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Merced County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-From: Merced County Office Of Elections
-Barbara J. Levey
-2222 M St.
-Room 14
-Merced, CA 95340
-Phone: (209) 385-7541
-Fax: (209) 385-7387
-GIS Team
-https://gis.countyofmerced.com/server/rest/services/Hosted/Precincts_2026/FeatureServer/0
-
-Addresses: Live layer
-From: dm4
-https://gis.countyofmerced.com/server/rest/services/Site_Address_Points/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by Merced County. Address file is a live
+layer published by Merced County. Census TIGER address ranges and Statewide
+Database voters by block. https://github.com/woodie/street-ranges#sources

@@ -1,24 +1,13 @@
-DATA DISCLAIMER
-Orange County
-
-This project is independent and not endorsed by Orange County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Orange County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Orange County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Orange County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Orange County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Orange County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: File, 8/26
-https://ocvote.gov/maps
-
-Addresses: Live layer
-From: OCFA GIS, Contact: Mike Vuong: GIS Supervisor, Orange County Fire
-Authority 714-573-6447
-Last edited: 2026-08-19
-https://services7.arcgis.com/vhU7TaevMOAtV9Qd/arcgis/rest/services/OC_Addresses_20260811/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is an August 2026 snapshot provided by Orange County. Address file
+is a live layer published by Orange County, last edited August 2026. Census
+TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

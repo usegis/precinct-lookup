@@ -1,38 +1,4 @@
-DATA DISCLAIMER
-Kern County
-
-This project is independent and not endorsed by Kern County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Kern County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Kern County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-From: County of Kern - Elections Department
-Last edited: 2026-09-11
-https://services5.arcgis.com/Y8jwjGUWbRjuqpG5/arcgis/rest/services/Precinct_Boundaries_gdb/FeatureServer/0
-
-Addresses: Several layers
-From: City of Bakersfield Planning Department. For questions contact the
-Planning dept.
-https://gis.bakersfieldcity.us/webmaps/rest/services/General/Addresses/MapServer/0
-
-Road centerlines: Centerline_Roads
-Last edited: 2026-09-11
-https://services5.arcgis.com/Y8jwjGUWbRjuqpG5/arcgis/rest/services/Centerline_Roads/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-KERN COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, Precinct_Boundaries and Road centerlines, Centerline_Roads
-
+DATA
 SUMMARY:
 This disclaimer statement requires the data recipient to receive the data "as
 is" with no warranty, and to hold all data providers not liable for any losses
@@ -88,3 +54,10 @@ incurred by the Recipient or any other person, relating to or arising out of the
 subject matter of this agreement, or which may be alleged to have been caused,
 either directly or indirectly, by the acts, conduct, omissions, negligence or
 lack of good faith of the Data Providers, their officers, agents or employees.
+
+SOURCES
+Precinct map is a live layer published by Kern County, last edited September
+2026. Address file is pieced together from public layers in Kern County. Road
+centerlines are a live layer published by Kern County, last edited September
+2026. Census TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

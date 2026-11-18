@@ -1,23 +1,13 @@
-DATA DISCLAIMER
-Riverside County
-
-This project is independent and not endorsed by Riverside County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Riverside County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Riverside County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Riverside County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Riverside County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Riverside County
+Registrar of Voters.
 
 SOURCES
-
-Precinct map: Layer, 6/26
-Last edited: 2026-03-20
-https://services1.arcgis.com/pWmBUdSlVpXStHU6/arcgis/rest/services/Regular_Precincts_from_Feb_2/FeatureServer/0
-
-Addresses: Live layer
-From: RCIT, Sheriff, USPS, Assessor
-https://gis.countyofriverside.us/arcgis_mapping/rest/services/OpenData/General/MapServer/10
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a June 2026 snapshot published by Riverside County. Address file
+is a live layer published by Riverside County. Census TIGER address ranges and
+Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

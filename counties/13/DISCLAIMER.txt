@@ -1,24 +1,13 @@
-DATA DISCLAIMER
-Imperial County
-
-This project is independent and not endorsed by Imperial County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Imperial County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Imperial County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Imperial County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Imperial County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Imperial County
+Registrar of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-From: Esri
-Last edited: 2026-10-06
-https://services7.arcgis.com/RomaVqqozKczDNgd/arcgis/rest/services/ElectionGeography_public_15dd531d79d148a29be12ba72c150cc2/FeatureServer/1
-
-Addresses: Parcels, 2023
-Last edited: 2024-10-04
-https://services7.arcgis.com/RomaVqqozKczDNgd/arcgis/rest/services/Parcels_Oct_2023/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by Imperial County, last edited October
+2026. Address file is a 2023 snapshot of parcels published by Imperial County.
+Census TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

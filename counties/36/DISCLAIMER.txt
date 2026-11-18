@@ -1,31 +1,4 @@
-DATA DISCLAIMER
-San Bernardino County
-
-This project is independent and not endorsed by San Bernardino County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." San Bernardino County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the San Bernardino County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-Last edited: 2026-09-10
-https://services.arcgis.com/aA3snZwJfFkVyDuP/ArcGIS/rest/services/ROV_Precincts/FeatureServer/0
-
-Addresses: Live layer
-https://maps.sbcounty.gov/gis/rest/services/AddressDataManagement/SBC_Site_Addresses/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-SAN BERNARDINO COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, ROV.precincts
-
+DATA
 Every reasonable effort has been made to ensure the accuracy of this data at the
 time of initial publication. AI may have been used to generate these datasets.
 San Bernardino County makes no warranty, representation or guaranty of the
@@ -35,3 +8,9 @@ for any reason. San Bernardino County shall not be held liable for any errors,
 omissions, or inaccuracies in the information provided regardless of how caused.
 San Bernardino County shall assume no liability for any decisions made or
 actions taken or not taken by the data furnished. (Rev. 09/02/26)
+
+SOURCES
+Precinct map is a live layer published by San Bernardino County, last edited
+September 2026. Address file is a live layer published by San Bernardino County.
+Census TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

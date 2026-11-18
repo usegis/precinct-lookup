@@ -1,35 +1,4 @@
-DATA DISCLAIMER
-Marin County
-
-This project is independent and not endorsed by Marin County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Marin County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Marin County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-From: County of Marin, Marin IST, Elections Department
-Last edited: 2026-09-04
-https://services6.arcgis.com/T8eS7sop5hLmgRRH/arcgis/rest/services/Subprecincts/FeatureServer/7
-
-Addresses: Live layer
-From: Marin County Community Development Agency, City Planning and Public Works
-Departments
-Last edited: 2026-11-18
-https://services6.arcgis.com/T8eS7sop5hLmgRRH/arcgis/rest/services/SITUS_ADDRESS_POINT/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-MARIN COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, SUBPRECINCT
-
+DATA
 'County of Marin makes no representation or warranties, express or implied, with
 respect to the use or reuse of the data provided herewith, regardless of its
 format or the means of its transmission. THE DATA IS PROVIDED 'AS IS' WITH NO
@@ -43,6 +12,10 @@ been advised of the possibility of such potential loss or damage. This data may
 not be used in states that do not allow the exclusion or limitation of
 incidental or consequential damages.'
 
-From: Addresses, SITUS_ADDRESS_POINT
-
 These data are representational only. Data are not survey precise.
+
+SOURCES
+Precinct map is a live layer published by Marin County, last edited September
+2026. Address file is a live layer published by Marin County, last edited
+November 2026. Census TIGER address ranges and Statewide Database voters by
+block. https://github.com/woodie/street-ranges#sources

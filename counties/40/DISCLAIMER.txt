@@ -1,23 +1,13 @@
-DATA DISCLAIMER
-San Luis Obispo County
-
-This project is independent and not endorsed by San Luis Obispo County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." San Luis Obispo County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the San Luis Obispo County Registrar of Voters.
+DATA
+This project is independent and not endorsed by San Luis Obispo County. Errors
+and omissions may occur in this data, and it may not be accurate, complete, or
+up to date. It is provided "as is." San Luis Obispo County makes no warranty
+regarding the accuracy or completeness of the information. Any precinct,
+address, or election information should be independently verified through the
+San Luis Obispo County Registrar of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-From: County of San Luis Obispo - gis@co.slo.ca.us
-https://gis.slocounty.ca.gov/arcgis/rest/services/Public/opendata/MapServer/94
-
-Addresses: Live layer
-From: County of San Luis Obispo - gis@co.slo.ca.us
-https://gis.slocounty.ca.gov/arcgis/rest/services/Public/opendata/MapServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by San Luis Obispo County. Address file
+is a live layer published by San Luis Obispo County. Census TIGER address ranges
+and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

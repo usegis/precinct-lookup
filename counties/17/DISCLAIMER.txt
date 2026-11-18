@@ -1,31 +1,4 @@
-DATA DISCLAIMER
-Lake County
-
-This project is independent and not endorsed by Lake County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Lake County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Lake County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Statewide Database, 11/24
-https://statewidedatabase.org/
-
-Addresses: Parcels, 2026
-From: Lake County I.T. Dept.
-https://gis.lakecountyca.gov/server/rest/services/Parcels/MapServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-LAKE COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Addresses, Parcels
-
+DATA
 This data was developed as a Planning Division tool for general information
 purposes only. It is an attempt to create a seamless county-wide layer for land
 use planning purposes. The tax parcel boundaries shown do not necessarily
@@ -36,3 +9,9 @@ in single site determinations. Lake County does not warrant the accuracy of this
 information, and no decision involving risk of economic loss or physical injury
 should be made in reliance thereon. To accurately locate your parcel boundaries,
 contact a licensed surveyor.
+
+SOURCES
+Precinct map is a November 2024 snapshot from the Statewide Database. Address
+file is a 2026 snapshot of parcels published by Lake County. Census TIGER
+address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

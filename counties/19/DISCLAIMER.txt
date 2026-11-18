@@ -1,42 +1,4 @@
-DATA DISCLAIMER
-Los Angeles County
-
-This project is independent and not endorsed by Los Angeles County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Los Angeles County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Los Angeles County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-From: L A County Registrar-Recorder/County Clerk
-Contact: Fady Toma, FToma@rrcc.lacounty.gov
-562-462-2358
-Last edited: 2026-11-13
-https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/Registrar_Recorder_Precincts/FeatureServer/0
-
-Addresses: Live layer
-From: Enterprise Geographic Information Systems (eGIS) Section
-County of Los Angeles | Internal Services Department
-For inquiries or to request eGIS support, please contact: egis@isd.lacounty.gov
-- This email account is monitored 24/7. (Responses, based on the nature of the
-inquiry, may be provided on the following business day.)
-Helpful website resources: Public GIS Site | Internal GIS Site | Internal
-SharePoint
-Last edited: 2026-11-16
-https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/eGIS_Addressing_ADDRESS_POINTSv2/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-LOS ANGELES COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, Registrar Recorder Precincts
-
+DATA
 Data herein is for informational purposes and may not have been prepared for or
 be suitable for legal, engineering, or surveying intents. The County of Los
 Angeles reserves the right to change, restrict or discontinue access at any
@@ -45,8 +7,6 @@ https://lacounty.maps.arcgis.com or deriving from any LA County REST URLs, agree
 to the following Terms of Use as outlined on the LA County GIS Data Portal (
 https://egis-lacounty.hub.arcgis.com/pages/terms-of-use/ ).
 
-From: Addresses, CAMS_ADDRESS_POINTS
-
 The data herein is for informational purposes, and may not have been prepared
 for or be suitable for legal, engineering, or surveying intents. The County of
 Los Angeles reserves the right to change, restrict, or discontinue access at any
@@ -54,3 +14,9 @@ time. All users of the maps and data presented on
 https://lacounty.maps.arcgis.com or deriving from any LA County REST URLs agree
 to the "Terms of Use" outlined on the County of LA Enterprise GIS (eGIS) Hub (
 https://egis-lacounty.hub.arcgis.com/pages/terms-of-use ).
+
+SOURCES
+Precinct map is a live layer published by Los Angeles County, last edited
+November 2026. Address file is a live layer published by Los Angeles County,
+last edited November 2026. Census TIGER address ranges and Statewide Database
+voters by block. https://github.com/woodie/street-ranges#sources

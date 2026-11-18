@@ -1,21 +1,12 @@
-DATA DISCLAIMER
-Madera County
-
-This project is independent and not endorsed by Madera County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Madera County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Madera County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Madera County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Madera County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Madera County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-https://gis.maderacounty.com/server/rest/services/Election_Information/Election/FeatureServer/6
-
-Addresses: Live layer
-https://gis.maderacounty.com/server/rest/services/Election_Information/Election/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by Madera County. Address file is a live
+layer published by Madera County. Census TIGER address ranges and Statewide
+Database voters by block. https://github.com/woodie/street-ranges#sources

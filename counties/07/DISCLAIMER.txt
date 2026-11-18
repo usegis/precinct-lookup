@@ -1,32 +1,4 @@
-DATA DISCLAIMER
-Contra Costa County
-
-This project is independent and not endorsed by Contra Costa County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Contra Costa County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Contra Costa County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-Last edited: 2026-07-15
-https://services3.arcgis.com/42Dx6OWonqK9LoEE/arcgis/rest/services/Precinct_Boundary/FeatureServer/0
-
-Addresses: File, 10/25
-https://gis.cccounty.us/Downloads/General%20County%20Data/CCC_DOIT_AddressData.zip
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-CONTRA COSTA COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Data Disclaimer.pdf, April 11, 2024, in the county's
-CCC_DOIT_AddressData.zip
-
+DATA
 CONTRA COSTA COUNTY
 DISCLAIMER OF LIABILITY AND WARRANTIES
 User understands and agrees that it is quite possible that errors and omissions
@@ -58,4 +30,8 @@ User agrees that it will, irrespective of any alleged liability, claim, loss,
 injury, damage or expense continue to pay all charges in the amounts stated
 herein until this agreement is properly terminated in accordance with its terms.
 
-The county's original file is beside this one: Data Disclaimer.pdf
+SOURCES
+Precinct map is a live layer published by Contra Costa County, last edited July
+2026. Address file is an October 2025 snapshot provided by Contra Costa County.
+Census TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

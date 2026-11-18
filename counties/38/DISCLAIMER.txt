@@ -1,19 +1,12 @@
-DATA DISCLAIMER
-San Francisco County
-
-This project is independent and not endorsed by San Francisco County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." San Francisco County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the San Francisco Department of Elections.
+DATA
+This project is independent and not endorsed by San Francisco County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." San Francisco County makes no warranty regarding
+the accuracy or completeness of the information. Any precinct, address, or
+election information should be independently verified through the San Francisco
+Department of Elections.
 
 SOURCES
-
-Precinct map: File, 12/25
-https://sfelections.org/tools/election_data/datasets.php
-
-Street data: File, 10/26
-https://sfelections.org/tools/election_data/datasets.php
+Precinct map is a December 2025 snapshot provided by San Francisco County.
+Street file is an October 2026 snapshot provided by San Francisco County.
+https://github.com/woodie/street-ranges#sources

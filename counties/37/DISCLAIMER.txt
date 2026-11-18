@@ -1,26 +1,13 @@
-DATA DISCLAIMER
-San Diego County
-
-This project is independent and not endorsed by San Diego County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." San Diego County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the San Diego County Registrar of Voters.
+DATA
+This project is independent and not endorsed by San Diego County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." San Diego County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the San Diego County
+Registrar of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-From: County of San Diego Registrar of Voters
-Last edited: 2026-08-10
-https://geo.sandag.org/server/rest/services/Hosted/Voter_Home_Precinct_2026_08_03/FeatureServer/0
-
-Addresses: Live layer
-From: SanGIS using legal recorded data provided by the County Assessors Office
-and addressing authorities from the 18 incorporated cities in the County.
-Last edited: 2026-11-03
-https://geo.sandag.org/server/rest/services/Hosted/Address_Points/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by San Diego County, last edited August
+2026. Address file is a live layer published by San Diego County, last edited
+November 2026. Census TIGER address ranges and Statewide Database voters by
+block. https://github.com/woodie/street-ranges#sources

@@ -1,30 +1,4 @@
-DATA DISCLAIMER
-Humboldt County
-
-This project is independent and not endorsed by Humboldt County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Humboldt County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Humboldt County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Statewide Database, 6/26
-https://statewidedatabase.org/
-
-Addresses: Parcels, 2026
-https://humboldtgov.org/276/GIS-Data-Download
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-HUMBOLDT COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Parcels shapefile metadata (apnhum153sp)
-
+DATA
 To be used for planning purposes as general guide to parcel lines within
 Humboldt County. Should not be used for boundary delineation or project design.
 Humboldt County Planning and Building Department makes no guarantee of the
@@ -35,3 +9,9 @@ use, or misuse, of this data. While every effort has been made to assure the
 accuracy of this information, it should be understood that it does not have the
 force and effect of law, rule, or regulation. Should any difference or error
 occur, the law will take precedence.
+
+SOURCES
+Precinct map is a June 2026 snapshot from the Statewide Database. Address file
+is a 2026 snapshot of parcels published by Humboldt County. Census TIGER address
+ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

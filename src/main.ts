@@ -9,8 +9,6 @@ export type Env = Pick<typeof globalThis, 'document' | 'fetch'>
 
 // A link to a precinct, like 41-44007 or 07-RICH101: county and number.
 const LINK = /^(\d\d)-0*([0-9A-Z]+)$/i
-// Counties whose data has its own LICENSE.txt.
-const LICENSED = ['55']
 
 const NO_SHAPES: Shapes = { type: 'FeatureCollection', features: [] }
 const TILES = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}'
@@ -48,7 +46,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
   const print = document.querySelector<HTMLAnchorElement>('#print')!
   const map = document.querySelector<HTMLElement>('#map')!
   const countyData = document.querySelector<HTMLElement>('#county-data')!
-  const license = document.querySelector<HTMLElement>('#license')!
   const disclaimer = document.querySelector<HTMLAnchorElement>('#disclaimer')!
   const window = document.defaultView!
   const { history, location, navigator } = window
@@ -85,8 +82,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
     print.hidden = true
   }
   const showCountyData = (county: string) => {
-    license.querySelector('a')!.href = `counties/${county}/LICENSE.txt`
-    license.hidden = !LICENSED.includes(county)
     disclaimer.href = `counties/${county}/DISCLAIMER.txt`
     countyData.hidden = false
   }

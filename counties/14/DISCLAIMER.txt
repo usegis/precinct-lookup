@@ -1,19 +1,11 @@
-DATA DISCLAIMER
-Inyo County
-
-This project is independent and not endorsed by Inyo County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Inyo County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Inyo County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Inyo County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Inyo County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Inyo County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-https://gis.inyo.gov/server/rest/services/Election_Precincts/FeatureServer/1
-
-Street data: Live layer
-https://gis.inyo.gov/server/rest/services/AttributedAddresses/FeatureServer/0
+Precinct map is a live layer published by Inyo County. Street file is a live
+layer published by Inyo County. https://github.com/woodie/street-ranges#sources

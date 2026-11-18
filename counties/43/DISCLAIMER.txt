@@ -1,30 +1,4 @@
-DATA DISCLAIMER
-Santa Clara County
-
-This project is independent and not endorsed by Santa Clara County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Santa Clara County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Santa Clara County Registrar of Voters.
-
-SOURCES
-
-Precinct map: On request, 11/26
-
-Addresses: Layer, 2020 + parcels
-From: County of Santa Clara
-https://maps.santaclaracounty.gov/server/rest/services/opendata/SCCGISHUB/MapServer/8
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-SANTA CLARA COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Addresses, Address Point
-
+DATA
 A visual representation of addresses within Santa Clara County for FY2020. This
 dataset is a point feature class representing the geographic location of
 addresses in the County. THE GIS DATA IS PROVIDED "AS IS". THE COUNTY MAKES NO
@@ -38,3 +12,9 @@ THE GIS DATA IS DYNAMIC, IT WILL BY ITS NATURE BE INCONSISTENT WITH THE OFFICIAL
 COUNTY DATA. ANY USE OF COUNTY'S GIS DATA WITHOUT CONSULTING OFFICIAL PUBLIC
 RECORDS FOR VERIFICATION IS DONE EXCLUSIVELY AT THE RISK OF THE PARTY MAKING
 SUCH USE.
+
+SOURCES
+Precinct map is a November 2026 snapshot provided by Santa Clara County. Address
+file is a 2020 layer and current parcels published by Santa Clara County. Census
+TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

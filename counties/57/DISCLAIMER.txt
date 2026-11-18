@@ -1,23 +1,12 @@
-DATA DISCLAIMER
-Yolo County
-
-This project is independent and not endorsed by Yolo County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Yolo County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Yolo County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Yolo County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Yolo County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Yolo County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-https://gis.yolocounty.gov/ext/rest/services/Public/Elections___Public/FeatureServer/3
-
-Addresses: Live layer
-From: Yolo County GIS Cooperative. Includes City of West Sacramento, City of
-Woodland, City of Davis, City of Winters. Additional contributions by UC Davis.
-https://gis.yolocounty.gov/ext/rest/services/Public/Addresses/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by Yolo County. Address file is a live
+layer published by Yolo County. Census TIGER address ranges and Statewide
+Database voters by block. https://github.com/woodie/street-ranges#sources

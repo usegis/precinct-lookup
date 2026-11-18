@@ -1,22 +1,13 @@
-DATA DISCLAIMER
-Colusa County
-
-This project is independent and not endorsed by Colusa County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Colusa County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Colusa County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Colusa County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Colusa County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Colusa County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: Statewide Database, 6/26
-https://statewidedatabase.org/
-
-Addresses: Parcels, 2026
-Last edited: 2026-08-31
-https://services5.arcgis.com/RHVBVx0fVmUtvfJV/arcgis/rest/services/Colusa_County_Tax_Parcels/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a June 2026 snapshot from the Statewide Database. Address file
+is a 2026 snapshot of parcels published by Colusa County. Census TIGER address
+ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

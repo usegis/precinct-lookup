@@ -1,17 +1,12 @@
-DATA DISCLAIMER
-El Dorado County
-
-This project is independent and not endorsed by El Dorado County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." El Dorado County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the El Dorado County Registrar of Voters.
+DATA
+This project is independent and not endorsed by El Dorado County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." El Dorado County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the El Dorado County
+Registrar of Voters.
 
 SOURCES
-
-Precinct map: On request, 11/26
-
-Street data: On request, 11/26
+Precinct map is a November 2026 snapshot provided by El Dorado County. Street
+file is a November 2026 snapshot provided by El Dorado County.
+https://github.com/woodie/street-ranges#sources

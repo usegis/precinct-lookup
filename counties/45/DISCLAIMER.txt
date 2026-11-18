@@ -1,41 +1,12 @@
-DATA DISCLAIMER
-Shasta County
-
-This project is independent and not endorsed by Shasta County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Shasta County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Shasta County Registrar of Voters.
+DATA
+This project is independent and not endorsed by Shasta County. Errors and
+omissions may occur in this data, and it may not be accurate, complete, or up to
+date. It is provided "as is." Shasta County makes no warranty regarding the
+accuracy or completeness of the information. Any precinct, address, or election
+information should be independently verified through the Shasta County Registrar
+of Voters.
 
 SOURCES
-
-Precinct map: Live layer
-From: Sarah Murrietta
-Supervising Staff Services Analyst
-Shasta County Clerk & Elections Department
-Phone: 530-225-5376
-smurrietta@co.shasta.ca.us
-https://www.elections.co.shasta.ca.us/
-Shasta County GIS Department
-1450 Court Street, Suite 124
-Redding, CA 96001-1667
-(530) 225-5273
-https://gis.shastacounty.gov/arcgis/rest/services/Internet/November_2026_General_Election/FeatureServer/8
-
-Addresses: Live layer
-From: Shasta County Resource Management Department
-Contact Information:
-Kirk Kirkby
-1855 Placer Street
-Redding, CA 96001
-Phone: (530) 225-5789
-Phone within Shasta County: (800) 528-2850
-Office Hours:
-8:00 am – 5:00 pm
-Monday through Friday
-https://gis.shastacounty.gov/arcgis/rest/services/OpenData/Address_Points/FeatureServer/1
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
+Precinct map is a live layer published by Shasta County. Address file is a live
+layer published by Shasta County. Census TIGER address ranges and Statewide
+Database voters by block. https://github.com/woodie/street-ranges#sources

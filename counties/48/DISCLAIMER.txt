@@ -1,35 +1,4 @@
-DATA DISCLAIMER
-Solano County
-
-This project is independent and not endorsed by Solano County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Solano County makes no warranty
-regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Solano County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-From: This data is maintained by Solano County GIS.
-Last edited: 2026-11-11
-https://services8.arcgis.com/yZMpWjUY470LlO5I/arcgis/rest/services/current_election_precincts/FeatureServer/0
-
-Addresses: Live layer
-From: This data is maintained by Geographic Technologies Group under the
-guidance of Solano County.
-Last edited: 2026-11-09
-https://services2.arcgis.com/SCn6czzcqKAFwdGU/arcgis/rest/services/Address_Points/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-SOLANO COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, Election Precincts
-
+DATA
 Solano County Disclaimer: By using this data, the user acknowledges that it is
 possible that errors and omissions will occur in data input or programming done
 by the County or for the County to provide the GIS layers and/or other data in
@@ -51,8 +20,6 @@ Solano County disclaims liability for any loss that may result from the use of
 its data and user accepts any and all risks associated with using this data.
 User acknowledges data limitations and accepts responsibility for data-based
 judgments.
-
-From: Addresses, Address Points
 
 Use is intended for Solano County, Geographic Technologies Group, Cities of
 Solano County, and other parties.
@@ -78,3 +45,9 @@ used for situations requiring survey grade measurement. Solano County disclaims
 liability for any loss that may result from the use of its data and user accepts
 any and all risks associated with using this data. User acknowledges data
 limitations and accepts responsibility for data based judgments.
+
+SOURCES
+Precinct map is a live layer published by Solano County, last edited November
+2026. Address file is a live layer published by Solano County, last edited
+November 2026. Census TIGER address ranges and Statewide Database voters by
+block. https://github.com/woodie/street-ranges#sources

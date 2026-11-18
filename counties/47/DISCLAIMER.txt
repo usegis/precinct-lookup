@@ -1,35 +1,12 @@
-DATA DISCLAIMER
-Siskiyou County
-
-This project is independent and not endorsed by Siskiyou County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Siskiyou County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Siskiyou County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Statewide Database, 6/26
-https://statewidedatabase.org/
-
-Addresses: Live layer
-From: Siskiyou County GIS, Siskiyou County Community Development Department,
-Siskiyou County Communications, GeoComm
-Last edited: 2026-08-04
-https://services3.arcgis.com/JmPiYilyU1x5zuxM/arcgis/rest/services/Siskiyou_County_Public_Address_Points/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-SISKIYOU COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Addresses, CDD Address Points NG911
-
+DATA
 Features shown are compiled from many different sources and may not be,
 necessarily, current or reliable. The County of Siskiyou assumes no
 liability for the use of the data and makes no warranty, representation,
 or guaranty as to the content, accuracy, timeliness, suitability, or
 completeness of any of the spatial or database information provided.
+
+SOURCES
+Precinct map is a June 2026 snapshot from the Statewide Database. Address file
+is a live layer published by Siskiyou County, last edited August 2026. Census
+TIGER address ranges and Statewide Database voters by block.
+https://github.com/woodie/street-ranges#sources

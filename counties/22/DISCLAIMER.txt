@@ -1,34 +1,4 @@
-DATA DISCLAIMER
-Mariposa County
-
-This project is independent and not endorsed by Mariposa County.
-
-Errors and omissions may occur in this data, and it may not be accurate,
-complete, or up to date. It is provided "as is." Mariposa County makes no
-warranty regarding the accuracy or completeness of the information.
-
-Any precinct, address, or election information should be independently verified
-through the Mariposa County Registrar of Voters.
-
-SOURCES
-
-Precinct map: Live layer
-From: Mariposa County GIS
-Last edited: 2026-06-26
-https://services2.arcgis.com/wEula7SYiezXcdRv/arcgis/rest/services/Voting_Precincts_2021_public_view/FeatureServer/15
-
-Addresses: Live layer
-From: Mariposa County GIS | Esri | Mariposa Assessor's Office
-Last edited: 2026-11-05
-https://services2.arcgis.com/wEula7SYiezXcdRv/arcgis/rest/services/Mariposa_County_Current_Site_Addresses_and_Entrance_Points_view/FeatureServer/0
-
-Gaps: Census TIGER address ranges and Statewide Database voters by block.
-
-MARIPOSA COUNTY'S OWN WORDS
-Copied exactly from each source.
-
-From: Precinct map, Precincts_2021_Topology
-
+DATA
 Terms of Use
 By accessing and using the data provided through ArcGIS Online by Mariposa
 County, you agree to the following terms:
@@ -60,8 +30,6 @@ Acceptance : By using the data provided, you signify your acceptance of these
 terms. If you do not agree to these terms, please do not use the data provided.
 For questions or further information regarding these terms, please contact
 Mariposa County Planning Department.
-
-From: Addresses, Current_Site_Addresses_Projected
 
 Copyright 2023 Esri
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
@@ -103,3 +71,9 @@ Acceptance : By using the data provided, you signify your acceptance of these
 terms. If you do not agree to these terms, please do not use the data provided.
 For questions or further information regarding these terms, please contact
 Mariposa County Planning Department.
+
+SOURCES
+Precinct map is a live layer published by Mariposa County, last edited June
+2026. Address file is a live layer published by Mariposa County, last edited
+November 2026. Census TIGER address ranges and Statewide Database voters by
+block. https://github.com/woodie/street-ranges#sources
