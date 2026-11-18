@@ -12,7 +12,7 @@ Each address with the precinct the county assigns it: a direct mapping.
 | County | Street data | Precinct map |
 | --- | --- | --- |
 | El Dorado (192K) | On request, 11/26 | On request, 11/26 |
-| Inyo (18K) | [Live layer](https://gis.inyo.gov/server/rest/services/AttributedAddresses/FeatureServer/0) | [Live layer](https://gis.inyo.gov/server/rest/services/Election_Precincts/FeatureServer/1) |
+| Inyo (18K) | [Live layer](https://gis.inyo.gov/server/rest/services/AttributedAddresses/FeatureServer/0)† | [Live layer](https://gis.inyo.gov/server/rest/services/Election_Precincts/FeatureServer/1)† |
 | Monterey (434K) | [File, 8/26](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) | [File, 8/26](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) |
 | San Benito (70K) | [Live layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/ArcOnline_Addresses/FeatureServer/0) | [Live layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/San_Benito_County_Base_Precincts_2026/FeatureServer/2) |
 | San Francisco (826K) | [File, 10/26](https://sfelections.org/tools/election_data/datasets.php) | [File, 12/25](https://sfelections.org/tools/election_data/datasets.php) |
@@ -33,7 +33,7 @@ Each address with its location, placed on the county's precinct map.
 | Kern (927K) | [Live layer](https://services5.arcgis.com/Y8jwjGUWbRjuqpG5/arcgis/rest/services/Precinct_Boundaries_gdb/FeatureServer/0) | [Several layers](https://gis.bakersfieldcity.us/webmaps/rest/services/General/Addresses/MapServer/0) |
 | Kings (154K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://services3.arcgis.com/24gLq1DBBzDfd0cZ/arcgis/rest/services/Elections_Address/FeatureServer/0) |
 | Los Angeles (9.7M) | [Live layer](https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/Registrar_Recorder_Precincts/FeatureServer/0) | [Live layer](https://services.arcgis.com/RmCCgQtiZLDCtblq/ArcGIS/rest/services/eGIS_Addressing_ADDRESS_POINTSv2/FeatureServer/0) |
-| Madera (168K) | [Live layer](https://gis.maderacounty.com/server/rest/services/Election_Information/Election/FeatureServer/6) | [Live layer](https://gis.maderacounty.com/server/rest/services/Election_Information/Election/FeatureServer/0) |
+| Madera (168K) | [Live layer](https://gis.maderacounty.com/server/rest/services/Election_Information/Election/FeatureServer/6)† | [Live layer](https://gis.maderacounty.com/server/rest/services/Election_Information/Election/FeatureServer/0)† |
 | Marin (254K) | [Live layer](https://services6.arcgis.com/T8eS7sop5hLmgRRH/arcgis/rest/services/Subprecincts/FeatureServer/7) | [Live layer](https://services6.arcgis.com/T8eS7sop5hLmgRRH/arcgis/rest/services/SITUS_ADDRESS_POINT/FeatureServer/0) |
 | Mariposa (17K) | [Live layer](https://services2.arcgis.com/wEula7SYiezXcdRv/arcgis/rest/services/Voting_Precincts_2021_public_view/FeatureServer/15) | [Live layer](https://services2.arcgis.com/wEula7SYiezXcdRv/arcgis/rest/services/Mariposa_County_Current_Site_Addresses_and_Entrance_Points_view/FeatureServer/0) |
 | Mendocino (88K) | [Live layer](https://services5.arcgis.com/8y4r60VTvWj2wnDH/arcgis/rest/services/Voter_Precincts_2026_view/FeatureServer/0) | On request, 11/26 |
@@ -48,10 +48,10 @@ Each address with its location, placed on the county's precinct map.
 | San Bernardino (2.2M) | [Live layer](https://services.arcgis.com/aA3snZwJfFkVyDuP/ArcGIS/rest/services/ROV_Precincts/FeatureServer/0) | [Live layer](https://maps.sbcounty.gov/gis/rest/services/AddressDataManagement/SBC_Site_Addresses/FeatureServer/0) |
 | San Diego (3.3M) | [Live layer](https://geo.sandag.org/server/rest/services/Hosted/Voter_Home_Precinct_2026_08_03/FeatureServer/0) | [Live layer](https://geo.sandag.org/server/rest/services/Hosted/Address_Points/FeatureServer/0) |
 | San Joaquin (824K) | [Live layer](https://services2.arcgis.com/GQhSReJEO6f7tsvy/arcgis/rest/services/Precincts_24G_JV/FeatureServer/16) | [Several layers](https://sjmap.org/server/rest/services/Apps/DistrictViewerSvc/MapServer/1) |
-| San Luis Obispo (282K) | [Live layer](https://gis.slocounty.ca.gov/arcgis/rest/services/Public/opendata/MapServer/94) | [Live layer](https://gis.slocounty.ca.gov/arcgis/rest/services/Public/opendata/MapServer/0) |
+| San Luis Obispo (282K) | [Live layer](https://gis.slocounty.ca.gov/arcgis/rest/services/Public/opendata/MapServer/94)† | [Live layer](https://gis.slocounty.ca.gov/arcgis/rest/services/Public/opendata/MapServer/0)† |
 | San Mateo (744K) | [Live layer](https://gis.smcgov.org/maps25/rest/services/ACRE/ACRE_GIS/MapServer/0) | [Live layer](https://gis.smcgov.org/maps25/rest/services/PLANNING/PLN_LAYERS_DMZ/MapServer/33) |
 | Santa Barbara (442K) | [File, 10/26](https://www.countyofsb.org/acr-elections-maps) | [Live layer](https://services.arcgis.com/KkJhFbLnXVqahKz2/arcgis/rest/services/Address_Points/FeatureServer/0) |
-| Santa Clara (1.9M) | On request, 11/26 | [Layer, 2020 + parcels](https://maps.santaclaracounty.gov/server/rest/services/opendata/SCCGISHUB/MapServer/8) |
+| Santa Clara (1.9M) | On request, 11/26 | [Layer, 2020 + parcels](https://maps.santaclaracounty.gov/server/rest/services/opendata/SCCGISHUB/MapServer/8)† |
 | Santa Cruz (259K) | [Live layer](https://services1.arcgis.com/jJfZghspGKh8J9Jm/arcgis/rest/services/Precincts/FeatureServer/4) | [Live layer](https://services1.arcgis.com/jJfZghspGKh8J9Jm/arcgis/rest/services/Address_Point/FeatureServer/1) |
 | Shasta (182K) | [Live layer](https://gis.shastacounty.gov/arcgis/rest/services/Internet/November_2026_General_Election/FeatureServer/8) | [Live layer](https://gis.shastacounty.gov/arcgis/rest/services/OpenData/Address_Points/FeatureServer/1) |
 | Siskiyou (42K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://services3.arcgis.com/JmPiYilyU1x5zuxM/arcgis/rest/services/Siskiyou_County_Public_Address_Points/FeatureServer/0) |
@@ -91,4 +91,5 @@ No public addresses yet, so Census address ranges stand in.
 | Lassen (28K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Census TIGER](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) |
 | Modoc (8.4K) | [Live layer](https://services6.arcgis.com/MIuDOWgDqUpHjCEg/arcgis/rest/services/Voting_Precincts___10_14_25_WFL1/FeatureServer/13) | [Census TIGER](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) |
 
-\* Published by a third party, not an authoritative source.
+\* Published by a third party, not an authoritative source.\
+† Public GIS layer may reject web browsers.
