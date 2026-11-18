@@ -177,7 +177,7 @@ Tehama County Elections, 633 Washington Street, Red Bluff, CA 96080
 # Trinity: SWDB map, Live address points
 Trinity County Elections, 11 Court Street, Weaverville, CA 96093
 
-# Tulare: SWDB map, Live address points
+# Tulare: Map file by request, Live address points
 Tulare County Elections, 5300 West Tulare Avenue, Visalia, CA 93277
 
 # Tuolumne: SWDB map, Parcels
