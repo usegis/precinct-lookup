@@ -1,11 +1,12 @@
 # Sources
 
-What each county gives us, and what we do with it.
+Every California county publishes precinct data. This page describes how it is read and transformed into
+the street ranges and precinct outlines the lookup uses.
 
 ## The approach
 
 The lookup needs two simple, public things from each county: its addresses and its precinct
-boundaries. From them we build street ranges by zipcode (`[low, high, precinct]` on each side of
+boundaries. From them come street ranges by zipcode (`[low, high, precinct]` on each side of
 a street) and a precinct outline for the map. The
 [precinct-lookup](https://www.npmjs.com/package/precinct-lookup) package reads those files, making public precinct
 information easier to use, for any purpose; a county could use it to launch its own election lookup.
@@ -35,8 +36,8 @@ sources stand in for it:
 - **Street data:** the most accurate source, each address with the precinct the county itself
   assigns it. Ranges are just runs of house numbers in one precinct, with nothing to guess.
 - **Address points:** most counties publish each address with its location, but not its
-  precinct. We place each point on the precinct map, then join neighbors on one side of a
-  street into ranges, with TIGER filling the rest of each street. Where points are a few years
+  precinct. Each point is placed on the precinct map, and neighbors on one side of a street are
+  joined into ranges, with TIGER filling the rest of each street. Where points are a few years
   old, newer homes come from parcels or TIGER.
 - **Parcels:** some smaller counties publish parcels with a site address, which already go a
   long way. The middle of each parcel stands in for the address, and is placed on the
@@ -64,7 +65,7 @@ sources stand in for it:
 
 ## Checking the results
 
-For each county we measure the share of its own addresses the ranges answer. San
+For each county, the build measures the share of its own addresses the ranges answer. San
 Francisco's street data, ignored and then used as the answer key, measures the methods
 themselves; `npm run civic` tries every county's elections office and the largest counties'
 courthouses and jails; and [Public precinct data](PUBLIC_PRECINCT_DATA.md) explains why
@@ -112,6 +113,6 @@ Once a county keeps a current, public layer on whatever GIS system it already us
 precinct boundaries for the coming election, and its addresses, ideally with each one's
 precinct, as Inyo publishes), the street ranges here stay as current as the county's own data.
 The county can then publish its own tools on top of them, such as a lookup that shows each
-address's districts, at no cost and without depending on us.
+address's districts, at no cost and without depending on this project.
 [Your own county lookup](COUNTY_LOOKUP.md) shows how to set one up on a free host, such as
 GitHub Pages or the county's own website.
