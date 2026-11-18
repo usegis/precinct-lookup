@@ -45,8 +45,9 @@ file in each county. Which races a precinct votes in is left to whatever app use
 
 The goal is for each county to publish this itself, as San Francisco does; [Public precinct
 data](docs/PUBLIC_PRECINCT_DATA.md) explains what that takes. The MIT license covers the code; the data in `counties/` is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), crediting each county's sources ([Sources](docs/SOURCES.md)), unless a county's `DISCLAIMER.txt` lists its own license.
-Each source's data stays under that source's own terms. Each county's folder has a `DISCLAIMER.txt` with the county's own words, its sources
-and how current they are, and any license.
+Each source's data stays under that source's own terms, and Santa Clara County provides its GIS
+data as is, with official records to be consulted for verification. Each county's folder has a `DISCLAIMER.txt` with the
+county's own words, its sources and how current they are, and any license.
 
 ## How they're built
 
