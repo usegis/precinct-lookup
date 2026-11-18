@@ -15,6 +15,7 @@ Each address with the precinct the county assigns it: a direct mapping.
 | Monterey 434K | [File, 8/26](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) | [File, 8/26](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) |
 | San Benito 70K | [Live layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/ArcOnline_Addresses/FeatureServer/0) | [Live layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/San_Benito_County_Base_Precincts_2026/FeatureServer/2) |
 | San Francisco 826K | [File, 10/26](https://sfelections.org/tools/election_data/datasets.php) | [File, 12/25](https://sfelections.org/tools/election_data/datasets.php) |
+| Tehama 65K | [Layer, 9/25](https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/Tehama_Voter_Registration_Precincts_2025_UMWjJf/FeatureServer/0) | [Layer, 2025](https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/Precinct_Blocks_2025_By_Registered_Voters/FeatureServer/0) |
 
 ## Address points
 
@@ -57,7 +58,6 @@ Each address with its location, placed on the county's precinct map.
 | Sonoma 486K | [Live layer](https://socogis.sonomacounty.ca.gov/map/rest/services/rovpublic/Precincts/FeatureServer/0) | [Live layer](https://socogis.sonomacounty.ca.gov/map/rest/services/BASEPublic/Addresses_Public/MapServer/0) |
 | Stanislaus 558K | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://services.arcgis.com/EeYBJFxLdUojipYa/arcgis/rest/services/Addresses_AGOL/FeatureServer/0) |
 | Sutter 99K | [Live layer](https://services6.arcgis.com/rHMUPKWdiOvdGXkw/arcgis/rest/services/Elections_Precincts/FeatureServer/0) | [Live layer](https://services6.arcgis.com/rHMUPKWdiOvdGXkw/arcgis/rest/services/Address_Points/FeatureServer/0) |
-| Tehama 65K | [SWDB, 6/26](https://statewidedatabase.org/) | [Layer, 2021](https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/AddressPointsAGOL/FeatureServer/0) |
 | Trinity 16K | [SWDB, 6/26](https://statewidedatabase.org/) | [Live layer](https://services2.arcgis.com/32siQkg0O6da8zFF/arcgis/rest/services/Address_Locations/FeatureServer/0) |
 | Tulare 485K | [SWDB, 11/24](https://statewidedatabase.org/) | [Live layer](https://services2.arcgis.com/bYBANhmQGwSSLC0l/ArcGIS/rest/services/SiteStructureAddressPoints/FeatureServer/0) |
 | Ventura 831K | [Live layer](https://maps.ventura.org/arcgis/rest/services/DataDownloads/Political/MapServer/1) | [Live layer](https://maps.ventura.org/arcgis/rest/services/DataDownloads/Address/FeatureServer/0) |
