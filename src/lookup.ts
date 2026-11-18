@@ -56,7 +56,20 @@ const LAST_WORDS: Record<string, string> = {
   SQUARE: 'SQ',
   CROSSING: 'XING',
   LP: 'LOOP',
-  TERR: 'TER'
+  TERR: 'TER',
+  // County abbreviations, as Los Angeles writes WY for Way
+  WY: 'WAY',
+  BL: 'BLVD',
+  CI: 'CIR',
+  CR: 'CIR',
+  CM: 'CMN',
+  TL: 'TRL',
+  TE: 'TER',
+  WK: 'WALK',
+  AL: 'ALY',
+  GL: 'GLN',
+  PY: 'PKWY',
+  HY: 'HWY'
 }
 
 const UNIT = /\s+(?:(?:APT|UNIT|STE|SUITE|SPC|OFC|BLDG|RM|FL|LOT|TRLR|LOWR|UPPR|REAR|FRNT|BSMT|PH)\b|#).*$/

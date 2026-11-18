@@ -75,6 +75,14 @@ describe('normalizeStreet', () => {
     })
   })
 
+  context('when a county abbreviates the type its own way', () => {
+    beforeEach(() => { typed = 'Sunset Wy' })
+
+    it('uses the usual abbreviation', () => {
+      expect(street).toBe('SUNSET WAY')
+    })
+  })
+
   context('when the street type is one San Francisco abbreviates', () => {
     beforeEach(() => { typed = 'Clarion Alley' })
 
