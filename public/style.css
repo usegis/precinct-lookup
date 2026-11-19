@@ -28,6 +28,10 @@ button:disabled { opacity: .45; cursor: default; }
 a { color: var(--link); }
 footer { color: var(--muted); font-size: 15px; padding-top: 16px; padding-bottom: 32px; }
 footer p { margin: 8px 0 0; font-size: 13px; }
+/* One line when it fits; a bar that wraps to the start of a line is clipped away. */
+.links { display: flex; flex-wrap: wrap; margin-left: -.8em; clip-path: inset(0 0 0 .8em); }
+.links nav { position: relative; padding-left: .8em; }
+.links nav::before { content: "|"; position: absolute; left: .22em; }
 /* Printing a precinct: the Print pill sizes the map to the page (.printing) before the dialog opens, so its tiles are drawn at that size. */
 .printing main, .printing footer { max-width: 7.2in; padding: 0; }
 .printing #map { aspect-ratio: auto; height: 8in; border-radius: 0; }
