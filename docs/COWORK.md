@@ -15,7 +15,7 @@ praising counties that share well and inviting the rest, never framing one as fa
   number, like `1-49` or `1234-1236`, is its first number. County abbreviations such as `WY`
   and `TERR` as `WAY` and `TER`, the same as the build.
 - Tehama is built from its own street data (each address with its precinct) and 2025 precincts.
-- Woodie to publish `precinct-lookup` 0.2.0: aliases, hyphenated house numbers, highway names and the abbreviations aren't on npm yet.
+- `precinct-lookup` 0.2.0 is on npm (2026-11-18), with aliases, hyphenated house numbers, highway names and the abbreviations.
 - The page is on GitHub Pages with the custom domain precinct.netpress.com (a CNAME at Network
   Solutions); woodie.github.io/street-ranges/ redirects there.
 - Open: confirm Esri's terms allow its basemap tiles on a public page without an API key.

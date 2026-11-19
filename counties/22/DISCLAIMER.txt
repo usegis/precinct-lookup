@@ -1,4 +1,5 @@
 DATA
+
 Terms of Use
 By accessing and using the data provided through ArcGIS Online by Mariposa
 County, you agree to the following terms:
@@ -73,6 +74,7 @@ For questions or further information regarding these terms, please contact
 Mariposa County Planning Department.
 
 SOURCES
+
 Precinct map is a live layer published by Mariposa County, last edited June
 2026. Address file is a live layer published by Mariposa County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by

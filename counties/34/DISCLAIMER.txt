@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Sacramento County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Sacramento County makes no warranty regarding the
@@ -7,10 +8,12 @@ information should be independently verified through the Sacramento County
 Registrar of Voters.
 
 SOURCES
+
 Precinct map is a live layer published by Sacramento County, last edited August
 2026. Address file is a live layer published by Sacramento County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by
 block. https://github.com/woodie/street-ranges#sources
 
 LICENSE
+
 This work is licensed under a Creative Commons Public Domain Dedication License

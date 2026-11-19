@@ -1,4 +1,5 @@
 DATA
+
 Every reasonable effort has been made to ensure the accuracy of this data at the
 time of initial publication. AI may have been used to generate these datasets.
 San Bernardino County makes no warranty, representation or guaranty of the
@@ -10,6 +11,7 @@ San Bernardino County shall assume no liability for any decisions made or
 actions taken or not taken by the data furnished. (Rev. 09/02/26)
 
 SOURCES
+
 Precinct map is a live layer published by San Bernardino County, last edited
 September 2026. Address file is a live layer published by San Bernardino County.
 Census TIGER address ranges and Statewide Database voters by block.

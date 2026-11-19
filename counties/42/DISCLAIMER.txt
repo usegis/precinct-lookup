@@ -1,4 +1,5 @@
 DATA
+
 County of Santa Barbara does not assume liability for any damages caused by any
 errors or omissions in the data, nor as a result of improper use of the dataset.
 No representations, express or implied are made, as to the accuracy of the
@@ -28,6 +29,7 @@ representational purposes only and is not intended to obtain coordinate values,
 distances or bearings.
 
 SOURCES
+
 Precinct map is an October 2026 snapshot provided by Santa Barbara County.
 Address file is a live layer published by Santa Barbara County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by

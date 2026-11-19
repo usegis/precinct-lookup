@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Fresno County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Fresno County makes no warranty regarding the
@@ -7,10 +8,12 @@ information should be independently verified through the Fresno County Registrar
 of Voters.
 
 SOURCES
+
 Precinct map is a live layer published by Fresno County, last edited November
 2026. Address file is a live layer published by Fresno County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by
 block. https://github.com/woodie/street-ranges#sources
 
 LICENSE
+
 CC0

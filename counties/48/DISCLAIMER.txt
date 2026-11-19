@@ -1,4 +1,5 @@
 DATA
+
 Solano County Disclaimer: By using this data, the user acknowledges that it is
 possible that errors and omissions will occur in data input or programming done
 by the County or for the County to provide the GIS layers and/or other data in
@@ -47,6 +48,7 @@ any and all risks associated with using this data. User acknowledges data
 limitations and accepts responsibility for data based judgments.
 
 SOURCES
+
 Precinct map is a live layer published by Solano County, last edited November
 2026. Address file is a live layer published by Solano County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by

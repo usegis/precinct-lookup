@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Del Norte County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Del Norte County makes no warranty regarding the
@@ -7,6 +8,7 @@ information should be independently verified through the Del Norte County
 Registrar of Voters.
 
 SOURCES
+
 Precinct map is a live layer published by Del Norte County, last edited May
 2022. Address file is a 2026 snapshot of parcels published by Del Norte County.
 Census TIGER address ranges and Statewide Database voters by block.

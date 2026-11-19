@@ -1,4 +1,5 @@
 DATA
+
 A visual representation of addresses within Santa Clara County for FY2020. This
 dataset is a point feature class representing the geographic location of
 addresses in the County. THE GIS DATA IS PROVIDED "AS IS". THE COUNTY MAKES NO
@@ -14,6 +15,7 @@ RECORDS FOR VERIFICATION IS DONE EXCLUSIVELY AT THE RISK OF THE PARTY MAKING
 SUCH USE.
 
 SOURCES
+
 Precinct map is a November 2026 snapshot provided by Santa Clara County. Address
 file is a 2020 layer and current parcels published by Santa Clara County. Census
 TIGER address ranges and Statewide Database voters by block.

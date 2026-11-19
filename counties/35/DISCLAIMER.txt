@@ -1,4 +1,5 @@
 DATA
+
 Although every reasonable effort has been made to assure the accuracy of this
 data, the County of San Benito makes no warranty, representation or guaranty as
 to the content, sequence, accuracy, timeliness or completeness of any of the
@@ -20,6 +21,7 @@ submit plans or written analysis concerning errors and discrepancies. The County
 shall evaluate the data submitted and make changes as it deems necessary.
 
 SOURCES
+
 Precinct map is a live layer published by San Benito County, last edited August
 2026. Street file is a live layer published by San Benito County.
 https://github.com/woodie/street-ranges#sources

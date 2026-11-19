@@ -1,8 +1,10 @@
 DATA
+
 Feature locations in this feature class are approximate. It should not be used
 for legal purposes.
 
 SOURCES
+
 Precinct map is a June 2026 snapshot from the Statewide Database. Address file
 is a 2025 snapshot of parcels published by Alpine County. Road centerlines are a
 live layer published by Alpine County, last edited January 2026. Census TIGER

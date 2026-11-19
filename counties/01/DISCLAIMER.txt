@@ -1,4 +1,5 @@
 DATA
+
 The data provided herein are derived from various sources and are dynamic and in
 an ongoing state of maintenance, correction and update, and are subject to
 verification by the user and/or the County of Alameda. The boundary lines
@@ -15,6 +16,7 @@ by the user based upon information obtained from the data described and/ or
 contained herein.
 
 SOURCES
+
 Precinct map is a live layer published by Alameda County, last edited October
 2026. Address file is a live layer published by Alameda County, last edited
 October 2026. Census TIGER address ranges and Statewide Database voters by

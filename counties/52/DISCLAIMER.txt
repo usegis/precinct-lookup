@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Tehama County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Tehama County makes no warranty regarding the
@@ -7,6 +8,7 @@ information should be independently verified through the Tehama County Registrar
 of Voters.
 
 SOURCES
+
 Precinct map is a 2025 snapshot published by Tehama County. Address file is a
 2026 snapshot of parcels published by Tehama County. Street file is a September
 2025 snapshot published by Tehama County.

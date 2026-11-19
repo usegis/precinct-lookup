@@ -1,4 +1,5 @@
 DATA
+
 Data herein is for informational purposes and may not have been prepared for or
 be suitable for legal, engineering, or surveying intents. The County of Los
 Angeles reserves the right to change, restrict or discontinue access at any
@@ -16,6 +17,7 @@ to the "Terms of Use" outlined on the County of LA Enterprise GIS (eGIS) Hub (
 https://egis-lacounty.hub.arcgis.com/pages/terms-of-use ).
 
 SOURCES
+
 Precinct map is a live layer published by Los Angeles County, last edited
 November 2026. Address file is a live layer published by Los Angeles County,
 last edited November 2026. Census TIGER address ranges and Statewide Database

@@ -1,4 +1,5 @@
 DATA
+
 'County of Marin makes no representation or warranties, express or implied, with
 respect to the use or reuse of the data provided herewith, regardless of its
 format or the means of its transmission. THE DATA IS PROVIDED 'AS IS' WITH NO
@@ -15,6 +16,7 @@ incidental or consequential damages.'
 These data are representational only. Data are not survey precise.
 
 SOURCES
+
 Precinct map is a live layer published by Marin County, last edited September
 2026. Address file is a live layer published by Marin County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by

@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Amador County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Amador County makes no warranty regarding the
@@ -7,6 +8,7 @@ information should be independently verified through the Amador County Registrar
 of Voters.
 
 SOURCES
+
 Precinct map is a live layer published by Amador County, last edited December
 2024. Address file is a live layer published by Amador County, last edited
 December 2024. Census TIGER address ranges and Statewide Database voters by

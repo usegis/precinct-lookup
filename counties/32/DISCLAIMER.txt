@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Plumas County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Plumas County makes no warranty regarding the
@@ -7,6 +8,7 @@ information should be independently verified through the Plumas County Registrar
 of Voters.
 
 SOURCES
+
 Precinct map is a June 2026 snapshot from the Statewide Database. Address file
 is a July 2026 snapshot provided by Plumas County. Census TIGER address ranges
 and Statewide Database voters by block.

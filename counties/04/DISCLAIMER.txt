@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Butte County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Butte County makes no warranty regarding the
@@ -7,6 +8,7 @@ information should be independently verified through the Butte County Registrar
 of Voters.
 
 SOURCES
+
 Precinct map is a live layer published by Butte County, last edited November
 2026. Address file is a 2024 snapshot published by Butte County. Census TIGER
 address ranges and Statewide Database voters by block.

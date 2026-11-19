@@ -1,4 +1,5 @@
 DATA
+
 This project is independent and not endorsed by Lassen County. Errors and
 omissions may occur in this data, and it may not be accurate, complete, or up to
 date. It is provided "as is." Lassen County makes no warranty regarding the
@@ -7,6 +8,7 @@ information should be independently verified through the Lassen County Registrar
 of Voters.
 
 SOURCES
+
 Precinct map is a June 2026 snapshot from the Statewide Database. Address file
 is built from Census TIGER address ranges. Census TIGER address ranges and
 Statewide Database voters by block.
