@@ -1021,3 +1021,47 @@ describe('lookupLink', () => {
     expect((await lookupLink('99', '1', source)).text).toBe("Sorry, there's no map for 99-1.")
   })
 })
+
+describe('lookup on a highway', () => {
+  const HIGHWAYS: Streets = {
+    'STATE RTE 139': [[480201, 480231, '430000139']],
+    'HWY 99 E': [[1, 99, '430000991']],
+    'W HWY 99': [[1, 99, '430000992']],
+    'HWY 1': [[1, 9, '430000011']],
+    'STATE RTE 1': [[1, 9, '430000012'], [11, 19, '430000013']],
+    'OLD HWY 49': [[1, 99, '430000049']]
+  }
+  const answer = async (text: string) => (await lookup(text, sourceFor({ '43/95116': HIGHWAYS }))).text
+
+  it.each(['Hwy 139', 'Highway 139', 'CA-139', 'CA 139', 'SR-139', 'State Route 139', 'California 139', 'Hwy 139 N'])('reads %s as the state route', async (road) => {
+    expect(await answer(`480-201 ${road} 95116`)).toBe('139: Santa Clara County')
+  })
+
+  it('keeps to the direction typed after the number', async () => {
+    expect(await answer('5 State Rte 99 E 95116')).toBe('991: Santa Clara County')
+  })
+
+  it('keeps to the direction typed before the number', async () => {
+    expect(await answer('5 W State Rte 99 95116')).toBe('992: Santa Clara County')
+  })
+
+  it('asks for more when the direction is missing', async () => {
+    expect(await answer('5 State Rte 99 95116')).toBe("There's more than one match. Please add St, Ave, etc.")
+  })
+
+  it('answers with the exact name first', async () => {
+    expect(await answer('5 Hwy 1 95116')).toBe('11: Santa Clara County')
+  })
+
+  it('tries the other names when the exact name has no such number', async () => {
+    expect(await answer('15 Hwy 1 95116')).toBe('13: Santa Clara County')
+  })
+
+  it('never reads another highway number', async () => {
+    expect(await answer('480-201 Hwy 140 95116')).toBe("Sorry, that address isn't in the street ranges.")
+  })
+
+  it('never reads an old highway as the highway', async () => {
+    expect(await answer('5 Hwy 49 95116')).toBe("Sorry, that address isn't in the street ranges.")
+  })
+})

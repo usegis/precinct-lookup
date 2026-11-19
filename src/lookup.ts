@@ -125,11 +125,26 @@ function otherType (names: string[], typed: string): string[] {
   return typedBase ? names.filter((name) => base(name) === typedBase) : []
 }
 
+// A state or US highway by any of its names: Hwy 139, CA-139, State Rte 139. Not Old Hwy 49 or Co Hwy 20.
+const HIGHWAY = /^(?:([NSEW]) )?(?:(?:(?:STATE|ST|CA|CALIFORNIA|US) )?(?:HWY|RTE|RT|ROUTE) |(?:STATE|CALIFORNIA) |(?:SR|CA|US)[ -])(\d+[A-Z]?)(?: (?:HWY|RD|ST|AVE))?(?: ([NSEW]))?$/
+function sameHighway (names: string[], typed: string): string[] {
+  const wanted = typed.match(HIGHWAY)
+  if (!wanted) return []
+  const side = (match: RegExpMatchArray) => match[1] ?? match[3]
+  return names.filter((name) => {
+    const highway = name.match(HIGHWAY)
+    return highway?.[2] === wanted[2] && (!side(wanted) || !side(highway) || side(highway) === side(wanted))
+  })
+}
+
 function precinctsIn (streets: Streets, { number, street }: Address): string[] {
-  return matchingStreets(Object.keys(streets), street).flatMap((name) => {
+  const names = Object.keys(streets)
+  const inRange = (name: string) => {
     const range = streets[name].find(([low, high]) => low % 2 === number % 2 && low <= number && number <= high)
     return range ? [range[2]] : []
-  })
+  }
+  const found = matchingStreets(names, street).flatMap(inRange)
+  return found.length ? found : sameHighway(names, street).flatMap(inRange)
 }
 
 export async function lookup (text: string, source: Source): Promise<Answer> {
