@@ -1,11 +1,10 @@
 DATA
 
-This project is independent and not endorsed by Calaveras County. Errors and
-omissions may occur in this data, and it may not be accurate, complete, or up to
-date. It is provided "as is." Calaveras County makes no warranty regarding the
-accuracy or completeness of the information. Any precinct, address, or election
-information should be independently verified through the Calaveras County
-Registrar of Voters.
+The data provided through this project is for informational purposes only. While
+we strive to maintain accurate and up-to-date information, we make no
+representations or warranties about the accuracy, completeness, or reliability
+of any data or information provided. Users should verify all data independently
+before making decisions based on this information.
 
 SOURCES
 
