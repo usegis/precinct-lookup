@@ -18,7 +18,7 @@ Butte County Elections, 155 Nelson Ave, Oroville, CA 95965
 # Calaveras: Live map layer, Live address points
 Calaveras County Elections, 891 Mountain Ranch Road, San Andreas, CA 95249
 
-# Colusa: SWDB map, Parcels
+# Colusa: Map file by request, Parcels
 Colusa County Elections, 546 Jay Street, Colusa, CA 95932
 
 # Contra Costa: Live map layer, Address file

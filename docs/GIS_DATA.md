@@ -72,7 +72,7 @@ Parcels with a site address. Each parcel's middle stands in for the address.
 | County | Precinct map | Addresses |
 | --- | --- | --- |
 | Alpine (1.0K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Parcels, 2025](https://services1.arcgis.com/9z9tEfqo0TExR9C8/arcgis/rest/services/AlpineCountyParcels_22_23_PublicUpdate/FeatureServer/0) |
-| Colusa (22K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Parcels, 2026](https://services5.arcgis.com/RHVBVx0fVmUtvfJV/arcgis/rest/services/Colusa_County_Tax_Parcels/FeatureServer/0) |
+| Colusa (22K) | On request, 12/22 | [Parcels, 2026](https://services5.arcgis.com/RHVBVx0fVmUtvfJV/arcgis/rest/services/Colusa_County_Tax_Parcels/FeatureServer/0) |
 | Del Norte (26K) | [Live layer](https://services3.arcgis.com/IkUDY1vRIUWiVvcz/arcgis/rest/services/Precincts2021/FeatureServer/0) | [Parcels, 2026](https://services3.arcgis.com/IkUDY1vRIUWiVvcz/arcgis/rest/services/Parcels_20241125/FeatureServer/0) |
 | Glenn (28K) | [Live layer](https://services3.arcgis.com/GUHJKBhKMcD5JjTe/arcgis/rest/services/Precincts_2_19_26/FeatureServer/0) | [Parcels, 2023](https://services3.arcgis.com/GUHJKBhKMcD5JjTe/arcgis/rest/services/Zoning_Finder/FeatureServer/0) |
 | Humboldt (132K) | [SWDB, 6/26](https://statewidedatabase.org/) | [Parcels, 2026](https://humboldtgov.org/276/GIS-Data-Download) |

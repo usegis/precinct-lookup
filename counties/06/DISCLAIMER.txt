@@ -7,7 +7,7 @@ information should be independently verified through the Colusa County Registrar
 of Voters.
 
 SOURCES
-Precinct map is a June 2026 snapshot from the Statewide Database. Address file
+Precinct map is a December 2022 snapshot provided by Colusa County. Address file
 is a 2026 snapshot of parcels published by Colusa County. Census TIGER address
 ranges and Statewide Database voters by block.
 https://github.com/woodie/street-ranges#sources
