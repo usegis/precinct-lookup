@@ -1,6 +1,6 @@
 {
   "name": "precinct-lookup",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Find a voter's precinct, and its shape, from a street address, in the browser, using street ranges",
   "license": "MIT",
   "author": "Netpress.com",

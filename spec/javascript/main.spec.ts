@@ -1065,3 +1065,35 @@ describe('lookup on a highway', () => {
     expect(await answer('5 Hwy 49 95116')).toBe("Sorry, that address isn't in the street ranges.")
   })
 })
+
+describe('a hyphen in the house number', () => {
+  it.each([
+    ['716-498 Hyatt Ln 96114', 716498, 716],
+    ['651-25 Foothill Rd 96114', 651025, 651],
+    ['73-580 El Paseo 92260', 73580, 73],
+    ['100-105 Main St 94025', 100105, 100],
+    ['1-49 Maple St 94063', 1, undefined],
+    ['10-12 Main St 94025', 10, undefined],
+    ['48-0201 Hwy 139 96130', 48, undefined],
+    ['4802-01 Hwy 139 96130', 4802, undefined],
+    ['1234-1236 Main St 94025', 1234, undefined]
+  ])('reads %s', (text, number, fallback) => {
+    const address = parseAddress(text)
+    expect([address?.number, address?.fallback]).toEqual([number, fallback])
+  })
+
+  const STREETS: Streets = { 'ELM ST': [[100, 198, '430000100'], [100104, 100198, '430000200']], 'OAK ST': [[101, 199, '430000300']] }
+  const answer = async (text: string) => (await lookup(text, sourceFor({ '43/95116': STREETS }))).text
+
+  it('takes the joined number when it is on the street', async () => {
+    expect(await answer('100-104 Elm St 95116')).toBe('200: Santa Clara County')
+  })
+
+  it('falls back to the first number', async () => {
+    expect(await answer('101-105 Oak St 95116')).toBe('300: Santa Clara County')
+  })
+
+  it('never reads a short first part as a joined number', async () => {
+    expect(await answer('1-49 Oak St 95116')).toBe("Sorry, that address isn't in the street ranges.")
+  })
+})

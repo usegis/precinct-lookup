@@ -11,10 +11,11 @@ praising counties that share well and inviting the rest, never framing one as fa
 
 - All 58 counties are live, since 2026-11-13; the whole of `counties/` was refreshed on 2026-11-17 (street initials and
   county street-type abbreviations kept, Lassen's rural ranges, Trinity, Butte).
-- The page reads a typed `716-498` as one house number (716498), never a range, and county abbreviations such as `WY`
+- The page reads `716-498`, `651-25` and `73-580` as one house number, then tries the first number; any other hyphenated
+  number, like `1-49` or `1234-1236`, is its first number. County abbreviations such as `WY`
   and `TERR` as `WAY` and `TER`, the same as the build.
 - Tehama is built from its own street data (each address with its precinct) and 2025 precincts.
-- Woodie to republish the npm package: aliases, hyphenated house numbers and the abbreviations aren't on npm yet.
+- Woodie to publish `precinct-lookup` 0.2.0: aliases, hyphenated house numbers, highway names and the abbreviations aren't on npm yet.
 - The page is on GitHub Pages with the custom domain precinct.netpress.com (a CNAME at Network
   Solutions); woodie.github.io/street-ranges/ redirects there.
 - Open: confirm Esri's terms allow its basemap tiles on a public page without an API key.

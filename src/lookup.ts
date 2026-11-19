@@ -13,7 +13,7 @@ export interface Source {
 }
 export interface Found { county: string, number: string, zip: string }
 export interface Answer { text: string, found?: Found }
-export interface Address { number: number, street: string, zip: string | null }
+export interface Address { number: number, fallback?: number, street: string, zip: string | null }
 
 const STREET_WORDS: Record<string, string> = {
   STREET: 'ST',
@@ -82,9 +82,10 @@ export function normalizeStreet (street: string): string {
   return words.join(' ').replace(/^COUNTY RD\b/, 'CO RD').replace(/^ALAMEDA DE LAS PULGAS$/, 'ALAMEDA')
 }
 
-// One address, never a range: Lassen's 716-498 is 716498, and 651-25 is 651025.
-function houseNumber (first: string, after?: string): number {
-  return parseInt(after ? first + after.padStart(3, '0') : first, 10)
+// Lassen's 716-498 and 651-25 and Riverside's 73-580 are one number, else the first: 1-49, 1234-1236.
+function houseNumbers (first: string, after = ''): Pick<Address, 'number' | 'fallback'> {
+  const joined = (first.length === 3 && after.length >= 1 && after.length <= 3) || (first.length === 2 && after.length === 3)
+  return joined ? { number: parseInt(first + after.padStart(3, '0'), 10), fallback: parseInt(first, 10) } : { number: parseInt(first, 10) }
 }
 
 export function parseAddress (text: string): Address | null {
@@ -95,7 +96,7 @@ export function parseAddress (text: string): Address | null {
   // A place name first, as Google Maps copies it ("Modoc Medical Center, 1111 N Nagle St"), is skipped.
   const part = rest.split(',').map((piece) => piece.trim()).find((piece) => /^\d/.test(piece)) ?? ''
   const match = part.match(/^(\d+)(?:-(\d+))?\S*\s+(.+)$/)
-  return match && { number: houseNumber(match[1], match[2]), street: normalizeStreet(match[3]), zip: zipMatch && zipMatch[1] }
+  return match && { ...houseNumbers(match[1], match[2]), street: normalizeStreet(match[3]), zip: zipMatch && zipMatch[1] }
 }
 
 // Exact, or missing its N/S/E/W; then a known street followed by a city; then missing its St/Ave.
@@ -157,7 +158,9 @@ export async function lookup (text: string, source: Source): Promise<Answer> {
   const listed = Object.keys(counties).filter((county) => counties[county].zipcodes.includes(zip))
   if (!listed.length) return { text: 'Invalid address' }
   const files = await Promise.all(listed.map((county) => source.file(county, zip)))
-  const found = new Set(files.flatMap((streets) => precinctsIn(streets, address)))
+  const at = (number: number) => new Set(files.flatMap((streets) => precinctsIn(streets, { ...address, number })))
+  const joined = at(address.number)
+  const found = joined.size || address.fallback === undefined ? joined : at(address.fallback)
   if (found.size > 1) return { text: "There's more than one match. Please add St, Ave, etc." }
   const [precinct] = found
   if (!precinct) return { text: "Sorry, that address isn't in the street ranges." }
