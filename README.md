@@ -48,13 +48,7 @@ A page without a build step can load it from a CDN:
 What a precinct means (its districts, representatives or polling place) is left to your app;
 [Your own county lookup](docs/COUNTY_LOOKUP.md) shows one way.
 
-## How it works
-
-A range is a run of house numbers on one side of a street, all in one precinct:
-
-    {"W BAYSHORE RD": [[1200, 1498, "4140011"], [1201, 1499, "4140011"]]}
-
-### Sources
+## Sources
 
 Each county's ranges come from the best it publishes: each address with its precinct, address
 points or parcels placed on its precinct map, or Census TIGER where there's nothing else.
