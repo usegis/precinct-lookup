@@ -74,7 +74,7 @@ counties publishing each address's precinct ahead of each election matters most.
 ## Counties leading the way
 
 - **Each address with its precinct:** San Francisco, Monterey, San Benito and Inyo publish it,
-  and El Dorado sent it on request. Nothing to guess: the county's own answer, address by
+  and El Dorado's can be requested. Nothing to guess: the county's own answer, address by
   address.
 - **Current precincts, ready for the next election:** Los Angeles, San Diego, Sacramento,
   Alameda, Solano, Butte and others keep a live precinct layer; Santa Barbara posts each

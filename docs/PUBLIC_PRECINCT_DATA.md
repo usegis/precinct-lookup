@@ -30,7 +30,7 @@ publish the same thing as a precinct column on its address points.
 | Monterey | The same files, on the Elections Department's [voter data and GIS page](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) |
 | San Benito | An [address layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/ArcOnline_Addresses/FeatureServer/0) with each address's precinct |
 | Inyo | [Attributed addresses](https://gis.inyo.gov/server/rest/services/AttributedAddresses/FeatureServer/0) with each address's precinct |
-| El Dorado | A street data table, sent on request |
+| El Dorado | A street data table, which can be requested |
 
 ## Without them
 
