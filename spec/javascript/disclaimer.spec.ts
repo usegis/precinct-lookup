@@ -21,7 +21,6 @@ describe('showDisclaimer', () => {
 
   const reply = (body: unknown) => ({ ok: body !== undefined, status: body === undefined ? 404 : 200, text: async () => body })
   const text = () => document.getElementById('disclaimer-text')!
-  const plain = () => document.getElementById('plain-text')!
   const back = () => document.querySelector<HTMLAnchorElement>('#back')!
 
   beforeEach(() => {
@@ -51,11 +50,6 @@ describe('showDisclaimer', () => {
         'Precinct map is a live layer published by San Mateo County. https://github.com/woodie/street-ranges#sources')
     })
 
-    it('links the plain text', () => {
-      expect(plain().hidden).toBe(false)
-      expect(plain().querySelector('a')!.getAttribute('href')).toBe('counties/41/DISCLAIMER.txt')
-    })
-
     it('returns to the precinct', () => {
       expect(back().getAttribute('href')).toBe('./#41-44007')
     })
@@ -82,7 +76,6 @@ describe('showDisclaimer', () => {
 
     it('points back to the lookup', () => {
       expect(text().textContent).toBe("Pick a precinct in the lookup to see its county's data notice.")
-      expect(plain().hidden).toBe(true)
       expect(fetchFile).not.toHaveBeenCalled()
     })
   })

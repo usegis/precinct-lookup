@@ -20,7 +20,6 @@ function paragraph (document: Document, text: string): HTMLParagraphElement {
 export async function showDisclaimer ({ document, fetch }: DisclaimerEnv = globalThis): Promise<void> {
   const { location } = document.defaultView!
   const body = document.getElementById('disclaimer-text')!
-  const plain = document.getElementById('plain-text')!
   const back = document.querySelector<HTMLAnchorElement>('#back')!
   const match = location.hash.match(HASH)
   if (!match) {
@@ -29,8 +28,6 @@ export async function showDisclaimer ({ document, fetch }: DisclaimerEnv = globa
   }
   const county = match[1]
   const file = `counties/${county}/DISCLAIMER.txt`
-  plain.querySelector('a')!.href = file
-  plain.hidden = false
   back.href = `./${location.hash.includes('-') ? location.hash : ''}`
   try {
     const reply = await fetch(file)

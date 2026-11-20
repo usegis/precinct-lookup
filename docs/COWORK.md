@@ -79,7 +79,7 @@ check first. Woodie publishes, or says yes first.
   zipcode. Other applications of the data may choose their own fallback; this page answers a
   precinct or nothing.
 - The Data link opens `disclaimer.html#41-44007`, which lays out that county's `DISCLAIMER.txt` under "Disclaimer", like the privacy page,
-  links the plain text, and returns to the precinct. The map layout applies only to `body.lookup`.
+  and returns to the precinct; the raw file stays published for anyone browsing `counties/`. The map layout applies only to `body.lookup`.
 - Copy link gives `#41-44007`, county and precinct; it never names an address and clears when
   the box changes.
 - On screen the map fills the window: the search floats over it in a centered panel (the "California Precinct Lookup" title holds the answer row's place until a precinct shows, so the panel keeps its height), the
