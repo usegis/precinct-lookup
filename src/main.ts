@@ -8,8 +8,8 @@ export * from './lookup.ts'
 export * from './disclaimer.ts'
 export type Env = Pick<typeof globalThis, 'document' | 'fetch'>
 
-// A link to a precinct, like 41-44007 or 07-RICH101: county and number.
-const LINK = /^(\d\d)-0*([0-9A-Z]+)$/i
+// A link to a precinct, like 41-44007, 07-RICH101 or 42-10-0512: county and number.
+const LINK = /^(\d\d)-0*([0-9A-Z][0-9A-Z-]*)$/i
 
 const NO_SHAPES: Shapes = { type: 'FeatureCollection', features: [] }
 const TILES = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}'

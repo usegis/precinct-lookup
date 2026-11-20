@@ -66,7 +66,7 @@ const sourceFor = (files: Record<string, Streets>): Source => ({
   maps: async () => ({ type: 'FeatureCollection', features: [] })
 })
 const shape = (id: string) => ({ type: 'Feature' as const, id, properties: {}, geometry: { type: 'Polygon' as const, coordinates: [[[-121.8, 37.3], [-121.79, 37.3], [-121.79, 37.31], [-121.8, 37.3]]] } })
-const SHAPES: Shapes = { type: 'FeatureCollection', features: [shape('7904'), shape('A101')] }
+const SHAPES: Shapes = { type: 'FeatureCollection', features: [shape('7904'), shape('A101'), shape('10-0512')] }
 const settled = () => new Promise((resolve) => setTimeout(resolve, 0))
 
 describe('normalizeStreet', () => {
@@ -509,7 +509,7 @@ describe('start', () => {
       ({
         'counties/index.json': indexOf(['43/95116', '43/95117']),
         'counties/43/streets/95116.json': SAN_JOSE,
-        'counties/43/shapes/index.json': { 7904: '95116', A101: '95116' },
+        'counties/43/shapes/index.json': { 7904: '95116', A101: '95116', '10-0512': '95116' },
         'counties/43/shapes/95116.json': SHAPES
       } as Record<string, unknown>)[url] ?? null))
     typed = '2501 Bambi Ln 95116'
@@ -1047,6 +1047,21 @@ describe('start', () => {
 
     it('puts it in the URL', () => {
       expect(location.hash).toBe('#43-A101')
+    })
+  })
+
+  context('when the page opens with a hyphenated precinct', () => {
+    beforeEach(() => {
+      typed = ''
+      history.replaceState(null, '', '/#43-10-0512')
+    })
+
+    it('shows the precinct', () => {
+      expect(result()).toBe('10-0512: Santa Clara County')
+    })
+
+    it('keeps the URL', () => {
+      expect(location.hash).toBe('#43-10-0512')
     })
   })
 

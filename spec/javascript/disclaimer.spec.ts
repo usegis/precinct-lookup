@@ -55,6 +55,14 @@ describe('showDisclaimer', () => {
     })
   })
 
+  context('from a hyphenated precinct', () => {
+    beforeEach(() => { history.replaceState(null, '', '/disclaimer.html#41-10-0512') })
+
+    it('returns to the precinct', () => {
+      expect(back().getAttribute('href')).toBe('./#41-10-0512')
+    })
+  })
+
   context('from a county alone', () => {
     beforeEach(() => { history.replaceState(null, '', '/disclaimer.html#41') })
 

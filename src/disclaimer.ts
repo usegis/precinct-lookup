@@ -1,7 +1,7 @@
 export type DisclaimerEnv = Pick<typeof globalThis, 'document' | 'fetch'>
 
 // disclaimer.html#41-44007 shows San Mateo's notice and returns to that precinct; #41 shows the notice alone.
-const HASH = /^#(\d\d)(?:-[0-9A-Z]+)?$/i
+const HASH = /^#(\d\d)(?:-[0-9A-Z-]+)?$/i
 const HEADING = /^[A-Z][A-Z ]*$/
 const URL_TEXT = /(https?:\/\/\S+)/
 
