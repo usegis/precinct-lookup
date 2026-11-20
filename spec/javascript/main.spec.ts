@@ -547,7 +547,7 @@ describe('start', () => {
     })
 
     it("links to the county's data disclaimer", () => {
-      expect(document.querySelector('#disclaimer')!.getAttribute('href')).toBe('counties/43/DISCLAIMER.txt')
+      expect(document.querySelector('#disclaimer')!.getAttribute('href')).toBe('disclaimer.html#43-7904')
     })
 
     it('shows the data links', () => {

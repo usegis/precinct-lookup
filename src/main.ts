@@ -5,6 +5,7 @@ import { lookup, lookupLink } from './lookup.ts'
 import type { Found, Shapes, Source } from './lookup.ts'
 
 export * from './lookup.ts'
+export * from './disclaimer.ts'
 export type Env = Pick<typeof globalThis, 'document' | 'fetch'>
 
 // A link to a precinct, like 41-44007 or 07-RICH101: county and number.
@@ -85,8 +86,8 @@ export function start ({ document, fetch }: Env = globalThis): void {
     copy.hidden = true
     print.hidden = true
   }
-  const showCountyData = (county: string) => {
-    disclaimer.href = `counties/${county}/DISCLAIMER.txt`
+  const showCountyData = ({ county, number }: Found) => {
+    disclaimer.href = `disclaimer.html#${county}-${number}`
     shownCounty = county
     countyData.hidden = false
   }
@@ -138,7 +139,7 @@ export function start ({ document, fetch }: Env = globalThis): void {
         }
         applied = input.value.trim()
         apply.disabled = true
-        showCountyData(answer.found.county)
+        showCountyData(answer.found)
         await showMap(answer.found, run)
       }
     } catch {
