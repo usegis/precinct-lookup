@@ -13,9 +13,8 @@ from each county's public data. The [sample app](https://precinct.netpress.com/)
 precinct on a map.
 
 <p>
-  <img align="top" src="docs/38-7532.png" alt="San Francisco" width="32%">
-  <img align="top" src="docs/41-46126.png" alt="San Mateo" width="32%">
-  <img align="top" src="docs/43-7417.png" alt="Santa Clara" width="32%">
+  <img align="top" src="docs/41-46126.png" alt="Redwood City City Hall in San Mateo County precinct 46126" width="49%">
+  <img align="top" src="docs/43-7461.png" alt="San Jose City Hall in Santa Clara County precinct 7461" width="49%">
 </p>
 
 - **Compact data:** a zipcode's ranges are one small JSON file, on any static host. No database,
