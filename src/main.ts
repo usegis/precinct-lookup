@@ -86,9 +86,13 @@ export function start ({ document, fetch }: Env = globalThis): void {
     disclaimer.href = `counties/${county}/DISCLAIMER.txt`
     countyData.hidden = false
   }
+  // On screen the map opens one step out from a snug fit, so the precinct has room around it; a print stays snug.
   const fit = () => {
     leaflet!.invalidateSize()
-    leaflet!.fitBounds(outline!.getBounds(), { padding: [16, 16], maxZoom: DEEPEST_START, animate: false })
+    const bounds = outline!.getBounds()
+    const snug = Math.min(leaflet!.getBoundsZoom(bounds, false, L.point(32, 32)), DEEPEST_START)
+    const roomy = document.documentElement.classList.contains('printing') ? 0 : 1
+    leaflet!.setView(bounds.getCenter(), snug - roomy, { animate: false })
   }
   const showMap = async ({ county, number, zip }: Found, run: number) => {
     const shape = (await source.maps(county, zip)).features.find((feature: Feature) => feature.id === number)

@@ -5,7 +5,7 @@ import { justBeforeEach } from 'penultimate'
 import { lookup, lookupLink, normalizeStreet, parseAddress, start } from '../../src/main.ts'
 import type { Address, Answer, Index, Shapes, Source, Streets } from '../../src/main.ts'
 
-const drawn = vi.hoisted(() => ({ maps: 0, outlines: [] as unknown[], removed: 0, fitted: 0, loading: false, zoom: '' }))
+const drawn = vi.hoisted(() => ({ maps: 0, outlines: [] as unknown[], removed: 0, fitted: 0, loading: false, zoom: '', level: 0 }))
 vi.mock('leaflet', () => {
   const layer = { addTo: () => layer, isLoading: () => drawn.loading, once: (_event: string, loaded: () => void) => { setTimeout(loaded) } }
   return {
@@ -16,14 +16,16 @@ vi.mock('leaflet', () => {
         zoomControl: { setPosition: (corner: string) => { drawn.zoom = corner } },
         createPane: () => ({ style: {} }),
         invalidateSize: () => {},
-        fitBounds: () => { drawn.fitted++ }
+        getBoundsZoom: () => 16,
+        setView: (_center: unknown, level: number) => { drawn.fitted++; drawn.level = level }
       }
     },
+    point: (x: number, y: number) => ({ x, y }),
     tileLayer: () => layer,
     svg: () => ({}),
     geoJSON: (shape: unknown) => {
       drawn.outlines.push(shape)
-      const outline = { addTo: () => outline, getBounds: () => ({}), remove: () => { drawn.removed++ } }
+      const outline = { addTo: () => outline, getBounds: () => ({ getCenter: () => ({}) }), remove: () => { drawn.removed++ } }
       return outline
     }
   }
@@ -489,7 +491,7 @@ describe('start', () => {
 
   beforeEach(() => {
     document.documentElement.innerHTML = readFileSync('public/index.html', 'utf8')
-    Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '' })
+    Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '', level: 0 })
     document.documentElement.className = ''
     fetchFile = vi.fn(async (url: string) => reply(
       ({
@@ -668,8 +670,9 @@ describe('start', () => {
       expect(rings).toEqual(shape('7904').geometry.coordinates)
     })
 
-    it('fits the map to it', () => {
+    it('fits the map to it, one step out so it has room', () => {
       expect(drawn.fitted).toBe(1)
+      expect(drawn.level).toBe(15)
     })
 
     it('offers to print it', () => {
@@ -689,9 +692,10 @@ describe('start', () => {
         await settled()
       })
 
-      it('sizes the map to the page, refits it and prints', () => {
+      it('sizes the map to the page, refits it snugly and prints', () => {
         expect(document.documentElement.classList.contains('printing')).toBe(true)
         expect(drawn.fitted).toBe(2)
+        expect(drawn.level).toBe(16)
         expect(printed).toHaveBeenCalled()
       })
 
