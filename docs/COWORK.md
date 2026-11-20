@@ -81,7 +81,8 @@ check first. Woodie publishes, or says yes first.
 - Copy link gives `#41-44007`, county and precinct; it never names an address and clears when
   the box changes.
 - On screen the map fills the window: the search floats over it in a centered panel (the title shows until a precinct does), the
-  links stay along the bottom, and an empty page is #f4f4f4. Printing keeps the page layout.
+  links stay along the bottom, and an empty page is #f4f4f4. Printing keeps the page layout, from the Print pill or the
+  browser's menu: the address as plain text, the map snug to the page, and a line with the date, site and county disclaimer.
 - The map is Esri's World Street Map under Leaflet (bundled into `main.js`): north up, zoom buttons bottom right,
   opening at the zoom that fits the precinct, no deeper than 18. Four panes from the one
   outline gray and lighten the world outside, brighten the inside, and draw a 1px border.

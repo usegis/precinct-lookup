@@ -50,10 +50,15 @@ footer p { margin: 8px 0 0; font-size: 13px; }
 .printing #map { aspect-ratio: auto; height: 8in; border-radius: 0; }
 /* New tiles fade in, and the print starts the moment they load, so they print at full strength. */
 .printing #map .leaflet-tile { opacity: 1 !important; }
+.print-only, .print-only:empty { display: none; }
 @media print {
   :root { --text: #1c1c1e; --muted: #6c6c70; --line: #c7c7cc; --bg: #fff; --link: #1c1c1e; }
   main, footer { padding: 0; }
   .panel > h1, .panel > h1 + p, button, footer nav, #print, #map .leaflet-control-zoom, #copy svg, #copy span { display: none; }
+  form { display: none; }
+  .print-only:not(:empty) { display: block; }
+  #address-line { margin: 0 0 4px; font-size: 20px; font-weight: 600; }
+  #print-note { margin: 0 0 4px; font-size: 12px; }
   #copy { border: 0; padding: 0; font-size: 15px; color: var(--muted); }
   #copy::after { content: "precinct.netpress.com" attr(href); }
   #map { break-inside: avoid; }

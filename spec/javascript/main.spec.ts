@@ -1,6 +1,6 @@
 // @vitest-environment jsdom
 import { readFileSync } from 'node:fs'
-import { beforeEach, describe, expect, it, vi } from 'vitest'
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { justBeforeEach } from 'penultimate'
 import { lookup, lookupLink, normalizeStreet, parseAddress, start } from '../../src/main.ts'
 import type { Address, Answer, Index, Shapes, Source, Streets } from '../../src/main.ts'
@@ -489,7 +489,19 @@ describe('start', () => {
     document.querySelector('input')!.dispatchEvent(new Event('input'))
   }
 
+  // Each test starts the page again on the same window, so its listeners go when the test ends.
+  const listening: Array<[string, EventListenerOrEventListenerObject]> = []
+  afterEach(() => {
+    vi.restoreAllMocks()
+    listening.splice(0).forEach(([type, listener]) => { window.removeEventListener(type, listener) })
+  })
+
   beforeEach(() => {
+    const listen = window.addEventListener.bind(window)
+    vi.spyOn(window, 'addEventListener').mockImplementation((type: string, listener: EventListenerOrEventListenerObject) => {
+      listening.push([type, listener])
+      listen(type, listener)
+    })
     document.documentElement.innerHTML = readFileSync('public/index.html', 'utf8')
     Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '', level: 0 })
     document.documentElement.className = ''
@@ -613,6 +625,14 @@ describe('start', () => {
     it('offers a reset', () => {
       expect(resetButton().hidden).toBe(false)
     })
+
+    context("and the visitor prints from the browser's menu", () => {
+      justBeforeEach(() => { window.dispatchEvent(new Event('beforeprint')) })
+
+      it('leaves the page as it is', () => {
+        expect(document.documentElement.classList.contains('printing')).toBe(false)
+      })
+    })
   })
 
   context('when the zip code is in the index but its file is missing', () => {
@@ -707,6 +727,51 @@ describe('start', () => {
         })
       })
 
+      it('names the address as plain text', () => {
+        expect(document.getElementById('address-line')!.textContent).toBe('2501 Bambi Ln 95116')
+      })
+
+      it('notes the date, the site and the county disclaimer', () => {
+        expect(document.getElementById('print-note')!.textContent).toMatch(
+          /^Printed \d{4}-\d\d-\d\d from \S+ · County data and disclaimer: \S+\/counties\/43\/DISCLAIMER\.txt · Precincts change/)
+      })
+
+      context('from a precinct link', () => {
+        beforeEach(() => { typed = '43-7904' })
+
+        it('leaves the address line out', () => {
+          expect(document.getElementById('address-line')!.textContent).toBe('')
+        })
+      })
+
+      context('and the print dialog opens', () => {
+        justBeforeEach(() => { window.dispatchEvent(new Event('beforeprint')) })
+
+        it("doesn't refit again", () => {
+          expect(drawn.fitted).toBe(2)
+        })
+      })
+
+      context('and the print dialog closes', () => {
+        justBeforeEach(() => { window.dispatchEvent(new Event('afterprint')) })
+
+        it('puts the map back', () => {
+          expect(document.documentElement.classList.contains('printing')).toBe(false)
+          expect(drawn.fitted).toBe(3)
+        })
+      })
+    })
+
+    context("when the visitor prints from the browser's menu", () => {
+      justBeforeEach(() => { window.dispatchEvent(new Event('beforeprint')) })
+
+      it('sizes the map to the page, refits it snugly and notes the print', () => {
+        expect(document.documentElement.classList.contains('printing')).toBe(true)
+        expect(drawn.fitted).toBe(2)
+        expect(drawn.level).toBe(16)
+        expect(document.getElementById('print-note')!.textContent).toMatch(/^Printed /)
+      })
+
       context('and the print dialog closes', () => {
         justBeforeEach(() => { window.dispatchEvent(new Event('afterprint')) })
 
@@ -721,7 +786,7 @@ describe('start', () => {
       expect(drawn.zoom).toBe('bottomright')
     })
 
-    context('when the page is printed from the browser menu', () => {
+    context("when a print dialog closes that the page didn't size", () => {
       justBeforeEach(() => { window.dispatchEvent(new Event('afterprint')) })
 
       it('leaves the map alone', () => {

@@ -48,9 +48,12 @@ export function start ({ document, fetch }: Env = globalThis): void {
   const map = document.querySelector<HTMLElement>('#map')!
   const countyData = document.querySelector<HTMLElement>('#county-data')!
   const disclaimer = document.querySelector<HTMLAnchorElement>('#disclaimer')!
+  const addressLine = document.querySelector<HTMLElement>('#address-line')!
+  const printNote = document.querySelector<HTMLElement>('#print-note')!
   const window = document.defaultView!
   const { history, location, navigator } = window
   let applied = ''
+  let shownCounty = ''
   let latest = 0
   let leaflet: L.Map | undefined
   let tiles: L.TileLayer | undefined
@@ -84,6 +87,7 @@ export function start ({ document, fetch }: Env = globalThis): void {
   }
   const showCountyData = (county: string) => {
     disclaimer.href = `counties/${county}/DISCLAIMER.txt`
+    shownCounty = county
     countyData.hidden = false
   }
   // On screen the map opens one step out from a snug fit, so the precinct has room around it; a print stays snug.
@@ -167,13 +171,27 @@ export function start ({ document, fetch }: Env = globalThis): void {
       copyLabel.textContent = 'Press and hold to copy'
     }
   })
+  // A printout names the address as plain text, and says when, from where, and whose data it is.
+  const notePrint = () => {
+    addressLine.textContent = LINK.test(applied) ? '' : applied
+    printNote.textContent = `Printed ${new Date().toLocaleDateString('en-CA')} from ${location.host} · County data and disclaimer: ` +
+      `${location.host}/counties/${shownCounty}/DISCLAIMER.txt · Precincts change between elections; confirm with the county elections office.`
+  }
   // The map draws for the size it has, so Print sizes it to the page, waits for its tiles, then prints.
   print.addEventListener('click', async (event) => {
     event.preventDefault()
+    notePrint()
     document.documentElement.classList.add('printing')
     fit()
     if (tiles!.isLoading()) await new Promise((resolve) => tiles!.once('load', resolve))
     window.print()
+  })
+  // Printing from the browser's menu sizes the map to the page too, without waiting for tiles.
+  window.addEventListener('beforeprint', () => {
+    if (map.hidden || document.documentElement.classList.contains('printing')) return
+    notePrint()
+    document.documentElement.classList.add('printing')
+    fit()
   })
   window.addEventListener('afterprint', () => {
     if (!document.documentElement.classList.contains('printing')) return
