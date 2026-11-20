@@ -733,7 +733,7 @@ describe('start', () => {
 
       it('notes the date, the site and the county disclaimer', () => {
         expect(document.getElementById('print-note')!.textContent).toMatch(
-          /^Printed \d{4}-\d\d-\d\d from \S+ · County data and disclaimer: \S+\/counties\/43\/DISCLAIMER\.txt · Precincts change/)
+          /^Printed \d{4}-\d\d-\d\d from \S+ · County data and disclaimer: \S+\/disclaimer\.html#43-7904 · Precincts change/)
       })
 
       context('from a precinct link', () => {

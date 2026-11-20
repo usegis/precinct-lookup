@@ -84,7 +84,7 @@ check first. Woodie publishes, or says yes first.
   the box changes.
 - On screen the map fills the window: the search floats over it in a centered panel (the "California Precinct Lookup" title holds the answer row's place until a precinct shows, so the panel keeps its height), the
   links stay along the bottom, and an empty page is #f4f4f4. Printing keeps the page layout, from the Print pill or the
-  browser's menu: the address as plain text, the map snug to the page, and a line with the date, site and county disclaimer.
+  browser's menu: the address as plain text, the map snug to the page, and a line with the date, site and the precinct's disclaimer page.
 - The map is Esri's World Street Map under Leaflet (bundled into `main.js`): north up, zoom buttons bottom right,
   opening at the zoom that fits the precinct, no deeper than 18. Four panes from the one
   outline gray and lighten the world outside, brighten the inside, and draw a 1px border.
