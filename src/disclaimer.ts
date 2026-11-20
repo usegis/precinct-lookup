@@ -1,5 +1,3 @@
-import type { Index } from './lookup.ts'
-
 export type DisclaimerEnv = Pick<typeof globalThis, 'document' | 'fetch'>
 
 // disclaimer.html#41-44007 shows San Mateo's notice and returns to that precinct; #41 shows the notice alone.
@@ -21,7 +19,6 @@ function paragraph (document: Document, text: string): HTMLParagraphElement {
 // A county's DISCLAIMER.txt, as published, laid out like the privacy page: headings in capitals, paragraphs between blank lines.
 export async function showDisclaimer ({ document, fetch }: DisclaimerEnv = globalThis): Promise<void> {
   const { location } = document.defaultView!
-  const heading = document.querySelector('h1')!
   const body = document.getElementById('disclaimer-text')!
   const plain = document.getElementById('plain-text')!
   const back = document.querySelector<HTMLAnchorElement>('#back')!
@@ -36,18 +33,9 @@ export async function showDisclaimer ({ document, fetch }: DisclaimerEnv = globa
   plain.hidden = false
   back.href = `./${location.hash.includes('-') ? location.hash : ''}`
   try {
-    const [index, text] = await Promise.all([
-      fetch('counties/index.json').then((reply) => reply.json() as Promise<Index>),
-      fetch(file).then((reply) => {
-        if (!reply.ok) throw new Error(`${reply.status} ${file}`)
-        return reply.text()
-      })
-    ])
-    const name = index[county]?.name
-    if (name) {
-      heading.textContent = `${name} data`
-      document.title = `${name} data`
-    }
+    const reply = await fetch(file)
+    if (!reply.ok) throw new Error(`${reply.status} ${file}`)
+    const text = await reply.text()
     for (const block of text.trim().split(/\n\s*\n/)) {
       const words = block.replace(/\s*\n\s*/g, ' ').trim()
       if (HEADING.test(words)) body.append(Object.assign(document.createElement('h2'), { textContent: words[0] + words.slice(1).toLowerCase() }))

@@ -19,14 +19,14 @@ describe('showDisclaimer', () => {
   let fetchFile: ReturnType<typeof vi.fn>
   let files: Record<string, unknown>
 
-  const reply = (body: unknown) => ({ ok: body !== undefined, status: body === undefined ? 404 : 200, json: async () => body, text: async () => body })
+  const reply = (body: unknown) => ({ ok: body !== undefined, status: body === undefined ? 404 : 200, text: async () => body })
   const text = () => document.getElementById('disclaimer-text')!
   const plain = () => document.getElementById('plain-text')!
   const back = () => document.querySelector<HTMLAnchorElement>('#back')!
 
   beforeEach(() => {
     document.documentElement.innerHTML = readFileSync('public/disclaimer.html', 'utf8')
-    files = { 'counties/index.json': { 41: { name: 'San Mateo County', zipcodes: [] } }, 'counties/41/DISCLAIMER.txt': NOTICE }
+    files = { 'counties/41/DISCLAIMER.txt': NOTICE }
     fetchFile = vi.fn(async (url: string) => reply(files[url]))
     history.replaceState(null, '', '/disclaimer.html#41-44007')
   })
@@ -36,11 +36,6 @@ describe('showDisclaimer', () => {
   })
 
   context('from a precinct', () => {
-    it("titles the page with the county's name", () => {
-      expect(document.querySelector('h1')!.textContent).toBe('San Mateo County data')
-      expect(document.title).toBe('San Mateo County data')
-    })
-
     it('turns the headings in capitals into headings', () => {
       expect([...text().querySelectorAll('h2')].map((h) => h.textContent)).toEqual(['Data', 'Sources'])
     })
@@ -71,14 +66,6 @@ describe('showDisclaimer', () => {
 
     it('returns to the empty lookup', () => {
       expect(back().getAttribute('href')).toBe('./')
-    })
-  })
-
-  context('for a county the index lacks', () => {
-    beforeEach(() => { files['counties/index.json'] = {} })
-
-    it('keeps the general title', () => {
-      expect(document.querySelector('h1')!.textContent).toBe('County data')
     })
   })
 

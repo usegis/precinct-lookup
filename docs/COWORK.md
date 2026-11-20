@@ -78,7 +78,7 @@ check first. Woodie publishes, or says yes first.
 - No zipcode fallback: an address the ranges miss says so, rather than guessing from its
   zipcode. Other applications of the data may choose their own fallback; this page answers a
   precinct or nothing.
-- The Data link opens `disclaimer.html#41-44007`, which lays out that county's `DISCLAIMER.txt` like the privacy page,
+- The Data link opens `disclaimer.html#41-44007`, which lays out that county's `DISCLAIMER.txt` under "Disclaimer", like the privacy page,
   links the plain text, and returns to the precinct. The map layout applies only to `body.lookup`.
 - Copy link gives `#41-44007`, county and precinct; it never names an address and clears when
   the box changes.
