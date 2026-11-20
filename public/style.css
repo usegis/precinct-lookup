@@ -25,6 +25,18 @@ button:disabled { opacity: .45; cursor: default; }
 #map .leaflet-bottom.leaflet-right { left: 0; }
 #map .leaflet-control-attribution { max-width: 100%; box-sizing: border-box; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 #map .leaflet-control-attribution:hover { white-space: normal; }
+.pill[aria-pressed="true"] { background: var(--line); }
+/* Full map: the map fills the window, the search floats over it, and the links stay along the bottom; printing uses the page layout. */
+@media screen {
+  .full-map:not(.printing) body { display: flex; flex-direction: column; height: 100dvh; }
+  .full-map:not(.printing) main { position: relative; display: flex; flex-direction: column; flex: 1; min-height: 0; width: 100%; max-width: none; margin: 0; padding: 0; }
+  .full-map:not(.printing) main > h1, .full-map:not(.printing) main > h1 + p { display: none; }
+  .full-map:not(.printing) #map { flex: 1; aspect-ratio: auto; margin: 0; border-radius: 0; }
+  .full-map:not(.printing) .panel { position: absolute; z-index: 1001; top: 12px; left: 12px; width: min(440px, calc(100% - 24px)); box-sizing: border-box; padding: 12px 14px; border-radius: 16px; background: var(--bg); box-shadow: 0 2px 8px rgb(0 0 0 / 30%); }
+  .full-map:not(.printing) .answer, .full-map:not(.printing) .answer:has(.pill:not([hidden])) { min-height: 0; margin: 10px 0 0; }
+  .full-map:not(.printing) footer { box-sizing: border-box; width: 100%; margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0 16px; max-width: none; padding: 8px 16px; }
+  .full-map:not(.printing) footer p { margin: 0; }
+}
 a { color: var(--link); }
 footer { color: var(--muted); font-size: 15px; padding-top: 16px; padding-bottom: 32px; }
 footer p { margin: 8px 0 0; font-size: 13px; }
