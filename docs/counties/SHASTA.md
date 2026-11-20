@@ -74,7 +74,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [220780](https://precinct.netpress.com/#45-220780) | Redding; Airpark Dr, Greenwood St | 642 |
 | [220800](https://precinct.netpress.com/#45-220800) | Redding; Nantucket Dr | 58 |
 | [220805](https://precinct.netpress.com/#45-220805) | Redding; Nantucket Dr, Boston Ave | 41 |
-| [220810](https://precinct.netpress.com/#45-220810) | Redding | 0 |
+| [220810](https://precinct.netpress.com/#45-220810) | Redding; along Clear Creek Rd | 0 |
 | [220830](https://precinct.netpress.com/#45-220830) | Redding; Foothill Blvd, San Francisco St | 1,015 |
 | [220831](https://precinct.netpress.com/#45-220831) | Redding; Wasatch Dr, Wasatch Ave | 566 |
 | [220919](https://precinct.netpress.com/#45-220919) | Redding; Dartmouth Dr, Boston Ave | 164 |
@@ -193,7 +193,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [420922](https://precinct.netpress.com/#45-420922) | Redding; Mammoth Path, Yolla Bolly Trl | 203 |
 | [420960](https://precinct.netpress.com/#45-420960) | Redding; Tierra Heights Rd, Alicia Pkwy | 227 |
 | [420972](https://precinct.netpress.com/#45-420972) | Redding; Vineyard Trl, Vintage Path | 270 |
-| [431001](https://precinct.netpress.com/#45-431001) | Shasta Lake | 0 |
+| [431001](https://precinct.netpress.com/#45-431001) | Shasta Lake; along Wonderland Blvd | 0 |
 | [431002](https://precinct.netpress.com/#45-431002) | Shasta Lake; Ashby Rd, Yellow Pine Ave | 104 |
 | [431003](https://precinct.netpress.com/#45-431003) | Shasta Lake; Shasta Park Dr, Forest St | 398 |
 | [431004](https://precinct.netpress.com/#45-431004) | Shasta Lake; Mussel Shoals Ave, Grand Coulee Blvd | 1,005 |
@@ -273,7 +273,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [591977](https://precinct.netpress.com/#45-591977) | Cottonwood; Gas Point Rd, Lucerne Way | 822 |
 | [591978](https://precinct.netpress.com/#45-591978) | Cottonwood; Cambridge Rd, Davidson Ln | 37 |
 | [591979](https://precinct.netpress.com/#45-591979) | Six B Rd | 7 |
-| [592531](https://precinct.netpress.com/#45-592531) |  | 0 |
+| [592531](https://precinct.netpress.com/#45-592531) | Near Clear Creek Rd | 0 |
 | [592970](https://precinct.netpress.com/#45-592970) | Lloyd Ln, Sam Hill Dr, White House Dr | 404 |
 | [593113](https://precinct.netpress.com/#45-593113) | Dersch Rd, Bent Branch Rd, Bent Ranch Rd | 1 |
 | [593531](https://precinct.netpress.com/#45-593531) | Small Farms Dr | 0 |
@@ -282,7 +282,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [594932](https://precinct.netpress.com/#45-594932) | Anderson; Antique Ln, Lyle Ln | 60 |
 | [594970](https://precinct.netpress.com/#45-594970) | Spanish Gulch Rd, Fairwind Dr, Missouri Ln | 500 |
 | [595970](https://precinct.netpress.com/#45-595970) | Happy Valley; Overland Dr, Wrangler Ct | 38 |
-| [596531](https://precinct.netpress.com/#45-596531) |  | 0 |
+| [596531](https://precinct.netpress.com/#45-596531) | Near Gas Point Rd | 0 |
 | [596970](https://precinct.netpress.com/#45-596970) | Happy Valley; Canyon Rd | 3 |
 | [597970](https://precinct.netpress.com/#45-597970) | Sands Ln | 0 |
 | [598970](https://precinct.netpress.com/#45-598970) | Livolsi Rd, Livolsi Dr, Hill St | 53 |

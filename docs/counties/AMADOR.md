@@ -47,7 +47,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2203](https://precinct.netpress.com/#03-2203) | Ione; Waterman Rd, Raymond Dr | 249 |
 | [2204](https://precinct.netpress.com/#03-2204) | Ione; Foothill Blvd, Sage Ct | 641 |
 | [2205](https://precinct.netpress.com/#03-2205) | Ione; Shakeley Ln, Oak Ridge Dr | 640 |
-| [2206](https://precinct.netpress.com/#03-2206) | Ione | 0 |
+| [2206](https://precinct.netpress.com/#03-2206) | Ione; along Collings Rd | 0 |
 | [2207](https://precinct.netpress.com/#03-2207) | Ione; Five Mile Dr, Castle Oaks Dr | 1,225 |
 | [2208](https://precinct.netpress.com/#03-2208) | Ione; Preston Reservoir, Palm Dr | 0 |
 | [3001](https://precinct.netpress.com/#03-3001) | Red Corral; Shadow Glen Ct, Meadowbrook Dr | 125 |
@@ -74,7 +74,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4017](https://precinct.netpress.com/#03-4017) | Pine Grove and Red Corral; Mount Zion Rd, Aqueduct Rd | 291 |
 | [4018](https://precinct.netpress.com/#03-4018) | Pine Grove; Meadowood Dr, Mierkey Rd | 358 |
 | [4019](https://precinct.netpress.com/#03-4019) | Pine Grove; Climax Rd, Toyon Rd | 686 |
-| [4022](https://precinct.netpress.com/#03-4022) |  | 1 |
+| [4022](https://precinct.netpress.com/#03-4022) | Near Ridge Rd | 1 |
 | [4025](https://precinct.netpress.com/#03-4025) | Allen Ranch Rd | 5 |
 | [4027](https://precinct.netpress.com/#03-4027) | Martell and Sutter Creek; Old Airport Rd, Airport Rd | 0 |
 | [4028](https://precinct.netpress.com/#03-4028) | String Bean Aly, Old State Rte 49, Old Sutter Creek-Amedor City Hwy | 15 |
@@ -117,4 +117,4 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5403](https://precinct.netpress.com/#03-5403) | Plymouth; Landrum St, Miller Way | 355 |
 | [5404](https://precinct.netpress.com/#03-5404) | Plymouth; Oleta Rd, Burke Dr | 0 |
 | [5405](https://precinct.netpress.com/#03-5405) | Plymouth | 0 |
-| [5406](https://precinct.netpress.com/#03-5406) | Plymouth | 1 |
+| [5406](https://precinct.netpress.com/#03-5406) | Plymouth; along Old Sacramento Rd | 1 |

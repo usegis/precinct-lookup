@@ -23,13 +23,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1011](https://precinct.netpress.com/#14-1011) | Dixon Lane-MeadowCreek; Darby Ave, Baskerville Ave | 334 |
 | [1012](https://precinct.netpress.com/#14-1012) | Dixon Lane-MeadowCreek; Matlick Ln, Rocking W Dr | 258 |
 | [1013](https://precinct.netpress.com/#14-1013) | Dixon Lane-MeadowCreek; Bear Creek Dr, Lazy A Dr | 271 |
-| [1014](https://precinct.netpress.com/#14-1014) |  | 0 |
+| [1014](https://precinct.netpress.com/#14-1014) | Near Bishop Airport | 0 |
 | [1015](https://precinct.netpress.com/#14-1015) | Bishop; Wye Rd | 0 |
 | [1016](https://precinct.netpress.com/#14-1016) | Bishop; Highway 395 | 0 |
 | [1017](https://precinct.netpress.com/#14-1017) | Dixon Lane-MeadowCreek and Bishop; Shelly Creek Rd, Galloway Ave | 245 |
 | [1018](https://precinct.netpress.com/#14-1018) | Poleta Rd, Redding Canyon Rd, E Line St | 1 |
 | [1019](https://precinct.netpress.com/#14-1019) | Bishop Airport, Airport Rd | 0 |
-| [1020](https://precinct.netpress.com/#14-1020) |  | 9 |
+| [1020](https://precinct.netpress.com/#14-1020) | Along Brockman Ln | 9 |
 | [1021](https://precinct.netpress.com/#14-1021) | West Bishop; Milovich Dr | 2 |
 | [1023](https://precinct.netpress.com/#14-1023) | West Bishop; Shepard Ln, Mountain View Rd | 388 |
 | [2001](https://precinct.netpress.com/#14-2001) | Bishop; Spruce St, Hanby Ave | 328 |
@@ -37,20 +37,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2003](https://precinct.netpress.com/#14-2003) | Bishop; W Elm St, Grove St | 365 |
 | [2004](https://precinct.netpress.com/#14-2004) | Bishop; Willow St, May St | 371 |
 | [2005](https://precinct.netpress.com/#14-2005) | Bishop; Church St, Academy St | 97 |
-| [2006](https://precinct.netpress.com/#14-2006) |  | 22 |
+| [2006](https://precinct.netpress.com/#14-2006) | Bishop; near W Line St | 22 |
 | [2007](https://precinct.netpress.com/#14-2007) | Bishop; S 2nd St, Short St | 322 |
 | [2008](https://precinct.netpress.com/#14-2008) | Bishop; S Fowler St, Lagoon St | 156 |
 | [2009](https://precinct.netpress.com/#14-2009) | West Bishop and Bishop; Mandich St, Elise Boothe Ln | 7 |
 | [3001](https://precinct.netpress.com/#14-3001) | Early Pond Ln, N See Vee Ln | 61 |
 | [3002](https://precinct.netpress.com/#14-3002) | N Tu Su Ln, N See Vee Ln, N Barlow Ln | 321 |
 | [3003](https://precinct.netpress.com/#14-3003) | N Pa Ha Ln, N Winuba Ln, Harry Clark Way | 341 |
-| [3004](https://precinct.netpress.com/#14-3004) |  | 4 |
+| [3004](https://precinct.netpress.com/#14-3004) | Near Brockman Ln | 4 |
 | [3005](https://precinct.netpress.com/#14-3005) | West Bishop; Longview Dr, Sunrise Ln | 326 |
 | [3006](https://precinct.netpress.com/#14-3006) | S Pa Ha Ln, Pa Me Ln, Billy Williams Dr | 189 |
 | [3007](https://precinct.netpress.com/#14-3007) | West Bishop; Grandview Dr, Wildrose Ln | 286 |
 | [3008](https://precinct.netpress.com/#14-3008) | West Bishop; Meadow Ln, W Birch St | 138 |
-| [3009](https://precinct.netpress.com/#14-3009) |  | 2 |
-| [3010](https://precinct.netpress.com/#14-3010) |  | 0 |
+| [3009](https://precinct.netpress.com/#14-3009) | Along W Line St | 2 |
+| [3010](https://precinct.netpress.com/#14-3010) | Along S Barlow Ln | 0 |
 | [3011](https://precinct.netpress.com/#14-3011) | Indian Creek Dr | 18 |
 | [3012](https://precinct.netpress.com/#14-3012) | Highland Dr, Sunset Rd, Sunset Dr | 164 |
 | [3014](https://precinct.netpress.com/#14-3014) | West Bishop; Sierra Vista Way, Glenbrook Way | 414 |
@@ -62,21 +62,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4005](https://precinct.netpress.com/#14-4005) | Bishop | 0 |
 | [4006](https://precinct.netpress.com/#14-4006) | West Bishop; Bishop Country Club Rd, Sunland Res Rd | 3 |
 | [4007](https://precinct.netpress.com/#14-4007) | West Bishop | 0 |
-| [4008](https://precinct.netpress.com/#14-4008) | Bishop | 0 |
+| [4008](https://precinct.netpress.com/#14-4008) | Bishop; along W Line St | 0 |
 | [4009](https://precinct.netpress.com/#14-4009) | West Bishop; Mumy Ln, Mumy Rd | 7 |
 | [4011](https://precinct.netpress.com/#14-4011) | West Bishop; Coyote Valley Rd, Wonder Lakes | 87 |
 | [4012](https://precinct.netpress.com/#14-4012) | West Bishop; Rocking K Rd, Running Iron Rd | 82 |
-| [4015](https://precinct.netpress.com/#14-4015) |  | 0 |
+| [4015](https://precinct.netpress.com/#14-4015) | Near E Line St | 0 |
 | [4016](https://precinct.netpress.com/#14-4016) | West Bishop; Sunland Dr, Sunland Ln | 0 |
 | [4018](https://precinct.netpress.com/#14-4018) | West Bishop; S Tumbleweed Rd, Indian Creek Dr | 60 |
 | [4019](https://precinct.netpress.com/#14-4019) | West Bishop; Reata Rd, Watterson Rd | 2 |
 | [4020](https://precinct.netpress.com/#14-4020) | Fairview Cir, Watterson Rd | 30 |
-| [4022](https://precinct.netpress.com/#14-4022) |  | 2 |
+| [4022](https://precinct.netpress.com/#14-4022) | Along Underwood Ln and S Barlow Ln | 2 |
 | [4025](https://precinct.netpress.com/#14-4025) | Polaris Cir, Apollo Cir, Starlite Dr | 118 |
-| [4026](https://precinct.netpress.com/#14-4026) |  | 1 |
+| [4026](https://precinct.netpress.com/#14-4026) | Near Rossi Hill Rd | 1 |
 | [4028](https://precinct.netpress.com/#14-4028) | Wilkerson; Sierra Grande St, Sierra Ladera St | 197 |
 | [4029](https://precinct.netpress.com/#14-4029) | North St | 22 |
-| [4030](https://precinct.netpress.com/#14-4030) |  | 8 |
+| [4030](https://precinct.netpress.com/#14-4030) | Wilkerson; near Collins Rd | 8 |
 | [4031](https://precinct.netpress.com/#14-4031) | Wilkerson; Cottonwood Dr, Barrett Cir | 157 |
 | [4035](https://precinct.netpress.com/#14-4035) | Tinemaha Reservoir, Waucoba Rd, Finger Lake | 62 |
 | [4036](https://precinct.netpress.com/#14-4036) | Big Pine; Bartell Rd, Steward | 275 |
@@ -102,7 +102,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5025](https://precinct.netpress.com/#14-5025) | Lone Pine; N Lake View St, N Lone Pine Ave | 140 |
 | [5026](https://precinct.netpress.com/#14-5026) | Lone Pine; E Muir St, Line St | 110 |
 | [5027](https://precinct.netpress.com/#14-5027) | Lone Pine; Roy Rogers Rd, S Brewery St | 25 |
-| [5028](https://precinct.netpress.com/#14-5028) |  | 3 |
+| [5028](https://precinct.netpress.com/#14-5028) | Along S Hwy 395 and E Lubken Canyon Rd | 3 |
 | [5029](https://precinct.netpress.com/#14-5029) | Keeler; Railroad Ave, Laws Ave | 37 |
 | [5030](https://precinct.netpress.com/#14-5030) | Potero Rd, Highway 127, Ash Meadows Rd | 2 |
 | [5031](https://precinct.netpress.com/#14-5031) | Darwin; S Main St, 5th Ave | 33 |

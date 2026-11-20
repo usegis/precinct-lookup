@@ -20,7 +20,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1E-26](https://precinct.netpress.com/#12-1E-26) | Eureka; Ponderosa Ct, Ingley St | 457 |
 | [1E-27](https://precinct.netpress.com/#12-1E-27) | Eureka and Bayview; Oceanview Cemetary, Sunset Rd | 7 |
 | [1E-27A](https://precinct.netpress.com/#12-1E-27A) | Eureka; Hilfiker Ln, Elk River | 32 |
-| [1E-28A](https://precinct.netpress.com/#12-1E-28A) | Eureka | 0 |
+| [1E-28A](https://precinct.netpress.com/#12-1E-28A) | Eureka; along Highway 101 and Redwood Hwy | 0 |
 | [1E-29](https://precinct.netpress.com/#12-1E-29) | Eureka and Pine Hills; Pound Rd, Tooby Rd | 0 |
 | [1E-29A](https://precinct.netpress.com/#12-1E-29A) | Eureka | 2 |
 | [1E-30](https://precinct.netpress.com/#12-1E-30) | Eureka; M St, N St | 391 |
@@ -39,7 +39,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1F-10](https://precinct.netpress.com/#12-1F-10) | Fortuna; Newburg Rd | 0 |
 | [1F--1](https://precinct.netpress.com/#12-1F--1) | Ferndale; Berding St, Van Ness Ave | 1,036 |
 | [1F--7](https://precinct.netpress.com/#12-1F--7) | Fortuna; 9th St Exn, Barney St | 20 |
-| [1F--8](https://precinct.netpress.com/#12-1F--8) |  | 3 |
+| [1F--8](https://precinct.netpress.com/#12-1F--8) | Along Barney St | 3 |
 | [1F--9](https://precinct.netpress.com/#12-1F--9) | Fortuna | 12 |
 | [1FB-1](https://precinct.netpress.com/#12-1FB-1) | Fernbridge St | 13 |
 | [1FS](https://precinct.netpress.com/#12-1FS) | Kingman Pond, Upper Bear River Rd, Bear River Ridge Rd | 109 |
@@ -182,7 +182,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3A-J1](https://precinct.netpress.com/#12-3A-J1) | Arcata; Oxidation Pond, Old Arcata Rd | 392 |
 | [3A-J2](https://precinct.netpress.com/#12-3A-J2) | Arcata; Margaret Ln, Charles Ave | 185 |
 | [3A-J3](https://precinct.netpress.com/#12-3A-J3) | Arcata | 2 |
-| [3A-J4](https://precinct.netpress.com/#12-3A-J4) | Arcata | 4 |
+| [3A-J4](https://precinct.netpress.com/#12-3A-J4) | Arcata; along Del Mar Vis | 4 |
 | [3A-JW](https://precinct.netpress.com/#12-3A-JW) | Arcata; Noga Ln, Spring Hill Rd | 142 |
 | [3A-JWA](https://precinct.netpress.com/#12-3A-JWA) | Arcata; Bayside Cutoff | 4 |
 | [3A-P1](https://precinct.netpress.com/#12-3A-P1) | Arcata; Vaissade Rd, Moxon Ln | 2 |
@@ -190,18 +190,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3A-P2A](https://precinct.netpress.com/#12-3A-P2A) | Arcata; Courtyard Cir, Valley West Blvd | 820 |
 | [3A-P3](https://precinct.netpress.com/#12-3A-P3) | Arcata; W End Rd, Coombs Ct | 252 |
 | [3A-P4](https://precinct.netpress.com/#12-3A-P4) | Arcata; Janes Creek Dr, Meadow Creek Way | 333 |
-| [3A-P5](https://precinct.netpress.com/#12-3A-P5) | Arcata | 35 |
+| [3A-P5](https://precinct.netpress.com/#12-3A-P5) | Arcata; along Spear Ave | 35 |
 | [3A-P6](https://precinct.netpress.com/#12-3A-P6) | Arcata; Mustang Ln, Appaloosa Ln | 172 |
 | [3A-P7](https://precinct.netpress.com/#12-3A-P7) | Arcata; Mad River Pkwy E, Mad River Pkwy W | 4 |
 | [3A-P8](https://precinct.netpress.com/#12-3A-P8) | Arcata; Sierra Way, S Boyd Rd | 158 |
-| [3A-P10](https://precinct.netpress.com/#12-3A-P10) | Arcata | 0 |
+| [3A-P10](https://precinct.netpress.com/#12-3A-P10) | Arcata; along S Boyd Rd | 0 |
 | [3AS10](https://precinct.netpress.com/#12-3AS10) | Hatchery Rd, Mad River | 0 |
 | [3AS-1](https://precinct.netpress.com/#12-3AS-1) | V St | 3 |
 | [3AS-2](https://precinct.netpress.com/#12-3AS-2) | Arcata; Foster Ave, Janes Rd | 8 |
 | [3AS-3](https://precinct.netpress.com/#12-3AS-3) | Aldergrove Rd, Hilton Ln, Hammer Ln | 85 |
 | [3AS-4](https://precinct.netpress.com/#12-3AS-4) | Hilton Ln | 3 |
 | [3AS-5](https://precinct.netpress.com/#12-3AS-5) | Del Mar Vis, Boynton Prairie Rd, Boynton Prarie Rd | 72 |
-| [3AS-7](https://precinct.netpress.com/#12-3AS-7) |  | 0 |
+| [3AS-7](https://precinct.netpress.com/#12-3AS-7) | Near Glendale Dr | 0 |
 | [3AS-9](https://precinct.netpress.com/#12-3AS-9) | Blue Lake; Mad River, Old Fish Hatchery | 92 |
 | [3AS-12](https://precinct.netpress.com/#12-3AS-12) | Russell Ln, W End Rd | 34 |
 | [3B--1](https://precinct.netpress.com/#12-3B--1) | Blue Lake; S Railroad Ave, Taylor Way | 849 |
@@ -209,7 +209,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3ES-7](https://precinct.netpress.com/#12-3ES-7) | Myrtletown and Cutten; Freese Ave, Lucia Ave | 239 |
 | [3ES-9](https://precinct.netpress.com/#12-3ES-9) | Myrtletown and Cutten; Redwood Acres Fairgrounds, Hubbard Ln | 12 |
 | [3ES-10](https://precinct.netpress.com/#12-3ES-10) | Cummings Rd | 0 |
-| [3ES-11](https://precinct.netpress.com/#12-3ES-11) |  | 4 |
+| [3ES-11](https://precinct.netpress.com/#12-3ES-11) | Near Mitchell Rd | 4 |
 | [3ESS6](https://precinct.netpress.com/#12-3ESS6) | Mitchell Rd, Lentell Rd, Browns Rd | 333 |
 | [3FW](https://precinct.netpress.com/#12-3FW) | Greenwood Heights Dr, Green Rd, Tree Ln | 259 |
 | [3FWF](https://precinct.netpress.com/#12-3FWF) | Greenwood Heights Dr, His Ln, Shale Rd | 161 |
@@ -225,7 +225,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3JCFRB](https://precinct.netpress.com/#12-3JCFRB) | Arcata; Arcata Bay, Highway 101 | 2 |
 | [3JCFRC](https://precinct.netpress.com/#12-3JCFRC) | Lindholm Ln | 1 |
 | [3JCM](https://precinct.netpress.com/#12-3JCM) | Fickle Hill Rd, Jacoby Creek Rd, Robert Heights Rd | 14 |
-| [3JCM-1](https://precinct.netpress.com/#12-3JCM-1) |  | 2 |
+| [3JCM-1](https://precinct.netpress.com/#12-3JCM-1) | Near Fickle Hill Rd | 2 |
 | [3JCW](https://precinct.netpress.com/#12-3JCW) | Garden Ln, Eric Ln, Glory Ln | 80 |
 | [3JCWR](https://precinct.netpress.com/#12-3JCWR) | Jacoby Creek Rd, Graham Rd, Fairview Dr | 648 |
 | [3JCWRA](https://precinct.netpress.com/#12-3JCWRA) | Stephans Ln, Stevens Ln, Deer Fern Ln | 79 |
@@ -294,8 +294,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5BL-1](https://precinct.netpress.com/#12-5BL-1) | Old Hwy 200, Liscom Hill Rd, Blue Lake Blvd | 3 |
 | [5BLF](https://precinct.netpress.com/#12-5BLF) | Blue Lake; Buckley Rd, Elgar Rd | 275 |
 | [5BLF-1](https://precinct.netpress.com/#12-5BLF-1) | Liscom Hill Rd, Laurelwood Ln, Laurelwood Dr | 64 |
-| [5BLF-2](https://precinct.netpress.com/#12-5BLF-2) |  | 7 |
-| [5BLF-3](https://precinct.netpress.com/#12-5BLF-3) |  | 26 |
+| [5BLF-2](https://precinct.netpress.com/#12-5BLF-2) | Near Liscom Hill Rd | 7 |
+| [5BLF-3](https://precinct.netpress.com/#12-5BLF-3) | Along Liscom Hill Rd and Hilltop Ln | 26 |
 | [5BLFS](https://precinct.netpress.com/#12-5BLFS) | Glendale Dr, Underpass, Liscom Hill Rd | 10 |
 | [5BLFS-1](https://precinct.netpress.com/#12-5BLFS-1) | McAdams Ranch Rd, McAdams Rd, Walton Ln | 221 |
 | [5BLS](https://precinct.netpress.com/#12-5BLS) | Fieldbrook; Sawdust Trl, Grassy Creek Rd | 154 |
@@ -332,7 +332,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5MK-7](https://precinct.netpress.com/#12-5MK-7) | McKinleyville; Murray Rd, Hooven Rd | 874 |
 | [5MK-8](https://precinct.netpress.com/#12-5MK-8) | McKinleyville; Arthur Ln, Dows Prairie Rd | 896 |
 | [5MK-9A](https://precinct.netpress.com/#12-5MK-9A) | Fieldbrook; Tip Top Ridge Rd, K and K Rd | 2 |
-| [5MK-9B](https://precinct.netpress.com/#12-5MK-9B) | Fieldbrook | 0 |
+| [5MK-9B](https://precinct.netpress.com/#12-5MK-9B) | Fieldbrook; along Tip Top Ridge Rd | 0 |
 | [5MKS8](https://precinct.netpress.com/#12-5MKS8) | McKinleyville; Patrick Creek Dr | 6 |
 | [5MKS8-1](https://precinct.netpress.com/#12-5MKS8-1) | McKinleyville; Patrick Creek Dr, Little River | 22 |
 | [5MKS9](https://precinct.netpress.com/#12-5MKS9) | Fieldbrook; Old RR Grade N, St Co L 1000 | 1 |

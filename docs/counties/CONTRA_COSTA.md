@@ -24,14 +24,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [ALHA111](https://precinct.netpress.com/#07-ALHA111) | Alhambra Valley; Creekside Oaks, Millthwait Dr | 245 |
 | [ALHA112](https://precinct.netpress.com/#07-ALHA112) | Dutra Rd, Paso de Avila, County Feeder Trail 1 | 25 |
 | [ALHA802](https://precinct.netpress.com/#07-ALHA802) | Vaca Creek Rd | 3 |
-| [ALHA803](https://precinct.netpress.com/#07-ALHA803) |  | 2 |
+| [ALHA803](https://precinct.netpress.com/#07-ALHA803) | Alhambra Valley; near Alhambra Valley Rd | 2 |
 | [ALHA804](https://precinct.netpress.com/#07-ALHA804) | Springhill Trl, Springhill Rd | 3 |
-| [ALHA805](https://precinct.netpress.com/#07-ALHA805) |  | 7 |
-| [ALHA806](https://precinct.netpress.com/#07-ALHA806) |  | 0 |
+| [ALHA805](https://precinct.netpress.com/#07-ALHA805) | Along Briones Rd | 7 |
+| [ALHA806](https://precinct.netpress.com/#07-ALHA806) | Along Briones Rd | 0 |
 | [ALHA807](https://precinct.netpress.com/#07-ALHA807) | Happy Valley Rd, Briones Valley Rd | 4 |
-| [ALHA808](https://precinct.netpress.com/#07-ALHA808) |  | 6 |
+| [ALHA808](https://precinct.netpress.com/#07-ALHA808) | Along Hampton Rd | 6 |
 | [ALHA809](https://precinct.netpress.com/#07-ALHA809) | Wellesley Rd, Happy Valley Rd | 3 |
-| [ALHA810](https://precinct.netpress.com/#07-ALHA810) |  | 3 |
+| [ALHA810](https://precinct.netpress.com/#07-ALHA810) | Along Alhambra Valley Rd | 3 |
 | [ALHA811](https://precinct.netpress.com/#07-ALHA811) | Alhambra Valley; Orchard Trl, Briones Rd | 4 |
 | [ALHA812](https://precinct.netpress.com/#07-ALHA812) | Arabia Hts, Cal Riding & Hiking Trl, Wolcott Ln | 0 |
 | [ALHA813](https://precinct.netpress.com/#07-ALHA813) | Alhambra Valley; Alhambra Valley Rd | 6 |
@@ -117,7 +117,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [ANTI904](https://precinct.netpress.com/#07-ANTI904) | Antioch; Tour Way, Deer Valley Rd | 0 |
 | [ANTI905](https://precinct.netpress.com/#07-ANTI905) | Antioch; Antioch Municipal Reservoir, Contra Loma Reservoir | 0 |
 | [ANTI906](https://precinct.netpress.com/#07-ANTI906) | Antioch; Empire Mine Rd | 0 |
-| [ANTI907](https://precinct.netpress.com/#07-ANTI907) |  | 0 |
+| [ANTI907](https://precinct.netpress.com/#07-ANTI907) | Near Deer Valley Rd | 0 |
 | [AYER101](https://precinct.netpress.com/#07-AYER101) | Concord Blvd, Myrtle Dr, Laura Dr | 626 |
 | [BAPO101](https://precinct.netpress.com/#07-BAPO101) | Bay Point; Maureen Cir, Loftus Rd | 592 |
 | [BAPO102](https://precinct.netpress.com/#07-BAPO102) | Bay Point; Azores Cir, Driftwood Dr | 1,197 |
@@ -136,14 +136,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [BETH104](https://precinct.netpress.com/#07-BETH104) | Oakley; Sandmound Blvd, Dutch Slough Rd | 398 |
 | [BETH802](https://precinct.netpress.com/#07-BETH802) | Bethel Island; Bradford Isl Levee Rd, Franks Tract | 2 |
 | [BETH803](https://precinct.netpress.com/#07-BETH803) | San Joaquin River, Sand Mound Slough | 0 |
-| [BETH804](https://precinct.netpress.com/#07-BETH804) |  | 0 |
+| [BETH804](https://precinct.netpress.com/#07-BETH804) | Along Ranch Ln | 0 |
 | [BETH805](https://precinct.netpress.com/#07-BETH805) | Jersey Island Rd, Ferry Rd, Taylor Slough | 0 |
 | [BKDI101](https://precinct.netpress.com/#07-BKDI101) | Briones Valley Rd, John Marsh Rd, Wetzel Ln | 415 |
 | [BKDI102](https://precinct.netpress.com/#07-BKDI102) | Briones Valley Rd, Marsh Creek Rd | 22 |
 | [BKDI103](https://precinct.netpress.com/#07-BKDI103) | Balfour Rd, Harris Ranch Rd | 14 |
 | [BKDI801](https://precinct.netpress.com/#07-BKDI801) | Somersville Rd | 0 |
 | [BKDI802](https://precinct.netpress.com/#07-BKDI802) | Chadbourne Rd | 0 |
-| [BKDI906](https://precinct.netpress.com/#07-BKDI906) |  | 0 |
+| [BKDI906](https://precinct.netpress.com/#07-BKDI906) | Along Deer Valley Rd and Balfour Rd | 0 |
 | [BKDI909](https://precinct.netpress.com/#07-BKDI909) | Chadbourne Rd, Deer Valley Rd | 0 |
 | [BKDI910](https://precinct.netpress.com/#07-BKDI910) | Oil Canyon Rd, Somersville Rd, Stewartville Trl | 0 |
 | [BKHW101](https://precinct.netpress.com/#07-BKHW101) | Blackhawk; Deer Meadow Dr, Blackhawk Rd | 2,191 |
@@ -191,19 +191,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [BREN137](https://precinct.netpress.com/#07-BREN137) | Brentwood; Outrigger Cir, Stonewood Dr | 1,091 |
 | [BREN138](https://precinct.netpress.com/#07-BREN138) | Brentwood; Summer Cir, Marsh Creek Trl | 363 |
 | [BREN139](https://precinct.netpress.com/#07-BREN139) | Brentwood; Fawnbrook, Timberline Ter | 423 |
-| [BREN140](https://precinct.netpress.com/#07-BREN140) | Brentwood | 7 |
+| [BREN140](https://precinct.netpress.com/#07-BREN140) | Brentwood; along Marsh Creek Regional Trl and Lone Tree Way | 7 |
 | [BREN801](https://precinct.netpress.com/#07-BREN801) | Brentwood; Central Blvd, Second St | 0 |
 | [BREN802](https://precinct.netpress.com/#07-BREN802) | Brentwood; E Sims Rd, Sims Rd | 7 |
-| [BREN803](https://precinct.netpress.com/#07-BREN803) |  | 5 |
-| [BREN804](https://precinct.netpress.com/#07-BREN804) |  | 6 |
+| [BREN803](https://precinct.netpress.com/#07-BREN803) | Brentwood; near Brentwood Blvd | 5 |
+| [BREN804](https://precinct.netpress.com/#07-BREN804) | Near Lone Tree Way | 6 |
 | [BREN805](https://precinct.netpress.com/#07-BREN805) | Brentwood and Antioch; Carado Valley Rd, Heidorn Ranch Rd | 5 |
-| [BREN806](https://precinct.netpress.com/#07-BREN806) |  | 2 |
+| [BREN806](https://precinct.netpress.com/#07-BREN806) | Near Campanello Way | 2 |
 | [BREN807](https://precinct.netpress.com/#07-BREN807) | Lone Tree Way | 1 |
-| [BREN808](https://precinct.netpress.com/#07-BREN808) | Brentwood | 7 |
+| [BREN808](https://precinct.netpress.com/#07-BREN808) | Brentwood; along Old Stagecoach Rd | 7 |
 | [BREN809](https://precinct.netpress.com/#07-BREN809) | Pomona Dr | 4 |
 | [BREN901](https://precinct.netpress.com/#07-BREN901) | Brentwood | 0 |
 | [BREN904](https://precinct.netpress.com/#07-BREN904) | Brentwood; Jeffery Way, Heidorn Ranch Rd | 0 |
-| [BREN905](https://precinct.netpress.com/#07-BREN905) |  | 0 |
+| [BREN905](https://precinct.netpress.com/#07-BREN905) | Brentwood; near Saint Andrews Dr | 0 |
 | [BRHL101](https://precinct.netpress.com/#07-BRHL101) | Reliez Valley; Laird Ln, Francis Dr | 107 |
 | [BRHL102](https://precinct.netpress.com/#07-BRHL102) | Reliez Valley; Greenhills Dr, Chapparal Ln | 98 |
 | [BRHL103](https://precinct.netpress.com/#07-BRHL103) | Reliez Valley; Pleasant Hill Rd, Withers Ave | 676 |
@@ -217,18 +217,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [BRHL802](https://precinct.netpress.com/#07-BRHL802) | Reliez Valley | 1 |
 | [BRHL803](https://precinct.netpress.com/#07-BRHL803) | Reliez Valley | 0 |
 | [BRHL804](https://precinct.netpress.com/#07-BRHL804) | Spengler Trl, Alhambra Creek Trl, Briones Crest Trl | 0 |
-| [BRVL101](https://precinct.netpress.com/#07-BRVL101) | Clayton | 34 |
+| [BRVL101](https://precinct.netpress.com/#07-BRVL101) | Clayton; along Marsh Creek Rd | 34 |
 | [BRVL102](https://precinct.netpress.com/#07-BRVL102) | Marsh Creek Rd | 16 |
 | [BRVL103](https://precinct.netpress.com/#07-BRVL103) | Trail Ride Rd, Upper Trl, Marsh Creek Rd | 164 |
 | [BRVL104](https://precinct.netpress.com/#07-BRVL104) | Curry Canyon Rd, Morgan Territory Rd, Finley Rd | 49 |
 | [BRVL105](https://precinct.netpress.com/#07-BRVL105) | Leon Dr, Morgan Territory Rd, Leon Ct | 307 |
 | [BRVL106](https://precinct.netpress.com/#07-BRVL106) | Diablo Downs Dr, Coachman Pl, Mitchell Canyon Rd | 115 |
 | [BRVL801](https://precinct.netpress.com/#07-BRVL801) | Concord | 7 |
-| [BRVL802](https://precinct.netpress.com/#07-BRVL802) |  | 2 |
+| [BRVL802](https://precinct.netpress.com/#07-BRVL802) | Near Bragdon Way | 2 |
 | [BRVL803](https://precinct.netpress.com/#07-BRVL803) | Sycamore Springs Rd | 9 |
 | [BRVL804](https://precinct.netpress.com/#07-BRVL804) | Bragdon Way, Bragden Way | 6 |
 | [BRVL805](https://precinct.netpress.com/#07-BRVL805) | Kaiser Quarry Rd | 8 |
-| [BRVL806](https://precinct.netpress.com/#07-BRVL806) |  | 0 |
+| [BRVL806](https://precinct.netpress.com/#07-BRVL806) | Near Marsh Creek Rd | 0 |
 | [BRVL807](https://precinct.netpress.com/#07-BRVL807) | Mitchell Canyon Rd, Kaiser Quarry Rd, Trl | 0 |
 | [BRVL808](https://precinct.netpress.com/#07-BRVL808) | Russelmann Park Rd, Trail Ride Rd, Lower Trail Rd | 0 |
 | [BRVL809](https://precinct.netpress.com/#07-BRVL809) | Oak Hill Ln, Curry Canyon Rd | 0 |
@@ -248,18 +248,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [BYRN808](https://precinct.netpress.com/#07-BYRN808) | Eucalyptus Island Lagoon, Old River, Herdlyn Rd | 3 |
 | [BYRN809](https://precinct.netpress.com/#07-BYRN809) | Highway 4 | 10 |
 | [BYRN810](https://precinct.netpress.com/#07-BYRN810) | Highway 4 | 7 |
-| [BYRN811](https://precinct.netpress.com/#07-BYRN811) |  | 1 |
+| [BYRN811](https://precinct.netpress.com/#07-BYRN811) | Byron; near Camino Diablo Rd | 1 |
 | [BYRN812](https://precinct.netpress.com/#07-BYRN812) | W Camino Diablo Rd | 22 |
-| [BYRN814](https://precinct.netpress.com/#07-BYRN814) |  | 0 |
+| [BYRN814](https://precinct.netpress.com/#07-BYRN814) | Near Cam Diablo | 0 |
 | [BYRN816](https://precinct.netpress.com/#07-BYRN816) | Silver Hills Dr, Walnut Blvd, Vasco Rd | 9 |
 | [BYRN818](https://precinct.netpress.com/#07-BYRN818) | Byron; McCabe Dr, 1st St | 4 |
 | [BYRN819](https://precinct.netpress.com/#07-BYRN819) | Byron; Co Hwy J4, Byron Hwy | 8 |
-| [BYRN820](https://precinct.netpress.com/#07-BYRN820) |  | 0 |
+| [BYRN820](https://precinct.netpress.com/#07-BYRN820) | Along W Camino Diablo Rd | 0 |
 | [BYRN822](https://precinct.netpress.com/#07-BYRN822) | Brentwood Blvd | 9 |
 | [BYRN823](https://precinct.netpress.com/#07-BYRN823) | Cam Diablo, Walnut Blvd, Vasco Rd | 9 |
 | [BYRN904](https://precinct.netpress.com/#07-BYRN904) | Cam Diablo, Camino Diablo Rd | 0 |
 | [BYRN905](https://precinct.netpress.com/#07-BYRN905) | Western Farms Ranch Rd, Italian Slough, Hay Rd | 0 |
-| [BYRN906](https://precinct.netpress.com/#07-BYRN906) |  | 0 |
+| [BYRN906](https://precinct.netpress.com/#07-BYRN906) | Along Highway 4 | 0 |
 | [CALD801](https://precinct.netpress.com/#07-CALD801) | Skyline Blvd, Starkville Ct, Starkeville Ct | 7 |
 | [CALD802](https://precinct.netpress.com/#07-CALD802) | Old Tunnel Rd, Grizzly Peak Blvd, Highway 24 | 2 |
 | [CALD803](https://precinct.netpress.com/#07-CALD803) | Fish Ranch Rd, Highway 24 | 5 |
@@ -270,10 +270,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [CANY804](https://precinct.netpress.com/#07-CANY804) | Pinehurst Rd | 1 |
 | [CANY805](https://precinct.netpress.com/#07-CANY805) | Pinehurst Rd, Ridge Top Rd, E Ridge Trl | 0 |
 | [CASR101](https://precinct.netpress.com/#07-CASR101) | North Gate and Walnut Creek; Castle Rock Rd, Pine Creek Rd | 106 |
-| [CASR102](https://precinct.netpress.com/#07-CASR102) |  | 13 |
-| [CASR103](https://precinct.netpress.com/#07-CASR103) |  | 16 |
+| [CASR102](https://precinct.netpress.com/#07-CASR102) | North Gate; near Castle Rock Rd | 13 |
+| [CASR103](https://precinct.netpress.com/#07-CASR103) | Along Pine Creek Rd | 16 |
 | [CASR104](https://precinct.netpress.com/#07-CASR104) | North Gate; Trails End Dr, Northgate Woods Ct | 422 |
-| [CASR801](https://precinct.netpress.com/#07-CASR801) |  | 0 |
+| [CASR801](https://precinct.netpress.com/#07-CASR801) | Along Castle Rock Rd | 0 |
 | [CASR802](https://precinct.netpress.com/#07-CASR802) | N Gate Rd, Briones To Mt Diablo Regional | 3 |
 | [CASR902](https://precinct.netpress.com/#07-CASR902) | North Gate; Pine Creek Rd | 0 |
 | [CHIL101](https://precinct.netpress.com/#07-CHIL101) | Castle Hill; Castle Hill Ranch Rd, Montecillo Dr | 868 |
@@ -334,13 +334,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [CONC147](https://precinct.netpress.com/#07-CONC147) | Concord; Olive Dr, Kenwal Rd | 2,704 |
 | [CONC148](https://precinct.netpress.com/#07-CONC148) | Concord; Apple Dr, Pear Dr | 926 |
 | [CONC801](https://precinct.netpress.com/#07-CONC801) | Concord; Mount Hood Cir, Hamilton Ave | 0 |
-| [CONC802](https://precinct.netpress.com/#07-CONC802) |  | 7 |
+| [CONC802](https://precinct.netpress.com/#07-CONC802) | Walnut Creek; near Bancroft Rd | 7 |
 | [CONC803](https://precinct.netpress.com/#07-CONC803) | Concord; Willow Way, Santa Monica Dr | 2 |
 | [CONC804](https://precinct.netpress.com/#07-CONC804) | John Glenn Dr | 1 |
 | [CONC805](https://precinct.netpress.com/#07-CONC805) | Concord; Arnold Industrial Pl | 2 |
 | [CONC806](https://precinct.netpress.com/#07-CONC806) | Iron Horse | 0 |
 | [CONC807](https://precinct.netpress.com/#07-CONC807) | Concord; Stanwell Dr, Bisso Ln | 12 |
-| [CONC901](https://precinct.netpress.com/#07-CONC901) | Concord | 0 |
+| [CONC901](https://precinct.netpress.com/#07-CONC901) | Concord; along Monument Blvd and Systron Dr | 0 |
 | [CROC101](https://precinct.netpress.com/#07-CROC101) | Crockett; Winslow St, Duperu Dr | 1,520 |
 | [CROC102](https://precinct.netpress.com/#07-CROC102) | Crockett; Kendall Ave, Vista del Rio St | 817 |
 | [CROC801](https://precinct.netpress.com/#07-CROC801) | Crockett; Cummings Skwy, Crockett Blvd | 4 |
@@ -362,8 +362,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [DANV114](https://precinct.netpress.com/#07-DANV114) | Danville; El Pintado Rd, Highbridge Ln | 1,966 |
 | [DANV115](https://precinct.netpress.com/#07-DANV115) | Danville; Fountain Springs Cir, Ridgeland Cir | 782 |
 | [DANV116](https://precinct.netpress.com/#07-DANV116) | Danville; Highland Dr, Town and Country Dr | 2,324 |
-| [DANV801](https://precinct.netpress.com/#07-DANV801) |  | 2 |
-| [DANV802](https://precinct.netpress.com/#07-DANV802) |  | 0 |
+| [DANV801](https://precinct.netpress.com/#07-DANV801) | Danville; near Cross Bridge Dr | 2 |
+| [DANV802](https://precinct.netpress.com/#07-DANV802) | Along Tassajara Ln | 0 |
 | [DANV902](https://precinct.netpress.com/#07-DANV902) | Danville | 0 |
 | [DBAY101](https://precinct.netpress.com/#07-DBAY101) | Chestnut St, Arabian Ln, Oak St | 40 |
 | [DBAY102](https://precinct.netpress.com/#07-DBAY102) | Sellers Ave, Balfour Rd | 37 |
@@ -396,7 +396,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [ELCR107](https://precinct.netpress.com/#07-ELCR107) | El Cerrito; Kearney St, Highway 123 | 2,402 |
 | [ELCR108](https://precinct.netpress.com/#07-ELCR108) | El Cerrito; Donal Ave, Julian Dr | 1,419 |
 | [ELCR109](https://precinct.netpress.com/#07-ELCR109) | El Cerrito; Balra Dr, Galvin Dr | 1,557 |
-| [ELCR802](https://precinct.netpress.com/#07-ELCR802) |  | 3 |
+| [ELCR802](https://precinct.netpress.com/#07-ELCR802) | El Cerrito; near Zara Ave | 3 |
 | [ELSO101](https://precinct.netpress.com/#07-ELSO101) | El Sobrante; Forest Rd, Live Oak Cir | 20 |
 | [ELSO102](https://precinct.netpress.com/#07-ELSO102) | El Sobrante and Richmond; Hillside Dr, Duarte | 225 |
 | [ELSO103](https://precinct.netpress.com/#07-ELSO103) | El Sobrante; La Colina Rd, Wesley Way | 2,782 |
@@ -410,17 +410,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [ELSO801](https://precinct.netpress.com/#07-ELSO801) | Kirkpatrick Dr | 0 |
 | [ELSO802](https://precinct.netpress.com/#07-ELSO802) | Monte Verde Rd | 2 |
 | [ELSO803](https://precinct.netpress.com/#07-ELSO803) | Oak Knoll Rd | 2 |
-| [ELSO805](https://precinct.netpress.com/#07-ELSO805) |  | 0 |
-| [ELSO806](https://precinct.netpress.com/#07-ELSO806) |  | 4 |
+| [ELSO805](https://precinct.netpress.com/#07-ELSO805) | El Sobrante; near Skyline Dr | 0 |
+| [ELSO806](https://precinct.netpress.com/#07-ELSO806) | Richmond; near Duarte | 4 |
 | [ELSO807](https://precinct.netpress.com/#07-ELSO807) | Rancho Rd | 1 |
-| [ELSO808](https://precinct.netpress.com/#07-ELSO808) |  | 1 |
+| [ELSO808](https://precinct.netpress.com/#07-ELSO808) | El Sobrante; near S Rancho Rd | 1 |
 | [ELSO809](https://precinct.netpress.com/#07-ELSO809) | Ingroff Rd, Monte Verde Rd | 2 |
-| [ELSO810](https://precinct.netpress.com/#07-ELSO810) |  | 6 |
+| [ELSO810](https://precinct.netpress.com/#07-ELSO810) | Along Laurel Ln | 6 |
 | [ELSO811](https://precinct.netpress.com/#07-ELSO811) | Old San Pablo Dam Rd, San Pablo Reservoir, Bear Creek Rd | 2 |
-| [ELSO812](https://precinct.netpress.com/#07-ELSO812) |  | 0 |
+| [ELSO812](https://precinct.netpress.com/#07-ELSO812) | El Sobrante; near Valley View Rd | 0 |
 | [ELSO813](https://precinct.netpress.com/#07-ELSO813) | Fieldcrest Dr | 8 |
 | [ELSO902](https://precinct.netpress.com/#07-ELSO902) | Oursan Trl, Briones Reservoir, Hampton Rd | 0 |
-| [ELSO903](https://precinct.netpress.com/#07-ELSO903) |  | 0 |
+| [ELSO903](https://precinct.netpress.com/#07-ELSO903) | Along Castro Ranch Rd | 0 |
 | [ELSO904](https://precinct.netpress.com/#07-ELSO904) | San Pablo Reservoir, Old San Pablo Dam Rd, San Pablo Dam Rd | 0 |
 | [ELSO905](https://precinct.netpress.com/#07-ELSO905) | Bay Area Ridge Trl, Fire Trl 74-18, Pinole Valley Rd | 0 |
 | [ERIC101](https://precinct.netpress.com/#07-ERIC101) | El Sobrante; N Arlington Blvd, Rose Arbor Ave | 585 |
@@ -445,7 +445,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [KENS102](https://precinct.netpress.com/#07-KENS102) | Kensington; Highland Blvd, Summit Reservoir | 2,146 |
 | [KENS801](https://precinct.netpress.com/#07-KENS801) | Kensington; Jewel Lake, Briar Canyon Trl | 0 |
 | [KENS802](https://precinct.netpress.com/#07-KENS802) | Lake Anza, Seaview Dr, S Park Dr | 2 |
-| [KENS803](https://precinct.netpress.com/#07-KENS803) |  | 5 |
+| [KENS803](https://precinct.netpress.com/#07-KENS803) | Along Beloit Ave | 5 |
 | [KENS903](https://precinct.netpress.com/#07-KENS903) | Wildcat Canyon Rd, El Toyonal | 0 |
 | [KNGT101](https://precinct.netpress.com/#07-KNGT101) | Knightsen; Sellers Ave, Peach Ln | 65 |
 | [KNGT102](https://precinct.netpress.com/#07-KNGT102) | Knightsen; Virginia Ln, E Cypress Rd | 60 |
@@ -467,27 +467,27 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [KNGT118](https://precinct.netpress.com/#07-KNGT118) | Tranquility Bay Rd, Holland Tract Rd, Sand Mound Slough | 13 |
 | [KNGT119](https://precinct.netpress.com/#07-KNGT119) | Knightsen; Sellers Ave, Whistle Stop Ln | 30 |
 | [KNGT120](https://precinct.netpress.com/#07-KNGT120) | Knightsen; Pastor Ln, Ohmsteded Rd | 78 |
-| [KNGT801](https://precinct.netpress.com/#07-KNGT801) |  | 8 |
-| [KNGT802](https://precinct.netpress.com/#07-KNGT802) | Knightsen | 0 |
-| [KNGT803](https://precinct.netpress.com/#07-KNGT803) |  | 4 |
+| [KNGT801](https://precinct.netpress.com/#07-KNGT801) | Knightsen; near Tule Ln | 8 |
+| [KNGT802](https://precinct.netpress.com/#07-KNGT802) | Knightsen; along Knightsen Ave | 0 |
+| [KNGT803](https://precinct.netpress.com/#07-KNGT803) | Knightsen; near Sellers Ave | 4 |
 | [KNGT804](https://precinct.netpress.com/#07-KNGT804) | Neroly Pvt Rd, Delta Rd | 8 |
-| [KNGT805](https://precinct.netpress.com/#07-KNGT805) |  | 0 |
-| [KNGT806](https://precinct.netpress.com/#07-KNGT806) |  | 0 |
-| [KNGT807](https://precinct.netpress.com/#07-KNGT807) |  | 3 |
-| [KNGT809](https://precinct.netpress.com/#07-KNGT809) |  | 7 |
+| [KNGT805](https://precinct.netpress.com/#07-KNGT805) | Knightsen; near Delta Rd | 0 |
+| [KNGT806](https://precinct.netpress.com/#07-KNGT806) | Along N Eden Plains Rd and Eden Plains Rd | 0 |
+| [KNGT807](https://precinct.netpress.com/#07-KNGT807) | Knightsen; near Knightsen Ave | 3 |
+| [KNGT809](https://precinct.netpress.com/#07-KNGT809) | Along Delta Rd | 7 |
 | [KNGT810](https://precinct.netpress.com/#07-KNGT810) | Holland Tract Rd, Dutch Slough, San Joaquin River | 5 |
-| [KNGT811](https://precinct.netpress.com/#07-KNGT811) |  | 1 |
-| [KNGT812](https://precinct.netpress.com/#07-KNGT812) |  | 2 |
+| [KNGT811](https://precinct.netpress.com/#07-KNGT811) | Knightsen; near Delta Rd | 1 |
+| [KNGT812](https://precinct.netpress.com/#07-KNGT812) | Near Ridgewood Ct | 2 |
 | [KNGT813](https://precinct.netpress.com/#07-KNGT813) | Z, Old River, Fallman Rd | 5 |
-| [KNGT814](https://precinct.netpress.com/#07-KNGT814) |  | 6 |
+| [KNGT814](https://precinct.netpress.com/#07-KNGT814) | Near Sellers Ave | 6 |
 | [LAST101](https://precinct.netpress.com/#07-LAST101) | Holly Ct | 8 |
 | [LAST102](https://precinct.netpress.com/#07-LAST102) | Bollinger Cyn, Rocky Ridge Rd, Las Trampas Ridge Trl | 63 |
-| [LAST801](https://precinct.netpress.com/#07-LAST801) |  | 10 |
+| [LAST801](https://precinct.netpress.com/#07-LAST801) | Along Bollinger Cyn | 10 |
 | [LAST802](https://precinct.netpress.com/#07-LAST802) | Las Trampas Ridge Trl Acc, Las Trampas Ridge Trl, Bollinger Estates Ct | 1 |
 | [LAST901](https://precinct.netpress.com/#07-LAST901) | Kuss Rd | 0 |
 | [LFET101](https://precinct.netpress.com/#07-LFET101) | Lafayette; Robert Rd, Wendy Ln | 31 |
 | [LFET102](https://precinct.netpress.com/#07-LFET102) | Lafayette; Del Rey St, Elvia St | 247 |
-| [LFET103](https://precinct.netpress.com/#07-LFET103) | Lafayette and Moraga | 15 |
+| [LFET103](https://precinct.netpress.com/#07-LFET103) | Lafayette and Moraga; along St Marys Rd | 15 |
 | [LFET104](https://precinct.netpress.com/#07-LFET104) | Lafayette; Hunsaker Canyon Rd | 38 |
 | [LFET105](https://precinct.netpress.com/#07-LFET105) | Lafayette; Los Arabis Dr, Upper Happy Valley Rd | 2,176 |
 | [LFET106](https://precinct.netpress.com/#07-LFET106) | Lafayette; Rohrer Dr, Lucas Dr | 2,734 |
@@ -501,16 +501,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [LFET114](https://precinct.netpress.com/#07-LFET114) | Lafayette; Highway 24 | 0 |
 | [LFET115](https://precinct.netpress.com/#07-LFET115) | Cattle Chute Rd, St Marys Rd | 0 |
 | [LFET116](https://precinct.netpress.com/#07-LFET116) | Silverado Dr | 0 |
-| [LFET117](https://precinct.netpress.com/#07-LFET117) |  | 0 |
+| [LFET117](https://precinct.netpress.com/#07-LFET117) | Along Hunsaker Canyon Rd | 0 |
 | [LFET801](https://precinct.netpress.com/#07-LFET801) | Lafayette; Vis del Valle | 4 |
 | [MARC101](https://precinct.netpress.com/#07-MARC101) | Lydia Ln | 26 |
 | [MARC102](https://precinct.netpress.com/#07-MARC102) | Vasco Rd, Orchard Ln, Walnut Ave | 43 |
 | [MARC103](https://precinct.netpress.com/#07-MARC103) | Payne Ave, Concord Ave, Eureka Ave | 138 |
 | [MARC104](https://precinct.netpress.com/#07-MARC104) | Highway 4 | 29 |
 | [MARC105](https://precinct.netpress.com/#07-MARC105) | Payne Ave, Eureka Ave, Concord Ave | 91 |
-| [MARC801](https://precinct.netpress.com/#07-MARC801) |  | 0 |
+| [MARC801](https://precinct.netpress.com/#07-MARC801) | Near Sycamore Springs Rd | 0 |
 | [MARC802](https://precinct.netpress.com/#07-MARC802) | Church Rd | 0 |
-| [MARC803](https://precinct.netpress.com/#07-MARC803) |  | 7 |
+| [MARC803](https://precinct.netpress.com/#07-MARC803) | Near Walnut Ave | 7 |
 | [MARC805](https://precinct.netpress.com/#07-MARC805) | Hamand Ln | 0 |
 | [MARC905](https://precinct.netpress.com/#07-MARC905) | Lydia Ln, Vasco Rd | 0 |
 | [MARC909](https://precinct.netpress.com/#07-MARC909) | W Loop Trl | 0 |
@@ -537,7 +537,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [MART120](https://precinct.netpress.com/#07-MART120) | Martinez; Muir Rd, Polson Cir | 671 |
 | [MART121](https://precinct.netpress.com/#07-MART121) | Shady Glen, Park Glen, Estudillo St | 184 |
 | [MART122](https://precinct.netpress.com/#07-MART122) | Martinez; John Muir Rd, Milden Rd | 498 |
-| [MART123](https://precinct.netpress.com/#07-MART123) |  | 25 |
+| [MART123](https://precinct.netpress.com/#07-MART123) | Along Milden Rd | 25 |
 | [MART124](https://precinct.netpress.com/#07-MART124) | Martinez; Center Ave, Veterans Ct | 326 |
 | [MART125](https://precinct.netpress.com/#07-MART125) | Martinez; Vista Oaks Dr, Sentinel Dr | 464 |
 | [MART126](https://precinct.netpress.com/#07-MART126) | Martinez; Brooksview Ct, S Harbor View Dr | 177 |
@@ -563,14 +563,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [MART146](https://precinct.netpress.com/#07-MART146) | Martinez; Silva Ct, Morello Ave | 50 |
 | [MART802](https://precinct.netpress.com/#07-MART802) | Martinez; Orange St | 9 |
 | [MART803](https://precinct.netpress.com/#07-MART803) | Martinez | 2 |
-| [MART804](https://precinct.netpress.com/#07-MART804) |  | 0 |
+| [MART804](https://precinct.netpress.com/#07-MART804) | Martinez; near Alhambra Valley Rd | 0 |
 | [MART805](https://precinct.netpress.com/#07-MART805) | Martinez | 2 |
 | [MART806](https://precinct.netpress.com/#07-MART806) | Martinez; Cal Riding & Hiking Trl | 0 |
 | [MART808](https://precinct.netpress.com/#07-MART808) | Northridge Rd | 9 |
-| [MART809](https://precinct.netpress.com/#07-MART809) |  | 1 |
-| [MART810](https://precinct.netpress.com/#07-MART810) |  | 0 |
+| [MART809](https://precinct.netpress.com/#07-MART809) | Mountain View; near Pine St | 1 |
+| [MART810](https://precinct.netpress.com/#07-MART810) | Along Franklin Canyon Rd | 0 |
 | [MART811](https://precinct.netpress.com/#07-MART811) | Martinez | 2 |
-| [MART901](https://precinct.netpress.com/#07-MART901) | Martinez | 0 |
+| [MART901](https://precinct.netpress.com/#07-MART901) | Martinez; along Pacheco Blvd | 0 |
 | [MART907](https://precinct.netpress.com/#07-MART907) | Martinez; Mococo, Mococo Rd | 0 |
 | [MART909](https://precinct.netpress.com/#07-MART909) | Hillside Pl, Arabian Hts, Arabia Hts | 0 |
 | [MDIA801](https://precinct.netpress.com/#07-MDIA801) | Mount Diablo Scenic Blvd, S Gate Rd | 0 |
@@ -591,19 +591,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [MVIE103](https://precinct.netpress.com/#07-MVIE103) | Mountain View; Potter St, Martinez Ave | 43 |
 | [MVIE801](https://precinct.netpress.com/#07-MVIE801) | Lop South Rd, Lop Center Rd, Lop North Rd | 1 |
 | [NCYN101](https://precinct.netpress.com/#07-NCYN101) | Norris Canyon; Ashbourne Cir, Hawkshead Cir | 897 |
-| [NCYN801](https://precinct.netpress.com/#07-NCYN801) |  | 2 |
-| [NCYN802](https://precinct.netpress.com/#07-NCYN802) | Norris Canyon | 3 |
-| [NCYN803](https://precinct.netpress.com/#07-NCYN803) | Norris Canyon | 5 |
-| [NCYN804](https://precinct.netpress.com/#07-NCYN804) | Norris Canyon | 0 |
-| [NCYN805](https://precinct.netpress.com/#07-NCYN805) |  | 3 |
-| [NCYN806](https://precinct.netpress.com/#07-NCYN806) |  | 2 |
+| [NCYN801](https://precinct.netpress.com/#07-NCYN801) | San Ramon; near Cree Ct | 2 |
+| [NCYN802](https://precinct.netpress.com/#07-NCYN802) | Norris Canyon; along Winford Ct | 3 |
+| [NCYN803](https://precinct.netpress.com/#07-NCYN803) | Norris Canyon; along Norris Canyon Rd | 5 |
+| [NCYN804](https://precinct.netpress.com/#07-NCYN804) | Norris Canyon; along Norris Canyon Rd | 0 |
+| [NCYN805](https://precinct.netpress.com/#07-NCYN805) | Norris Canyon; near Norris Canyon Rd | 3 |
+| [NCYN806](https://precinct.netpress.com/#07-NCYN806) | Norris Canyon; near Norris Canyon Rd | 2 |
 | [NICH801](https://precinct.netpress.com/#07-NICH801) | Bay Point; Nichols Rd, Avila Rd | 5 |
 | [NICH802](https://precinct.netpress.com/#07-NICH802) | Bay Point; Pier 4 Trestle Rd, Sacramento River | 1 |
 | [NRIC101](https://precinct.netpress.com/#07-NRIC101) | North Richmond; Battery St, Willard Ave | 242 |
 | [NRIC102](https://precinct.netpress.com/#07-NRIC102) | North Richmond; Parr Blvd, Garden Tract Rd | 650 |
 | [NRIC103](https://precinct.netpress.com/#07-NRIC103) | North Richmond; Verde Ave, Giaramita St | 726 |
 | [NRIC801](https://precinct.netpress.com/#07-NRIC801) | North Richmond; Protectocoat Ln | 0 |
-| [NRIC802](https://precinct.netpress.com/#07-NRIC802) |  | 0 |
+| [NRIC802](https://precinct.netpress.com/#07-NRIC802) | North Richmond; near W Gertrude Ave | 0 |
 | [NRIC803](https://precinct.netpress.com/#07-NRIC803) | North Richmond; 7th St | 0 |
 | [NRIC804](https://precinct.netpress.com/#07-NRIC804) | North Richmond; Da Villa, Niemeyer Ave | 13 |
 | [NRIC805](https://precinct.netpress.com/#07-NRIC805) | Protectocoat Ln | 0 |
@@ -612,7 +612,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [NRTV801](https://precinct.netpress.com/#07-NRTV801) | S Hess Rd | 4 |
 | [NRTV802](https://precinct.netpress.com/#07-NRTV802) | Nortonville Rd, Hess Rd, Cumberland Trl | 8 |
 | [NRTV904](https://precinct.netpress.com/#07-NRTV904) | Pittsburg; Bailey Rd | 0 |
-| [NRTV905](https://precinct.netpress.com/#07-NRTV905) |  | 0 |
+| [NRTV905](https://precinct.netpress.com/#07-NRTV905) | Along Bailey Rd and Oakpoint Ct | 0 |
 | [NRTV908](https://precinct.netpress.com/#07-NRTV908) | Kirker Pass Rd | 0 |
 | [OKLY101](https://precinct.netpress.com/#07-OKLY101) | Oakley and Brentwood; Brownstone Rd, Blakesmith Cir | 306 |
 | [OKLY102](https://precinct.netpress.com/#07-OKLY102) | Oakley; Meadows Ln, Creekside Way | 404 |
@@ -660,9 +660,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [OKLY144](https://precinct.netpress.com/#07-OKLY144) | Oakley; Chardonnay Dr, Teakwood Dr | 378 |
 | [OKLY145](https://precinct.netpress.com/#07-OKLY145) | Oakley; W Cyoress Rd, W Cypress Rd | 4 |
 | [OKLY801](https://precinct.netpress.com/#07-OKLY801) | Oakley; Neroly Rd, Empire Ave | 4 |
-| [OKLY802](https://precinct.netpress.com/#07-OKLY802) |  | 0 |
-| [OKLY803](https://precinct.netpress.com/#07-OKLY803) |  | 1 |
-| [OKLY804](https://precinct.netpress.com/#07-OKLY804) | Oakley | 5 |
+| [OKLY802](https://precinct.netpress.com/#07-OKLY802) | Oakley; near E Cypress Rd | 0 |
+| [OKLY803](https://precinct.netpress.com/#07-OKLY803) | Oakley; near Sellers Ave | 1 |
+| [OKLY804](https://precinct.netpress.com/#07-OKLY804) | Oakley; along Laurel Rd and Loren Ln | 5 |
 | [OKLY805](https://precinct.netpress.com/#07-OKLY805) | Oakley; Main St | 12 |
 | [OLEU101](https://precinct.netpress.com/#07-OLEU101) | Christie Rd, McHarry Ranch Rd, Barry Hill Rd | 35 |
 | [OLEU802](https://precinct.netpress.com/#07-OLEU802) | Back Ranch Loop, Kestrel Loop Trl, S Tree Frog Loop | 1 |
@@ -683,12 +683,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [ORDA802](https://precinct.netpress.com/#07-ORDA802) | Orinda; El Toyonal, Seaview Trl | 0 |
 | [ORDA803](https://precinct.netpress.com/#07-ORDA803) | Orinda; Gateway Blvd, Orinda Bart Station | 0 |
 | [ORDA804](https://precinct.netpress.com/#07-ORDA804) | Orinda; Cam Encinas, Brookwood Rd | 0 |
-| [ORDA902](https://precinct.netpress.com/#07-ORDA902) | Orinda | 0 |
+| [ORDA902](https://precinct.netpress.com/#07-ORDA902) | Orinda; along Bear Creek Rd and Manzanita Dr | 0 |
 | [PACH101](https://precinct.netpress.com/#07-PACH101) | Paso Nogal Rd, Macgregor Rd, Golf Club Rd | 137 |
 | [PACH102](https://precinct.netpress.com/#07-PACH102) | Pacheco and Martinez; Temple Dr, Raymond Dr | 1,407 |
 | [PACH103](https://precinct.netpress.com/#07-PACH103) | Pacheco and Martinez; 1st Ave S, High St | 277 |
 | [PACH104](https://precinct.netpress.com/#07-PACH104) | Pacheco; Berry Dr, Ave Flores | 988 |
-| [PACH801](https://precinct.netpress.com/#07-PACH801) |  | 4 |
+| [PACH801](https://precinct.netpress.com/#07-PACH801) | Near Alhambra Ave | 4 |
 | [PACH802](https://precinct.netpress.com/#07-PACH802) | Pacheco; Sally Ride Dr, Buchanan Field Rd | 4 |
 | [PCHI903](https://precinct.netpress.com/#07-PCHI903) | Pt Chicago Hwy, Suisun Bay, Kinney Blvd | 0 |
 | [PINL101](https://precinct.netpress.com/#07-PINL101) | Pinole; Adobe Rd, Pinole Valley Rd | 12 |
@@ -702,7 +702,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [PINL109](https://precinct.netpress.com/#07-PINL109) | Pinole; Maloney Reservoir, Nob Hill Ave | 2,613 |
 | [PINL110](https://precinct.netpress.com/#07-PINL110) | Pinole; Estates Ave, Ponderosa Trl | 2,173 |
 | [PINL801](https://precinct.netpress.com/#07-PINL801) | Pinole; N Rancho Ct | 14 |
-| [PINL802](https://precinct.netpress.com/#07-PINL802) |  | 6 |
+| [PINL802](https://precinct.netpress.com/#07-PINL802) | Along Appian Way | 6 |
 | [PINL903](https://precinct.netpress.com/#07-PINL903) | Pinole; Pinole Valley Rd | 0 |
 | [PLHL101](https://precinct.netpress.com/#07-PLHL101) | Pleasant Hill; Flaming Oak Dr, Scarlet Oak Ct | 147 |
 | [PLHL102](https://precinct.netpress.com/#07-PLHL102) | Pleasant Hill; Apollo Way, Madeira Way | 917 |
@@ -720,7 +720,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [PLHL114](https://precinct.netpress.com/#07-PLHL114) | Pleasant Hill; Lucille Ln, Shirley Dr | 1,890 |
 | [PLHL115](https://precinct.netpress.com/#07-PLHL115) | Pleasant Hill; Viking Dr, Norse Dr | 1,653 |
 | [PLHL116](https://precinct.netpress.com/#07-PLHL116) | Pleasant Hill; Grayson Rd, Woodside Meadows Rd | 1,645 |
-| [PLHL117](https://precinct.netpress.com/#07-PLHL117) | Pleasant Hill | 70 |
+| [PLHL117](https://precinct.netpress.com/#07-PLHL117) | Pleasant Hill; along Coggins Dr and Juana Ct | 70 |
 | [PLHL118](https://precinct.netpress.com/#07-PLHL118) | Pleasant Hill; Hook Ave, Esther Dr | 346 |
 | [PLHL119](https://precinct.netpress.com/#07-PLHL119) | Pleasant Hill; Contra Costa Blvd, W Hookston Rd | 634 |
 | [PLHL120](https://precinct.netpress.com/#07-PLHL120) | Pleasant Hill; St Germain Ln, Netherby Pl | 416 |
@@ -757,7 +757,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [PTTS121](https://precinct.netpress.com/#07-PTTS121) | Pittsburg; Brooktrail Dr, Oak Crest Pl | 782 |
 | [PTTS122](https://precinct.netpress.com/#07-PTTS122) | Pittsburg; Lakeview Cir, E Leland Rd | 121 |
 | [PTTS123](https://precinct.netpress.com/#07-PTTS123) | Pittsburg and Bay Point; Woodhill Dr, Oak Hills Dr | 2,695 |
-| [PTTS801](https://precinct.netpress.com/#07-PTTS801) | Pittsburg | 28 |
+| [PTTS801](https://precinct.netpress.com/#07-PTTS801) | Pittsburg; along Buchanan Rd | 28 |
 | [PTTS802](https://precinct.netpress.com/#07-PTTS802) | Pittsburg; Century Blvd, Delta Gateway Blvd | 5 |
 | [PTTS803](https://precinct.netpress.com/#07-PTTS803) | Pittsburg | 0 |
 | [PTTS804](https://precinct.netpress.com/#07-PTTS804) | Pittsburg | 0 |
@@ -820,22 +820,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [RICH802](https://precinct.netpress.com/#07-RICH802) | Richmond; S 13th St | 0 |
 | [RICH803](https://precinct.netpress.com/#07-RICH803) | Clark-Boas Trl, Clark-Boas | 0 |
 | [RICH804](https://precinct.netpress.com/#07-RICH804) | Richmond; Tri Ln | 4 |
-| [RICH805](https://precinct.netpress.com/#07-RICH805) |  | 3 |
+| [RICH805](https://precinct.netpress.com/#07-RICH805) | Along Bernhard Ave | 3 |
 | [RICH806](https://precinct.netpress.com/#07-RICH806) | Richmond; Goodrick Ave | 0 |
-| [RICH807](https://precinct.netpress.com/#07-RICH807) |  | 0 |
+| [RICH807](https://precinct.netpress.com/#07-RICH807) | Along Tri Ln | 0 |
 | [RICH808](https://precinct.netpress.com/#07-RICH808) | Richmond; Barranca St, Barranca Ave | 2 |
 | [RICH809](https://precinct.netpress.com/#07-RICH809) | Richmond; Freethy Blvd, Elmar Ct | 0 |
 | [RICH810](https://precinct.netpress.com/#07-RICH810) | Richmond; Goodrick Ave, San Pablo Bay | 1 |
 | [RICH811](https://precinct.netpress.com/#07-RICH811) | Richmond; Radiant Ave, Parr Blvd | 18 |
 | [RICH812](https://precinct.netpress.com/#07-RICH812) | Richmond; Chesley Ave | 0 |
-| [RICH813](https://precinct.netpress.com/#07-RICH813) | Richmond | 0 |
+| [RICH813](https://precinct.netpress.com/#07-RICH813) | Richmond; along Chesley Ave | 0 |
 | [RICH815](https://precinct.netpress.com/#07-RICH815) | Richmond; Rydin Rd, Isabel St | 0 |
 | [RICH817](https://precinct.netpress.com/#07-RICH817) | Richmond; Monte Cresta Ave, San Pablo Rdg | 1 |
 | [RICH903](https://precinct.netpress.com/#07-RICH903) | Richmond; Wildcat Canyon Pkwy, Park Ave | 0 |
 | [RICH907](https://precinct.netpress.com/#07-RICH907) | Richmond; Duarte, Duarte Trl | 0 |
 | [RICH910](https://precinct.netpress.com/#07-RICH910) | Richmond; Mc Bryde Ave | 0 |
 | [RICH911](https://precinct.netpress.com/#07-RICH911) | Richmond; San Pablo Bay | 0 |
-| [RICH912](https://precinct.netpress.com/#07-RICH912) | Richmond | 0 |
+| [RICH912](https://precinct.netpress.com/#07-RICH912) | Richmond; along Garden Tract Rd | 0 |
 | [RICH913](https://precinct.netpress.com/#07-RICH913) | Richmond; San Pablo Ridge Trl, Skyline National Trl | 0 |
 | [RODO101](https://precinct.netpress.com/#07-RODO101) | Rodeo; Union Oil Company, San Pablo Bay | 326 |
 | [RODO102](https://precinct.netpress.com/#07-RODO102) | Rodeo; Vaqueros Ave, Parker Ave | 2,871 |
@@ -905,32 +905,32 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [SRAM140](https://precinct.netpress.com/#07-SRAM140) | San Ramon; Laurelspur Loop, Sky Jasmine Way | 150 |
 | [SRAM141](https://precinct.netpress.com/#07-SRAM141) | Canyon Side Ave, Canyon Hills Rd, Cortona Dr | 72 |
 | [SRAM142](https://precinct.netpress.com/#07-SRAM142) | Canyon Green Dr, Canyon Green Pl, Canyon Green Ct | 102 |
-| [SRAM143](https://precinct.netpress.com/#07-SRAM143) |  | 21 |
+| [SRAM143](https://precinct.netpress.com/#07-SRAM143) | Along Santa Rosa Ave | 21 |
 | [STMY101](https://precinct.netpress.com/#07-STMY101) | Sky View Ct, Knoll Dr | 30 |
 | [STMY102](https://precinct.netpress.com/#07-STMY102) | Valley Hill Dr, Bollinger Cyn | 56 |
-| [STMY103](https://precinct.netpress.com/#07-STMY103) |  | 16 |
-| [STMY104](https://precinct.netpress.com/#07-STMY104) |  | 7 |
+| [STMY103](https://precinct.netpress.com/#07-STMY103) | Near Bollinger Creek Loop Trl | 16 |
+| [STMY104](https://precinct.netpress.com/#07-STMY104) | Along Bollinger Cyn | 7 |
 | [STMY105](https://precinct.netpress.com/#07-STMY105) | Bollinger Cyn | 17 |
 | [STMY106](https://precinct.netpress.com/#07-STMY106) | Quail Xing, Cam Pablo | 11 |
 | [STMY107](https://precinct.netpress.com/#07-STMY107) | Callahan Rd, Upper San Leandro Reservoir, Kaiser Creek Rd | 14 |
 | [STMY801](https://precinct.netpress.com/#07-STMY801) | Hunsaker Canyon Rd, Las Trampas Ridge Trl | 9 |
-| [STMY802](https://precinct.netpress.com/#07-STMY802) |  | 0 |
+| [STMY802](https://precinct.netpress.com/#07-STMY802) | Near Irvine Dr | 0 |
 | [STMY803](https://precinct.netpress.com/#07-STMY803) | Bollinger Cyn, Las Trampas Ridge Trl | 12 |
 | [TASJ101](https://precinct.netpress.com/#07-TASJ101) | Morgan Territory Rd, Doubletree Ln, Manning Rd | 144 |
 | [TASJ102](https://precinct.netpress.com/#07-TASJ102) | Doolan Rd, Cam Tassajara | 48 |
 | [TASJ103](https://precinct.netpress.com/#07-TASJ103) | Marciel Rd, Carneal Rd, Victorine Rd | 42 |
 | [TASJ104](https://precinct.netpress.com/#07-TASJ104) | Blackhawk; Johnston Rd, Finley Rd | 426 |
-| [TASJ801](https://precinct.netpress.com/#07-TASJ801) |  | 0 |
+| [TASJ801](https://precinct.netpress.com/#07-TASJ801) | Near Morgan Territory Rd | 0 |
 | [TASJ802](https://precinct.netpress.com/#07-TASJ802) | Morgan Territory Rd | 0 |
 | [TASJ803](https://precinct.netpress.com/#07-TASJ803) | Wirthman Ln, Finley Rd, Morgan Territory Rd | 16 |
 | [TASJ804](https://precinct.netpress.com/#07-TASJ804) | Morgan Territory Rd | 4 |
 | [TASJ805](https://precinct.netpress.com/#07-TASJ805) | Windemere Pkwy | 2 |
-| [TASJ806](https://precinct.netpress.com/#07-TASJ806) |  | 2 |
-| [TASJ807](https://precinct.netpress.com/#07-TASJ807) |  | 4 |
+| [TASJ806](https://precinct.netpress.com/#07-TASJ806) | Near Morgan Territory Rd | 2 |
+| [TASJ807](https://precinct.netpress.com/#07-TASJ807) | Near Marciel Rd | 4 |
 | [TESO801](https://precinct.netpress.com/#07-TESO801) | Forni Dr, Annalisa Dr | 1 |
 | [TESO802](https://precinct.netpress.com/#07-TESO802) | Imhoff Dr, Imhoff, Imhoff Pl | 0 |
 | [TESO803](https://precinct.netpress.com/#07-TESO803) | Dean Lesher Dr | 0 |
-| [TESO804](https://precinct.netpress.com/#07-TESO804) |  | 0 |
+| [TESO804](https://precinct.netpress.com/#07-TESO804) | Along Dean Lesher Dr | 0 |
 | [TESO901](https://precinct.netpress.com/#07-TESO901) | Mallard Reservoir | 0 |
 | [TESO902](https://precinct.netpress.com/#07-TESO902) | Waterfront Rd, Kinney Blvd, Suisun Bay | 0 |
 | [TESO903](https://precinct.netpress.com/#07-TESO903) | Concord and Vine Hill; Imhoff Dr, Arnold Industrial Way | 0 |
@@ -944,10 +944,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [VINE106](https://precinct.netpress.com/#07-VINE106) | Vine Hill; Falling Star Dr, Ladybug Ln | 501 |
 | [VINE107](https://precinct.netpress.com/#07-VINE107) | Vine Hill; Kittie Ln, Midhill Rd | 88 |
 | [VINE108](https://precinct.netpress.com/#07-VINE108) | Vine Hill; Cam del Sol, Via Estrella | 704 |
-| [VINE801](https://precinct.netpress.com/#07-VINE801) | Vine Hill | 3 |
+| [VINE801](https://precinct.netpress.com/#07-VINE801) | Vine Hill; along Explorer Way and Explore Way | 3 |
 | [VINE802](https://precinct.netpress.com/#07-VINE802) | Waterbird Way, Pacheco Creek, Waterfront Rd | 0 |
 | [VINE803](https://precinct.netpress.com/#07-VINE803) | Flare South Rd, Wygal Dr, Pacheco Blvd | 0 |
-| [VINE901](https://precinct.netpress.com/#07-VINE901) | Vine Hill | 0 |
+| [VINE901](https://precinct.netpress.com/#07-VINE901) | Vine Hill; along Central Ave | 0 |
 | [VINE902](https://precinct.netpress.com/#07-VINE902) | Martinez; Waterfront Rd, Service Rd | 0 |
 | [VINE905](https://precinct.netpress.com/#07-VINE905) | Vine Hill Loop, Vine Hill Dr, E Main Rd | 0 |
 | [VINE906](https://precinct.netpress.com/#07-VINE906) | Walnut Creek, Pacheco Creek, Solano Way | 0 |
@@ -996,9 +996,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [WLCR136](https://precinct.netpress.com/#07-WLCR136) | Walnut Creek; San Miguel Dr, Oak Knoll Loop | 0 |
 | [WLCR137](https://precinct.netpress.com/#07-WLCR137) | Walnut Creek; Lakewood Rd, Lakewood Cir | 0 |
 | [WLCR138](https://precinct.netpress.com/#07-WLCR138) | Walnut Creek; Arbutus Dr, Lilac Dr | 1 |
-| [WLCR802](https://precinct.netpress.com/#07-WLCR802) |  | 3 |
-| [WLCR803](https://precinct.netpress.com/#07-WLCR803) |  | 4 |
-| [WLCR804](https://precinct.netpress.com/#07-WLCR804) | Walnut Creek | 5 |
-| [WLCR902](https://precinct.netpress.com/#07-WLCR902) |  | 0 |
+| [WLCR802](https://precinct.netpress.com/#07-WLCR802) | Walnut Creek; near Walnut Ave | 3 |
+| [WLCR803](https://precinct.netpress.com/#07-WLCR803) | North Gate; near Castle Rock Rd | 4 |
+| [WLCR804](https://precinct.netpress.com/#07-WLCR804) | Walnut Creek; along Brookdale Ct and Chevy Pl | 5 |
+| [WLCR902](https://precinct.netpress.com/#07-WLCR902) | Near Castle Rock Rd | 0 |
 | [WLKN101](https://precinct.netpress.com/#07-WLKN101) | San Miguel and Walnut Creek; Mountain View Blvd, Mount View Blvd | 2,851 |
 | [WLKN102](https://precinct.netpress.com/#07-WLKN102) | Nob Hill Dr, Shady Glen Rd, View Ln | 189 |

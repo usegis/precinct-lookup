@@ -27,7 +27,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2015](https://precinct.netpress.com/#43-2015) | Palo Alto; Whitclem Dr, Edlee Ave | 329 |
 | [2016](https://precinct.netpress.com/#43-2016) | Palo Alto; Maybell Ave, Tennessee Ln | 770 |
 | [2017](https://precinct.netpress.com/#43-2017) | Palo Alto; Ben Lomond Dr, Parkside Dr | 717 |
-| [2018](https://precinct.netpress.com/#43-2018) | Palo Alto | 141 |
+| [2018](https://precinct.netpress.com/#43-2018) | Palo Alto; along San Antonio Ct and Fairview Dr | 141 |
 | [2019](https://precinct.netpress.com/#43-2019) | Palo Alto; Redwood Cir, Roosevelt Cir | 693 |
 | [2020](https://precinct.netpress.com/#43-2020) | Palo Alto; Ely Pl, Duncan Pl | 667 |
 | [2021](https://precinct.netpress.com/#43-2021) | Palo Alto; Oberlin St, Princeton St | 417 |
@@ -224,7 +224,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2757](https://precinct.netpress.com/#43-2757) | Los Gatos; Placer Oaks Ave, Placer Oaks Rd | 707 |
 | [2758](https://precinct.netpress.com/#43-2758) | Los Gatos and Campbell; More Ave, Granada Way | 566 |
 | [2760](https://precinct.netpress.com/#43-2760) | Los Gatos; Chirco Dr, Benedict Ln | 328 |
-| [2761](https://precinct.netpress.com/#43-2761) | Los Gatos | 2 |
+| [2761](https://precinct.netpress.com/#43-2761) | Los Gatos; along Hernandez Ave | 2 |
 | [2763](https://precinct.netpress.com/#43-2763) | Los Gatos; Tait Ave, Wood Rd | 701 |
 | [2764](https://precinct.netpress.com/#43-2764) | Los Gatos; Pinehurst Ave, Downing Oak Ct | 681 |
 | [2765](https://precinct.netpress.com/#43-2765) | Los Gatos; Knowles Dr, W Parr Ave | 607 |
@@ -247,8 +247,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2782](https://precinct.netpress.com/#43-2782) | Los Gatos; Ferris Ave, Robie Ln | 413 |
 | [2783](https://precinct.netpress.com/#43-2783) | Los Gatos; Forrester Rd, Brooke Acres Dr | 396 |
 | [2784](https://precinct.netpress.com/#43-2784) | Gum Tree Ln | 2 |
-| [2785](https://precinct.netpress.com/#43-2785) |  | 1 |
-| [2786](https://precinct.netpress.com/#43-2786) |  | 3 |
+| [2785](https://precinct.netpress.com/#43-2785) | Along Roseleaf Ln | 1 |
+| [2786](https://precinct.netpress.com/#43-2786) | Along Blackberry Hill Rd | 3 |
 | [2802](https://precinct.netpress.com/#43-2802) | Loyola and Los Altos; Summerhill Ave, Quinnhill Rd | 495 |
 | [2811](https://precinct.netpress.com/#43-2811) | Charcoal Rd, Highway 35 | 2 |
 | [2812](https://precinct.netpress.com/#43-2812) | Cupertino; Creston Dr, Ainsworth Dr | 300 |
@@ -264,14 +264,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2834](https://precinct.netpress.com/#43-2834) | Loyola and Los Altos Hills; Eastbrook Ave, Mora Dr | 381 |
 | [2870](https://precinct.netpress.com/#43-2870) | Los Altos Hills; Page Mill Rd | 0 |
 | [2872](https://precinct.netpress.com/#43-2872) | Highway 35, Page Mill Rd | 0 |
-| [2873](https://precinct.netpress.com/#43-2873) |  | 6 |
+| [2873](https://precinct.netpress.com/#43-2873) | Near Page Mill Rd | 6 |
 | [2875](https://precinct.netpress.com/#43-2875) | Altamont Cir, Canyon Rd, Moody Rd | 113 |
 | [2951](https://precinct.netpress.com/#43-2951) | Mountain View and Sunnyvale; Macon Rd, Zook Rd | 224 |
 | [2953](https://precinct.netpress.com/#43-2953) | Mariner Dr, Moffett Blvd, Neptune Ct | 155 |
 | [3001](https://precinct.netpress.com/#43-3001) | Sunnyvale; Vienna Dr, Tasman Dr | 289 |
 | [3002](https://precinct.netpress.com/#43-3002) | Sunnyvale; W Ahwanee Ave, Ahwanhee Ave | 775 |
 | [3003](https://precinct.netpress.com/#43-3003) | Sunnyvale; E Eaglewood Ave, W Ferndale Ave | 496 |
-| [3004](https://precinct.netpress.com/#43-3004) | Sunnyvale | 464 |
+| [3004](https://precinct.netpress.com/#43-3004) | Sunnyvale; along Tasman Dr and Park Entrance | 464 |
 | [3005](https://precinct.netpress.com/#43-3005) | Sunnyvale | 117 |
 | [3006](https://precinct.netpress.com/#43-3006) | Sunnyvale; Recreation Dr, 1st St | 652 |
 | [3007](https://precinct.netpress.com/#43-3007) | Sunnyvale; E Arbor Ave, Worley Ave | 525 |
@@ -294,9 +294,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3026](https://precinct.netpress.com/#43-3026) | Sunnyvale; L St, Via Granada | 337 |
 | [3027](https://precinct.netpress.com/#43-3027) | Sunnyvale; Cll Victoria, Tasman Ct | 298 |
 | [3028](https://precinct.netpress.com/#43-3028) | Sunnyvale; W Mc Kinley Ave, Waverly St | 678 |
-| [3029](https://precinct.netpress.com/#43-3029) | Sunnyvale | 399 |
+| [3029](https://precinct.netpress.com/#43-3029) | Sunnyvale; along Stewart Dr and E Duane Ave | 399 |
 | [3030](https://precinct.netpress.com/#43-3030) | Sunnyvale; E Caribbean Dr, E Java Dr | 16 |
-| [3031](https://precinct.netpress.com/#43-3031) | Sunnyvale | 1 |
+| [3031](https://precinct.netpress.com/#43-3031) | Sunnyvale; along W El Camino Real and Bristol Ter | 1 |
 | [3032](https://precinct.netpress.com/#43-3032) | Sunnyvale; Reseda Dr, Allegheny Dr | 133 |
 | [3033](https://precinct.netpress.com/#43-3033) | Sunnyvale; Elm Ct, Hornbeam Ter | 605 |
 | [3034](https://precinct.netpress.com/#43-3034) | Sunnyvale; Lois Ave, Dona Ave | 626 |
@@ -305,7 +305,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3037](https://precinct.netpress.com/#43-3037) | Sunnyvale; Clarence Ave, Sara Ave | 320 |
 | [3038](https://precinct.netpress.com/#43-3038) | Sunnyvale; W Cardinal Dr, E Cardinal Dr | 653 |
 | [3039](https://precinct.netpress.com/#43-3039) | Sunnyvale; Cranberry Ave, Townsend Ter | 463 |
-| [3040](https://precinct.netpress.com/#43-3040) | Sunnyvale and Mountain View | 0 |
+| [3040](https://precinct.netpress.com/#43-3040) | Sunnyvale and Mountain View; along W Fremont Ave | 0 |
 | [3041](https://precinct.netpress.com/#43-3041) | Sunnyvale; Peach Ave, Nectarine Ave | 516 |
 | [3042](https://precinct.netpress.com/#43-3042) | Sunnyvale; Ed Roth Ter | 6 |
 | [3043](https://precinct.netpress.com/#43-3043) | Sunnyvale and Cupertino; Belleville Way, Bellingham Way | 408 |
@@ -326,7 +326,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3058](https://precinct.netpress.com/#43-3058) | Sunnyvale; San Juan Dr, San Miguel Ave | 552 |
 | [3059](https://precinct.netpress.com/#43-3059) | Sunnyvale; Helen Ave, Tamarack Ln | 498 |
 | [3060](https://precinct.netpress.com/#43-3060) | Sunnyvale; Palamos Ave, Pecos Way | 706 |
-| [3061](https://precinct.netpress.com/#43-3061) |  | 27 |
+| [3061](https://precinct.netpress.com/#43-3061) | Along Archer St | 27 |
 | [3062](https://precinct.netpress.com/#43-3062) | Sunnyvale; Colusa Ave, San Simeon St | 585 |
 | [3063](https://precinct.netpress.com/#43-3063) | Sunnyvale; Fair Oaks Ave, Munich Ter | 697 |
 | [3064](https://precinct.netpress.com/#43-3064) | Sunnyvale; Taylor Ave, Hazelton Ave | 577 |
@@ -416,7 +416,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3153](https://precinct.netpress.com/#43-3153) | Sunnyvale; Alberta Ave, Riorden Ter | 669 |
 | [3154](https://precinct.netpress.com/#43-3154) | Sunnyvale; Selo Dr, Revelstoke Way | 618 |
 | [3155](https://precinct.netpress.com/#43-3155) | Sunnyvale; Yukon Dr, Norland Dr | 436 |
-| [3156](https://precinct.netpress.com/#43-3156) | Sunnyvale | 257 |
+| [3156](https://precinct.netpress.com/#43-3156) | Sunnyvale; along Hollenbeck Ave and Ontario Dr | 257 |
 | [3157](https://precinct.netpress.com/#43-3157) | Sunnyvale; Pasito Ter, Sobrante Way | 344 |
 | [3161](https://precinct.netpress.com/#43-3161) | Sunnyvale and San Jose; Enterprise, G St | 0 |
 | [3163](https://precinct.netpress.com/#43-3163) | Sunnyvale; Holthouse Ter, Crown Point Ter | 262 |
@@ -566,7 +566,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3660](https://precinct.netpress.com/#43-3660) | Cupertino; Alpine Dr, N Foothill Blvd | 546 |
 | [3661](https://precinct.netpress.com/#43-3661) | Cupertino; Cali Ave, Town Center Ln | 448 |
 | [3662](https://precinct.netpress.com/#43-3662) | Cupertino; Finch Ave, Brookwell Dr | 127 |
-| [3665](https://precinct.netpress.com/#43-3665) | Cupertino | 29 |
+| [3665](https://precinct.netpress.com/#43-3665) | Cupertino; along Regnart Rd and Canyon Vista Ct | 29 |
 | [3666](https://precinct.netpress.com/#43-3666) | Cupertino; Lindy Ln, Canyon View Cir | 52 |
 | [3667](https://precinct.netpress.com/#43-3667) | Cupertino; Linnet Ln, Pruneridge Ave | 136 |
 | [3668](https://precinct.netpress.com/#43-3668) | Cupertino; Stonebridge | 62 |
@@ -583,14 +583,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3683](https://precinct.netpress.com/#43-3683) | Cupertino; Calvert Dr, Ralya Ct | 392 |
 | [3684](https://precinct.netpress.com/#43-3684) | Cupertino; Stafford Dr, Elmsford Dr | 591 |
 | [3686](https://precinct.netpress.com/#43-3686) | Cupertino; Regnart Rd, Regnart Canyon Dr | 43 |
-| [3687](https://precinct.netpress.com/#43-3687) | Cupertino | 0 |
+| [3687](https://precinct.netpress.com/#43-3687) | Cupertino; along Stevens Canyon Rd | 0 |
 | [3689](https://precinct.netpress.com/#43-3689) | Cupertino; Palo Vista Rd, S Foothill Blvd | 288 |
 | [3691](https://precinct.netpress.com/#43-3691) | Cupertino; Stevens Canyon Rd | 0 |
-| [3692](https://precinct.netpress.com/#43-3692) |  | 4 |
+| [3692](https://precinct.netpress.com/#43-3692) | Cupertino; near Stern Ave | 4 |
 | [3694](https://precinct.netpress.com/#43-3694) | Cupertino; Mary Ave, N Stelling Rd | 84 |
 | [3695](https://precinct.netpress.com/#43-3695) | Cupertino; Stern Ave | 52 |
 | [3696](https://precinct.netpress.com/#43-3696) | Cupertino; Oak Meadow Ct, Seeber Ct | 106 |
-| [3776](https://precinct.netpress.com/#43-3776) |  | 0 |
+| [3776](https://precinct.netpress.com/#43-3776) | Near Greenwood Ln | 0 |
 | [3781](https://precinct.netpress.com/#43-3781) | Monte Sereno; Daves Ave, Twin Creeks Rd | 738 |
 | [3782](https://precinct.netpress.com/#43-3782) | Monte Sereno; Ridgecrest Ave, Withey Rd | 275 |
 | [3783](https://precinct.netpress.com/#43-3783) | Monte Sereno; Bancroft Ave, Arlee Dr | 238 |
@@ -658,11 +658,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3857](https://precinct.netpress.com/#43-3857) | Campbell; W Rosemary Ln | 85 |
 | [3858](https://precinct.netpress.com/#43-3858) | Campbell; W Hamilton Ave, Llewellyn Ave | 302 |
 | [3859](https://precinct.netpress.com/#43-3859) | Campbell; Chamberlin Ct, Munro Ave | 334 |
-| [3860](https://precinct.netpress.com/#43-3860) |  | 28 |
+| [3860](https://precinct.netpress.com/#43-3860) | Along Bronwen Way and Regina Way | 28 |
 | [3861](https://precinct.netpress.com/#43-3861) | Campbell; Whitehall Ave, Tolworth Dr | 52 |
 | [3863](https://precinct.netpress.com/#43-3863) | Campbell; Dell Ave | 10 |
 | [3864](https://precinct.netpress.com/#43-3864) | Campbell; Phoenix Dr | 117 |
-| [3865](https://precinct.netpress.com/#43-3865) | Campbell | 25 |
+| [3865](https://precinct.netpress.com/#43-3865) | Campbell; along Bismarck Dr and Phoenix Dr | 25 |
 | [3867](https://precinct.netpress.com/#43-3867) | Campbell; Dillon Ave, Railway Ave | 394 |
 | [3868](https://precinct.netpress.com/#43-3868) | Campbell; Montemar Way | 50 |
 | [3869](https://precinct.netpress.com/#43-3869) | Campbell; Shelley Ave, White Oaks Rd | 592 |
@@ -737,7 +737,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4473](https://precinct.netpress.com/#43-4473) | Milpitas; Coventry Way, Coventry Cir | 415 |
 | [4474](https://precinct.netpress.com/#43-4474) | Milpitas; Grand Teton Dr, Crater Lake Ave | 338 |
 | [4475](https://precinct.netpress.com/#43-4475) | Milpitas; Hammond Way, S Main St | 521 |
-| [4476](https://precinct.netpress.com/#43-4476) | Milpitas | 285 |
+| [4476](https://precinct.netpress.com/#43-4476) | Milpitas; along S Abel St and W Curtis Ave | 285 |
 | [4477](https://precinct.netpress.com/#43-4477) | Milpitas; N McCarthy Blvd, Murphy Ranch Rd | 492 |
 | [4478](https://precinct.netpress.com/#43-4478) | Milpitas; Adams Ave, Braly Ave | 363 |
 | [4479](https://precinct.netpress.com/#43-4479) | Milpitas; Lee Way, Currlin Cir | 596 |
@@ -797,7 +797,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4735](https://precinct.netpress.com/#43-4735) | Saratoga; Eden Valley Ct, Mount Eden Rd | 38 |
 | [4740](https://precinct.netpress.com/#43-4740) | Saratoga; Gypsy Hill Rd, Sobey Oaks Ct | 52 |
 | [4744](https://precinct.netpress.com/#43-4744) | Saratoga; Via Escuela Dr, Ten Oak Way | 394 |
-| [4745](https://precinct.netpress.com/#43-4745) |  | 0 |
+| [4745](https://precinct.netpress.com/#43-4745) | Los Gatos; near Quito Rd | 0 |
 | [4801](https://precinct.netpress.com/#43-4801) | Morgan Hill; Mason Ln, E Main Ave | 326 |
 | [4802](https://precinct.netpress.com/#43-4802) | Morgan Hill; Depot St, E 5th St | 137 |
 | [4803](https://precinct.netpress.com/#43-4803) | Morgan Hill; Vineyard Blvd, Concord Cir | 525 |
@@ -817,7 +817,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4825](https://precinct.netpress.com/#43-4825) | Morgan Hill; Cll Siena, Grand Prix Way | 237 |
 | [4826](https://precinct.netpress.com/#43-4826) | Morgan Hill; Madrone Pkwy, Cochrane Cir | 496 |
 | [4827](https://precinct.netpress.com/#43-4827) | Morgan Hill; Greenwood Cir, Mountainview Cir | 401 |
-| [4828](https://precinct.netpress.com/#43-4828) | Morgan Hill | 117 |
+| [4828](https://precinct.netpress.com/#43-4828) | Morgan Hill; along Monterey Rd and Monterey St | 117 |
 | [4829](https://precinct.netpress.com/#43-4829) | Morgan Hill; E 2nd St, E 1st St | 463 |
 | [4830](https://precinct.netpress.com/#43-4830) | Morgan Hill; Digital Dr, Opal Ln | 989 |
 | [4831](https://precinct.netpress.com/#43-4831) | Morgan Hill; Jarvis Dr, Cll Central | 615 |
@@ -832,7 +832,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4840](https://precinct.netpress.com/#43-4840) | Morgan Hill; Juan Hernandez Dr, Saint Timothy Pl | 576 |
 | [4841](https://precinct.netpress.com/#43-4841) | Morgan Hill; Grand Prix Way, Cll Caballeria | 327 |
 | [4842](https://precinct.netpress.com/#43-4842) | Morgan Hill; Cory Dr, San Luis Way | 546 |
-| [4843](https://precinct.netpress.com/#43-4843) | Morgan Hill | 119 |
+| [4843](https://precinct.netpress.com/#43-4843) | Morgan Hill; along Opal Ln | 119 |
 | [4851](https://precinct.netpress.com/#43-4851) | Morgan Hill; Saffron Dr, Tilton Ave | 580 |
 | [4852](https://precinct.netpress.com/#43-4852) | Morgan Hill; Paprika Dr, Garlic Ave | 693 |
 | [4853](https://precinct.netpress.com/#43-4853) | Morgan Hill; Murphy Springs Ct, Via Loma | 589 |
@@ -869,7 +869,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4916](https://precinct.netpress.com/#43-4916) | Gilroy; Hornlein Ct, E 7th St | 23 |
 | [4918](https://precinct.netpress.com/#43-4918) | Gilroy; Rogers Ln, San Ysidro Park | 447 |
 | [4919](https://precinct.netpress.com/#43-4919) | Gilroy; Merlot Dr, Syrah Dr | 783 |
-| [4921](https://precinct.netpress.com/#43-4921) | Gilroy | 87 |
+| [4921](https://precinct.netpress.com/#43-4921) | Gilroy; along Santa Teresa Blvd and Mesa Rd | 87 |
 | [4922](https://precinct.netpress.com/#43-4922) | Gilroy; Hollyhock Ln, Shooting Star Ct | 56 |
 | [4923](https://precinct.netpress.com/#43-4923) | Gilroy; Wren Ave, Hummingbird Ln | 51 |
 | [4924](https://precinct.netpress.com/#43-4924) | Sunningdale Way, Birkdale Ct, Old Tom's Ct | 126 |
@@ -945,12 +945,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5398](https://precinct.netpress.com/#43-5398) | San Felipe Rd, Metcalf Rd, Black Mountain Grade | 15 |
 | [5399](https://precinct.netpress.com/#43-5399) | San Jose; Silver Creek Valley Rd, Rural Acc | 17 |
 | [5402](https://precinct.netpress.com/#43-5402) | Weller Rd | 1 |
-| [5404](https://precinct.netpress.com/#43-5404) |  | 0 |
+| [5404](https://precinct.netpress.com/#43-5404) | Along Sierra Rd | 0 |
 | [5407](https://precinct.netpress.com/#43-5407) | Hellyer Ave | 0 |
 | [5410](https://precinct.netpress.com/#43-5410) | Co Hwy G8 | 0 |
 | [5411](https://precinct.netpress.com/#43-5411) | Coyote Reservoir Rd, Hoover Lake, Coyote Reservoir | 0 |
 | [5424](https://precinct.netpress.com/#43-5424) | Almaden Reservoir, Alram Rd, Rural Acc | 4 |
-| [5425](https://precinct.netpress.com/#43-5425) |  | 0 |
+| [5425](https://precinct.netpress.com/#43-5425) | Along Hellyer Ave | 0 |
 | [5429](https://precinct.netpress.com/#43-5429) | Los Altos Hills; Old Page Mill Rd | 0 |
 | [5449](https://precinct.netpress.com/#43-5449) | Quimby Rd, Rural Acc, Rd L | 177 |
 | [5451](https://precinct.netpress.com/#43-5451) | Klein Rd | 0 |
@@ -979,7 +979,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5755](https://precinct.netpress.com/#43-5755) | Morrill Rd, Chasewood Dr, Morrill Cutoff Rd | 201 |
 | [5756](https://precinct.netpress.com/#43-5756) | Lake Elsman, Sears Rd, Wrights Station Rd | 74 |
 | [5757](https://precinct.netpress.com/#43-5757) | Lexington Hills; Alma Bridge Rd, Soda Springs Rd | 391 |
-| [5760](https://precinct.netpress.com/#43-5760) |  | 7 |
+| [5760](https://precinct.netpress.com/#43-5760) | Near Daves Ave | 7 |
 | [5761](https://precinct.netpress.com/#43-5761) | Matilija Dr, Lucky Rd, Los Serenos Robles | 129 |
 | [5767](https://precinct.netpress.com/#43-5767) | Lucky Rd, Greenwood Ln | 10 |
 | [5770](https://precinct.netpress.com/#43-5770) | Blythswood Dr, Toyon Dr, Eucalyptus Dr | 210 |
@@ -1006,9 +1006,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5879](https://precinct.netpress.com/#43-5879) | San Jose; Hellyer County Park Acc, Cottonwood Lake | 0 |
 | [5881](https://precinct.netpress.com/#43-5881) | San Jose; Pacer Ln, Old Tully Rd | 5 |
 | [5886](https://precinct.netpress.com/#43-5886) | Rd M | 0 |
-| [5888](https://precinct.netpress.com/#43-5888) |  | 0 |
+| [5888](https://precinct.netpress.com/#43-5888) | Along Coyote Rd | 0 |
 | [5896](https://precinct.netpress.com/#43-5896) | San Jose; Bernal Rd, Drive To County Girls Ranch | 7 |
-| [5901](https://precinct.netpress.com/#43-5901) |  | 1 |
+| [5901](https://precinct.netpress.com/#43-5901) | Along Whispering Pines Dr and Montego Dr | 1 |
 | [5904](https://precinct.netpress.com/#43-5904) | San Jose; Mine Hill Rd, Cinnabar Hills Rd | 215 |
 | [5905](https://precinct.netpress.com/#43-5905) | Via Santa Teresa, Scenic Vista Dr, View Oaks Way | 226 |
 | [5906](https://precinct.netpress.com/#43-5906) | San Martin and Morgan Hill; Seymour Ave, Llagas Ave | 135 |
@@ -1032,7 +1032,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5946](https://precinct.netpress.com/#43-5946) | Chesbro Lake Dr, Old Oak Creek Ave, Old Oak Glen Ave | 286 |
 | [5948](https://precinct.netpress.com/#43-5948) | Uvas Rd, Co Rd G8, Co Hwy G8 | 66 |
 | [5950](https://precinct.netpress.com/#43-5950) | San Martin; Spring Reservoir, Turlock Ave | 48 |
-| [5951](https://precinct.netpress.com/#43-5951) | Gilroy | 15 |
+| [5951](https://precinct.netpress.com/#43-5951) | Gilroy; along Tatum Ave | 15 |
 | [5953](https://precinct.netpress.com/#43-5953) | Gilroy; Marcella Ave, Dunlap Ave | 140 |
 | [5956](https://precinct.netpress.com/#43-5956) | San Martin and Gilroy; Murphy Ln, Day Rd | 112 |
 | [5959](https://precinct.netpress.com/#43-5959) | Fifield Rd, Pacheco Lake, Whiskey Flat Rd | 33 |
@@ -1053,21 +1053,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5985](https://precinct.netpress.com/#43-5985) | San Martin and Morgan Hill; Crowner Ave, Monterey St | 61 |
 | [5986](https://precinct.netpress.com/#43-5986) | Walnut Ave, Barnheisel Rd, Highway 156 | 51 |
 | [5987](https://precinct.netpress.com/#43-5987) | Dunne St, Highway 152, San Felipe Rd | 3 |
-| [5988](https://precinct.netpress.com/#43-5988) |  | 0 |
+| [5988](https://precinct.netpress.com/#43-5988) | Near Redwood Retreat Rd | 0 |
 | [5994](https://precinct.netpress.com/#43-5994) | Castro Valley Rd, Whitehurst Rd, Old Monterey Rd | 58 |
 | [5995](https://precinct.netpress.com/#43-5995) | Twin Falls Rd, Alram Rd | 9 |
 | [5996](https://precinct.netpress.com/#43-5996) | San Jose; Coyote Creek Regional Bicycle Trl, Coyote Creek Trl | 88 |
 | [5997](https://precinct.netpress.com/#43-5997) | Morgan Hill; Paseo Vista Ave, Paseo Robles Ave | 105 |
 | [6001](https://precinct.netpress.com/#43-6001) | San Jose; Almaden Rd, Mountain Dr | 387 |
 | [6003](https://precinct.netpress.com/#43-6003) | Morgan Hill; Fisher Ave, Maple Ave | 57 |
-| [6007](https://precinct.netpress.com/#43-6007) |  | 72 |
+| [6007](https://precinct.netpress.com/#43-6007) | Near Watsonville Rd | 72 |
 | [6011](https://precinct.netpress.com/#43-6011) | El Matador Dr, Solis Rancho Dr, Solis Rancho | 165 |
 | [6012](https://precinct.netpress.com/#43-6012) | Rucker Ave, Omar St, Omar Ave | 376 |
 | [6013](https://precinct.netpress.com/#43-6013) | San Martin; Heritage Manor Dr, De Paul Cir | 128 |
 | [6016](https://precinct.netpress.com/#43-6016) | Estates Dr, Sugar Babe Dr, Roop Rd | 244 |
 | [6018](https://precinct.netpress.com/#43-6018) | San Martin; Highland Ave | 0 |
 | [6019](https://precinct.netpress.com/#43-6019) | San Martin; Lions Peak Ln, Lakeview Ct | 55 |
-| [6020](https://precinct.netpress.com/#43-6020) | San Martin | 0 |
+| [6020](https://precinct.netpress.com/#43-6020) | San Martin; along Watsonville Rd | 0 |
 | [6021](https://precinct.netpress.com/#43-6021) | San Jose; Old Quarry Rd, Hill Ln | 39 |
 | [6023](https://precinct.netpress.com/#43-6023) | San Jose; Santa Teresa Lake, Golf Course Ln | 15 |
 | [6024](https://precinct.netpress.com/#43-6024) | San Martin; Canada Rd, Coyote Reservoir | 295 |
@@ -1094,7 +1094,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [6078](https://precinct.netpress.com/#43-6078) | Vintage Ct, Santa Teresa Blvd | 8 |
 | [6081](https://precinct.netpress.com/#43-6081) | Casa Loma Rd | 0 |
 | [6084](https://precinct.netpress.com/#43-6084) | Bella Vista Ln, Magic Springs Dr, Highway 152 | 15 |
-| [6401](https://precinct.netpress.com/#43-6401) | San Jose | 1 |
+| [6401](https://precinct.netpress.com/#43-6401) | San Jose; along Cam del Rey | 1 |
 | [6402](https://precinct.netpress.com/#43-6402) | San Jose; Sierra Rd, Camelot Dr | 64 |
 | [6404](https://precinct.netpress.com/#43-6404) | East Foothills; Blue Gum Dr, Reynaud Dr | 414 |
 | [6405](https://precinct.netpress.com/#43-6405) | Sierra Rd | 11 |
@@ -1131,7 +1131,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [6513](https://precinct.netpress.com/#43-6513) | East Foothills and San Jose; Ridgetop Dr, Freeman Ave | 133 |
 | [6528](https://precinct.netpress.com/#43-6528) | Burbank; Boston Ave, Topeka Ave | 517 |
 | [6624](https://precinct.netpress.com/#43-6624) | Prospect Rd | 8 |
-| [6625](https://precinct.netpress.com/#43-6625) |  | 4 |
+| [6625](https://precinct.netpress.com/#43-6625) | Near Prospect Rd | 4 |
 | [6665](https://precinct.netpress.com/#43-6665) | Edencrest Ln | 0 |
 | [6666](https://precinct.netpress.com/#43-6666) | Heather Heights Rd, Lake McKenzie, Sanborn Rd | 82 |
 | [6674](https://precinct.netpress.com/#43-6674) | Bohlman Rd, McGill Rd, Wildcat Rdg | 163 |
@@ -1205,7 +1205,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7068](https://precinct.netpress.com/#43-7068) | San Jose; Cloverdale Ln, Mendenhall Dr | 459 |
 | [7069](https://precinct.netpress.com/#43-7069) | San Jose; Compton Ln, San Tomas Aquino Pkwy | 548 |
 | [7070](https://precinct.netpress.com/#43-7070) | San Jose; Mona Way, Kendra Way | 112 |
-| [7071](https://precinct.netpress.com/#43-7071) | San Jose | 19 |
+| [7071](https://precinct.netpress.com/#43-7071) | San Jose; along Darryl Dr and Mona Way | 19 |
 | [7072](https://precinct.netpress.com/#43-7072) | San Jose; Millich Ln, Merrivale West Sq | 584 |
 | [7073](https://precinct.netpress.com/#43-7073) | San Jose; Antonio Ln, Essex Way | 401 |
 | [7074](https://precinct.netpress.com/#43-7074) | San Jose; Loma Verde Dr, Loma Verde Cnd Acc | 649 |
@@ -1222,13 +1222,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7089](https://precinct.netpress.com/#43-7089) | San Jose; Yorkton Way, Halifax Dr | 428 |
 | [7090](https://precinct.netpress.com/#43-7090) | San Jose; Montreal Dr, Kingston Way | 436 |
 | [7091](https://precinct.netpress.com/#43-7091) | San Jose; Roundtree Dr, Westmont Ave | 428 |
-| [7094](https://precinct.netpress.com/#43-7094) |  | 11 |
+| [7094](https://precinct.netpress.com/#43-7094) | Along Massih Ct | 11 |
 | [7096](https://precinct.netpress.com/#43-7096) | San Jose and Campbell; Castro Dr, Mossbrook Cir | 209 |
 | [7097](https://precinct.netpress.com/#43-7097) | San Jose; Dorval Dr, S San Tomas Aquino Rd | 191 |
 | [7098](https://precinct.netpress.com/#43-7098) | San Jose; Nottingham Pl, Will Rogers Dr | 471 |
 | [7099](https://precinct.netpress.com/#43-7099) | San Jose; Impala Dr, Williamsburg Dr | 523 |
 | [7100](https://precinct.netpress.com/#43-7100) | San Jose; Water Witch Way, Charles Cali Dr | 371 |
-| [7103](https://precinct.netpress.com/#43-7103) |  | 0 |
+| [7103](https://precinct.netpress.com/#43-7103) | San Jose; near Kiely Blvd | 0 |
 | [7104](https://precinct.netpress.com/#43-7104) | San Jose; Teresi Ct, Emerald Way | 544 |
 | [7105](https://precinct.netpress.com/#43-7105) | San Jose; Magliocco Dr, Neal Cm | 459 |
 | [7106](https://precinct.netpress.com/#43-7106) | San Jose; Calboro Dr, Polk Ln | 419 |
@@ -1284,7 +1284,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7238](https://precinct.netpress.com/#43-7238) | San Jose; Garrison Cir, Gerine Blossom Dr | 523 |
 | [7239](https://precinct.netpress.com/#43-7239) | San Jose; Judith St, Tradewinds Dr | 582 |
 | [7240](https://precinct.netpress.com/#43-7240) | San Jose; Eagles Ln, Spinnaker Dr | 810 |
-| [7241](https://precinct.netpress.com/#43-7241) | San Jose | 105 |
+| [7241](https://precinct.netpress.com/#43-7241) | San Jose; along Blossom Hill Rd and Lean Ave | 105 |
 | [7242](https://precinct.netpress.com/#43-7242) | San Jose; Blossom Gardens Cir, Blossom Oaks Apt Acc | 646 |
 | [7243](https://precinct.netpress.com/#43-7243) | San Jose; Blossom Way, Great Oak Way | 469 |
 | [7244](https://precinct.netpress.com/#43-7244) | San Jose; Aladdin Dr, Desert Sands Way | 688 |
@@ -1424,7 +1424,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7436](https://precinct.netpress.com/#43-7436) | San Jose; N 17th St, N 18th St | 795 |
 | [7437](https://precinct.netpress.com/#43-7437) | San Jose; N 20th St, E Empire St | 508 |
 | [7439](https://precinct.netpress.com/#43-7439) | San Jose; Lenfest Rd, Destino Cir | 438 |
-| [7440](https://precinct.netpress.com/#43-7440) | San Jose | 70 |
+| [7440](https://precinct.netpress.com/#43-7440) | San Jose; along N King Rd | 70 |
 | [7441](https://precinct.netpress.com/#43-7441) | San Jose; Pine Hollow Cir, Dobbin Dr | 268 |
 | [7442](https://precinct.netpress.com/#43-7442) | San Jose; Avalani Ave, Lochridge Dr | 266 |
 | [7443](https://precinct.netpress.com/#43-7443) | San Jose; Luby Dr, Scottsville Ct | 297 |
@@ -1448,7 +1448,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7461](https://precinct.netpress.com/#43-7461) | San Jose; E San Fernando St, S 9th St | 630 |
 | [7462](https://precinct.netpress.com/#43-7462) | San Jose; S 10th St, E San Antonio St | 188 |
 | [7463](https://precinct.netpress.com/#43-7463) | San Jose; S 14th St, S 13th St | 463 |
-| [7465](https://precinct.netpress.com/#43-7465) | San Jose; S 2nd St, S 3rd St, E San Salvador St | 420 |
+| [7465](https://precinct.netpress.com/#43-7465) | San Jose; S 2nd St, S 3rd St | 420 |
 | [7466](https://precinct.netpress.com/#43-7466) | San Jose; E San Carlos St, E San Salvador St | 674 |
 | [7468](https://precinct.netpress.com/#43-7468) | San Jose; E San Salvador St, S 9th St | 249 |
 | [7469](https://precinct.netpress.com/#43-7469) | San Jose; S 12th St, E William St | 628 |
@@ -1469,7 +1469,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7484](https://precinct.netpress.com/#43-7484) | San Jose; Lick Ave, Palm St | 573 |
 | [7485](https://precinct.netpress.com/#43-7485) | San Jose; Locust St, S Almaden Ave | 551 |
 | [7486](https://precinct.netpress.com/#43-7486) | San Jose; Sutter St, Graham Ave | 504 |
-| [7487](https://precinct.netpress.com/#43-7487) | San Jose; S 2nd St, S 3rd St, Patterson St | 628 |
+| [7487](https://precinct.netpress.com/#43-7487) | San Jose; S 2nd St, S 3rd St | 628 |
 | [7488](https://precinct.netpress.com/#43-7488) | San Jose; Martha St, S 11th St | 492 |
 | [7489](https://precinct.netpress.com/#43-7489) | San Jose; Keyes St, E Humboldt St | 836 |
 | [7490](https://precinct.netpress.com/#43-7490) | San Jose; S 8th St, S 9th St | 385 |
@@ -1625,7 +1625,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7738](https://precinct.netpress.com/#43-7738) | San Jose; Hull Ave, Delmas Ave | 129 |
 | [7740](https://precinct.netpress.com/#43-7740) | San Jose; Seven Trees Blvd, Ezie St | 533 |
 | [7741](https://precinct.netpress.com/#43-7741) | San Jose; El Bosque Dr, Nicholson Ln | 754 |
-| [7742](https://precinct.netpress.com/#43-7742) | San Jose | 6 |
+| [7742](https://precinct.netpress.com/#43-7742) | San Jose; along San Pablo Ct | 6 |
 | [7743](https://precinct.netpress.com/#43-7743) | San Jose; Townsend Park Cir, Parkview Green Cir | 380 |
 | [7801](https://precinct.netpress.com/#43-7801) | San Jose; Fiji Dr, Kawalker Ln | 470 |
 | [7802](https://precinct.netpress.com/#43-7802) | San Jose; Mayglen Way, Kirk Glen Dr | 460 |
@@ -1696,7 +1696,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7875](https://precinct.netpress.com/#43-7875) | San Jose; Mount Madonna Dr, Mount Saint Helena Dr | 551 |
 | [7876](https://precinct.netpress.com/#43-7876) | San Jose; Eastridge Dr, Mount Pleasant Rd | 168 |
 | [7877](https://precinct.netpress.com/#43-7877) | San Jose; Mount Prieta Dr, Marten Ave | 225 |
-| [7879](https://precinct.netpress.com/#43-7879) |  | 2 |
+| [7879](https://precinct.netpress.com/#43-7879) | East Foothills; near Penitencia Creek Rd | 2 |
 | [7881](https://precinct.netpress.com/#43-7881) | San Jose; Alum Rock Rd, Penitencia Creek Rd | 73 |
 | [7882](https://precinct.netpress.com/#43-7882) | San Jose; 34th St Trailer Park Access Rd, Virginia Ave | 207 |
 | [7885](https://precinct.netpress.com/#43-7885) | San Jose; Swift Ln | 0 |
@@ -1737,7 +1737,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7924](https://precinct.netpress.com/#43-7924) | San Jose; Nashville Dr, Salt Lake Dr | 37 |
 | [7925](https://precinct.netpress.com/#43-7925) | San Jose; Kotake Ct, Bedivere Dr | 50 |
 | [7926](https://precinct.netpress.com/#43-7926) | San Jose; Royal Ct | 227 |
-| [7927](https://precinct.netpress.com/#43-7927) | San Jose | 42 |
+| [7927](https://precinct.netpress.com/#43-7927) | San Jose; along Golf Dr | 42 |
 | [7928](https://precinct.netpress.com/#43-7928) | San Jose and Alum Rock; Eastside Dr, Barletta Ln | 306 |
 | [7931](https://precinct.netpress.com/#43-7931) | San Jose; Fourier Dr, Murrieta Ln | 178 |
 | [7934](https://precinct.netpress.com/#43-7934) | San Jose; Titleist Ct, Toyon Ave | 93 |
@@ -1753,7 +1753,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8009](https://precinct.netpress.com/#43-8009) | San Jose; Homewood Dr, Beechwood Ave | 318 |
 | [8010](https://precinct.netpress.com/#43-8010) | San Jose; Kenwood Ave, Tamarack Ave | 462 |
 | [8011](https://precinct.netpress.com/#43-8011) | San Jose; Bel Air Ave, Laurelei Ave | 318 |
-| [8012](https://precinct.netpress.com/#43-8012) |  | 23 |
+| [8012](https://precinct.netpress.com/#43-8012) | Along McDaniel Ave | 23 |
 | [8013](https://precinct.netpress.com/#43-8013) | San Jose; McDaniel Ave, Oconnor Dr | 105 |
 | [8014](https://precinct.netpress.com/#43-8014) | San Jose; Emory St, University Way | 447 |
 | [8015](https://precinct.netpress.com/#43-8015) | San Jose; Topeka Ave, Cleveland Ave | 394 |
@@ -1761,7 +1761,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8017](https://precinct.netpress.com/#43-8017) | San Jose; Schiele Ave, Villa Ave | 621 |
 | [8018](https://precinct.netpress.com/#43-8018) | San Jose; N Keeble Ave, Cinnabar St | 608 |
 | [8019](https://precinct.netpress.com/#43-8019) | San Jose; N Morrison Ave, Rhodes Ct | 579 |
-| [8020](https://precinct.netpress.com/#43-8020) | San Jose; Shasta Ave, Hanchett Ave, Hester Ave | 582 |
+| [8020](https://precinct.netpress.com/#43-8020) | San Jose; Shasta Ave, Hanchett Ave | 582 |
 | [8021](https://precinct.netpress.com/#43-8021) | San Jose; Tillman Ave, Yosemite Ave | 472 |
 | [8022](https://precinct.netpress.com/#43-8022) | San Jose; Keeble Ct | 67 |
 | [8023](https://precinct.netpress.com/#43-8023) | San Jose; S Keeble Ave, Atlas Ave | 361 |
@@ -1836,7 +1836,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8101](https://precinct.netpress.com/#43-8101) | San Jose; Guadalupe Ave | 249 |
 | [8102](https://precinct.netpress.com/#43-8102) | San Jose; Almaden Rd, New St | 134 |
 | [8103](https://precinct.netpress.com/#43-8103) | San Jose; Clara Felice Way, Cassatt Way | 570 |
-| [8104](https://precinct.netpress.com/#43-8104) |  | 7 |
+| [8104](https://precinct.netpress.com/#43-8104) | Along Laswell Ave | 7 |
 | [8105](https://precinct.netpress.com/#43-8105) | San Jose; Westmoreland Dr, Westpark Dr | 532 |
 | [8106](https://precinct.netpress.com/#43-8106) | San Jose; Constitution Dr, Glenkirk Dr | 636 |
 | [8107](https://precinct.netpress.com/#43-8107) | San Jose; Gundersen Dr, Sycamore Glen | 381 |
@@ -1873,7 +1873,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8143](https://precinct.netpress.com/#43-8143) | San Jose; Clintonia Ave, Palm Haven Ave | 492 |
 | [8144](https://precinct.netpress.com/#43-8144) | San Jose; Cristina Ave, Curtiss Ave | 440 |
 | [8145](https://precinct.netpress.com/#43-8145) | San Jose | 281 |
-| [8146](https://precinct.netpress.com/#43-8146) | San Jose; Shasta Ave, Hanchett Ave, Sequoia Ave | 257 |
+| [8146](https://precinct.netpress.com/#43-8146) | San Jose; Shasta Ave, Hanchett Ave | 257 |
 | [8150](https://precinct.netpress.com/#43-8150) | San Jose; Kirkland Ave, Creek Dr | 294 |
 | [8151](https://precinct.netpress.com/#43-8151) | San Jose; Louise Ave, Willow Glen Way | 100 |
 | [8156](https://precinct.netpress.com/#43-8156) | San Jose; Woodland Ave, W Hedding St | 283 |
@@ -1896,12 +1896,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8180](https://precinct.netpress.com/#43-8180) | San Jose; Oconnor Dr, Ciro Ave | 135 |
 | [8181](https://precinct.netpress.com/#43-8181) | San Jose; Paula St, Northrup St | 160 |
 | [8182](https://precinct.netpress.com/#43-8182) | San Jose; Crestmont Dr, Parquet Ct | 105 |
-| [8183](https://precinct.netpress.com/#43-8183) | San Jose | 23 |
+| [8183](https://precinct.netpress.com/#43-8183) | San Jose; along Parkmoor Ave | 23 |
 | [8184](https://precinct.netpress.com/#43-8184) | San Jose and Santa Clara; N Monroe St, Forest Ave | 0 |
 | [8185](https://precinct.netpress.com/#43-8185) | San Jose; Forest Ave | 0 |
-| [8186](https://precinct.netpress.com/#43-8186) | San Jose | 58 |
+| [8186](https://precinct.netpress.com/#43-8186) | San Jose; along Hester Ave and Olive Ave | 58 |
 | [8187](https://precinct.netpress.com/#43-8187) | San Jose; Business Cir, Wainwright Ave | 16 |
-| [8189](https://precinct.netpress.com/#43-8189) | San Jose | 51 |
+| [8189](https://precinct.netpress.com/#43-8189) | San Jose; along Atlanta Ave and Hull Ave | 51 |
 | [8190](https://precinct.netpress.com/#43-8190) | San Jose; Dorothy Ave, Clark St | 530 |
 | [8192](https://precinct.netpress.com/#43-8192) | San Jose; Ellis Ave, Lincoln Ave | 121 |
 | [8193](https://precinct.netpress.com/#43-8193) | San Jose; Parkside Ave, Juanita Ave | 103 |
@@ -1977,7 +1977,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8272](https://precinct.netpress.com/#43-8272) | San Jose; Rd Runner Ridge, New St | 337 |
 | [8275](https://precinct.netpress.com/#43-8275) | San Jose; Unified Way, Evans Ln | 0 |
 | [8276](https://precinct.netpress.com/#43-8276) | San Jose; S 7th St, E Alma Ave | 0 |
-| [8279](https://precinct.netpress.com/#43-8279) | San Jose | 0 |
+| [8279](https://precinct.netpress.com/#43-8279) | San Jose; along S 7th St and E Alma Ave | 0 |
 | [8281](https://precinct.netpress.com/#43-8281) | San Jose; Fair Ave, Thelma Way | 603 |
 | [8282](https://precinct.netpress.com/#43-8282) | San Jose; Primm Ave, Terilyn Ave | 413 |
 | [8283](https://precinct.netpress.com/#43-8283) | San Jose; Bevin Brook Dr, Nordale Ave | 419 |
@@ -2303,7 +2303,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8852](https://precinct.netpress.com/#43-8852) | San Jose; Loma Prieta Dr, Salida del Sol | 620 |
 | [8853](https://precinct.netpress.com/#43-8853) | San Jose; Montalvo Dr, Jacques Dr | 594 |
 | [8854](https://precinct.netpress.com/#43-8854) | San Jose; Shawnee Ln, Kiowa Cir | 582 |
-| [8855](https://precinct.netpress.com/#43-8855) | San Jose | 96 |
+| [8855](https://precinct.netpress.com/#43-8855) | San Jose; along Shawnee Ln | 96 |
 | [8856](https://precinct.netpress.com/#43-8856) | San Jose; Capitancillos Dr, Pam Ln | 372 |
 | [8857](https://precinct.netpress.com/#43-8857) | San Jose; Medallion Dr, Meander Dr | 416 |
 | [8858](https://precinct.netpress.com/#43-8858) | San Jose; Crimson Dr, Burchell Ave | 495 |
@@ -2447,7 +2447,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9117](https://precinct.netpress.com/#43-9117) | Santa Clara; Thrush Way, Wood Duck Ave | 466 |
 | [9118](https://precinct.netpress.com/#43-9118) | Santa Clara; Glade Dr, Crystal Dr | 386 |
 | [9119](https://precinct.netpress.com/#43-9119) | Santa Clara; Santa Barbara Ave, Santa Rosa Ct | 280 |
-| [9120](https://precinct.netpress.com/#43-9120) | Santa Clara | 51 |
+| [9120](https://precinct.netpress.com/#43-9120) | Santa Clara; along Jones Ave | 51 |
 | [9121](https://precinct.netpress.com/#43-9121) | Santa Clara; Nobili Ave, Clair Ct | 213 |
 | [9150](https://precinct.netpress.com/#43-9150) | Santa Clara; Golden State Dr, Shafer Dr | 407 |
 | [9151](https://precinct.netpress.com/#43-9151) | Santa Clara; Snively Ave, McPherson St | 751 |
@@ -2523,6 +2523,6 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9278](https://precinct.netpress.com/#43-9278) | Santa Clara; Harold Ave, Brookside Ave | 757 |
 | [9279](https://precinct.netpress.com/#43-9279) | Santa Clara; Tyler Ave, Douglane Ave | 477 |
 | [9280](https://precinct.netpress.com/#43-9280) | Santa Clara and San Jose; Dorcich St, Cecil Ave | 494 |
-| [9281](https://precinct.netpress.com/#43-9281) | Santa Clara | 3 |
-| [9282](https://precinct.netpress.com/#43-9282) |  | 4 |
-| [9284](https://precinct.netpress.com/#43-9284) | Santa Clara | 0 |
+| [9281](https://precinct.netpress.com/#43-9281) | Santa Clara; along Stevens Creek Blvd and N Winchester Blvd | 3 |
+| [9282](https://precinct.netpress.com/#43-9282) | Santa Clara; near Glorietta Cir | 4 |
+| [9284](https://precinct.netpress.com/#43-9284) | Santa Clara; along N Winchester Blvd | 0 |

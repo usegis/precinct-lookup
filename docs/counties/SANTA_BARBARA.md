@@ -15,27 +15,27 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10-0406](https://precinct.netpress.com/#42-10-0406) | Rincon Hill Rd, Cam Carreta, Highway 150 | 70 |
 | [10-0408](https://precinct.netpress.com/#42-10-0408) | Highway 192 | 55 |
 | [10-0410](https://precinct.netpress.com/#42-10-0410) | Gobernador Canyon Rd, Shepard Mesa Rd, Highway 150 | 801 |
-| [10-0412](https://precinct.netpress.com/#42-10-0412) |  | 1 |
+| [10-0412](https://precinct.netpress.com/#42-10-0412) | Carpinteria; near Mark Ave | 1 |
 | [10-0414](https://precinct.netpress.com/#42-10-0414) | Santa Monica Rd, Upson Rd, Cravens Ln | 88 |
 | [10-0416](https://precinct.netpress.com/#42-10-0416) | Monte Alegre Dr, Santa Monica Rd | 24 |
 | [10-0418](https://precinct.netpress.com/#42-10-0418) | Toro Canyon; Via Real, Santa Claus Ln | 330 |
 | [10-0420](https://precinct.netpress.com/#42-10-0420) | Sand Point Rd, Ave del Mar, Sandyland Cove Rd | 30 |
 | [10-0421](https://precinct.netpress.com/#42-10-0421) | Toro Canyon; Toro Canyon Park Rd | 7 |
 | [10-0422](https://precinct.netpress.com/#42-10-0422) | Venice Ln, Via Marcina, Via Latina | 122 |
-| [10-0424](https://precinct.netpress.com/#42-10-0424) |  | 5 |
-| [10-0426](https://precinct.netpress.com/#42-10-0426) |  | 5 |
-| [10-0428](https://precinct.netpress.com/#42-10-0428) |  | 0 |
+| [10-0424](https://precinct.netpress.com/#42-10-0424) | Along Sand Point Rd | 5 |
+| [10-0426](https://precinct.netpress.com/#42-10-0426) | Along Santa Claus Ln | 5 |
+| [10-0428](https://precinct.netpress.com/#42-10-0428) | Toro Canyon; near Via Real | 0 |
 | [10-0430](https://precinct.netpress.com/#42-10-0430) | Toro Canyon | 0 |
-| [10-0432](https://precinct.netpress.com/#42-10-0432) |  | 1 |
+| [10-0432](https://precinct.netpress.com/#42-10-0432) | Toro Canyon; near Via Real | 1 |
 | [10-0436](https://precinct.netpress.com/#42-10-0436) | Toro Canyon; Padaro Ln | 38 |
-| [10-0438](https://precinct.netpress.com/#42-10-0438) |  | 1 |
+| [10-0438](https://precinct.netpress.com/#42-10-0438) | Along Beach Club Rd | 1 |
 | [10-0440](https://precinct.netpress.com/#42-10-0440) | Toro Canyon; Polo Dr, Polo Way | 180 |
 | [10-0446](https://precinct.netpress.com/#42-10-0446) | Toro Canyon | 14 |
-| [10-0448](https://precinct.netpress.com/#42-10-0448) |  | 9 |
+| [10-0448](https://precinct.netpress.com/#42-10-0448) | Along Toro Canyon Rd | 9 |
 | [10-0450](https://precinct.netpress.com/#42-10-0450) | Toro Canyon; Toro Canyon Park Rd, Toro Canyon Rd | 82 |
 | [10-0456](https://precinct.netpress.com/#42-10-0456) | Toro Canyon; Ocean View Ave, Serena Ave | 242 |
 | [10-0458](https://precinct.netpress.com/#42-10-0458) | Summerland and Toro Canyon; Padaro Ln | 17 |
-| [10-0460](https://precinct.netpress.com/#42-10-0460) |  | 0 |
+| [10-0460](https://precinct.netpress.com/#42-10-0460) | Toro Canyon; near Beach Club Rd | 0 |
 | [10-0464](https://precinct.netpress.com/#42-10-0464) | Toro Canyon and Summerland; Ortega Reservoir, Lambert Rd | 397 |
 | [10-0468](https://precinct.netpress.com/#42-10-0468) | Romero Canyon Rd | 0 |
 | [10-0470](https://precinct.netpress.com/#42-10-0470) | Romero Canyon Rd, Bella Vista Dr, Bella Vista Rd | 2 |
@@ -47,62 +47,62 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10-0482](https://precinct.netpress.com/#42-10-0482) | Summerland and Toro Canyon; Greenwell Ave, Lillie Ave | 719 |
 | [10-0484](https://precinct.netpress.com/#42-10-0484) | Summerland; Summerland Heights Ln, Ortega Ridge Rd | 46 |
 | [10-0488](https://precinct.netpress.com/#42-10-0488) | Montecito and Summerland; Hot Springs Rd, San Ysidro Rd | 4,365 |
-| [10-0490](https://precinct.netpress.com/#42-10-0490) |  | 0 |
+| [10-0490](https://precinct.netpress.com/#42-10-0490) | Near W Park Ln | 0 |
 | [10-0494](https://precinct.netpress.com/#42-10-0494) | Montecito; Channel Dr | 0 |
 | [10-0496](https://precinct.netpress.com/#42-10-0496) | Montecito; Cold Springs Rd, Ashley Rd | 1,175 |
-| [10-0500](https://precinct.netpress.com/#42-10-0500) |  | 0 |
+| [10-0500](https://precinct.netpress.com/#42-10-0500) | Near E Mountain Dr | 0 |
 | [10-0504](https://precinct.netpress.com/#42-10-0504) | Montecito; E Mountain Dr | 8 |
 | [10-0506](https://precinct.netpress.com/#42-10-0506) | Montecito; Coyote Rd, Lower Hyde | 203 |
-| [10-0510](https://precinct.netpress.com/#42-10-0510) |  | 8 |
+| [10-0510](https://precinct.netpress.com/#42-10-0510) | Montecito; near Westmont Rd | 8 |
 | [10-0512](https://precinct.netpress.com/#42-10-0512) | Montecito; Barker Pass Rd, Sierra Vista Rd | 32 |
 | [10-0514](https://precinct.netpress.com/#42-10-0514) | Montecito; Canon View Rd, Sierra Vista Rd | 176 |
 | [10-0516](https://precinct.netpress.com/#42-10-0516) | Gibraltar Rd | 5 |
 | [10-0518](https://precinct.netpress.com/#42-10-0518) | Mission Canyon; Mission Canyon Rd, Tunnel Rd | 2,075 |
-| [10-0522](https://precinct.netpress.com/#42-10-0522) |  | 0 |
+| [10-0522](https://precinct.netpress.com/#42-10-0522) | Along Laurel Canyon Rd | 0 |
 | [10-0524](https://precinct.netpress.com/#42-10-0524) | Mission Canyon; Spy Glass Rdg, Spyglass Ridge Rd | 39 |
-| [10-0525](https://precinct.netpress.com/#42-10-0525) | Eastern Goleta Valley | 24 |
+| [10-0525](https://precinct.netpress.com/#42-10-0525) | Eastern Goleta Valley; along Cll Cita | 24 |
 | [10-0526](https://precinct.netpress.com/#42-10-0526) | Eastern Goleta Valley; Carol Ave, Cll Cita | 50 |
-| [10-0528](https://precinct.netpress.com/#42-10-0528) |  | 3 |
+| [10-0528](https://precinct.netpress.com/#42-10-0528) | Along Carol Ave | 3 |
 | [10-0530](https://precinct.netpress.com/#42-10-0530) | Eastern Goleta Valley; Harrold Ave, Russell Way | 102 |
 | [10-0534](https://precinct.netpress.com/#42-10-0534) | Eastern Goleta Valley; Pemm Pl | 3 |
 | [10-0536](https://precinct.netpress.com/#42-10-0536) | Pemm Pl | 15 |
-| [10-0538](https://precinct.netpress.com/#42-10-0538) |  | 3 |
+| [10-0538](https://precinct.netpress.com/#42-10-0538) | Eastern Goleta Valley; near N La Cumbre Rd | 3 |
 | [10-0540](https://precinct.netpress.com/#42-10-0540) | Cathedral Vista Ln | 8 |
-| [10-0542](https://precinct.netpress.com/#42-10-0542) |  | 5 |
-| [10-0544](https://precinct.netpress.com/#42-10-0544) |  | 4 |
+| [10-0542](https://precinct.netpress.com/#42-10-0542) | Eastern Goleta Valley; near Highway 192 | 5 |
+| [10-0544](https://precinct.netpress.com/#42-10-0544) | Eastern Goleta Valley; near Cathedral Vista Ln | 4 |
 | [10-0546](https://precinct.netpress.com/#42-10-0546) | Eastern Goleta Valley; Pueblo Ave, N La Cumbre Rd | 128 |
 | [10-0548](https://precinct.netpress.com/#42-10-0548) | Eastern Goleta Valley; Sterrett Ave, Crescent Dr | 334 |
 | [10-0550](https://precinct.netpress.com/#42-10-0550) | Eastern Goleta Valley; Crestwood Dr, Center Ave | 31 |
-| [10-0552](https://precinct.netpress.com/#42-10-0552) |  | 2 |
-| [10-0556](https://precinct.netpress.com/#42-10-0556) |  | 1 |
+| [10-0552](https://precinct.netpress.com/#42-10-0552) | Eastern Goleta Valley; near Barger Canyon Rd | 2 |
+| [10-0556](https://precinct.netpress.com/#42-10-0556) | Eastern Goleta Valley; near La Vista Rd | 1 |
 | [10-0558](https://precinct.netpress.com/#42-10-0558) | Eastern Goleta Valley; La Vista Rd | 52 |
 | [10-0560](https://precinct.netpress.com/#42-10-0560) | Debra Dr, Cocopah Dr, Cieneguitas Rd | 510 |
 | [10-0564](https://precinct.netpress.com/#42-10-0564) | Eastern Goleta Valley; La Vista Rd, Barger Canyon Rd | 86 |
 | [10-0566](https://precinct.netpress.com/#42-10-0566) | Via Gaitero | 0 |
-| [10-0568](https://precinct.netpress.com/#42-10-0568) | Eastern Goleta Valley | 0 |
+| [10-0568](https://precinct.netpress.com/#42-10-0568) | Eastern Goleta Valley; along Via Gaitero and Salvar Rd | 0 |
 | [10-0570](https://precinct.netpress.com/#42-10-0570) | Eastern Goleta Valley; Via Chaparral, Salvar Rd | 0 |
 | [10-0572](https://precinct.netpress.com/#42-10-0572) | Eastern Goleta Valley; Meadowlark Ln, Via Chaparral | 189 |
 | [10-0574](https://precinct.netpress.com/#42-10-0574) | Eastern Goleta Valley; Cam del Rio, Cam del Retiro | 314 |
 | [10-0576](https://precinct.netpress.com/#42-10-0576) | Eastern Goleta Valley; Via Los Padres, San Antonio Creek Rd | 810 |
 | [10-0578](https://precinct.netpress.com/#42-10-0578) | Sunset Vista Private Rd | 2 |
 | [10-0580](https://precinct.netpress.com/#42-10-0580) | Eastern Goleta Valley; La Espada Dr, Pennell Rd | 49 |
-| [10-0581](https://precinct.netpress.com/#42-10-0581) |  | 0 |
+| [10-0581](https://precinct.netpress.com/#42-10-0581) | Eastern Goleta Valley; near Maria Ygnacia Ln | 0 |
 | [10-0584](https://precinct.netpress.com/#42-10-0584) | Eastern Goleta Valley; Maria Ygnacia Ln, Twinridge Rd | 101 |
 | [10-0586](https://precinct.netpress.com/#42-10-0586) | Eastern Goleta Valley | 21 |
-| [10-0590](https://precinct.netpress.com/#42-10-0590) |  | 2 |
+| [10-0590](https://precinct.netpress.com/#42-10-0590) | Eastern Goleta Valley; near San Marcos Pass Rd | 2 |
 | [10-0592](https://precinct.netpress.com/#42-10-0592) | Highway 154 | 7 |
 | [10-0596](https://precinct.netpress.com/#42-10-0596) | San Marcos | 42 |
-| [10-0600](https://precinct.netpress.com/#42-10-0600) |  | 11 |
+| [10-0600](https://precinct.netpress.com/#42-10-0600) | Near La Vista Rd | 11 |
 | [10-0602](https://precinct.netpress.com/#42-10-0602) | E Cam Cielo, Painted Cave Rd, Fremont Trl | 225 |
-| [10-0606](https://precinct.netpress.com/#42-10-0606) |  | 19 |
+| [10-0606](https://precinct.netpress.com/#42-10-0606) | Along Paradise Rd and Forest Rte 5N18 | 19 |
 | [10-0608](https://precinct.netpress.com/#42-10-0608) | Camuesa Rd, Jameson Lake, Gibraltar Reservoir | 192 |
 | [10-0610](https://precinct.netpress.com/#42-10-0610) | Big Pine Rd, Sierra Madre Rd, Cuyama River | 0 |
 | [10-0612](https://precinct.netpress.com/#42-10-0612) | Sierra Madre Rd, Old Sierra Madre Rd, Miranda Pine Rd | 3 |
-| [10-0616](https://precinct.netpress.com/#42-10-0616) |  | 0 |
+| [10-0616](https://precinct.netpress.com/#42-10-0616) | Near Highway 33 | 0 |
 | [10-0618](https://precinct.netpress.com/#42-10-0618) | Perkins Rd | 0 |
 | [10-0620](https://precinct.netpress.com/#42-10-0620) | New Cuyama; Newsome St, Cebrian Ave | 236 |
 | [10-0624](https://precinct.netpress.com/#42-10-0624) | Cuyama and New Cuyama; Foothill Rd, Cuyama River | 173 |
-| [11-1400](https://precinct.netpress.com/#42-11-1400) | Carpinteria | 1 |
+| [11-1400](https://precinct.netpress.com/#42-11-1400) | Carpinteria; along Palm Ave and Highway 224 | 1 |
 | [11-1401](https://precinct.netpress.com/#42-11-1401) | Carpinteria; 4th St | 0 |
 | [11-1402](https://precinct.netpress.com/#42-11-1402) | Carpinteria; Ash Ave, Sandyland Rd | 553 |
 | [11-1403](https://precinct.netpress.com/#42-11-1403) | Carpinteria; Carpinteria Ave, 7th St | 317 |
@@ -116,12 +116,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11-2402](https://precinct.netpress.com/#42-11-2402) | Carpinteria; Franciscan Ct, Cramer Cir | 410 |
 | [11-2404](https://precinct.netpress.com/#42-11-2404) | Carpinteria | 0 |
 | [11-2406](https://precinct.netpress.com/#42-11-2406) | Carpinteria; Verano St, Santa Monica Rd | 68 |
-| [11-2408](https://precinct.netpress.com/#42-11-2408) |  | 41 |
+| [11-2408](https://precinct.netpress.com/#42-11-2408) | Along Lemon Dr | 41 |
 | [11-2410](https://precinct.netpress.com/#42-11-2410) | Carpinteria; La Tierra St, La Tierra Ln | 97 |
 | [11-2412](https://precinct.netpress.com/#42-11-2412) | Carpinteria; Pacific View Dr, Harbor Dr | 508 |
 | [11-3400](https://precinct.netpress.com/#42-11-3400) | Carpinteria; Ogan Rd, Cam Trillado | 665 |
 | [11-3401](https://precinct.netpress.com/#42-11-3401) | Carpinteria; Dariesa St, Cambridge Ln | 394 |
-| [11-3402](https://precinct.netpress.com/#42-11-3402) |  | 0 |
+| [11-3402](https://precinct.netpress.com/#42-11-3402) | Along Casitas Pass Rd | 0 |
 | [11-3404](https://precinct.netpress.com/#42-11-3404) | El Carro Ln | 0 |
 | [11-3406](https://precinct.netpress.com/#42-11-3406) | Carpinteria | 0 |
 | [11-3410](https://precinct.netpress.com/#42-11-3410) | Carpinteria | 0 |
@@ -135,11 +135,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11-4408](https://precinct.netpress.com/#42-11-4408) | Carpinteria; Via Richardo, Via el Rincon | 412 |
 | [11-4412](https://precinct.netpress.com/#42-11-4412) | Carpinteria; Cameo Rd, La Brea Ln | 90 |
 | [11-4414](https://precinct.netpress.com/#42-11-4414) | Carpinteria; Hales Ln, Pacific Village Dr | 197 |
-| [11-4416](https://precinct.netpress.com/#42-11-4416) |  | 2 |
-| [11-5402](https://precinct.netpress.com/#42-11-5402) |  | 0 |
-| [11-5406](https://precinct.netpress.com/#42-11-5406) |  | 0 |
+| [11-4416](https://precinct.netpress.com/#42-11-4416) | Carpinteria; near Casitas Pass Rd | 2 |
+| [11-5402](https://precinct.netpress.com/#42-11-5402) | Carpinteria; near Carpinteria Ave | 0 |
+| [11-5406](https://precinct.netpress.com/#42-11-5406) | Along Carpinteria Ave | 0 |
 | [11-5408](https://precinct.netpress.com/#42-11-5408) | Carpinteria | 0 |
-| [11-5412](https://precinct.netpress.com/#42-11-5412) |  | 0 |
+| [11-5412](https://precinct.netpress.com/#42-11-5412) | Along Carpinteria Ave | 0 |
 | [11-5413](https://precinct.netpress.com/#42-11-5413) | Carpinteria; Arbol Verde St, Canalino Dr | 0 |
 | [11-5414](https://precinct.netpress.com/#42-11-5414) | Carpinteria; Willow Pl, Carpinteria Ave | 979 |
 | [11-5415](https://precinct.netpress.com/#42-11-5415) | Carpinteria; Walnut St, Walnut Ave | 0 |
@@ -167,7 +167,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [12-4408](https://precinct.netpress.com/#42-12-4408) | Santa Barbara; Alston Rd, Cima Linda Ln | 1,026 |
 | [12-4410](https://precinct.netpress.com/#42-12-4410) | Santa Barbara; Eucalyptus Hill Cir, Overlook Ln | 118 |
 | [12-4412](https://precinct.netpress.com/#42-12-4412) | Santa Barbara; Via Alicia | 11 |
-| [12-4414](https://precinct.netpress.com/#42-12-4414) | Santa Barbara | 2 |
+| [12-4414](https://precinct.netpress.com/#42-12-4414) | Santa Barbara; along Sycamore Canyon Rd and Highway 144 | 2 |
 | [12-4416](https://precinct.netpress.com/#42-12-4416) | Santa Barbara; Sycamore Vista Rd | 16 |
 | [12-4420](https://precinct.netpress.com/#42-12-4420) | Santa Barbara; Coyote Cir, Banana Rd | 53 |
 | [12-4421](https://precinct.netpress.com/#42-12-4421) | Santa Barbara; Westmont Rd, Circle Dr | 206 |
@@ -184,7 +184,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [12-5406](https://precinct.netpress.com/#42-12-5406) | Santa Barbara; Eileen Way, Woodley Ct | 128 |
 | [12-5408](https://precinct.netpress.com/#42-12-5408) | Santa Barbara; Willow Glen Rd, Avon Ln | 304 |
 | [12-5410](https://precinct.netpress.com/#42-12-5410) | Santa Barbara; Foxen Dr, Grove Ln | 503 |
-| [12-5412](https://precinct.netpress.com/#42-12-5412) | Santa Barbara | 0 |
+| [12-5412](https://precinct.netpress.com/#42-12-5412) | Santa Barbara; along Pemm Pl | 0 |
 | [12-6400](https://precinct.netpress.com/#42-12-6400) | Santa Barbara; W Canon Perdido St, W De la Guerra St | 820 |
 | [12-6402](https://precinct.netpress.com/#42-12-6402) | Santa Barbara; Bath St, W Figueroa St | 1,146 |
 | [12-6404](https://precinct.netpress.com/#42-12-6404) | Santa Barbara; E Figueroa St, E Carrillo St | 540 |
@@ -194,31 +194,31 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [12-6412](https://precinct.netpress.com/#42-12-6412) | Santa Barbara; E Sola St, E Victoria St | 955 |
 | [12-6414](https://precinct.netpress.com/#42-12-6414) | Santa Barbara; Chapala St, W Islay St | 2,232 |
 | [20-0402](https://precinct.netpress.com/#42-20-0402) | Veronica Springs Rd, La Entrada, Stonecreek Rd | 393 |
-| [20-0404](https://precinct.netpress.com/#42-20-0404) |  | 2 |
-| [20-0405](https://precinct.netpress.com/#42-20-0405) |  | 3 |
+| [20-0404](https://precinct.netpress.com/#42-20-0404) | Near Brosian Way | 2 |
+| [20-0405](https://precinct.netpress.com/#42-20-0405) | Near Yankee Farm Rd | 3 |
 | [20-0406](https://precinct.netpress.com/#42-20-0406) | Braemar Dr | 23 |
-| [20-0408](https://precinct.netpress.com/#42-20-0408) |  | 1 |
-| [20-0410](https://precinct.netpress.com/#42-20-0410) |  | 2 |
+| [20-0408](https://precinct.netpress.com/#42-20-0408) | Near Modoc Rd | 1 |
+| [20-0410](https://precinct.netpress.com/#42-20-0410) | Along Las Positas Rd | 2 |
 | [20-0412](https://precinct.netpress.com/#42-20-0412) | Stevens Rd, Apple Grove Cir, Apple Grove Ln | 181 |
 | [20-0414](https://precinct.netpress.com/#42-20-0414) | Eastern Goleta Valley; Monte Dr, Laguna Blanca | 356 |
 | [20-0416](https://precinct.netpress.com/#42-20-0416) | Eastern Goleta Valley; Encore Dr, Via Zorro | 408 |
 | [20-0418](https://precinct.netpress.com/#42-20-0418) | Eastern Goleta Valley and Santa Barbara; State St, San Marcos Pass Rd | 113 |
 | [20-0420](https://precinct.netpress.com/#42-20-0420) | Santa Barbara | 0 |
 | [20-0424](https://precinct.netpress.com/#42-20-0424) | Vieja Dr, Nogal Dr | 1 |
-| [20-0426](https://precinct.netpress.com/#42-20-0426) |  | 3 |
-| [20-0428](https://precinct.netpress.com/#42-20-0428) |  | 2 |
+| [20-0426](https://precinct.netpress.com/#42-20-0426) | Eastern Goleta Valley; near Vieja Dr | 3 |
+| [20-0428](https://precinct.netpress.com/#42-20-0428) | Eastern Goleta Valley; near Arroyo Rd | 2 |
 | [20-0434](https://precinct.netpress.com/#42-20-0434) | Via Laguna | 3 |
 | [20-0438](https://precinct.netpress.com/#42-20-0438) | Eastern Goleta Valley; Via Trepadora | 9 |
-| [20-0440](https://precinct.netpress.com/#42-20-0440) |  | 3 |
-| [20-0442](https://precinct.netpress.com/#42-20-0442) | Eastern Goleta Valley | 12 |
-| [20-0444](https://precinct.netpress.com/#42-20-0444) |  | 2 |
+| [20-0440](https://precinct.netpress.com/#42-20-0440) | Along Vieja Dr and Puente Dr | 3 |
+| [20-0442](https://precinct.netpress.com/#42-20-0442) | Eastern Goleta Valley; along Puente Dr and Via Cayente | 12 |
+| [20-0444](https://precinct.netpress.com/#42-20-0444) | Eastern Goleta Valley; near Puente Dr | 2 |
 | [20-0446](https://precinct.netpress.com/#42-20-0446) | Eastern Goleta Valley; Puente Dr | 9 |
-| [20-0448](https://precinct.netpress.com/#42-20-0448) |  | 0 |
+| [20-0448](https://precinct.netpress.com/#42-20-0448) | Eastern Goleta Valley; near Modoc Rd | 0 |
 | [20-0450](https://precinct.netpress.com/#42-20-0450) | Eastern Goleta Valley; Via Esperanza, Via Roblada | 1,054 |
 | [20-0451](https://precinct.netpress.com/#42-20-0451) | Fairfax Rd, Sunset Rd, Sunset Dr | 81 |
-| [20-0452](https://precinct.netpress.com/#42-20-0452) |  | 9 |
+| [20-0452](https://precinct.netpress.com/#42-20-0452) | Near Cedar Vis | 9 |
 | [20-0454](https://precinct.netpress.com/#42-20-0454) | Sunset Rd, Sunset Dr | 34 |
-| [20-0456](https://precinct.netpress.com/#42-20-0456) |  | 2 |
+| [20-0456](https://precinct.netpress.com/#42-20-0456) | Near N La Cumbre Rd | 2 |
 | [20-0458](https://precinct.netpress.com/#42-20-0458) | N La Cumbre Rd | 23 |
 | [20-0460](https://precinct.netpress.com/#42-20-0460) | La Barbara Dr | 18 |
 | [20-0462](https://precinct.netpress.com/#42-20-0462) | Eastern Goleta Valley; Cll Albatros, Cll Amarilla | 811 |
@@ -227,17 +227,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20-0468](https://precinct.netpress.com/#42-20-0468) | Eastern Goleta Valley; Vintage Ranch Ln, Puente Dr | 28 |
 | [20-0470](https://precinct.netpress.com/#42-20-0470) | Eastern Goleta Valley; Los Feliz, Los Feliz Dr | 188 |
 | [20-0472](https://precinct.netpress.com/#42-20-0472) | Eastern Goleta Valley; Puente Dr | 0 |
-| [20-0473](https://precinct.netpress.com/#42-20-0473) | Eastern Goleta Valley | 6 |
+| [20-0473](https://precinct.netpress.com/#42-20-0473) | Eastern Goleta Valley; along S San Antonio Rd | 6 |
 | [20-0474](https://precinct.netpress.com/#42-20-0474) | Eastern Goleta Valley; Juvenile Hall Rd | 10 |
 | [20-0476](https://precinct.netpress.com/#42-20-0476) | Eastern Goleta Valley; El Sueno Rd, Sherwood Dr | 375 |
-| [20-0478](https://precinct.netpress.com/#42-20-0478) |  | 9 |
+| [20-0478](https://precinct.netpress.com/#42-20-0478) | Eastern Goleta Valley; near Nogal Dr | 9 |
 | [20-0480](https://precinct.netpress.com/#42-20-0480) | Eastern Goleta Valley; County Dump Rd, Highway 101 | 3 |
 | [20-0482](https://precinct.netpress.com/#42-20-0482) | Eastern Goleta Valley; Cam del Remedio, Honor Farm Rd | 27 |
-| [20-0486](https://precinct.netpress.com/#42-20-0486) |  | 0 |
+| [20-0486](https://precinct.netpress.com/#42-20-0486) | Along Gerona Way | 0 |
 | [20-0488](https://precinct.netpress.com/#42-20-0488) | Los Verdes Dr | 22 |
-| [20-0492](https://precinct.netpress.com/#42-20-0492) |  | 3 |
-| [20-0494](https://precinct.netpress.com/#42-20-0494) |  | 3 |
-| [20-0498](https://precinct.netpress.com/#42-20-0498) |  | 0 |
+| [20-0492](https://precinct.netpress.com/#42-20-0492) | Eastern Goleta Valley; near Torero Rd | 3 |
+| [20-0494](https://precinct.netpress.com/#42-20-0494) | Along N San Marcos Rd | 3 |
+| [20-0498](https://precinct.netpress.com/#42-20-0498) | Along Cathedral Oaks Rd and Ribera Dr | 0 |
 | [20-0502](https://precinct.netpress.com/#42-20-0502) | Eastern Goleta Valley; La Buena Tierra, N Patterson Ave | 38 |
 | [20-0504](https://precinct.netpress.com/#42-20-0504) | Eastern Goleta Valley; Oak Glen Dr, Venado Dr | 825 |
 | [20-0506](https://precinct.netpress.com/#42-20-0506) | Eastern Goleta Valley; La Ramada Dr, Ribera Dr | 2,374 |
@@ -247,26 +247,26 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20-0513](https://precinct.netpress.com/#42-20-0513) | Eastern Goleta Valley; Via Campobello, N San Marcos Rd | 134 |
 | [20-0514](https://precinct.netpress.com/#42-20-0514) | Eastern Goleta Valley; Patterson Ave, N San Marcos Rd | 17 |
 | [20-0515](https://precinct.netpress.com/#42-20-0515) | Poinsettia Way | 0 |
-| [20-0516](https://precinct.netpress.com/#42-20-0516) | Eastern Goleta Valley | 3 |
+| [20-0516](https://precinct.netpress.com/#42-20-0516) | Eastern Goleta Valley; along Vineyard Rd | 3 |
 | [20-0518](https://precinct.netpress.com/#42-20-0518) | Eastern Goleta Valley; Via del Rey, Cam Rio Verde | 5 |
 | [20-0520](https://precinct.netpress.com/#42-20-0520) | Eastern Goleta Valley; Cam Manadero, Cam Meleno | 1,419 |
-| [20-0522](https://precinct.netpress.com/#42-20-0522) | Eastern Goleta Valley | 0 |
+| [20-0522](https://precinct.netpress.com/#42-20-0522) | Eastern Goleta Valley; along Queen Ann Ln and Randolph Rd | 0 |
 | [20-0524](https://precinct.netpress.com/#42-20-0524) | Eastern Goleta Valley; N Patterson Ave, Via Lemora | 33 |
-| [20-0526](https://precinct.netpress.com/#42-20-0526) |  | 0 |
-| [20-0528](https://precinct.netpress.com/#42-20-0528) |  | 3 |
+| [20-0526](https://precinct.netpress.com/#42-20-0526) | Eastern Goleta Valley; near N Patterson Ave | 0 |
+| [20-0528](https://precinct.netpress.com/#42-20-0528) | Eastern Goleta Valley; near N Patterson Ave | 3 |
 | [20-0530](https://precinct.netpress.com/#42-20-0530) | Eastern Goleta Valley; Via Lemora, Cuesta Verde | 92 |
 | [20-0532](https://precinct.netpress.com/#42-20-0532) | Eastern Goleta Valley; Pine Tree Ln, N Fairview Ave | 19 |
-| [20-0534](https://precinct.netpress.com/#42-20-0534) |  | 5 |
+| [20-0534](https://precinct.netpress.com/#42-20-0534) | Eastern Goleta Valley; near N Fairview Ave | 5 |
 | [20-0536](https://precinct.netpress.com/#42-20-0536) | Eastern Goleta Valley; Holiday Hill Rd, N Fairview Ave | 69 |
 | [20-0537](https://precinct.netpress.com/#42-20-0537) | El Camino Ratel | 0 |
 | [20-0538](https://precinct.netpress.com/#42-20-0538) | Eastern Goleta Valley; Franklin Ranch Rd, Sunset Ridge Rd | 55 |
-| [20-0539](https://precinct.netpress.com/#42-20-0539) |  | 2 |
+| [20-0539](https://precinct.netpress.com/#42-20-0539) | Goleta; near N Fairview Ave | 2 |
 | [20-0542](https://precinct.netpress.com/#42-20-0542) | San Marcos Trout Club, Hidden Valley Rd, W Cam Cielo | 239 |
 | [20-0548](https://precinct.netpress.com/#42-20-0548) | N La Patera Ln, N Fairview Ave | 31 |
-| [20-0550](https://precinct.netpress.com/#42-20-0550) |  | 0 |
-| [20-0552](https://precinct.netpress.com/#42-20-0552) |  | 0 |
+| [20-0550](https://precinct.netpress.com/#42-20-0550) | Near Glen Annie Rd | 0 |
+| [20-0552](https://precinct.netpress.com/#42-20-0552) | Near Glen Annie Rd | 0 |
 | [20-0555](https://precinct.netpress.com/#42-20-0555) | Eastern Goleta Valley | 0 |
-| [20-0556](https://precinct.netpress.com/#42-20-0556) |  | 8 |
+| [20-0556](https://precinct.netpress.com/#42-20-0556) | Along Plunkett Ln | 8 |
 | [20-0560](https://precinct.netpress.com/#42-20-0560) | Eastern Goleta Valley; Cam de Vida, San Simeon Dr | 418 |
 | [20-0562](https://precinct.netpress.com/#42-20-0562) | Eastern Goleta Valley; S San Marcos Rd, San Simeon Dr | 10 |
 | [20-0564](https://precinct.netpress.com/#42-20-0564) | Eastern Goleta Valley; Ranch Ln, Sungate Ranch Rd | 92 |
@@ -274,17 +274,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20-0568](https://precinct.netpress.com/#42-20-0568) | Eastern Goleta Valley; Gwyne Ave, San Ricardo Dr | 1,075 |
 | [20-0570](https://precinct.netpress.com/#42-20-0570) | Eastern Goleta Valley; San Marino Dr, Ella Ln | 573 |
 | [20-0572](https://precinct.netpress.com/#42-20-0572) | Eastern Goleta Valley; Rhoads Ave, Evonshire Ave | 1,601 |
-| [20-0574](https://precinct.netpress.com/#42-20-0574) | Eastern Goleta Valley | 0 |
+| [20-0574](https://precinct.netpress.com/#42-20-0574) | Eastern Goleta Valley; along Anita Ln | 0 |
 | [20-0576](https://precinct.netpress.com/#42-20-0576) | Eastern Goleta Valley; Magna Vista St, Halkirk St | 522 |
 | [20-0578](https://precinct.netpress.com/#42-20-0578) | Eastern Goleta Valley; Clle Camarada, Cll Camarada | 300 |
 | [20-0580](https://precinct.netpress.com/#42-20-0580) | Vieja Dr | 20 |
 | [20-0582](https://precinct.netpress.com/#42-20-0582) | Eastern Goleta Valley; Diamond Crest Center, Mockingbird Ln | 139 |
 | [20-0584](https://precinct.netpress.com/#42-20-0584) | Eastern Goleta Valley; Orchid Dr, Austin Rd | 172 |
-| [20-0586](https://precinct.netpress.com/#42-20-0586) |  | 2 |
+| [20-0586](https://precinct.netpress.com/#42-20-0586) | Eastern Goleta Valley; near Barwick Rd | 2 |
 | [20-0588](https://precinct.netpress.com/#42-20-0588) | Eastern Goleta Valley; Anderson Ln, Shoreline Dr | 18 |
 | [20-0590](https://precinct.netpress.com/#42-20-0590) | Eastern Goleta Valley; Anderson Ln, Dorwin Ln | 37 |
 | [20-0594](https://precinct.netpress.com/#42-20-0594) | Eastern Goleta Valley and Santa Barbara; More Ranch Rd, Goleta Slough | 30 |
-| [20-0596](https://precinct.netpress.com/#42-20-0596) | Eastern Goleta Valley | 0 |
+| [20-0596](https://precinct.netpress.com/#42-20-0596) | Eastern Goleta Valley; along Ward Dr | 0 |
 | [20-0602](https://precinct.netpress.com/#42-20-0602) | Eastern Goleta Valley; S Patterson Ave | 0 |
 | [20-0604](https://precinct.netpress.com/#42-20-0604) | Eastern Goleta Valley; Wm L Moffett Ln, Goleta Slough | 0 |
 | [20-0606](https://precinct.netpress.com/#42-20-0606) | Eastern Goleta Valley | 0 |
@@ -294,9 +294,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20-0614](https://precinct.netpress.com/#42-20-0614) | Isla Vista; Ocean Rd | 762 |
 | [20-0616](https://precinct.netpress.com/#42-20-0616) | Isla Vista; Pardall Rd, Madrid Rd | 1,382 |
 | [20-0618](https://precinct.netpress.com/#42-20-0618) | Isla Vista | 0 |
-| [20-0620](https://precinct.netpress.com/#42-20-0620) |  | 0 |
+| [20-0620](https://precinct.netpress.com/#42-20-0620) | Along Embarcadero del Norte and Pardall Rd | 0 |
 | [20-0622](https://precinct.netpress.com/#42-20-0622) | Isla Vista; Cervantes Rd, Segovia Rd | 662 |
-| [20-0624](https://precinct.netpress.com/#42-20-0624) |  | 13 |
+| [20-0624](https://precinct.netpress.com/#42-20-0624) | Along Embarcadero del Norte | 13 |
 | [20-0626](https://precinct.netpress.com/#42-20-0626) | Isla Vista; Cam Pescadero, Pasado Rd | 1,459 |
 | [20-0627](https://precinct.netpress.com/#42-20-0627) | Isla Vista; Del Playa Dr, Sabado Tarde Rd | 1,074 |
 | [20-0628](https://precinct.netpress.com/#42-20-0628) | Berkshire Ter | 35 |
@@ -315,7 +315,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [22-2404](https://precinct.netpress.com/#42-22-2404) | Santa Barbara; Shoreline Dr, San Miguel Ave | 3,791 |
 | [22-2406](https://precinct.netpress.com/#42-22-2406) | Santa Barbara; Vic Trace Reservoir, Miramonte Dr | 3,273 |
 | [22-2416](https://precinct.netpress.com/#42-22-2416) | Santa Barbara; Crestline Dr, Manitou Rd | 1,906 |
-| [22-2420](https://precinct.netpress.com/#42-22-2420) |  | 2 |
+| [22-2420](https://precinct.netpress.com/#42-22-2420) | Along Las Positas Rd and Parks Rd | 2 |
 | [22-3400](https://precinct.netpress.com/#42-22-3400) | Santa Barbara; Eucalyptus Ave, Kentia Ave | 395 |
 | [22-3402](https://precinct.netpress.com/#42-22-3402) | Santa Barbara; Oak Ave, Modoc Rd | 250 |
 | [22-3404](https://precinct.netpress.com/#42-22-3404) | Portesuello Ave, Modoc Rd | 84 |
@@ -336,15 +336,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [22-6400](https://precinct.netpress.com/#42-22-6400) | Santa Barbara; W Alamar Ave, W Pueblo St | 2,293 |
 | [23-1400](https://precinct.netpress.com/#42-23-1400) | Goleta; Highway 217, N Patterson Ave | 0 |
 | [23-1402](https://precinct.netpress.com/#42-23-1402) | Goleta; Somerset Dr, Huntington Dr | 603 |
-| [23-1404](https://precinct.netpress.com/#42-23-1404) | Goleta | 0 |
+| [23-1404](https://precinct.netpress.com/#42-23-1404) | Goleta; along N Fairview Ave | 0 |
 | [23-1406](https://precinct.netpress.com/#42-23-1406) | Goleta; Encina Rd, Wakefield Rd | 1,885 |
 | [23-1408](https://precinct.netpress.com/#42-23-1408) | Goleta | 0 |
 | [23-1410](https://precinct.netpress.com/#42-23-1410) | N Fairview Ave | 0 |
 | [23-1412](https://precinct.netpress.com/#42-23-1412) | Goleta; Cambridge Dr | 27 |
 | [23-1414](https://precinct.netpress.com/#42-23-1414) | Goleta; Pso Palmilla Las, Manzanillo Dr | 683 |
 | [23-1416](https://precinct.netpress.com/#42-23-1416) | La Goleta Rd | 3 |
-| [23-1418](https://precinct.netpress.com/#42-23-1418) |  | 7 |
-| [23-1420](https://precinct.netpress.com/#42-23-1420) |  | 47 |
+| [23-1418](https://precinct.netpress.com/#42-23-1418) | Along Via Salerno | 7 |
+| [23-1420](https://precinct.netpress.com/#42-23-1420) | Along La Goleta Rd | 47 |
 | [23-1424](https://precinct.netpress.com/#42-23-1424) | Goleta; Carlo Dr, Vega Dr | 1,300 |
 | [23-1426](https://precinct.netpress.com/#42-23-1426) | Goleta; Cathedral Oaks Rd, Stow Canyon Rd | 0 |
 | [23-1428](https://precinct.netpress.com/#42-23-1428) | Goleta; N Fairview Ave | 0 |
@@ -353,32 +353,32 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [23-2402](https://precinct.netpress.com/#42-23-2402) | Goleta; Ward Dr, Plz del Centro | 348 |
 | [23-2404](https://precinct.netpress.com/#42-23-2404) | Goleta; Patterson Pl, S Patterson Ave | 205 |
 | [23-2406](https://precinct.netpress.com/#42-23-2406) | Goleta; Overpass Rd, Summer Gardens Ln | 286 |
-| [23-2408](https://precinct.netpress.com/#42-23-2408) |  | 5 |
+| [23-2408](https://precinct.netpress.com/#42-23-2408) | Along Saint Josephs St | 5 |
 | [23-2416](https://precinct.netpress.com/#42-23-2416) | Goleta | 0 |
 | [30-0400](https://precinct.netpress.com/#42-30-0400) | Big Pine Rd, Kentucky Rd, Camuesa Canyon Rd | 27 |
 | [30-0402](https://precinct.netpress.com/#42-30-0402) | Santa Cruz Bay, Cachuma Bay, Lake Cachuma | 1 |
-| [30-0404](https://precinct.netpress.com/#42-30-0404) |  | 2 |
+| [30-0404](https://precinct.netpress.com/#42-30-0404) | Near San Marcos Pass Rd | 2 |
 | [30-0406](https://precinct.netpress.com/#42-30-0406) | W Cam Cielo, Stagecoach Rd | 55 |
-| [30-0408](https://precinct.netpress.com/#42-30-0408) |  | 4 |
-| [30-0414](https://precinct.netpress.com/#42-30-0414) |  | 0 |
+| [30-0408](https://precinct.netpress.com/#42-30-0408) | Near San Marcos Pass Rd | 4 |
+| [30-0414](https://precinct.netpress.com/#42-30-0414) | Near San Marcos Pass Rd | 0 |
 | [30-0416](https://precinct.netpress.com/#42-30-0416) | Lakeview Dr, Lake Vw, Oakview Dr | 6 |
-| [30-0418](https://precinct.netpress.com/#42-30-0418) |  | 2 |
+| [30-0418](https://precinct.netpress.com/#42-30-0418) | Along Meadowlark Rd and Armour Ranch Rd | 2 |
 | [30-0420](https://precinct.netpress.com/#42-30-0420) | Meadowlark Rd | 15 |
 | [30-0424](https://precinct.netpress.com/#42-30-0424) | Indian Way, N Refugio Rd, White Oak Rd | 71 |
 | [30-0425](https://precinct.netpress.com/#42-30-0425) | Mesa Verde Rd, N Refugio Rd | 3 |
 | [30-0426](https://precinct.netpress.com/#42-30-0426) | Meadowlark Rd | 1 |
 | [30-0428](https://precinct.netpress.com/#42-30-0428) | Santa Ynez; N Refugio Rd, Kara Ln | 101 |
-| [30-0430](https://precinct.netpress.com/#42-30-0430) |  | 4 |
-| [30-0434](https://precinct.netpress.com/#42-30-0434) |  | 0 |
+| [30-0430](https://precinct.netpress.com/#42-30-0430) | Along Exterior Rd and Sienna Way | 4 |
+| [30-0434](https://precinct.netpress.com/#42-30-0434) | Along Covered Wagon Rd and Covered Wagon | 0 |
 | [30-0438](https://precinct.netpress.com/#42-30-0438) | Santa Ynez; Friendship Ln, Sienna Way | 70 |
-| [30-0440](https://precinct.netpress.com/#42-30-0440) |  | 122 |
+| [30-0440](https://precinct.netpress.com/#42-30-0440) | Along Highway 246 and Lucky Ln | 122 |
 | [30-0442](https://precinct.netpress.com/#42-30-0442) | Santa Ynez; Via Juana Ln, Won A Nee Rd | 144 |
 | [30-0444](https://precinct.netpress.com/#42-30-0444) | Kalawa Shaq, Sanja Cota, Pasquala Ln | 126 |
 | [30-0446](https://precinct.netpress.com/#42-30-0446) | Santa Ynez; Sanja Cota Ave, Santa Ynez Airport | 0 |
 | [30-0448](https://precinct.netpress.com/#42-30-0448) | Meadowlark Rd, Skylark Rd, Edgehill Rd | 35 |
 | [30-0450](https://precinct.netpress.com/#42-30-0450) | Santa Ynez; Airport Rd, Santa Ynez Airport | 3 |
 | [30-0454](https://precinct.netpress.com/#42-30-0454) | Santa Ynez; Sanja Cota Ave | 1 |
-| [30-0456](https://precinct.netpress.com/#42-30-0456) | Santa Ynez | 0 |
+| [30-0456](https://precinct.netpress.com/#42-30-0456) | Santa Ynez; along Highway 246 and Armour Ranch Rd | 0 |
 | [30-0458](https://precinct.netpress.com/#42-30-0458) | Santa Ynez; Numancia St | 0 |
 | [30-0560](https://precinct.netpress.com/#42-30-0560) | Santa Ynez; Faraday St, Cerrito St | 598 |
 | [30-0562](https://precinct.netpress.com/#42-30-0562) | Santa Ynez; Sagunto St, Tivola St | 970 |
@@ -403,8 +403,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30-0606](https://precinct.netpress.com/#42-30-0606) | Jonata Park Rd | 14 |
 | [30-0610](https://precinct.netpress.com/#42-30-0610) | Los Olivos; Sheep Camp Rd, Calkins Rd | 55 |
 | [30-0612](https://precinct.netpress.com/#42-30-0612) | Tapadero Rd, Latigo Dr, Little Creek Ln | 24 |
-| [30-0614](https://precinct.netpress.com/#42-30-0614) |  | 5 |
-| [30-0616](https://precinct.netpress.com/#42-30-0616) |  | 3 |
+| [30-0614](https://precinct.netpress.com/#42-30-0614) | Along Ballard Canyon Rd | 5 |
+| [30-0616](https://precinct.netpress.com/#42-30-0616) | Los Olivos; near Ballard Canyon Rd | 3 |
 | [30-0618](https://precinct.netpress.com/#42-30-0618) | Los Olivos; San Marcos Ave, Santa Barbara Ave | 478 |
 | [30-0620](https://precinct.netpress.com/#42-30-0620) | Los Olivos; North St, Calkins Rd | 25 |
 | [30-0624](https://precinct.netpress.com/#42-30-0624) | Los Olivos; Railway Ave, Bramadero Rd | 168 |
@@ -431,28 +431,28 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30-0684](https://precinct.netpress.com/#42-30-0684) | Greenfield Rd, Greenfield Way | 12 |
 | [30-0700](https://precinct.netpress.com/#42-30-0700) | N La Patera Ln, La Patera Canyon Rd, S C E Powerln Svc Rd | 56 |
 | [30-0702](https://precinct.netpress.com/#42-30-0702) | Goleta; Ellwood Canyon Rd, Ellwood Ranch Rd | 37 |
-| [30-0706](https://precinct.netpress.com/#42-30-0706) |  | 1 |
-| [30-0708](https://precinct.netpress.com/#42-30-0708) |  | 1 |
+| [30-0706](https://precinct.netpress.com/#42-30-0706) | Along Ellwood Ridge Rd | 1 |
+| [30-0708](https://precinct.netpress.com/#42-30-0708) | Near Ellwood Ridge Rd | 1 |
 | [30-0710](https://precinct.netpress.com/#42-30-0710) | Glen Annie Rd | 8 |
 | [30-0712](https://precinct.netpress.com/#42-30-0712) | Glen Annie Reservoir, S C E Powerln Svc Rd, Glen Annie Rd | 0 |
-| [30-0714](https://precinct.netpress.com/#42-30-0714) |  | 0 |
+| [30-0714](https://precinct.netpress.com/#42-30-0714) | Near Glen Annie Rd | 0 |
 | [30-0718](https://precinct.netpress.com/#42-30-0718) | Cll Ecuestre, Naples Access Rual Rd, Naples Access Rual Road Water-Silo Rd | 89 |
 | [30-0720](https://precinct.netpress.com/#42-30-0720) | Ellwood Ranch Rd | 2 |
 | [30-0722](https://precinct.netpress.com/#42-30-0722) | Winchester Canyon Rd | 7 |
 | [30-0724](https://precinct.netpress.com/#42-30-0724) | Winchester Canyon Rd | 0 |
-| [30-0726](https://precinct.netpress.com/#42-30-0726) |  | 0 |
+| [30-0726](https://precinct.netpress.com/#42-30-0726) | Along Winchester Canyon Rd | 0 |
 | [30-0728](https://precinct.netpress.com/#42-30-0728) | Armas Canyon Rd | 6 |
 | [30-0729](https://precinct.netpress.com/#42-30-0729) | Goleta; Ver Cordillera, Cll Real | 0 |
 | [30-0730](https://precinct.netpress.com/#42-30-0730) | Ver del Ciervo, Ver Leyenda, Ver del Padre | 419 |
-| [30-0732](https://precinct.netpress.com/#42-30-0732) |  | 9 |
-| [30-0734](https://precinct.netpress.com/#42-30-0734) |  | 4 |
+| [30-0732](https://precinct.netpress.com/#42-30-0732) | Near Farren Rd | 9 |
+| [30-0734](https://precinct.netpress.com/#42-30-0734) | Near Farren Rd | 4 |
 | [30-0736](https://precinct.netpress.com/#42-30-0736) | Goleta; Eagle Canyon Creek, Farren Rd | 1 |
 | [30-0738](https://precinct.netpress.com/#42-30-0738) | La Casa Grande Cir, El Camino Real, De la Rosa Rd | 24 |
 | [30-0742](https://precinct.netpress.com/#42-30-0742) | Langtry Ave, Dos Pueblos Cyn Rd, Naples Access Rd | 19 |
 | [30-0744](https://precinct.netpress.com/#42-30-0744) | Las Varas Cyn Rd, N Dos Pueblos Cyn Rd, Dos Pueblos Canyon Rd | 23 |
 | [30-0748](https://precinct.netpress.com/#42-30-0748) | Kinevan Rd, Rosario Park Rd, Rosario Park | 138 |
 | [30-0754](https://precinct.netpress.com/#42-30-0754) | Refugio Rd, Cll Real, Access Trl | 148 |
-| [30-0756](https://precinct.netpress.com/#42-30-0756) |  | 2 |
+| [30-0756](https://precinct.netpress.com/#42-30-0756) | Along Cll Real | 2 |
 | [30-0760](https://precinct.netpress.com/#42-30-0760) | Nina Pl, Fire Rd, Zaca Creek | 14 |
 | [30-0762](https://precinct.netpress.com/#42-30-0762) | Highway 101 | 17 |
 | [30-0764](https://precinct.netpress.com/#42-30-0764) | Santa Rosa Rd | 38 |
@@ -461,7 +461,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30-0772](https://precinct.netpress.com/#42-30-0772) | Buellton; Bobcat Springs Rd, Highway 246 | 9 |
 | [30-0774](https://precinct.netpress.com/#42-30-0774) | McMurray Rd, Jonata Park Rd, Highway 101 | 20 |
 | [30-0776](https://precinct.netpress.com/#42-30-0776) | Croft Ln, Viendra Dr, Cuatro Caminos | 27 |
-| [30-0778](https://precinct.netpress.com/#42-30-0778) |  | 5 |
+| [30-0778](https://precinct.netpress.com/#42-30-0778) | Near Damassa Rd | 5 |
 | [30-0780](https://precinct.netpress.com/#42-30-0780) | Ballard Canyon Rd | 78 |
 | [30-0782](https://precinct.netpress.com/#42-30-0782) | Highway 246 | 18 |
 | [30-0784](https://precinct.netpress.com/#42-30-0784) | Solvang; Zaca Creek, Access Rd | 7 |
@@ -475,18 +475,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30-0816](https://precinct.netpress.com/#42-30-0816) | Sweeney Rd | 5 |
 | [30-0820](https://precinct.netpress.com/#42-30-0820) | Sweeney Rd, Santos Rd, Mail Rd | 204 |
 | [30-0822](https://precinct.netpress.com/#42-30-0822) | Santa Rosa Rd | 3 |
-| [30-0824](https://precinct.netpress.com/#42-30-0824) |  | 0 |
+| [30-0824](https://precinct.netpress.com/#42-30-0824) | Near Highway 1 | 0 |
 | [30-0826](https://precinct.netpress.com/#42-30-0826) | San Pasqual Rd, San Miguelito Canyon Rd, San Pasqual Canyon Rd | 101 |
 | [30-0828](https://precinct.netpress.com/#42-30-0828) | Bodger Rd | 42 |
-| [30-0830](https://precinct.netpress.com/#42-30-0830) |  | 0 |
+| [30-0830](https://precinct.netpress.com/#42-30-0830) | Along S V St and S Bailey Ave | 0 |
 | [30-0831](https://precinct.netpress.com/#42-30-0831) | North Ave, Bailey Ave, W Airport Ave | 0 |
 | [30-0832](https://precinct.netpress.com/#42-30-0832) | Jalama Rd, Coast Rd, San Miguelito Rd | 51 |
 | [30-0836](https://precinct.netpress.com/#42-30-0836) | Arguello Blvd, Clark St, Lasalle Canyon Rd | 17 |
 | [30-0840](https://precinct.netpress.com/#42-30-0840) | Cll Lindero | 35 |
 | [30-0848](https://precinct.netpress.com/#42-30-0848) | Purisima Rd, Rucker Rd, 10 Rd | 5 |
-| [30-0852](https://precinct.netpress.com/#42-30-0852) |  | 1 |
-| [30-0856](https://precinct.netpress.com/#42-30-0856) |  | 0 |
-| [32-5400](https://precinct.netpress.com/#42-32-5400) |  | 0 |
+| [30-0852](https://precinct.netpress.com/#42-30-0852) | Near Highway 1 | 1 |
+| [30-0856](https://precinct.netpress.com/#42-30-0856) | Near Harris Grade Rd | 0 |
+| [32-5400](https://precinct.netpress.com/#42-32-5400) | Along Fairview Ave | 0 |
 | [32-5404](https://precinct.netpress.com/#42-32-5404) | Santa Barbara; Love Pl, Botello Rd | 1 |
 | [33-1400](https://precinct.netpress.com/#42-33-1400) | Goleta; Valdez Ave, Windsor Ave | 1,257 |
 | [33-1404](https://precinct.netpress.com/#42-33-1404) | Goleta; La Patera Pl | 0 |
@@ -494,16 +494,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [33-1408](https://precinct.netpress.com/#42-33-1408) | Goleta; Los Carneros Lake, N Los Carneros Rd | 505 |
 | [33-1410](https://precinct.netpress.com/#42-33-1410) | Goleta; N Glen Annie Rd, Cathedral Oaks Rd | 2 |
 | [33-2400](https://precinct.netpress.com/#42-33-2400) | Goleta and Eastern Goleta Valley; S Kellogg Ave, Thornwood Dr | 672 |
-| [33-2402](https://precinct.netpress.com/#42-33-2402) | Goleta | 7 |
-| [33-2404](https://precinct.netpress.com/#42-33-2404) | Goleta | 5 |
+| [33-2402](https://precinct.netpress.com/#42-33-2402) | Goleta; along Kellogg Way | 7 |
+| [33-2404](https://precinct.netpress.com/#42-33-2404) | Goleta; along Dearborn Pl | 5 |
 | [33-2406](https://precinct.netpress.com/#42-33-2406) | Goleta; Armitos Ave, Dearborn Pl | 1,549 |
 | [33-2408](https://precinct.netpress.com/#42-33-2408) | Goleta; Fairview Ave, N Fairview Ave | 6 |
 | [33-2410](https://precinct.netpress.com/#42-33-2410) | Goleta; Aero Camino, S La Patera Ln | 2 |
 | [33-2412](https://precinct.netpress.com/#42-33-2412) | Goleta and Santa Barbara; S Los Carneros Rd, Cll Koral | 977 |
 | [33-3400](https://precinct.netpress.com/#42-33-3400) | Goleta; McDonald Pl, Village Way | 409 |
-| [33-3402](https://precinct.netpress.com/#42-33-3402) | Goleta | 0 |
+| [33-3402](https://precinct.netpress.com/#42-33-3402) | Goleta; along Cll Real | 0 |
 | [33-3404](https://precinct.netpress.com/#42-33-3404) | Goleta; Del Norte Dr, Madera Dr | 201 |
-| [33-3406](https://precinct.netpress.com/#42-33-3406) | Goleta | 3 |
+| [33-3406](https://precinct.netpress.com/#42-33-3406) | Goleta; along Ellwood Ridge Rd | 3 |
 | [33-3407](https://precinct.netpress.com/#42-33-3407) | Goleta; Alameda Ave, Placer Dr | 1,037 |
 | [33-3408](https://precinct.netpress.com/#42-33-3408) | Goleta; Evergreen Dr, Brandon Dr | 3,605 |
 | [33-4400](https://precinct.netpress.com/#42-33-4400) | Goleta; Walking Path, Sweetwater Way | 526 |
@@ -522,11 +522,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [34-1408](https://precinct.netpress.com/#42-34-1408) | Solvang; Fredensborg Way, Squire Ln | 33 |
 | [34-1410](https://precinct.netpress.com/#42-34-1410) | Solvang; Ringsted Dr, Skagen Dr | 70 |
 | [34-1412](https://precinct.netpress.com/#42-34-1412) | Solvang; Skagen Dr, Ringsted Dr | 22 |
-| [34-1414](https://precinct.netpress.com/#42-34-1414) |  | 11 |
+| [34-1414](https://precinct.netpress.com/#42-34-1414) | Along Hornbeck Pl | 11 |
 | [34-1416](https://precinct.netpress.com/#42-34-1416) | Solvang; Creekside Pl, Nysted Dr | 70 |
 | [34-1418](https://precinct.netpress.com/#42-34-1418) | Solvang; Hornbeck Pl, Viborg Rd | 28 |
-| [34-1420](https://precinct.netpress.com/#42-34-1420) |  | 2 |
-| [34-1422](https://precinct.netpress.com/#42-34-1422) |  | 3 |
+| [34-1420](https://precinct.netpress.com/#42-34-1420) | Along Skagen Dr | 2 |
+| [34-1422](https://precinct.netpress.com/#42-34-1422) | Along Augustenborg Pl and Augustenburg Pl | 3 |
 | [34-2400](https://precinct.netpress.com/#42-34-2400) | Solvang; Valhalla Dr, Alisal Mesa Rd | 164 |
 | [34-2402](https://precinct.netpress.com/#42-34-2402) | Solvang; Windmill Ln, Old Mill Rd | 27 |
 | [34-2404](https://precinct.netpress.com/#42-34-2404) | Solvang; Village Ln, Kolding Ave | 275 |
@@ -549,7 +549,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [35-3400](https://precinct.netpress.com/#42-35-3400) | Buellton; H St, I St | 27 |
 | [35-3402](https://precinct.netpress.com/#42-35-3402) | Buellton; Ave of the Flags, Central Ave | 205 |
 | [35-3404](https://precinct.netpress.com/#42-35-3404) | Buellton; Downey Cir, Menlo Dr | 241 |
-| [35-4400](https://precinct.netpress.com/#42-35-4400) | Buellton | 6 |
+| [35-4400](https://precinct.netpress.com/#42-35-4400) | Buellton; along E State Rte 246 | 6 |
 | [35-4402](https://precinct.netpress.com/#42-35-4402) | Buellton; Kendale Rd, Thumbelina Dr | 502 |
 | [35-4404](https://precinct.netpress.com/#42-35-4404) | Buellton; McMurray Rd, Valley Vineyard Cir | 433 |
 | [36-1400](https://precinct.netpress.com/#42-36-1400) | Lompoc; Rancho Lompoc Farm Rd, Klein Blvd | 2,007 |
@@ -583,7 +583,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [40-0420](https://precinct.netpress.com/#42-40-0420) | Garey; Santa Maria River, Foxen Canyon Rd | 25 |
 | [40-0422](https://precinct.netpress.com/#42-40-0422) | Santa Maria; Philbric Rd, E Stowell Rd | 39 |
 | [40-0424](https://precinct.netpress.com/#42-40-0424) | E Main St, Rosemary Rd | 0 |
-| [40-0426](https://precinct.netpress.com/#42-40-0426) |  | 11 |
+| [40-0426](https://precinct.netpress.com/#42-40-0426) | Along E Main St and Panther Dr | 11 |
 | [40-0428](https://precinct.netpress.com/#42-40-0428) | Orcutt; Quail Meadows Dr, N Ridge View Dr | 273 |
 | [40-0430](https://precinct.netpress.com/#42-40-0430) | Orcutt and Santa Maria; Morningside Dr, Founder Ave | 0 |
 | [40-0432](https://precinct.netpress.com/#42-40-0432) | Orcutt; Drake Dr, Lakeview Rd | 1,686 |
@@ -591,7 +591,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [40-0436](https://precinct.netpress.com/#42-40-0436) | Rayville Ln | 19 |
 | [40-0438](https://precinct.netpress.com/#42-40-0438) | Orcutt; Harsin Ln, Siler Ln | 630 |
 | [40-0440](https://precinct.netpress.com/#42-40-0440) | Orcutt; Hillview Rd, Dahlia Pl | 1,666 |
-| [40-0442](https://precinct.netpress.com/#42-40-0442) | Orcutt | 13 |
+| [40-0442](https://precinct.netpress.com/#42-40-0442) | Orcutt; along Foster Rd | 13 |
 | [40-0444](https://precinct.netpress.com/#42-40-0444) | Orcutt; Brookside Ave, Millstone Ave | 785 |
 | [40-0446](https://precinct.netpress.com/#42-40-0446) | Orcutt; Berwyn Dr, Cherry Hill Rd | 1,297 |
 | [40-0448](https://precinct.netpress.com/#42-40-0448) | Orcutt; Kenneth Ave, Harmony Ln | 3,064 |
@@ -619,7 +619,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [40-0612](https://precinct.netpress.com/#42-40-0612) | Lompoc; De Wolff Ave, Douglass Ave | 28 |
 | [40-0614](https://precinct.netpress.com/#42-40-0614) | Harris Grade Rd, Rucker Rd | 0 |
 | [40-0616](https://precinct.netpress.com/#42-40-0616) | Cll Lindero | 42 |
-| [40-0618](https://precinct.netpress.com/#42-40-0618) |  | 0 |
+| [40-0618](https://precinct.netpress.com/#42-40-0618) | Mission Hills; near Rucker Rd | 0 |
 | [40-0620](https://precinct.netpress.com/#42-40-0620) | Mission Hills; Onstott Rd, Via Lato | 2,403 |
 | [40-0622](https://precinct.netpress.com/#42-40-0622) | Mission Hills; Harris Grade Rd, Courtney Dr | 0 |
 | [40-0630](https://precinct.netpress.com/#42-40-0630) | Rucker Rd | 17 |
@@ -646,7 +646,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47-4402](https://precinct.netpress.com/#42-47-4402) | Santa Maria and Orcutt; Santa Maria Way, Blueridge Dr | 797 |
 | [47-4404](https://precinct.netpress.com/#42-47-4404) | Santa Maria; Bunfill Dr, Stardust Dr | 558 |
 | [47-4406](https://precinct.netpress.com/#42-47-4406) | Santa Maria; McCoy Ln, E Betteravia Rd | 3,139 |
-| [47-4410](https://precinct.netpress.com/#42-47-4410) | Santa Maria | 0 |
+| [47-4410](https://precinct.netpress.com/#42-47-4410) | Santa Maria; along E Betteravia Rd and Daniel Dr | 0 |
 | [47-4412](https://precinct.netpress.com/#42-47-4412) | Santa Maria; S Miller St, Miller St | 533 |
 | [47-4414](https://precinct.netpress.com/#42-47-4414) | Santa Maria; Sequoia Dr, Olive Dr | 892 |
 | [47-4416](https://precinct.netpress.com/#42-47-4416) | Santa Maria; E Enos Dr, Enos Dr | 380 |
@@ -661,7 +661,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [50-0406](https://precinct.netpress.com/#42-50-0406) | Mahoney Rd, F St | 1 |
 | [50-0408](https://precinct.netpress.com/#42-50-0408) | W Betteravia Rd, St No 1, Ray Rd | 4 |
 | [50-0410](https://precinct.netpress.com/#42-50-0410) | Sinton Rd | 0 |
-| [50-0414](https://precinct.netpress.com/#42-50-0414) |  | 0 |
+| [50-0414](https://precinct.netpress.com/#42-50-0414) | Along Ray Rd | 0 |
 | [50-0416](https://precinct.netpress.com/#42-50-0416) | Santa Maria Valley, Brown Rd, Ray Rd | 8 |
 | [50-0418](https://precinct.netpress.com/#42-50-0418) | Guadalupe; Conway Oil Rd | 0 |
 | [50-0420](https://precinct.netpress.com/#42-50-0420) | Brown Rd, Point Sal Rd, W Main St | 0 |
@@ -676,7 +676,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [50-0440](https://precinct.netpress.com/#42-50-0440) | Bonita School Rd, Bonita Lateral Rd, Unnamed Farm Rd | 29 |
 | [57-1400](https://precinct.netpress.com/#42-57-1400) | Santa Maria; Preisker Ln, Hidden Pines Way | 1,593 |
 | [57-1402](https://precinct.netpress.com/#42-57-1402) | Santa Maria; Atlantic Pl, N Railroad Ave | 2,071 |
-| [57-1404](https://precinct.netpress.com/#42-57-1404) |  | 0 |
+| [57-1404](https://precinct.netpress.com/#42-57-1404) | Santa Maria; near Blosser Rd | 0 |
 | [57-1406](https://precinct.netpress.com/#42-57-1406) | Santa Maria; Gaylene Dr, Kingston Dr | 1,604 |
 | [57-1410](https://precinct.netpress.com/#42-57-1410) | Santa Maria; N Oakley Ave, Lee Dr | 358 |
 | [57-1412](https://precinct.netpress.com/#42-57-1412) | Santa Maria; Mary Dr, Benwiley Ave | 2,260 |
@@ -718,8 +718,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [57-4412](https://precinct.netpress.com/#42-57-4412) | Santa Maria; E Mariposa Way, Sierra Madre Ave | 802 |
 | [58-8400](https://precinct.netpress.com/#42-58-8400) | Guadalupe; Peralta St, Pacheco St | 132 |
 | [58-8402](https://precinct.netpress.com/#42-58-8402) | Guadalupe; Eleventh St, Olivera St | 90 |
-| [58-8404](https://precinct.netpress.com/#42-58-8404) | Guadalupe | 15 |
-| [58-8406](https://precinct.netpress.com/#42-58-8406) |  | 3 |
+| [58-8404](https://precinct.netpress.com/#42-58-8404) | Guadalupe; along Pioneer St | 15 |
+| [58-8406](https://precinct.netpress.com/#42-58-8406) | Along Pioneer St | 3 |
 | [58-8408](https://precinct.netpress.com/#42-58-8408) | Guadalupe; Olivera St, Ninth St | 92 |
 | [58-8410](https://precinct.netpress.com/#42-58-8410) | Guadalupe; Escalante St, Gularte Ln | 131 |
 | [58-8412](https://precinct.netpress.com/#42-58-8412) | Guadalupe; Flower Ave, Holly St | 188 |

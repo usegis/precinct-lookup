@@ -33,7 +33,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [101202](https://precinct.netpress.com/#55-101202) | N Bald Mountain Rd, Big Hill Rd, Ridgemont Dr | 102 |
 | [101203](https://precinct.netpress.com/#55-101203) | Phoenix Lake; Lyons Bald Mountain Rd, Villas Ln | 53 |
 | [101205](https://precinct.netpress.com/#55-101205) | Upper Quail Mine Rd, Quail Mine Rd, Gunsight Rd | 73 |
-| [110100](https://precinct.netpress.com/#55-110100) | Sonora | 0 |
+| [110100](https://precinct.netpress.com/#55-110100) | Sonora; along Greenley Rd | 0 |
 | [110101](https://precinct.netpress.com/#55-110101) | Sonora; Sonora Pass Hwy, Morning Star Dr | 565 |
 | [110102](https://precinct.netpress.com/#55-110102) | Sonora; S Washington St, Oregon St | 37 |
 | [110103](https://precinct.netpress.com/#55-110103) | Sonora; Old Bald Mountain Rd, Lyons Bald Mountain Rd E | 186 |
@@ -46,7 +46,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110600](https://precinct.netpress.com/#55-110600) | Sonora; Arbona Cir N, W Jackson St | 748 |
 | [200101](https://precinct.netpress.com/#55-200101) | Robertson Ranch Rd, Big Hill Rd, Oakridge Dr | 106 |
 | [200102](https://precinct.netpress.com/#55-200102) | Phoenix Lake; Fortuna Mine Rd, Elizabeth Ln | 516 |
-| [200103](https://precinct.netpress.com/#55-200103) |  | 8 |
+| [200103](https://precinct.netpress.com/#55-200103) | Along Oakhaven Ln and Crystal Falls Dr | 8 |
 | [200200](https://precinct.netpress.com/#55-200200) | Cedar Ridge; Old Oak Ranch Rd, Northridge Rd | 395 |
 | [200301](https://precinct.netpress.com/#55-200301) | Highland Creek, Hells Half Acre Rd, Lake Moran | 67 |
 | [200302](https://precinct.netpress.com/#55-200302) | Grant Ridge Rd, Star Rd, Italian Bar Rd | 18 |
@@ -97,7 +97,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [300703](https://precinct.netpress.com/#55-300703) | Mi-Wuk Village; Golf Links Dr, Chief Fuller Way | 268 |
 | [300801](https://precinct.netpress.com/#55-300801) | Yosemite Rd, Wards Ferry Rd, Fitch Ranch Rd | 25 |
 | [300802](https://precinct.netpress.com/#55-300802) | Tuolumne City; Cedar St, Madrone St | 639 |
-| [300803](https://precinct.netpress.com/#55-300803) |  | 6 |
+| [300803](https://precinct.netpress.com/#55-300803) | Along 1st Ave | 6 |
 | [300804](https://precinct.netpress.com/#55-300804) | Tuolumne City; Silver Spur Dr, Apple Colony Rd | 142 |
 | [300901](https://precinct.netpress.com/#55-300901) | Cold Springs and Strawberry; Crabtree Rd, Wire Lakes | 87 |
 | [300902](https://precinct.netpress.com/#55-300902) | Leland Reservoir, Leland Meadow Rd, Upper Leland Rd | 6 |
@@ -165,7 +165,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [402002](https://precinct.netpress.com/#55-402002) | Whitto Mine Rd, Via Redonda, Via Arroyo Rd | 331 |
 | [402003](https://precinct.netpress.com/#55-402003) | Sommette Dr | 40 |
 | [402004](https://precinct.netpress.com/#55-402004) | Phoenix Lake; Waif Mine Rd, Peaceful Oak Rd | 267 |
-| [402005](https://precinct.netpress.com/#55-402005) |  | 7 |
+| [402005](https://precinct.netpress.com/#55-402005) | Near Soulsbyville Rd | 7 |
 | [402100](https://precinct.netpress.com/#55-402100) | Groveland; Moccasin Reservoir, Priest Coulterville Rd | 75 |
 | [402201](https://precinct.netpress.com/#55-402201) | Pine Mountain Lake; Ferretti Rd, Jackass Creek Access Rd | 109 |
 | [402202](https://precinct.netpress.com/#55-402202) | Pine Mountain Lake and Groveland; Morgan Dr, Whites Gulch Rd | 167 |
@@ -189,7 +189,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [500303](https://precinct.netpress.com/#55-500303) | Jamestown; Calamity Jane Ln, Suzanne Ct | 76 |
 | [500304](https://precinct.netpress.com/#55-500304) | Jamestown; Rolling Oaks Dr, Seco St | 253 |
 | [500305](https://precinct.netpress.com/#55-500305) | Essen Ln | 60 |
-| [500501](https://precinct.netpress.com/#55-500501) |  | 3 |
+| [500501](https://precinct.netpress.com/#55-500501) | Along Knickerbocker Flat Rd and Lower Knickerbockerflat Rd | 3 |
 | [500502](https://precinct.netpress.com/#55-500502) | Alice Grant Ln, Brewster Dr, Heidi Ln | 21 |
 | [500503](https://precinct.netpress.com/#55-500503) | Columbia; Columbia St, Kennebec Ln | 176 |
 | [500504](https://precinct.netpress.com/#55-500504) | Columbia; Sawmill Flat Rd, Raney Rd | 175 |
@@ -197,7 +197,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [500506](https://precinct.netpress.com/#55-500506) | Columbia; Columbia Vista Dr, Yankee Hill Rd | 33 |
 | [500507](https://precinct.netpress.com/#55-500507) | Marble Quarry Rd, Parrotts Ferry Rd, Brewster Dr | 115 |
 | [500601](https://precinct.netpress.com/#55-500601) | Columbia; Solo Ln, Gold Springs Dr | 322 |
-| [500602](https://precinct.netpress.com/#55-500602) |  | 3 |
+| [500602](https://precinct.netpress.com/#55-500602) | Along N Airport Rd | 3 |
 | [500603](https://precinct.netpress.com/#55-500603) | Columbia; Highway 49 | 0 |
 | [500701](https://precinct.netpress.com/#55-500701) | Seco Terrace Dr, Algerine Rd, Campo Seco Rd | 57 |
 | [500705](https://precinct.netpress.com/#55-500705) | Serena Ct | 14 |
@@ -216,14 +216,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [501104](https://precinct.netpress.com/#55-501104) | Jamestown; Seco St, 10th St | 52 |
 | [501105](https://precinct.netpress.com/#55-501105) | Jamestown; Fallen Leaf Dr, Fernwood Dr | 131 |
 | [501108](https://precinct.netpress.com/#55-501108) | Jamestown; Preston Ln | 119 |
-| [501109](https://precinct.netpress.com/#55-501109) |  | 0 |
+| [501109](https://precinct.netpress.com/#55-501109) | Along Seco St | 0 |
 | [501202](https://precinct.netpress.com/#55-501202) | Tuttletown; Rimrock Rd, Mormon Creek Rd | 156 |
 | [501203](https://precinct.netpress.com/#55-501203) | Co Rd E5, Rawhide Rd, Bostwick Rd | 23 |
 | [501303](https://precinct.netpress.com/#55-501303) | Co Rd E15, Obyrnes Ferry Rd, Old Melones Dam Rd | 32 |
 | [501402](https://precinct.netpress.com/#55-501402) | Jamestown; Ratto Rd, Jamestown Rd | 340 |
 | [501501](https://precinct.netpress.com/#55-501501) | Jamestown; Railbed Rd, Rawhide Rd | 163 |
 | [501503](https://precinct.netpress.com/#55-501503) | Harvard Mine Rd | 17 |
-| [501504](https://precinct.netpress.com/#55-501504) |  | 1 |
+| [501504](https://precinct.netpress.com/#55-501504) | Jamestown; near Highway 108 | 1 |
 | [501506](https://precinct.netpress.com/#55-501506) | Peppermint Cir, Peppermint Creek Rd, Peppermint Falls Dr | 155 |
 | [501602](https://precinct.netpress.com/#55-501602) | Shell Rd, Peoria Flat Rd, New Peoria Flat Rd | 13 |
 | [501603](https://precinct.netpress.com/#55-501603) | Chicken Ranch Rd, Table Mountain Rd, High School Rd | 163 |
@@ -235,5 +235,5 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [501901](https://precinct.netpress.com/#55-501901) | Jamestown; Golf Links Rd, Jamestown Rd | 37 |
 | [501902](https://precinct.netpress.com/#55-501902) | Jamestown; Old Bridge Rd, Wigwam Rd | 177 |
 | [501904](https://precinct.netpress.com/#55-501904) | Jamestown; Alley Dr, McKibbon Dr | 112 |
-| [501905](https://precinct.netpress.com/#55-501905) |  | 5 |
+| [501905](https://precinct.netpress.com/#55-501905) | Along Stockton St | 5 |
 | [501906](https://precinct.netpress.com/#55-501906) | Jamestown; Silver Pine Dr, Golden Dove Ln | 89 |

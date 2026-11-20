@@ -36,7 +36,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11125](https://precinct.netpress.com/#32-11125) | Beckwourth; Blacktail Ridge Rd, Grizzly Ranch Rd | 23 |
 | [11129](https://precinct.netpress.com/#32-11129) | Iron Horse; Co Rd A15, Portola McLears Rd | 228 |
 | [11130](https://precinct.netpress.com/#32-11130) | Lake Davis; Bitterbrush Rd, Marilyn Dr | 0 |
-| [11133](https://precinct.netpress.com/#32-11133) |  | 2 |
+| [11133](https://precinct.netpress.com/#32-11133) | Delleker; near Delleker Dr | 2 |
 | [11140](https://precinct.netpress.com/#32-11140) | Beckwourth; Grizzly Rd, Burnham Ranch Rd | 35 |
 | [11141](https://precinct.netpress.com/#32-11141) | Beckwourth; Valley View Rd, Valley View Dr | 36 |
 | [12104](https://precinct.netpress.com/#32-12104) | 23N10, Beckwourth-Taylorsville Rd, Lake Davis | 0 |
@@ -61,7 +61,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [22219](https://precinct.netpress.com/#32-22219) | Squirrel Creek Rd, 25N41 | 1 |
 | [22220](https://precinct.netpress.com/#32-22220) | Taylorsville; Nelson St, Thompson St | 97 |
 | [22221](https://precinct.netpress.com/#32-22221) | Taylorsville; Genesee Rd, N Arm Rd | 210 |
-| [22222](https://precinct.netpress.com/#32-22222) |  | 0 |
+| [22222](https://precinct.netpress.com/#32-22222) | Near Diamond Mountain Rd | 0 |
 | [22223](https://precinct.netpress.com/#32-22223) | Twain and Belden; North Fork Feather River, Howells Rd | 30 |
 | [22224](https://precinct.netpress.com/#32-22224) | Twain; Belden Town Rd | 5 |
 | [22225](https://precinct.netpress.com/#32-22225) | Twain; Twain Store Rd, Riverview Ln | 48 |
@@ -95,8 +95,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [24261](https://precinct.netpress.com/#32-24261) | East Quincy; Carol Ln E, Clear Creek Rd | 2 |
 | [24270](https://precinct.netpress.com/#32-24270) | Quincy; Spanish Creek Rd | 0 |
 | [24280](https://precinct.netpress.com/#32-24280) | Chemise Way, W View Way | 0 |
-| [32260](https://precinct.netpress.com/#32-32260) |  | 0 |
-| [32271](https://precinct.netpress.com/#32-32271) |  | 0 |
+| [32260](https://precinct.netpress.com/#32-32260) | Near Rush Hill Mtwy | 0 |
+| [32271](https://precinct.netpress.com/#32-32271) | Near Seneca Rd | 0 |
 | [32272](https://precinct.netpress.com/#32-32272) | Rush Hill Mtwy, Seneca Rd | 0 |
 | [32274](https://precinct.netpress.com/#32-32274) | Canyondam; Highway 147, Old State Hwy | 5 |
 | [32410](https://precinct.netpress.com/#32-32410) | East Shore; Indian Hills Rd, Almanor Lake Estates Dr | 109 |
@@ -126,7 +126,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [42001](https://precinct.netpress.com/#32-42001) | N Fork Feather River, Highway 70 | 0 |
 | [42210](https://precinct.netpress.com/#32-42210) | Bucks Lake; Cape Lake, Lower Bucks Lake | 8 |
 | [42211](https://precinct.netpress.com/#32-42211) | Ohv Road 9, Grizzly Forebay, 24N65X | 0 |
-| [42221](https://precinct.netpress.com/#32-42221) |  | 0 |
+| [42221](https://precinct.netpress.com/#32-42221) | Near Snake Lake Rd | 0 |
 | [42222](https://precinct.netpress.com/#32-42222) | Bucks Lake; Jacks Meadow Pond, Gold Lake | 0 |
 | [44000](https://precinct.netpress.com/#32-44000) | Gravel Range Rd, 22N30, 23N15 | 2 |
 | [44210](https://precinct.netpress.com/#32-44210) | Faggs Debris Pond, Ohv Rd 48, 24N28 | 1 |
@@ -140,12 +140,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [44242](https://precinct.netpress.com/#32-44242) | East Quincy; Golden Eagle Ave, Radio Hill Rd | 99 |
 | [44243](https://precinct.netpress.com/#32-44243) | Quincy and East Quincy; E High St, Claremont Dr | 275 |
 | [44244](https://precinct.netpress.com/#32-44244) | Quincy and East Quincy; Plumas Pines Shopping Center, E Central Ave | 337 |
-| [44245](https://precinct.netpress.com/#32-44245) |  | 0 |
+| [44245](https://precinct.netpress.com/#32-44245) | Quincy; near Golden Eagle Ave | 0 |
 | [44246](https://precinct.netpress.com/#32-44246) | East Quincy; Forest View Dr, Wild Cherry Rd | 32 |
 | [44250](https://precinct.netpress.com/#32-44250) | East Quincy; Lee Rd, Fairground Rd | 448 |
 | [44260](https://precinct.netpress.com/#32-44260) | Oroville-Quincy Hwy, Cresent St | 41 |
 | [44261](https://precinct.netpress.com/#32-44261) | Wild Cherry Rd, Redberg Ave | 7 |
-| [44262](https://precinct.netpress.com/#32-44262) |  | 0 |
+| [44262](https://precinct.netpress.com/#32-44262) | Along Lee Rd and Bresciani Cir | 0 |
 | [44270](https://precinct.netpress.com/#32-44270) | Quincy | 0 |
 | [45240](https://precinct.netpress.com/#32-45240) | East Quincy; Karen St, Katherine St | 334 |
 | [45242](https://precinct.netpress.com/#32-45242) | East Quincy; Mansell St, Pine St | 310 |
@@ -185,9 +185,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [55210](https://precinct.netpress.com/#32-55210) | Cromberg; Sloat Rd, Old Rd | 0 |
 | [55211](https://precinct.netpress.com/#32-55211) | Cromberg; Sloat Rd, Gill Ranch Rd | 202 |
 | [55222](https://precinct.netpress.com/#32-55222) | Golden Feather Ranch Rd | 0 |
-| [55223](https://precinct.netpress.com/#32-55223) |  | 0 |
-| [55224](https://precinct.netpress.com/#32-55224) |  | 0 |
-| [55230](https://precinct.netpress.com/#32-55230) |  | 0 |
+| [55223](https://precinct.netpress.com/#32-55223) | Near Golden Feather Ranch Rd | 0 |
+| [55224](https://precinct.netpress.com/#32-55224) | Near Highway 70 | 0 |
+| [55230](https://precinct.netpress.com/#32-55230) | Near La Porte Rd | 0 |
 | [55231](https://precinct.netpress.com/#32-55231) | East Quincy; Old Spring Garden Rd, 24N13 | 8 |
 | [55241](https://precinct.netpress.com/#32-55241) | Dogwood Ct, Dogwood Ln, Sierra Way | 162 |
 | [55243](https://precinct.netpress.com/#32-55243) | Clough St, Third St, Ponderosa St | 125 |

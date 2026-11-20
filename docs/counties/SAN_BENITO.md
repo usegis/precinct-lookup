@@ -33,7 +33,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1953120](https://precinct.netpress.com/#35-1953120) | Hollister; Barnes Ln, El Camino Paraiso | 337 |
 | [1971100](https://precinct.netpress.com/#35-1971100) | Hollister; Rd P, Highway 156 | 2 |
 | [1971101](https://precinct.netpress.com/#35-1971101) | Santa Rosa Dr | 35 |
-| [1971102](https://precinct.netpress.com/#35-1971102) |  | 5 |
+| [1971102](https://precinct.netpress.com/#35-1971102) | Near San Felipe Rd | 5 |
 | [1971104](https://precinct.netpress.com/#35-1971104) | Hollister; McCloskey Rd, Aubrey Ln | 204 |
 | [1971110](https://precinct.netpress.com/#35-1971110) | Kane Dr, Carey Way, Daffodil Dr | 466 |
 | [1971500](https://precinct.netpress.com/#35-1971500) | John Smith Rd, Santa Ana Valley Rd, Menzel Rd | 28 |
@@ -47,7 +47,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1971800](https://precinct.netpress.com/#35-1971800) | Santa Ana Valley Rd, Rodeo Dr | 121 |
 | [1971801](https://precinct.netpress.com/#35-1971801) | Santa Ana Valley Rd, John Smith Rd | 23 |
 | [2016071](https://precinct.netpress.com/#35-2016071) | Aromas; Carr Ave, Seely Ave | 588 |
-| [2016073](https://precinct.netpress.com/#35-2016073) |  | 21 |
+| [2016073](https://precinct.netpress.com/#35-2016073) | Along Carpenteria Rd and Snyder Ave | 21 |
 | [2016074](https://precinct.netpress.com/#35-2016074) | Seely Ave, Dorothy Rd | 68 |
 | [2016080](https://precinct.netpress.com/#35-2016080) | Aromas; Aromitas Rd, Quarry Rd | 4 |
 | [2016081](https://precinct.netpress.com/#35-2016081) | Aromas; Snyder Ave, Dorothy Rd | 92 |
@@ -69,7 +69,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2872200](https://precinct.netpress.com/#35-2872200) | Hollister; San Juan Hollister Rd, Business Rd | 35 |
 | [2872201](https://precinct.netpress.com/#35-2872201) | Buena Vista Rd, W Graf Rd, Bridgevale Rd | 48 |
 | [2872300](https://precinct.netpress.com/#35-2872300) | Hollister; Riverside Rd, Union Hts | 162 |
-| [2876070](https://precinct.netpress.com/#35-2876070) |  | 2 |
+| [2876070](https://precinct.netpress.com/#35-2876070) | Along Cole Rd | 2 |
 | [2876080](https://precinct.netpress.com/#35-2876080) | Aromas; Ricardo Dr, Dante Robles Ct | 84 |
 | [2877000](https://precinct.netpress.com/#35-2877000) | Betabel Rd | 52 |
 | [2877001](https://precinct.netpress.com/#35-2877001) | Rocks Rd | 3 |
@@ -80,18 +80,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2877081](https://precinct.netpress.com/#35-2877081) | Aromas; Merrill Rd, Anzar Rd | 401 |
 | [2878000](https://precinct.netpress.com/#35-2878000) | San Juan Bautista; San Juan Hwy, San Benito River | 325 |
 | [2878001](https://precinct.netpress.com/#35-2878001) | Highway 156 | 3 |
-| [2879000](https://precinct.netpress.com/#35-2879000) |  | 6 |
+| [2879000](https://precinct.netpress.com/#35-2879000) | Along Via Vaquero Norte | 6 |
 | [2879001](https://precinct.netpress.com/#35-2879001) | Hollister; Salinas Rd, Old Stage Coach Road (Closed To Vehicluar Traffic) | 309 |
 | [2879002](https://precinct.netpress.com/#35-2879002) | Quinn Canyon Rd, San Juan Canyon Rd, Co Rd G1 | 14 |
 | [2879060](https://precinct.netpress.com/#35-2879060) | Ave del Piero, Via Juan Pablo, Via Vaquero Sur | 262 |
 | [2879070](https://precinct.netpress.com/#35-2879070) | Cole Rd | 38 |
-| [3054300](https://precinct.netpress.com/#35-3054300) |  | 14 |
+| [3054300](https://precinct.netpress.com/#35-3054300) | Near Powell St | 14 |
 | [3054430](https://precinct.netpress.com/#35-3054430) | Hollister | 1 |
 | [3054431](https://precinct.netpress.com/#35-3054431) | Hollister | 2 |
 | [3054432](https://precinct.netpress.com/#35-3054432) | Hollister | 1 |
-| [3054530](https://precinct.netpress.com/#35-3054530) |  | 3 |
-| [3054531](https://precinct.netpress.com/#35-3054531) |  | 3 |
-| [3055300](https://precinct.netpress.com/#35-3055300) |  | 4 |
+| [3054530](https://precinct.netpress.com/#35-3054530) | Near Sunset Dr | 3 |
+| [3054531](https://precinct.netpress.com/#35-3054531) | Along Sunset Dr | 3 |
+| [3055300](https://precinct.netpress.com/#35-3055300) | Near Cienega Rd | 4 |
 | [3072300](https://precinct.netpress.com/#35-3072300) | Hollister; Riverside Rd, Nash Rd | 33 |
 | [3074430](https://precinct.netpress.com/#35-3074430) | Valaire Dr, Valley View Rd | 144 |
 | [3074431](https://precinct.netpress.com/#35-3074431) | Hollister; Crestview Rd, Crestview Dr | 0 |
@@ -110,7 +110,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3354400](https://precinct.netpress.com/#35-3354400) | Hollister; Park St, Victoria Ave | 264 |
 | [3354401](https://precinct.netpress.com/#35-3354401) | Hollister; Sunset Dr | 3 |
 | [3354403](https://precinct.netpress.com/#35-3354403) | Hollister; Liberty Ct, Freedom Dr | 179 |
-| [3354430](https://precinct.netpress.com/#35-3354430) |  | 43 |
+| [3354430](https://precinct.netpress.com/#35-3354430) | Along Memorial Dr | 43 |
 | [3354431](https://precinct.netpress.com/#35-3354431) | Hollister; McClellan St, Hermosa Way | 319 |
 | [3354530](https://precinct.netpress.com/#35-3354530) | Hollister; Juniper Dr, Cedar Dr | 245 |
 | [3355200](https://precinct.netpress.com/#35-3355200) | Hollister; Olive St, San Benito St | 496 |
@@ -123,17 +123,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3375300](https://precinct.netpress.com/#35-3375300) | Hollister; Cobalt Dr, Garnet Way | 319 |
 | [3375301](https://precinct.netpress.com/#35-3375301) | Hollister; Cienega Rd | 2 |
 | [3375400](https://precinct.netpress.com/#35-3375400) | Hollister; Hillock Ct, Sunset Dr | 0 |
-| [3471450](https://precinct.netpress.com/#35-3471450) | Hollister | 0 |
+| [3471450](https://precinct.netpress.com/#35-3471450) | Hollister; along Union Rd and Valaire Dr | 0 |
 | [3471451](https://precinct.netpress.com/#35-3471451) | Hollister; Union Rd | 43 |
 | [3474430](https://precinct.netpress.com/#35-3474430) | Hollister; Scenic Cir, Mesa Dr | 377 |
-| [3575350](https://precinct.netpress.com/#35-3575350) | Hollister | 3 |
+| [3575350](https://precinct.netpress.com/#35-3575350) | Hollister; along Union Rd and Southside Rd | 3 |
 | [3575450](https://precinct.netpress.com/#35-3575450) | Hollister; Highway 25, Southside Rd | 8 |
 | [4020000](https://precinct.netpress.com/#35-4020000) | Coalinga Rd, Bitterwater Lake, Hernandez Reservoir | 65 |
 | [4030000](https://precinct.netpress.com/#35-4030000) | N Fork Lewis Creek, N Fork Rd, Gruver Rd | 1 |
 | [4070000](https://precinct.netpress.com/#35-4070000) | New Idria Rd, Panoche Rd, Co Hwy J1 | 64 |
 | [4071600](https://precinct.netpress.com/#35-4071600) | Highway 25 | 0 |
 | [4071800](https://precinct.netpress.com/#35-4071800) | Tres Pinos; Mc Creery Ranch Rd, Quien Sabe Rd | 249 |
-| [4071801](https://precinct.netpress.com/#35-4071801) |  | 0 |
+| [4071801](https://precinct.netpress.com/#35-4071801) | Near Southside Rd | 0 |
 | [4071890](https://precinct.netpress.com/#35-4071890) | Tres Pinos; F St, Regan Aly | 142 |
 | [4072000](https://precinct.netpress.com/#35-4072000) | Almaden Reservoir, Western, Salt Creek Rd | 197 |
 | [4072001](https://precinct.netpress.com/#35-4072001) | Bear Gulch Reservoir, Dry Lake, Old Hernandez Rd | 89 |
@@ -172,8 +172,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4859000](https://precinct.netpress.com/#35-4859000) | San Juan Canyon Rd, Co Rd G1, Quinn Canyon Rd | 242 |
 | [4879000](https://precinct.netpress.com/#35-4879000) | Nothing Rd, San Justo Rd, Access Rd | 34 |
 | [5061700](https://precinct.netpress.com/#35-5061700) | Frazier Lake Rd, San Felipe Lake, Shore Rd | 249 |
-| [5061701](https://precinct.netpress.com/#35-5061701) |  | 15 |
-| [5061702](https://precinct.netpress.com/#35-5061702) |  | 0 |
+| [5061701](https://precinct.netpress.com/#35-5061701) | Along Bolsa Rd and San Felipe Rd | 15 |
+| [5061702](https://precinct.netpress.com/#35-5061702) | Near Briggs Rd | 0 |
 | [5061703](https://precinct.netpress.com/#35-5061703) | Bolsa Rd, McConnell Rd, Highway 156 | 14 |
 | [5061704](https://precinct.netpress.com/#35-5061704) | Highway 152, Lovers Ln, San Felipe Rd | 105 |
 | [5071700](https://precinct.netpress.com/#35-5071700) | Dunne St, Pacheco Hwy, Dunneville Way | 181 |
@@ -183,10 +183,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5153102](https://precinct.netpress.com/#35-5153102) | Hollister; Alvarado St, McCarthy St | 452 |
 | [5153103](https://precinct.netpress.com/#35-5153103) | Hollister; Las Palmas Dr, Athena Way | 210 |
 | [5153110](https://precinct.netpress.com/#35-5153110) | Hollister; San Tropez Dr, La Baig Dr | 599 |
-| [5154100](https://precinct.netpress.com/#35-5154100) | Hollister | 0 |
+| [5154100](https://precinct.netpress.com/#35-5154100) | Hollister; along Swope Aly | 0 |
 | [5154200](https://precinct.netpress.com/#35-5154200) | Hollister; Briggs Aly, Wentz Aly | 590 |
 | [5161700](https://precinct.netpress.com/#35-5161700) | Hollister; Flynn Rd, Airway Dr | 15 |
-| [5162200](https://precinct.netpress.com/#35-5162200) | Hollister | 0 |
+| [5162200](https://precinct.netpress.com/#35-5162200) | Hollister; along San Felipe Rd | 0 |
 | [5162201](https://precinct.netpress.com/#35-5162201) | Hollister; Tanoak St, Raven St | 516 |
 | [5162202](https://precinct.netpress.com/#35-5162202) | Hollister; W 2nd St, Central Ave | 497 |
 | [5164200](https://precinct.netpress.com/#35-5164200) | Hollister; Locust Ave, Hill St | 228 |

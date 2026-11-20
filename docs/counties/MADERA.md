@@ -23,24 +23,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1025](https://precinct.netpress.com/#20-1025) | Bonadelle Ranchos and Madera Ranchos; Manon Ave, Ave 351/2 | 399 |
 | [1026](https://precinct.netpress.com/#20-1026) | Madera Ranchos; Cloverleaf Ave, Marciel Ave | 1,124 |
 | [1027](https://precinct.netpress.com/#20-1027) | Madera Ranchos; Berkshire Dr, Kensington Dr | 1,506 |
-| [1028](https://precinct.netpress.com/#20-1028) |  | 0 |
+| [1028](https://precinct.netpress.com/#20-1028) | Near Ave 12 | 0 |
 | [1029](https://precinct.netpress.com/#20-1029) | Rd 33 1/2, Root Creek Rd, Ave 12 | 134 |
 | [1030](https://precinct.netpress.com/#20-1030) | Rd 36 | 0 |
 | [1031](https://precinct.netpress.com/#20-1031) | Ave 9, Rd 35 | 25 |
 | [1040](https://precinct.netpress.com/#20-1040) | Rd 28 1/2 | 16 |
 | [1041](https://precinct.netpress.com/#20-1041) | Madera Lake, Island Dr, Rd 30 1/2 | 82 |
 | [1042](https://precinct.netpress.com/#20-1042) | Arizona Ave, Oregon Ave, Amador St | 18 |
-| [1043](https://precinct.netpress.com/#20-1043) |  | 0 |
+| [1043](https://precinct.netpress.com/#20-1043) | Near State Hwy 145 | 0 |
 | [1044](https://precinct.netpress.com/#20-1044) | Ave 15, Rd 400, Donald Ave | 541 |
 | [1047](https://precinct.netpress.com/#20-1047) | Bonadelle Ranchos; Rd 34 1/2, Ave 13 | 24 |
 | [1048](https://precinct.netpress.com/#20-1048) | Santa Fe Dr | 1 |
 | [1049](https://precinct.netpress.com/#20-1049) | Ave 12, Pecan Ln, Rd 30 1/2 | 20 |
 | [1050](https://precinct.netpress.com/#20-1050) | Pecan Ln, Rd 29, Ave 12 1/2 | 0 |
-| [1060](https://precinct.netpress.com/#20-1060) |  | 0 |
+| [1060](https://precinct.netpress.com/#20-1060) | Near River Rd | 0 |
 | [1080](https://precinct.netpress.com/#20-1080) | Ave 16 1/4, Island Dr, Bridle Ln | 170 |
-| [1081](https://precinct.netpress.com/#20-1081) |  | 0 |
-| [1082](https://precinct.netpress.com/#20-1082) |  | 1 |
-| [1083](https://precinct.netpress.com/#20-1083) |  | 2 |
+| [1081](https://precinct.netpress.com/#20-1081) | Near State Hwy 145 | 0 |
+| [1082](https://precinct.netpress.com/#20-1082) | Along Ave 16 1/4 | 1 |
+| [1083](https://precinct.netpress.com/#20-1083) | Along Rd 29 and Ave 15 1/2 | 2 |
 | [1100](https://precinct.netpress.com/#20-1100) | Parkwood; Parkwood Ave, Perkins Rd | 780 |
 | [1101](https://precinct.netpress.com/#20-1101) | Parkwood and Madera; Raymond Thomas Rd, Raymond Thomas Pl | 107 |
 | [1120](https://precinct.netpress.com/#20-1120) | Ave 29, Golden State Blvd | 7 |
@@ -54,7 +54,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1181](https://precinct.netpress.com/#20-1181) | Madera; Sharon Blvd, W Sherwood Way | 233 |
 | [1182](https://precinct.netpress.com/#20-1182) | Madera; Country Club Dr, Winding Dirt Rd | 103 |
 | [1183](https://precinct.netpress.com/#20-1183) | Madera; Noreen Way, Lucia Way | 605 |
-| [1184](https://precinct.netpress.com/#20-1184) |  | 1 |
+| [1184](https://precinct.netpress.com/#20-1184) | Along Adell St | 1 |
 | [1185](https://precinct.netpress.com/#20-1185) | Madera; Dellavalle Ave, Nebraska Ave | 56 |
 | [1186](https://precinct.netpress.com/#20-1186) | Madera; Toronado Dr, Phillip St | 271 |
 | [1187](https://precinct.netpress.com/#20-1187) | Madera; Sierra St, Columbia St | 34 |
@@ -73,28 +73,28 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1222](https://precinct.netpress.com/#20-1222) | N D St, E Adell St, Austin St | 35 |
 | [1240](https://precinct.netpress.com/#20-1240) | Madera and Madera Acres; Arnold Way, Sharon Blvd | 3 |
 | [1901](https://precinct.netpress.com/#20-1901) | Rd 35 | 2 |
-| [2008](https://precinct.netpress.com/#20-2008) |  | 0 |
+| [2008](https://precinct.netpress.com/#20-2008) | Near Ave 5 | 0 |
 | [2009](https://precinct.netpress.com/#20-2009) | Rd 30, Rd 29 1/2, Rd 31 1/2 | 272 |
 | [2010](https://precinct.netpress.com/#20-2010) | Rd 28, Rd 28 1/2, Ave 11 | 107 |
 | [2011](https://precinct.netpress.com/#20-2011) | Rd 33, Rd 30 1/2, Rd 34 | 58 |
 | [2012](https://precinct.netpress.com/#20-2012) | Ave 10 | 0 |
-| [2013](https://precinct.netpress.com/#20-2013) |  | 4 |
+| [2013](https://precinct.netpress.com/#20-2013) | Near Ave 8 | 4 |
 | [2014](https://precinct.netpress.com/#20-2014) | Ave 7, San Joaquin River, Rd 34 | 4 |
-| [2015](https://precinct.netpress.com/#20-2015) |  | 5 |
-| [2016](https://precinct.netpress.com/#20-2016) |  | 3 |
+| [2015](https://precinct.netpress.com/#20-2015) | Along Ave 5 | 5 |
+| [2016](https://precinct.netpress.com/#20-2016) | Along Ave 5 1/2 | 3 |
 | [2020](https://precinct.netpress.com/#20-2020) | Ave 8 1/2, Ave 7 3/4, S Granada Dr | 30 |
-| [2021](https://precinct.netpress.com/#20-2021) |  | 1 |
+| [2021](https://precinct.netpress.com/#20-2021) | Along Madera Ave and River Grove Ln | 1 |
 | [2022](https://precinct.netpress.com/#20-2022) | Ave 5 1/2, Highway 145, Ave 6 1/2 | 101 |
 | [2023](https://precinct.netpress.com/#20-2023) | Rd 26 3/4 | 0 |
-| [2024](https://precinct.netpress.com/#20-2024) |  | 0 |
-| [2025](https://precinct.netpress.com/#20-2025) |  | 0 |
-| [2027](https://precinct.netpress.com/#20-2027) |  | 0 |
-| [2028](https://precinct.netpress.com/#20-2028) |  | 0 |
+| [2024](https://precinct.netpress.com/#20-2024) | Near Golden State Blvd | 0 |
+| [2025](https://precinct.netpress.com/#20-2025) | Near Ave 5 1/2 | 0 |
+| [2027](https://precinct.netpress.com/#20-2027) | Along Rd 29 1/2 | 0 |
+| [2028](https://precinct.netpress.com/#20-2028) | Near Ave 6 | 0 |
 | [2029](https://precinct.netpress.com/#20-2029) | San Joaquin River, Rd 31 | 0 |
-| [2030](https://precinct.netpress.com/#20-2030) |  | 0 |
+| [2030](https://precinct.netpress.com/#20-2030) | Near Rd 32 | 0 |
 | [2039](https://precinct.netpress.com/#20-2039) | Madera Acres; Baldwin St, Brook Dr W | 202 |
 | [2040](https://precinct.netpress.com/#20-2040) | Chowchilla Cnl, Ave 13, Ave 14 1/2 | 62 |
-| [2043](https://precinct.netpress.com/#20-2043) |  | 0 |
+| [2043](https://precinct.netpress.com/#20-2043) | Near Garfield Rd | 0 |
 | [2044](https://precinct.netpress.com/#20-2044) | Rd 16, Ave 19 1/2, Ave 19 | 13 |
 | [2045](https://precinct.netpress.com/#20-2045) | Rd 16, Fresno River, Ave 16 1/2 | 2 |
 | [2046](https://precinct.netpress.com/#20-2046) | Fresno River, Ave 16, Rd 17 1/2 | 7 |
@@ -107,16 +107,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2053](https://precinct.netpress.com/#20-2053) | Madera Acres; Bedford Dr, Wabash Rd | 234 |
 | [2054](https://precinct.netpress.com/#20-2054) | Madera; Rd 22 1/2 | 8 |
 | [2055](https://precinct.netpress.com/#20-2055) | Madera; W Cleveland Ave, Ave 15 1/2 | 3 |
-| [2056](https://precinct.netpress.com/#20-2056) | Madera | 0 |
+| [2056](https://precinct.netpress.com/#20-2056) | Madera; along Rd 23 and Ave 14 1/2 | 0 |
 | [2057](https://precinct.netpress.com/#20-2057) | Madera; Ave 15, Rd 23 | 272 |
-| [2058](https://precinct.netpress.com/#20-2058) |  | 0 |
+| [2058](https://precinct.netpress.com/#20-2058) | Near Rd 20 | 0 |
 | [2059](https://precinct.netpress.com/#20-2059) | Rd 16, Ave 7 1/2, Ave 6 | 19 |
 | [2060](https://precinct.netpress.com/#20-2060) | Ave 12, W Pecan Ave, Rd 25 | 15 |
 | [2061](https://precinct.netpress.com/#20-2061) | La Vina; Ave 11 1/2, Rd 23 1/2 | 448 |
-| [2062](https://precinct.netpress.com/#20-2062) |  | 4 |
+| [2062](https://precinct.netpress.com/#20-2062) | Along Rd 27 1/2 | 4 |
 | [2063](https://precinct.netpress.com/#20-2063) | Ave 5, Ave 6, Ave 6 1/2 | 38 |
 | [2064](https://precinct.netpress.com/#20-2064) | Gravelly Ford Dr, Ave 5, Ave 4 1/2 | 50 |
-| [2066](https://precinct.netpress.com/#20-2066) |  | 0 |
+| [2066](https://precinct.netpress.com/#20-2066) | Along Ave 9 | 0 |
 | [2067](https://precinct.netpress.com/#20-2067) | Ave 10 1/2, Ave 10 3/4, Rd 21 1/2 | 0 |
 | [2068](https://precinct.netpress.com/#20-2068) | Madera; Rd 22 1/2, W Cleveland Ave | 0 |
 | [2069](https://precinct.netpress.com/#20-2069) | Ave 16, Rd 19, Rd 19 1/2 | 0 |
@@ -127,21 +127,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2083](https://precinct.netpress.com/#20-2083) | Ashview Canal, Ave 19 1/2, Ave 19 | 7 |
 | [2084](https://precinct.netpress.com/#20-2084) | Rd 9 1/2 | 13 |
 | [2085](https://precinct.netpress.com/#20-2085) | Hayes Rd, Berenda Slough, Ave 17 | 15 |
-| [2087](https://precinct.netpress.com/#20-2087) |  | 0 |
+| [2087](https://precinct.netpress.com/#20-2087) | Near Hemlock Rd | 0 |
 | [2088](https://precinct.netpress.com/#20-2088) | Rd 12, Ave 21, Robertson Blvd | 30 |
 | [2089](https://precinct.netpress.com/#20-2089) | Railroad Ave, Ave 22 1/2, Robertson Blvd | 152 |
 | [2090](https://precinct.netpress.com/#20-2090) | Ave 19 1/2, Robertson Blvd, Ave 19 | 142 |
 | [2091](https://precinct.netpress.com/#20-2091) | Berenda Slough, Ave 18, Hayes Ct | 78 |
 | [2092](https://precinct.netpress.com/#20-2092) | Ave 17 1/2, Grant Rd | 2 |
-| [2093](https://precinct.netpress.com/#20-2093) |  | 7 |
-| [2094](https://precinct.netpress.com/#20-2094) |  | 0 |
-| [2095](https://precinct.netpress.com/#20-2095) |  | 4 |
-| [2096](https://precinct.netpress.com/#20-2096) |  | 0 |
+| [2093](https://precinct.netpress.com/#20-2093) | Near Ave 17 | 7 |
+| [2094](https://precinct.netpress.com/#20-2094) | Near Rd 16 | 0 |
+| [2095](https://precinct.netpress.com/#20-2095) | Near Rd 16 | 4 |
+| [2096](https://precinct.netpress.com/#20-2096) | Along Rd 16 | 0 |
 | [2100](https://precinct.netpress.com/#20-2100) | Chowchilla; Ave 25 1/2, Hemlock Rd | 103 |
 | [2101](https://precinct.netpress.com/#20-2101) | Chowchilla; Highway 233, Rd 13 | 170 |
 | [2102](https://precinct.netpress.com/#20-2102) | Rd 15 3/4, Highway 233, Railroad Dr | 175 |
 | [2103](https://precinct.netpress.com/#20-2103) | Rd 16, Ave 24 | 27 |
-| [2104](https://precinct.netpress.com/#20-2104) |  | 10 |
+| [2104](https://precinct.netpress.com/#20-2104) | Along Rd 16 and Ave 23 1/2 | 10 |
 | [2105](https://precinct.netpress.com/#20-2105) | Fairmead; Fairmead Blvd, Ave 22 3/4 | 504 |
 | [2106](https://precinct.netpress.com/#20-2106) | Fairmead; Rd 18 1/2 | 7 |
 | [2107](https://precinct.netpress.com/#20-2107) | Fairmead; Highway 99, Fairmead Blvd | 36 |
@@ -169,11 +169,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2134](https://precinct.netpress.com/#20-2134) | Chowchilla; N 1st St, W Front St | 20 |
 | [2135](https://precinct.netpress.com/#20-2135) | Chowchilla; Mariposa Ave, S 14th St | 32 |
 | [2136](https://precinct.netpress.com/#20-2136) | Chowchilla; Colusa Ave, S 11th St | 42 |
-| [2137](https://precinct.netpress.com/#20-2137) |  | 18 |
+| [2137](https://precinct.netpress.com/#20-2137) | Along Truman Dr | 18 |
 | [2140](https://precinct.netpress.com/#20-2140) | Chowchilla; Bettencourt St, Ave 27 | 12 |
 | [2142](https://precinct.netpress.com/#20-2142) | Chowchilla Blvd, Rd 15 | 3 |
 | [2143](https://precinct.netpress.com/#20-2143) | Chowchilla River, Ave 27, Ave 24 1/2 | 18 |
-| [2144](https://precinct.netpress.com/#20-2144) |  | 0 |
+| [2144](https://precinct.netpress.com/#20-2144) | Along Ave 24 1/2 | 0 |
 | [2145](https://precinct.netpress.com/#20-2145) | Chowchilla; Berenda Reservoir, Santa Fe Dr | 69 |
 | [2146](https://precinct.netpress.com/#20-2146) | Rd 22, Ave 23 | 1 |
 | [2147](https://precinct.netpress.com/#20-2147) | Ave 22 | 0 |
@@ -183,7 +183,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2180](https://precinct.netpress.com/#20-2180) | Chowchilla; Ave 24, Ave 23 | 2 |
 | [2221](https://precinct.netpress.com/#20-2221) | Ave 22, Ave 23 | 3 |
 | [2222](https://precinct.netpress.com/#20-2222) | Berenda Blvd, Masa St, Litt Dr | 108 |
-| [2223](https://precinct.netpress.com/#20-2223) |  | 0 |
+| [2223](https://precinct.netpress.com/#20-2223) | Near Ave 20 1/2 | 0 |
 | [2224](https://precinct.netpress.com/#20-2224) | Country Club Dr | 0 |
 | [2225](https://precinct.netpress.com/#20-2225) | Rd 24, Ave 19, Foxwood Dr | 5 |
 | [2226](https://precinct.netpress.com/#20-2226) | Rd 24, Ave 20, Ave 19 | 42 |
@@ -191,15 +191,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2228](https://precinct.netpress.com/#20-2228) | Hanover Dr, Buchanan Rd, Ave 19 | 0 |
 | [2229](https://precinct.netpress.com/#20-2229) | Dry Creek | 0 |
 | [2233](https://precinct.netpress.com/#20-2233) | Fairmead Blvd, Masa St | 0 |
-| [2235](https://precinct.netpress.com/#20-2235) |  | 0 |
-| [2240](https://precinct.netpress.com/#20-2240) | Madera Acres | 0 |
+| [2235](https://precinct.netpress.com/#20-2235) | Near Highway 99 | 0 |
+| [2240](https://precinct.netpress.com/#20-2240) | Madera Acres; along Rd 27 and Ave 19 1/2 | 0 |
 | [2241](https://precinct.netpress.com/#20-2241) | Madera Acres; Varden Dr, Club Dr | 1,227 |
-| [2260](https://precinct.netpress.com/#20-2260) | Madera | 0 |
+| [2260](https://precinct.netpress.com/#20-2260) | Madera; along Rd 23 | 0 |
 | [2261](https://precinct.netpress.com/#20-2261) | Madera; Condor Rd, Aviation Dr | 61 |
 | [2262](https://precinct.netpress.com/#20-2262) | Madera; Golden State Blvd | 1 |
 | [2263](https://precinct.netpress.com/#20-2263) | Madera | 0 |
 | [2264](https://precinct.netpress.com/#20-2264) | Madera; N Schnoor St, Ave 16 | 175 |
-| [2265](https://precinct.netpress.com/#20-2265) | Madera | 0 |
+| [2265](https://precinct.netpress.com/#20-2265) | Madera; along Ave 16 and Golden State Blvd | 0 |
 | [2266](https://precinct.netpress.com/#20-2266) | Madera; Foxglove Way, Beechwood Way | 510 |
 | [2267](https://precinct.netpress.com/#20-2267) | Madera; Ave 16, Golden State Blvd | 4 |
 | [2268](https://precinct.netpress.com/#20-2268) | Madera; N Gateway Dr | 3 |
@@ -210,7 +210,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3001](https://precinct.netpress.com/#20-3001) | Madera; Highway 145, Ave 13 | 2,273 |
 | [3002](https://precinct.netpress.com/#20-3002) | Madera; W Dunham St, Dunham Ave | 279 |
 | [3003](https://precinct.netpress.com/#20-3003) | Madera; E Almond Ave, E Dunham Ave | 288 |
-| [3004](https://precinct.netpress.com/#20-3004) | Madera | 0 |
+| [3004](https://precinct.netpress.com/#20-3004) | Madera; along State Hwy 99 and Hwy 99 | 0 |
 | [3005](https://precinct.netpress.com/#20-3005) | Madera; E Pecan Ave, Gary Ln | 623 |
 | [3006](https://precinct.netpress.com/#20-3006) | Madera; Glade Ave, Encantada Ave | 1,575 |
 | [3007](https://precinct.netpress.com/#20-3007) | Madera; Via Cerioni, Caitlan Dr | 938 |
@@ -243,10 +243,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3034](https://precinct.netpress.com/#20-3034) | Madera; N N St | 1 |
 | [3035](https://precinct.netpress.com/#20-3035) | Madera; N Pine St, N O St | 58 |
 | [3040](https://precinct.netpress.com/#20-3040) | Madera; Ave 13 3/4, S Granada Dr | 92 |
-| [3041](https://precinct.netpress.com/#20-3041) |  | 16 |
-| [3042](https://precinct.netpress.com/#20-3042) |  | 0 |
+| [3041](https://precinct.netpress.com/#20-3041) | Along Rd 24 | 16 |
+| [3042](https://precinct.netpress.com/#20-3042) | Near Ren Way | 0 |
 | [3060](https://precinct.netpress.com/#20-3060) | W Pecan Ave | 1 |
-| [3900](https://precinct.netpress.com/#20-3900) |  | 0 |
+| [3900](https://precinct.netpress.com/#20-3900) | Along 13 1/2 Ave and Almond Ave | 0 |
 | [4000](https://precinct.netpress.com/#20-4000) | Parksdale; Lada Ave, Cedar St | 82 |
 | [4001](https://precinct.netpress.com/#20-4001) | Parksdale; Fern St, Robbins Ln | 212 |
 | [4002](https://precinct.netpress.com/#20-4002) | Parksdale; Hai Ln, Rd 29 | 25 |
@@ -271,7 +271,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4031](https://precinct.netpress.com/#20-4031) | Madera; Lyons St, E 5th St | 115 |
 | [4033](https://precinct.netpress.com/#20-4033) | Madera; Tozer St | 0 |
 | [4034](https://precinct.netpress.com/#20-4034) | Madera; Storey Rd, Azure Dr | 71 |
-| [4035](https://precinct.netpress.com/#20-4035) | Madera | 0 |
+| [4035](https://precinct.netpress.com/#20-4035) | Madera; along S E St | 0 |
 | [4036](https://precinct.netpress.com/#20-4036) | Madera; S E St | 0 |
 | [4037](https://precinct.netpress.com/#20-4037) | Madera; S C St, E 7th St | 79 |
 | [4038](https://precinct.netpress.com/#20-4038) | Madera; E 11th St, E 10th St | 122 |
@@ -280,20 +280,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4041](https://precinct.netpress.com/#20-4041) | Madera; Hull Ave, Hull St | 808 |
 | [4042](https://precinct.netpress.com/#20-4042) | Madera; S Knox St, Rd 27 3/4 | 1,351 |
 | [4043](https://precinct.netpress.com/#20-4043) | Madera; E 9th St | 0 |
-| [4044](https://precinct.netpress.com/#20-4044) |  | 0 |
-| [4050](https://precinct.netpress.com/#20-4050) |  | 8 |
+| [4044](https://precinct.netpress.com/#20-4044) | Madera; near E 9th St | 0 |
+| [4050](https://precinct.netpress.com/#20-4050) | Near State Hwy 145 | 8 |
 | [4051](https://precinct.netpress.com/#20-4051) | Raymond Rd | 2 |
 | [4052](https://precinct.netpress.com/#20-4052) | Madera; Watson St, Ave 15 | 235 |
 | [4053](https://precinct.netpress.com/#20-4053) | Ave 14 1/2, Rd 28 1/2 | 59 |
 | [4054](https://precinct.netpress.com/#20-4054) | Ave 14, Rd 28 1/2 | 0 |
-| [4056](https://precinct.netpress.com/#20-4056) |  | 0 |
+| [4056](https://precinct.netpress.com/#20-4056) | Near Ave 13 1/2 | 0 |
 | [4060](https://precinct.netpress.com/#20-4060) | Echo St, Ave 16 | 28 |
-| [4061](https://precinct.netpress.com/#20-4061) |  | 1 |
+| [4061](https://precinct.netpress.com/#20-4061) | Madera; near E Kennedy St | 1 |
 | [5000](https://precinct.netpress.com/#20-5000) | Skyview Rd, Brookhill Rd, Huntington Rd | 291 |
 | [5001](https://precinct.netpress.com/#20-5001) | Rolling Hills; N 41 Ftrd E, Ave 14 | 119 |
 | [5002](https://precinct.netpress.com/#20-5002) | Bonny Kerry Dr, Bonny-Kerry Ln, Rose of Trallee Pl | 35 |
-| [5003](https://precinct.netpress.com/#20-5003) |  | 3 |
-| [5004](https://precinct.netpress.com/#20-5004) |  | 1 |
+| [5003](https://precinct.netpress.com/#20-5003) | Along Rd 39 1/2 | 3 |
+| [5004](https://precinct.netpress.com/#20-5004) | Near State Hwy 41 | 1 |
 | [5020](https://precinct.netpress.com/#20-5020) | Yosemite Lakes; Rd 211, O'Neals Rd | 654 |
 | [5021](https://precinct.netpress.com/#20-5021) | North Fork; Rd 8066, Lake Moic | 723 |
 | [5022](https://precinct.netpress.com/#20-5022) | North Fork; Rd 224, Bonnie B Rd | 674 |
@@ -314,20 +314,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5061](https://precinct.netpress.com/#20-5061) | Coarsegold and Yosemite Lakes; Chukchansi Lake, Rd 415 | 2,517 |
 | [5062](https://precinct.netpress.com/#20-5062) | Coarsegold; Rd 416, Spinelli Rd | 10 |
 | [5063](https://precinct.netpress.com/#20-5063) | Coarsegold; Wells Rd, Rd 8079 | 1,681 |
-| [5078](https://precinct.netpress.com/#20-5078) |  | 0 |
+| [5078](https://precinct.netpress.com/#20-5078) | Near Grub Gulch Rd | 0 |
 | [5080](https://precinct.netpress.com/#20-5080) | Yosemite Lakes; Madera Equalization Reservoir, Hensley Lake | 767 |
-| [5081](https://precinct.netpress.com/#20-5081) |  | 0 |
+| [5081](https://precinct.netpress.com/#20-5081) | Along E Robertson Blvd and Greenhills Blvd | 0 |
 | [5083](https://precinct.netpress.com/#20-5083) | Rd 800, Bailey Flats Rd, Rd 812 | 40 |
 | [5084](https://precinct.netpress.com/#20-5084) | Hidden Springs Rd, Rd 8085, Grub Gulch Rd | 32 |
 | [5100](https://precinct.netpress.com/#20-5100) | Highway 145, River Rd, Rd 33 | 0 |
 | [5120](https://precinct.netpress.com/#20-5120) | River Rd, Rabbit Hill, Rd 603 | 8 |
-| [5140](https://precinct.netpress.com/#20-5140) |  | 0 |
+| [5140](https://precinct.netpress.com/#20-5140) | Near Shari Ln | 0 |
 | [5141](https://precinct.netpress.com/#20-5141) | Del Mar Rd, Olympia Rd, Brightwood Rd | 854 |
 | [5142](https://precinct.netpress.com/#20-5142) | Shari Ln, Melrose Ct, Ave 22 | 58 |
 | [5160](https://precinct.netpress.com/#20-5160) | Valley View Rd, Steward Rd, Dennis Rd | 276 |
 | [5161](https://precinct.netpress.com/#20-5161) | Ave 20 1/2, Co Rd 29, Ave 19 1/2 | 0 |
-| [5168](https://precinct.netpress.com/#20-5168) |  | 5 |
-| [5180](https://precinct.netpress.com/#20-5180) |  | 0 |
+| [5168](https://precinct.netpress.com/#20-5168) | Near Pacific Dr | 5 |
+| [5180](https://precinct.netpress.com/#20-5180) | Near Ave 21 | 0 |
 | [5181](https://precinct.netpress.com/#20-5181) | Rd 28 1/2, Dry Creek, Raymond Rd | 3 |
 | [5183](https://precinct.netpress.com/#20-5183) | Elmwood Rd, Beechwood Rd, Rancho Ave | 107 |
 | [5200](https://precinct.netpress.com/#20-5200) | Ave 26 1/2, Aveunue 26, Ave 27 | 24 |
@@ -337,7 +337,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5204](https://precinct.netpress.com/#20-5204) | Ave 22 1/2, Ave 22 | 0 |
 | [5220](https://precinct.netpress.com/#20-5220) | Ave 28, Ave 27 3/4, E Robertson Blvd | 21 |
 | [5221](https://precinct.netpress.com/#20-5221) | Ave 25, Rd 25, Rd 24 | 1 |
-| [5222](https://precinct.netpress.com/#20-5222) |  | 3 |
+| [5222](https://precinct.netpress.com/#20-5222) | Along Rd 25 1/2 | 3 |
 | [5224](https://precinct.netpress.com/#20-5224) | Country Club Dr | 0 |
 | [5225](https://precinct.netpress.com/#20-5225) | Country Club Dr, Ave 23 | 1 |
 | [5240](https://precinct.netpress.com/#20-5240) | Rd 26, Ave 28, Rd 24 | 6 |

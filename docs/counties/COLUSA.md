@@ -37,7 +37,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [301-3](https://precinct.netpress.com/#06-301-3) | Hahn Rd, Field Access Rd, Miller Rd | 11 |
 | [301-4](https://precinct.netpress.com/#06-301-4) | Abel Rd, Lone Star Rd, Highway 20 | 24 |
 | [301-5](https://precinct.netpress.com/#06-301-5) | College City and Arbuckle; Bailey Rd, Grimes Arbuckle Rd | 46 |
-| [301-6](https://precinct.netpress.com/#06-301-6) |  | 9 |
+| [301-6](https://precinct.netpress.com/#06-301-6) | Along Hahn Rd | 9 |
 | [301-7](https://precinct.netpress.com/#06-301-7) | Arbuckle; Hillgate Rd, Putnam Way | 48 |
 | [323](https://precinct.netpress.com/#06-323) | Williams; 7th St, I St | 631 |
 | [324](https://precinct.netpress.com/#06-324) | Williams; Margurite St, Vann St | 1,005 |
@@ -61,13 +61,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [408-6](https://precinct.netpress.com/#06-408-6) | Cortina School Rd, Hahn Rd, Evans Rd | 2 |
 | [427-1](https://precinct.netpress.com/#06-427-1) | Williams; C St, D St | 294 |
 | [427-2](https://precinct.netpress.com/#06-427-2) | Williams; Old Hwy 99W, Nicolaus Dr | 332 |
-| [427-3](https://precinct.netpress.com/#06-427-3) | Williams | 1 |
+| [427-3](https://precinct.netpress.com/#06-427-3) | Williams; along Freshwater Rd | 1 |
 | [500-1](https://precinct.netpress.com/#06-500-1) | Butte Creek, Hopkins Slough, Butte Slough Rd | 583 |
 | [500-2](https://precinct.netpress.com/#06-500-2) | Wilson Ave, Hunter Rd, Highway 20 | 161 |
-| [500-3](https://precinct.netpress.com/#06-500-3) |  | 7 |
+| [500-3](https://precinct.netpress.com/#06-500-3) | Along Commer Ave and E Clay St | 7 |
 | [500-4](https://precinct.netpress.com/#06-500-4) | Colusa Lake, Gridley Rd, Oxbow Lake | 25 |
 | [505](https://precinct.netpress.com/#06-505) | Princeton; Ferry Rd, Packer Rd | 192 |
 | [512-1](https://precinct.netpress.com/#06-512-1) | Colusa; E Carson St, Carson St | 676 |
 | [512-2](https://precinct.netpress.com/#06-512-2) | Colusa; Commer Ave | 49 |
 | [513-1](https://precinct.netpress.com/#06-513-1) | Colusa; Clay St, Parkhill St | 537 |
-| [513-3](https://precinct.netpress.com/#06-513-3) | Colusa | 3 |
+| [513-3](https://precinct.netpress.com/#06-513-3) | Colusa; along Wilson Ave and 10th St | 3 |

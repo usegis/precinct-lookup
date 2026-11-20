@@ -36,7 +36,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [121043](https://precinct.netpress.com/#13-121043) | Calexico | 0 |
 | [181001](https://precinct.netpress.com/#13-181001) | Wozencraft St | 0 |
 | [181003](https://precinct.netpress.com/#13-181003) | Lavigne Rd, Bowker Rd, Anza Rd | 0 |
-| [181066](https://precinct.netpress.com/#13-181066) |  | 0 |
+| [181066](https://precinct.netpress.com/#13-181066) | Near Anza Rd | 0 |
 | [221021](https://precinct.netpress.com/#13-221021) | Calexico; Scaroni Rd, Portico Blvd | 99 |
 | [245205](https://precinct.netpress.com/#13-245205) | El Centro; S 23rd St, Sandalwood Dr | 502 |
 | [245212](https://precinct.netpress.com/#13-245212) | El Centro; S Wilson St, W Hamilton Ave | 193 |
@@ -57,7 +57,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [245227](https://precinct.netpress.com/#13-245227) | El Centro; Danenberg Dr, Manzanita Dr | 561 |
 | [245228](https://precinct.netpress.com/#13-245228) | El Centro; Desert Gardens Dr, Lotus Ln | 838 |
 | [245229](https://precinct.netpress.com/#13-245229) | El Centro; Willow Dr, Woodside Dr | 533 |
-| [245230](https://precinct.netpress.com/#13-245230) | El Centro | 2 |
+| [245230](https://precinct.netpress.com/#13-245230) | El Centro; along W Dannenberg Rd | 2 |
 | [245231](https://precinct.netpress.com/#13-245231) | El Centro; Cottonwood Cir, Southwind Dr | 608 |
 | [245236](https://precinct.netpress.com/#13-245236) | El Centro; Solano Ave, S La Brucherie Rd | 1,029 |
 | [247229](https://precinct.netpress.com/#13-247229) | El Centro; Haskell Dr, Glenwood Dr | 904 |
@@ -74,7 +74,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [286232](https://precinct.netpress.com/#13-286232) | Heber; Cherry Ave, Hawk Ave | 1,907 |
 | [286233](https://precinct.netpress.com/#13-286233) | Heber; Heber Ave, Valley Blvd | 424 |
 | [286238](https://precinct.netpress.com/#13-286238) | S Dogwood Rd, Mustang Rd | 22 |
-| [286239](https://precinct.netpress.com/#13-286239) | Heber | 0 |
+| [286239](https://precinct.netpress.com/#13-286239) | Heber; along S Dogwood Rd and Correll Rd | 0 |
 | [286244](https://precinct.netpress.com/#13-286244) | Heber; Clifford Rd, Parkyns Ave | 344 |
 | [286245](https://precinct.netpress.com/#13-286245) | Jasper Rd, Pitzer Rd, Mountain View Way | 1 |
 | [286247](https://precinct.netpress.com/#13-286247) | Scaroni Rd, Highway 86 | 2 |
@@ -90,7 +90,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [287245](https://precinct.netpress.com/#13-287245) | El Centro; Dubois Dr, Nichols Rd | 18 |
 | [287248](https://precinct.netpress.com/#13-287248) | Fisher Rd, Kubler Rd, Wormwood Rd | 11 |
 | [287249](https://precinct.netpress.com/#13-287249) | Signal Rd, Mandrapa Rd | 0 |
-| [287250](https://precinct.netpress.com/#13-287250) |  | 13 |
+| [287250](https://precinct.netpress.com/#13-287250) | Near S Clark Rd | 13 |
 | [289203](https://precinct.netpress.com/#13-289203) | W Graham Rd, W Diehl Rd, Harrigan Rd | 20 |
 | [289204](https://precinct.netpress.com/#13-289204) | Lakeside Dr, W Kramar Rd, W Kramer Rd | 113 |
 | [345201](https://precinct.netpress.com/#13-345201) | El Centro; N 8th St, 12th Rd | 1,274 |
@@ -127,11 +127,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [385013](https://precinct.netpress.com/#13-385013) | W Keystone Rd | 13 |
 | [385014](https://precinct.netpress.com/#13-385014) | Imperial; W Belford Rd, W Murphy Rd | 1,264 |
 | [385015](https://precinct.netpress.com/#13-385015) | Edgar Rd, Imler Rd, Lydick Loop | 16 |
-| [385016](https://precinct.netpress.com/#13-385016) |  | 0 |
+| [385016](https://precinct.netpress.com/#13-385016) | Along Larsen Rd | 0 |
 | [385018](https://precinct.netpress.com/#13-385018) | W Keystone Rd, W Harris Rd, Highway 86 | 0 |
 | [385019](https://precinct.netpress.com/#13-385019) | Ralph Rd | 0 |
 | [385020](https://precinct.netpress.com/#13-385020) | Larsen Rd, Rodeo Dr, Highway 86 | 10 |
-| [385021](https://precinct.netpress.com/#13-385021) |  | 4 |
+| [385021](https://precinct.netpress.com/#13-385021) | Along Clark Rd | 4 |
 | [385044](https://precinct.netpress.com/#13-385044) | Canal Rd, Clark Rd, N Dogwood Rd | 6 |
 | [385045](https://precinct.netpress.com/#13-385045) | Imperial; Clark Rd | 2 |
 | [385046](https://precinct.netpress.com/#13-385046) | Imperial; W Huston Rd, N Dogwood Rd | 21 |
@@ -142,7 +142,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [387246](https://precinct.netpress.com/#13-387246) | Johnson Ln, Austin Rd, W Ross Rd | 126 |
 | [389207](https://precinct.netpress.com/#13-389207) | El Centro Naval Air Facility; W Aten Rd, W Hackleman Rd | 233 |
 | [389208](https://precinct.netpress.com/#13-389208) | Seeley; Rio Vista St, Sunbeam Lake | 776 |
-| [389224](https://precinct.netpress.com/#13-389224) |  | 0 |
+| [389224](https://precinct.netpress.com/#13-389224) | Along Co Hwy S80 and W Evan Hewes Hwy | 0 |
 | [389225](https://precinct.netpress.com/#13-389225) | Seeley; Sunbeam Lake, Low Rd | 80 |
 | [389227](https://precinct.netpress.com/#13-389227) | Derrick Rd | 17 |
 | [411102](https://precinct.netpress.com/#13-411102) | Brawley; W Magnolia St, W A St | 689 |
@@ -219,14 +219,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [521042](https://precinct.netpress.com/#13-521042) | Calexico; Cabana St, Yturralde Ct | 468 |
 | [521043](https://precinct.netpress.com/#13-521043) | Calexico; Clinton Ave, E Cole Rd | 38 |
 | [521044](https://precinct.netpress.com/#13-521044) | Meadows Rd, E Jasper Rd, Yourman Rd | 1 |
-| [521047](https://precinct.netpress.com/#13-521047) | Calexico | 0 |
+| [521047](https://precinct.netpress.com/#13-521047) | Calexico; along E State Hwy 98 and E Cole Rd | 0 |
 | [545209](https://precinct.netpress.com/#13-545209) | El Centro; Imperial Irrigation District Steam Plant, N First St | 429 |
 | [545210](https://precinct.netpress.com/#13-545210) | El Centro; E Ross Ave, E Holt Ave | 846 |
 | [545211](https://precinct.netpress.com/#13-545211) | El Centro; E Commercial Ave, N Fairfield Dr | 6 |
 | [545212](https://precinct.netpress.com/#13-545212) | El Centro; E Orange Ave, E Brighton Ave | 757 |
 | [545238](https://precinct.netpress.com/#13-545238) | El Centro; W Wake Ave, S Second St | 172 |
 | [547239](https://precinct.netpress.com/#13-547239) | El Centro; Countryside Dr, W Dannenberg Rd | 1,167 |
-| [547240](https://precinct.netpress.com/#13-547240) | El Centro | 0 |
+| [547240](https://precinct.netpress.com/#13-547240) | El Centro; along Dannenberg Dr | 0 |
 | [547265](https://precinct.netpress.com/#13-547265) | El Centro; Co Hwy S31, S Dogwood Rd | 0 |
 | [548211](https://precinct.netpress.com/#13-548211) | El Centro; W Mineo Ave, E Aurora Dr | 35 |
 | [548212](https://precinct.netpress.com/#13-548212) | El Centro; S Fairfield Dr | 0 |
@@ -253,7 +253,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [582132](https://precinct.netpress.com/#13-582132) | Streiby Rd, Fifield Rd, Hunter Ave | 9 |
 | [582133](https://precinct.netpress.com/#13-582133) | Everette Ave | 2 |
 | [582134](https://precinct.netpress.com/#13-582134) | Griffin Rd, Streiby Rd, Orange Rd | 17 |
-| [582135](https://precinct.netpress.com/#13-582135) |  | 0 |
+| [582135](https://precinct.netpress.com/#13-582135) | Along E US Hwy 78 and State Hwy 78 | 0 |
 | [584002](https://precinct.netpress.com/#13-584002) | Correll Rd, Meloland Rd, Barbara Worth Rd | 0 |
 | [584003](https://precinct.netpress.com/#13-584003) | Gunterman Rd, Hawk Rd, Vencill Rd | 0 |
 | [584004](https://precinct.netpress.com/#13-584004) | Verde School Rd, Holdridge Rd, Vencil Rd | 90 |
@@ -283,7 +283,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [586005](https://precinct.netpress.com/#13-586005) | Palo Verde and Winterhaven; Picacho Rd, Co Hwy S24 | 129 |
 | [586007](https://precinct.netpress.com/#13-586007) | Highway 8, Grays Wells Rd, Alamo Cnl | 27 |
 | [586010](https://precinct.netpress.com/#13-586010) | Winterhaven; 2nd Ave, 3rd Ave | 144 |
-| [586033](https://precinct.netpress.com/#13-586033) |  | 0 |
+| [586033](https://precinct.netpress.com/#13-586033) | Near I- 8 | 0 |
 | [586037](https://precinct.netpress.com/#13-586037) | Palo Verde; Clark Way, Sunset Way | 69 |
 | [586065](https://precinct.netpress.com/#13-586065) | Center of the World Dr, Side Winder Rd, Ogilby Rd | 6 |
 | [586201](https://precinct.netpress.com/#13-586201) | Yourman Rd, Frontage Rd, Abatti Rd | 5 |

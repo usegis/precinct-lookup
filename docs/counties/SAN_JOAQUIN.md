@@ -96,7 +96,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10260](https://precinct.netpress.com/#39-10260) | Stockton; Clarane Ave, Willora Rd | 198 |
 | [10261](https://precinct.netpress.com/#39-10261) | Stockton; Angel Dr, Otto Dr | 644 |
 | [10262](https://precinct.netpress.com/#39-10262) | Stockton; Bixby Way, Admiral Dr | 730 |
-| [10263](https://precinct.netpress.com/#39-10263) | Stockton | 2 |
+| [10263](https://precinct.netpress.com/#39-10263) | Stockton; along West Ln | 2 |
 | [10264](https://precinct.netpress.com/#39-10264) | Stockton; Fitzpatrick Cir, Sutherland Dr | 782 |
 | [10265](https://precinct.netpress.com/#39-10265) | Stockton; Villa Point Dr, Chagall Ln | 817 |
 | [10266](https://precinct.netpress.com/#39-10266) | Stockton; N West Ln, E Eight Mile Rd | 0 |
@@ -114,7 +114,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10278](https://precinct.netpress.com/#39-10278) | Stockton; Praire Ln, Oak Tree Ln | 293 |
 | [10279](https://precinct.netpress.com/#39-10279) | Stockton; Tank House Dr, Grider Way | 36 |
 | [10280](https://precinct.netpress.com/#39-10280) | Stockton; Rudder Way, Windmill Park Dr | 800 |
-| [10281](https://precinct.netpress.com/#39-10281) |  | 0 |
+| [10281](https://precinct.netpress.com/#39-10281) | Stockton; near Davis Rd | 0 |
 | [10282](https://precinct.netpress.com/#39-10282) | Stockton; Chaparral Way, Laredo Cir | 860 |
 | [10283](https://precinct.netpress.com/#39-10283) | Stockton; Burnside Way, Greeley Way | 805 |
 | [10284](https://precinct.netpress.com/#39-10284) | Stockton; Porter Ave, Porterfield Ct | 846 |
@@ -149,7 +149,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11183](https://precinct.netpress.com/#39-11183) | Stockton; John Turk Rd, Port of Stockton Expy | 0 |
 | [11184](https://precinct.netpress.com/#39-11184) | Stockton; Austin Rd | 0 |
 | [11185](https://precinct.netpress.com/#39-11185) | Stockton; Sandstone Dr, Tillman Dr | 277 |
-| [11186](https://precinct.netpress.com/#39-11186) | Stockton | 0 |
+| [11186](https://precinct.netpress.com/#39-11186) | Stockton; along McKinley Ave and Arch Airport Rd | 0 |
 | [11187](https://precinct.netpress.com/#39-11187) | Stockton; Mormon Slough, W Scotts Ave | 957 |
 | [11189](https://precinct.netpress.com/#39-11189) | Stockton; Bradford St, Hiawatha Ave | 344 |
 | [11190](https://precinct.netpress.com/#39-11190) | Stockton; San Joaquin River | 0 |
@@ -223,7 +223,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11369](https://precinct.netpress.com/#39-11369) | Stockton; Havencrest Cir, Natoma Cir | 947 |
 | [11370](https://precinct.netpress.com/#39-11370) | Stockton; Trinity Pkwy, Silveroak Cir | 965 |
 | [11371](https://precinct.netpress.com/#39-11371) | Stockton; Atlanta Cir, Blue Ridge Cir | 960 |
-| [11372](https://precinct.netpress.com/#39-11372) |  | 0 |
+| [11372](https://precinct.netpress.com/#39-11372) | Near W Benjamin Holt Dr | 0 |
 | [11373](https://precinct.netpress.com/#39-11373) | Stockton; Fourteen Mile Dr, Embarcadero Dr | 597 |
 | [11374](https://precinct.netpress.com/#39-11374) | Stockton; Boulder Creek Cir, Winding River Cir | 801 |
 | [11391](https://precinct.netpress.com/#39-11391) | Stockton; Fourteen Mile Slough | 0 |
@@ -241,18 +241,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11413](https://precinct.netpress.com/#39-11413) | Stockton; N Wild Grape Dr, Gold Brook Dr | 579 |
 | [11414](https://precinct.netpress.com/#39-11414) | Stockton; Fred Russo Dr, Strawberry Way | 790 |
 | [11415](https://precinct.netpress.com/#39-11415) | Stockton; Bergamo Cir, Tenaya Ln | 934 |
-| [11417](https://precinct.netpress.com/#39-11417) | Stockton | 1 |
+| [11417](https://precinct.netpress.com/#39-11417) | Stockton; along Arch Rd and Newcastle Rd | 1 |
 | [11418](https://precinct.netpress.com/#39-11418) | Stockton; Newcastle Rd | 0 |
 | [11419](https://precinct.netpress.com/#39-11419) | Stockton; Buddy Holly Dr, Zaccaria Way | 829 |
 | [11420](https://precinct.netpress.com/#39-11420) | Stockton; Pfc Jesse Mizener St, Zeppelin Ln | 622 |
 | [11421](https://precinct.netpress.com/#39-11421) | Stockton | 0 |
 | [11422](https://precinct.netpress.com/#39-11422) | Stockton; Popolo Cir, Massimo Cir | 779 |
-| [11423](https://precinct.netpress.com/#39-11423) | Stockton | 0 |
+| [11423](https://precinct.netpress.com/#39-11423) | Stockton; along E Morada Ln | 0 |
 | [11424](https://precinct.netpress.com/#39-11424) | Stockton; Glacier Point Dr, Mt Malure Dr | 15 |
 | [11425](https://precinct.netpress.com/#39-11425) | Stockton; Cathedral Cir, Bridalveil Cir | 495 |
 | [11426](https://precinct.netpress.com/#39-11426) | Stockton; Barbaresco Cir, Snow Creek Cir | 589 |
 | [11427](https://precinct.netpress.com/#39-11427) | Stockton; Chianti Cir, Lembert Dome Cir | 711 |
-| [11428](https://precinct.netpress.com/#39-11428) |  | 0 |
+| [11428](https://precinct.netpress.com/#39-11428) | Stockton; near 99 Frontage Rd | 0 |
 | [11429](https://precinct.netpress.com/#39-11429) | Stockton; Terracorvo Cir, Shay Cir | 926 |
 | [11430](https://precinct.netpress.com/#39-11430) | Stockton; Christian Life Way, Omega Way | 169 |
 | [11431](https://precinct.netpress.com/#39-11431) | Stockton; Auto Center Cir | 0 |
@@ -260,7 +260,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11433](https://precinct.netpress.com/#39-11433) | Stockton; Windflower Ln | 0 |
 | [11434](https://precinct.netpress.com/#39-11434) | Stockton; Maranatha Dr | 0 |
 | [11435](https://precinct.netpress.com/#39-11435) | Stockton | 0 |
-| [11436](https://precinct.netpress.com/#39-11436) | Stockton | 0 |
+| [11436](https://precinct.netpress.com/#39-11436) | Stockton; along Kingsley Rd | 0 |
 | [16101](https://precinct.netpress.com/#39-16101) | Stockton; East Ave, School St | 63 |
 | [16102](https://precinct.netpress.com/#39-16102) | Stockton; N Sierra Nevada St, Pinchot St | 197 |
 | [16103](https://precinct.netpress.com/#39-16103) | Stockton; N Pilgrim St, N Union St | 315 |
@@ -285,10 +285,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20506](https://precinct.netpress.com/#39-20506) | Mountain House; Arnaudo Blvd, Sterling Dr | 1,002 |
 | [20507](https://precinct.netpress.com/#39-20507) | Mountain House; Huntington Ave, Vecindad St | 945 |
 | [20508](https://precinct.netpress.com/#39-20508) | Mountain House; E Ramsey Dr, Bella Serata Ave | 681 |
-| [20509](https://precinct.netpress.com/#39-20509) |  | 0 |
+| [20509](https://precinct.netpress.com/#39-20509) | Mountain House; near Bethany Rd | 0 |
 | [20510](https://precinct.netpress.com/#39-20510) | Mountain House; Byron Rd | 0 |
 | [20511](https://precinct.netpress.com/#39-20511) | Mountain House; Bethany Rd, Wicklund Rd | 0 |
-| [20512](https://precinct.netpress.com/#39-20512) |  | 0 |
+| [20512](https://precinct.netpress.com/#39-20512) | Near Byron Rd | 0 |
 | [20513](https://precinct.netpress.com/#39-20513) | Mountain House; Olson Ave, Hart Dr | 987 |
 | [20514](https://precinct.netpress.com/#39-20514) | Mountain House; Teixeira Ave, Terra Mia Ave | 529 |
 | [20515](https://precinct.netpress.com/#39-20515) | Mountain House; Central Pkwy, E Tuso Ranch Rd | 534 |
@@ -296,20 +296,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20517](https://precinct.netpress.com/#39-20517) | Mountain House; W Gravino Dr, N San Marcos Dr | 831 |
 | [20518](https://precinct.netpress.com/#39-20518) | Mountain House; N Museo Dr, N Andalusia Way | 733 |
 | [20519](https://precinct.netpress.com/#39-20519) | Mountain House; Mountain House Creek, S Kelso Rd | 122 |
-| [20520](https://precinct.netpress.com/#39-20520) | Mountain House | 0 |
+| [20520](https://precinct.netpress.com/#39-20520) | Mountain House; along Byron Rd and Central Pkwy | 0 |
 | [20521](https://precinct.netpress.com/#39-20521) | Mountain House; W Bonaventure Ave, W Antigua Ter | 472 |
 | [31501](https://precinct.netpress.com/#39-31501) | Tracy; S Patterson Pass Rd | 0 |
 | [31502](https://precinct.netpress.com/#39-31502) | Tracy; Hood Way, S Patterson Pass Rd | 0 |
 | [31503](https://precinct.netpress.com/#39-31503) | Hansen Rd, W Schulte Rd | 0 |
 | [31504](https://precinct.netpress.com/#39-31504) | Tracy; Promontory Pk, Hansen Rd | 0 |
-| [31505](https://precinct.netpress.com/#39-31505) | Tracy | 0 |
-| [31506](https://precinct.netpress.com/#39-31506) | Tracy | 0 |
+| [31505](https://precinct.netpress.com/#39-31505) | Tracy; along I- 205 Bus and 11th St | 0 |
+| [31506](https://precinct.netpress.com/#39-31506) | Tracy; along S Lammers Rd and Redbrdge Rd | 0 |
 | [31507](https://precinct.netpress.com/#39-31507) | Tracy; Redbridge Rd, Belmont Ln | 0 |
 | [31508](https://precinct.netpress.com/#39-31508) | Tracy; W Schulte Rd | 0 |
 | [31509](https://precinct.netpress.com/#39-31509) | Tracy; Mabel Josephine Dr, Shulte Rd | 0 |
 | [31510](https://precinct.netpress.com/#39-31510) | Tracy; Cabana Ct, Carol Ann Dr | 0 |
 | [31511](https://precinct.netpress.com/#39-31511) | Tracy; Frank Blondin Ln, Golden Gate Dr | 0 |
-| [31512](https://precinct.netpress.com/#39-31512) | Tracy | 0 |
+| [31512](https://precinct.netpress.com/#39-31512) | Tracy; along Krohn Rd | 0 |
 | [31513](https://precinct.netpress.com/#39-31513) | Tracy; Summer Ln, Krohn Rd | 0 |
 | [31514](https://precinct.netpress.com/#39-31514) | Tracy; Ben Ingram Ln, Greystone Dr | 0 |
 | [31515](https://precinct.netpress.com/#39-31515) | Tracy; Jefferson Pkwy, Crossroads Dr | 0 |
@@ -320,8 +320,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [31520](https://precinct.netpress.com/#39-31520) | Tracy; Thelma Loop, Ormonde St | 0 |
 | [31521](https://precinct.netpress.com/#39-31521) | W Grant Line Rd | 0 |
 | [31522](https://precinct.netpress.com/#39-31522) | Tracy; W Grant Line Rd | 0 |
-| [31523](https://precinct.netpress.com/#39-31523) |  | 0 |
-| [31524](https://precinct.netpress.com/#39-31524) |  | 0 |
+| [31523](https://precinct.netpress.com/#39-31523) | Along W Grant Line Rd | 0 |
+| [31524](https://precinct.netpress.com/#39-31524) | Along Naglee Rd | 0 |
 | [31525](https://precinct.netpress.com/#39-31525) | Tracy; Naglee Rd, Auto Plaza Dr | 0 |
 | [31526](https://precinct.netpress.com/#39-31526) | Tracy; Henley Pkwy, Hampshire Ln | 0 |
 | [31527](https://precinct.netpress.com/#39-31527) | Tracy; Bridle Creek Cir, Lowell Ave | 0 |
@@ -347,7 +347,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [32518](https://precinct.netpress.com/#39-32518) | Tracy; Mae Ave, E Whittier Ave | 0 |
 | [32519](https://precinct.netpress.com/#39-32519) | Tracy; W Whittier Ave, 23rd St | 0 |
 | [32520](https://precinct.netpress.com/#39-32520) | Tracy; Carlton Way, N Tracy Blvd | 0 |
-| [32521](https://precinct.netpress.com/#39-32521) |  | 0 |
+| [32521](https://precinct.netpress.com/#39-32521) | Tracy; near Wall St | 0 |
 | [32522](https://precinct.netpress.com/#39-32522) | Tracy; W Highland Ave, Bessie Ave | 0 |
 | [33501](https://precinct.netpress.com/#39-33501) | Tracy; N Mac Arthur Dr | 0 |
 | [33502](https://precinct.netpress.com/#39-33502) | Tracy; N Mac Arthur Dr | 0 |
@@ -362,7 +362,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [33517](https://precinct.netpress.com/#39-33517) | Tracy; W Mount Diablo Ave, Independence Dr | 0 |
 | [33518](https://precinct.netpress.com/#39-33518) | Tracy; Central Ave, Gianelli St | 0 |
 | [33519](https://precinct.netpress.com/#39-33519) | Tracy; Country Ct, C St | 0 |
-| [33520](https://precinct.netpress.com/#39-33520) | Tracy | 0 |
+| [33520](https://precinct.netpress.com/#39-33520) | Tracy; along E Mount Diablo Ave | 0 |
 | [33536](https://precinct.netpress.com/#39-33536) | Tracy; N Hickory Ave, Morris Phelps Dr | 467 |
 | [33549](https://precinct.netpress.com/#39-33549) | Tracy; Bayberry Ln, Ray Wise Ln | 618 |
 | [33565](https://precinct.netpress.com/#39-33565) | Tracy; Foxwood Dr, Alden Glen Dr | 795 |
@@ -379,7 +379,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [34508](https://precinct.netpress.com/#39-34508) | Tracy; Eastlake Dr, Eastlake Cir | 0 |
 | [34509](https://precinct.netpress.com/#39-34509) | Tracy; Harold Smith Dr, Ontario Dr | 0 |
 | [34510](https://precinct.netpress.com/#39-34510) | Tracy; Amatchi Dr, Baigorry St | 0 |
-| [34511](https://precinct.netpress.com/#39-34511) |  | 0 |
+| [34511](https://precinct.netpress.com/#39-34511) | Along Baigorry Ct | 0 |
 | [34512](https://precinct.netpress.com/#39-34512) | Tracy; Glenbriar Cir, Quail Run Cir | 0 |
 | [34513](https://precinct.netpress.com/#39-34513) | Tracy; Payton Ln, Glenbriar Cir | 0 |
 | [34514](https://precinct.netpress.com/#39-34514) | Tracy; Glenbrook Dr, Oakridge Dr | 0 |
@@ -389,25 +389,25 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [34518](https://precinct.netpress.com/#39-34518) | S Corral Hollow Rd, Beyers Ave, W Valpico Rd | 0 |
 | [34519](https://precinct.netpress.com/#39-34519) | Tracy; Lakeshore Ave, Edgewater Ave | 0 |
 | [34520](https://precinct.netpress.com/#39-34520) | Tracy; Cornucopia Pl, Ray Harvey Dr | 0 |
-| [34521](https://precinct.netpress.com/#39-34521) |  | 0 |
+| [34521](https://precinct.netpress.com/#39-34521) | Tracy; near S Corral Hollow Rd | 0 |
 | [34522](https://precinct.netpress.com/#39-34522) | Tracy; Tropaz Ln, Maison Ln | 0 |
 | [34523](https://precinct.netpress.com/#39-34523) | Tracy; Cherry Blossom Ln, Peony Dr | 0 |
 | [34524](https://precinct.netpress.com/#39-34524) | Tracy; Sunnyside Ln, Whispering Wind Dr | 0 |
 | [34525](https://precinct.netpress.com/#39-34525) | Tracy; Poppy Hills Ln, Windsong Dr | 0 |
 | [34526](https://precinct.netpress.com/#39-34526) | Tracy; Dandelion Loop, Dietrick Ave | 0 |
 | [34527](https://precinct.netpress.com/#39-34527) | Tracy | 0 |
-| [34528](https://precinct.netpress.com/#39-34528) |  | 0 |
+| [34528](https://precinct.netpress.com/#39-34528) | Along S Tracy Blvd | 0 |
 | [34529](https://precinct.netpress.com/#39-34529) | Tracy; W Linne Rd | 0 |
-| [34530](https://precinct.netpress.com/#39-34530) |  | 0 |
-| [34531](https://precinct.netpress.com/#39-34531) |  | 0 |
+| [34530](https://precinct.netpress.com/#39-34530) | Tracy; near S Tracy Blvd | 0 |
+| [34531](https://precinct.netpress.com/#39-34531) | Tracy; near S Tracy Blvd | 0 |
 | [34532](https://precinct.netpress.com/#39-34532) | Tracy | 0 |
 | [34533](https://precinct.netpress.com/#39-34533) | Tracy | 0 |
 | [34534](https://precinct.netpress.com/#39-34534) | Tracy; Diamond Ave, Malachite Pl | 0 |
 | [34535](https://precinct.netpress.com/#39-34535) | Tracy; Tracy Hills Dr, Needham St | 0 |
 | [34536](https://precinct.netpress.com/#39-34536) | Tracy; Tracy Hills Dr, Sacramento Dr | 0 |
 | [34537](https://precinct.netpress.com/#39-34537) | Tracy | 0 |
-| [34538](https://precinct.netpress.com/#39-34538) |  | 0 |
-| [34539](https://precinct.netpress.com/#39-34539) |  | 0 |
+| [34538](https://precinct.netpress.com/#39-34538) | Near S Corral Hollow Rd | 0 |
+| [34539](https://precinct.netpress.com/#39-34539) | Near S Corral Hollow Rd | 0 |
 | [41401](https://precinct.netpress.com/#39-41401) | Lodi; Cammie Ln, Wisteria Dr | 195 |
 | [41402](https://precinct.netpress.com/#39-41402) | Lodi; Hickory Ln, Satin Leaf St | 226 |
 | [41403](https://precinct.netpress.com/#39-41403) | E Harney Ln | 14 |
@@ -502,7 +502,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [50313](https://precinct.netpress.com/#39-50313) | Manteca; Parkview St, Thomas St | 788 |
 | [50314](https://precinct.netpress.com/#39-50314) | Manteca; Pagola Ave, Perimeter Dr | 976 |
 | [50315](https://precinct.netpress.com/#39-50315) | Manteca; Antone Raymus Pkwy, Paramount Ln | 939 |
-| [50316](https://precinct.netpress.com/#39-50316) |  | 0 |
+| [50316](https://precinct.netpress.com/#39-50316) | Along Yosemite Ave | 0 |
 | [50317](https://precinct.netpress.com/#39-50317) | Manteca; Sagewood Dr, Camborne Dr | 741 |
 | [50318](https://precinct.netpress.com/#39-50318) | Manteca; Diamond Oak Way, Cork Oak Ln | 902 |
 | [50319](https://precinct.netpress.com/#39-50319) | Manteca; Vasconcellos Ave, E Basil Dr | 703 |
@@ -582,7 +582,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [74513](https://precinct.netpress.com/#39-74513) | Ripon; Tornga Dr, Van Andel Way | 587 |
 | [74514](https://precinct.netpress.com/#39-74514) | Ripon; Nancy Dr, Milgeo Ave | 835 |
 | [74515](https://precinct.netpress.com/#39-74515) | Ripon; Shasta Ave, Otis Dr | 795 |
-| [74516](https://precinct.netpress.com/#39-74516) |  | 0 |
+| [74516](https://precinct.netpress.com/#39-74516) | Ripon; near E Milgeo Ave | 0 |
 | [74517](https://precinct.netpress.com/#39-74517) | Ripon; Stanislaus River | 0 |
 | [74518](https://precinct.netpress.com/#39-74518) | Ripon; Stanislaus River | 0 |
 | [74519](https://precinct.netpress.com/#39-74519) | Ripon; S Wilma Ave, Robert Ave | 844 |
@@ -627,7 +627,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [84337](https://precinct.netpress.com/#39-84337) | Lathrop; Brookhurst Blvd, Cold Springs St | 916 |
 | [84338](https://precinct.netpress.com/#39-84338) | Lathrop; Olivine Ave, Pipestone St | 724 |
 | [84339](https://precinct.netpress.com/#39-84339) | Lathrop; Roth Rd | 0 |
-| [90401](https://precinct.netpress.com/#39-90401) |  | 0 |
+| [90401](https://precinct.netpress.com/#39-90401) | Near N Johnson Rd | 0 |
 | [90402](https://precinct.netpress.com/#39-90402) | Brandt Rd, E Kettleman Ln, Clements Rd | 125 |
 | [90403](https://precinct.netpress.com/#39-90403) | N Jack Tone Rd | 4 |
 | [90404](https://precinct.netpress.com/#39-90404) | E Harney Ln, Atkins Rd, E Kettleman Ln | 33 |
@@ -635,11 +635,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90406](https://precinct.netpress.com/#39-90406) | Frazier Rd, Davis Lake, Highway 26 | 129 |
 | [90407](https://precinct.netpress.com/#39-90407) | Live Oak Rd, Brumby Rd, Highway 88 | 109 |
 | [90408](https://precinct.netpress.com/#39-90408) | E Live Oak Rd, Cherry Ave | 8 |
-| [90409](https://precinct.netpress.com/#39-90409) |  | 7 |
+| [90409](https://precinct.netpress.com/#39-90409) | Near E Eight Mile Rd | 7 |
 | [90410](https://precinct.netpress.com/#39-90410) | E Live Oak Rd | 4 |
 | [90411](https://precinct.netpress.com/#39-90411) | Hildreth Ln, Alpine Rd, Ratto Rd | 43 |
 | [90412](https://precinct.netpress.com/#39-90412) | Pezzi Rd | 36 |
-| [90413](https://precinct.netpress.com/#39-90413) |  | 7 |
+| [90413](https://precinct.netpress.com/#39-90413) | Near E Eight Mile Rd | 7 |
 | [90414](https://precinct.netpress.com/#39-90414) | E Eight Mile Rd | 1 |
 | [90415](https://precinct.netpress.com/#39-90415) | Waterloo; N Confer Rd, Pezzi Rd | 288 |
 | [90416](https://precinct.netpress.com/#39-90416) | Waterloo; N Jack Tone Rd, Beecher Rd | 70 |
@@ -654,7 +654,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90427](https://precinct.netpress.com/#39-90427) | N Waverly Rd, Flood Rd | 3 |
 | [90428](https://precinct.netpress.com/#39-90428) | N Waverly Rd | 0 |
 | [90429](https://precinct.netpress.com/#39-90429) | Copperopolis Rd, N Waverly Rd | 2 |
-| [90430](https://precinct.netpress.com/#39-90430) |  | 0 |
+| [90430](https://precinct.netpress.com/#39-90430) | Near E Hwy 4 | 0 |
 | [90432](https://precinct.netpress.com/#39-90432) | S Jack Tone Rd | 2 |
 | [90433](https://precinct.netpress.com/#39-90433) | S Hollenbeck Rd, Hollenbeck Rd, Highway 4 | 19 |
 | [90434](https://precinct.netpress.com/#39-90434) | Copperopolis Rd, E Kee Welch Ct | 8 |
@@ -662,9 +662,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90436](https://precinct.netpress.com/#39-90436) | E Linden 26 Rd, Highway 26 | 43 |
 | [90437](https://precinct.netpress.com/#39-90437) | Finkbohner Rd, Alpine Rd, Highway 26 | 37 |
 | [90439](https://precinct.netpress.com/#39-90439) | N Sibley Ave, Norman Ave, Best Rd | 157 |
-| [90440](https://precinct.netpress.com/#39-90440) |  | 1 |
-| [90441](https://precinct.netpress.com/#39-90441) |  | 1 |
-| [90442](https://precinct.netpress.com/#39-90442) |  | 0 |
+| [90440](https://precinct.netpress.com/#39-90440) | Along E Hwy 4 | 1 |
+| [90441](https://precinct.netpress.com/#39-90441) | Along Highway 4 and Farmington Rd | 1 |
+| [90442](https://precinct.netpress.com/#39-90442) | Near S Patrick Rd | 0 |
 | [90443](https://precinct.netpress.com/#39-90443) | S Jack Tone Rd | 4 |
 | [90444](https://precinct.netpress.com/#39-90444) | S Kaiser Rd, S Jack Tone Rd | 8 |
 | [90445](https://precinct.netpress.com/#39-90445) | S Jack Tone Rd, E Mariposa Rd, Highway 4 | 35 |
@@ -673,14 +673,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90448](https://precinct.netpress.com/#39-90448) | Drais Rd | 4 |
 | [90449](https://precinct.netpress.com/#39-90449) | Peters; E Copperopolis Rd, Dietrich Rd | 54 |
 | [90450](https://precinct.netpress.com/#39-90450) | Farmington; E Funck Rd, S Waverly Rd | 119 |
-| [90451](https://precinct.netpress.com/#39-90451) |  | 0 |
+| [90451](https://precinct.netpress.com/#39-90451) | Along Dodds Rd and S Henry Rd | 0 |
 | [90452](https://precinct.netpress.com/#39-90452) | S Henry Rd, Carter Rd, Via Casilina Pkwy | 129 |
 | [90453](https://precinct.netpress.com/#39-90453) | Temple Creek Rd, Country Rd, Van Allen Rd | 183 |
 | [90454](https://precinct.netpress.com/#39-90454) | Skiff Rd, Biederman Rd, Biederman Way | 78 |
 | [90455](https://precinct.netpress.com/#39-90455) | Avena Rd, Murphy Rd | 31 |
 | [90456](https://precinct.netpress.com/#39-90456) | Robinson Rd, Avena Rd, Van Allen Rd | 60 |
-| [90457](https://precinct.netpress.com/#39-90457) |  | 0 |
-| [90458](https://precinct.netpress.com/#39-90458) |  | 4 |
+| [90457](https://precinct.netpress.com/#39-90457) | Near Carrolton Rd | 0 |
+| [90458](https://precinct.netpress.com/#39-90458) | Near Carrolton Rd | 4 |
 | [90459](https://precinct.netpress.com/#39-90459) | Huse Rd, Wagner Rd, S Wagner Ave | 83 |
 | [90460](https://precinct.netpress.com/#39-90460) | Carrolton Rd, Lone Tree Rd | 29 |
 | [90461](https://precinct.netpress.com/#39-90461) | Van Allen Rd | 19 |
@@ -694,7 +694,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90473](https://precinct.netpress.com/#39-90473) | Shattuck Rd, Shattuck Track Rd, Alberg Rd | 47 |
 | [90474](https://precinct.netpress.com/#39-90474) | N West Ln | 1 |
 | [90475](https://precinct.netpress.com/#39-90475) | Scottsdale Rd, Armstrong Rd, Highway 99 | 101 |
-| [90476](https://precinct.netpress.com/#39-90476) |  | 7 |
+| [90476](https://precinct.netpress.com/#39-90476) | Along Mettler Rd | 7 |
 | [90477](https://precinct.netpress.com/#39-90477) | N Lower Sacramento Rd, Mettler Rd | 37 |
 | [90478](https://precinct.netpress.com/#39-90478) | N West Ln | 35 |
 | [90479](https://precinct.netpress.com/#39-90479) | N Ham Ln, N Leach Rd, N West Ln | 163 |
@@ -719,58 +719,58 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90501](https://precinct.netpress.com/#39-90501) | Blewett Rd, Highway 132, W Gaffery Rd | 3 |
 | [90502](https://precinct.netpress.com/#39-90502) | W Gaffery Rd, Gaffery Rd | 0 |
 | [90503](https://precinct.netpress.com/#39-90503) | W Gaffery Rd, Gaffery Rd | 0 |
-| [90504](https://precinct.netpress.com/#39-90504) |  | 0 |
+| [90504](https://precinct.netpress.com/#39-90504) | Tracy; near I- 580 | 0 |
 | [90505](https://precinct.netpress.com/#39-90505) | S Corral Hollow Rd, Co Hwy J2 | 0 |
 | [90506](https://precinct.netpress.com/#39-90506) | Bird Rd, Carnegie Rdg, Co Hwy J2 | 15 |
 | [90507](https://precinct.netpress.com/#39-90507) | S Tracy Blvd | 0 |
-| [90508](https://precinct.netpress.com/#39-90508) |  | 9 |
+| [90508](https://precinct.netpress.com/#39-90508) | Near S Chrisman Rd | 9 |
 | [90509](https://precinct.netpress.com/#39-90509) | S Bird Rd, Highway 132, Vernalis Rd | 26 |
 | [90510](https://precinct.netpress.com/#39-90510) | W Saint Andrews Ln, Stearman Rd, Stearman Dr | 108 |
 | [90511](https://precinct.netpress.com/#39-90511) | S Chrisman Rd, Highway 132, S Macarthur Dr | 48 |
-| [90512](https://precinct.netpress.com/#39-90512) |  | 0 |
-| [90513](https://precinct.netpress.com/#39-90513) |  | 0 |
-| [90515](https://precinct.netpress.com/#39-90515) |  | 6 |
+| [90512](https://precinct.netpress.com/#39-90512) | Near S Macarthur Dr | 0 |
+| [90513](https://precinct.netpress.com/#39-90513) | Near S Macarthur Dr | 0 |
+| [90515](https://precinct.netpress.com/#39-90515) | Near I- 580 | 6 |
 | [90516](https://precinct.netpress.com/#39-90516) | Tracy | 0 |
-| [90517](https://precinct.netpress.com/#39-90517) |  | 0 |
+| [90517](https://precinct.netpress.com/#39-90517) | Near W Linne Rd | 0 |
 | [90518](https://precinct.netpress.com/#39-90518) | W Linne Rd, S Tracy Blvd | 22 |
-| [90519](https://precinct.netpress.com/#39-90519) | Tracy | 0 |
+| [90519](https://precinct.netpress.com/#39-90519) | Tracy; along Fairoaks Rd | 0 |
 | [90520](https://precinct.netpress.com/#39-90520) | S Chrisman Rd | 51 |
-| [90522](https://precinct.netpress.com/#39-90522) |  | 23 |
+| [90522](https://precinct.netpress.com/#39-90522) | Along S Lammers Rd | 23 |
 | [90523](https://precinct.netpress.com/#39-90523) | S Lammers Rd | 7 |
-| [90524](https://precinct.netpress.com/#39-90524) |  | 0 |
+| [90524](https://precinct.netpress.com/#39-90524) | Tracy; near Tracy Hills Dr | 0 |
 | [90525](https://precinct.netpress.com/#39-90525) | Valpico Rd | 6 |
 | [90526](https://precinct.netpress.com/#39-90526) | Wilkinson Way, Valpico Rd | 10 |
-| [90527](https://precinct.netpress.com/#39-90527) |  | 0 |
+| [90527](https://precinct.netpress.com/#39-90527) | Along Northington Dr and Gold Run St | 0 |
 | [90529](https://precinct.netpress.com/#39-90529) | Tracy; Almendra Way, Velma Ln | 179 |
 | [90530](https://precinct.netpress.com/#39-90530) | Tracy; Lillegard Ct | 29 |
-| [90531](https://precinct.netpress.com/#39-90531) |  | 19 |
-| [90532](https://precinct.netpress.com/#39-90532) |  | 9 |
-| [90533](https://precinct.netpress.com/#39-90533) |  | 0 |
+| [90531](https://precinct.netpress.com/#39-90531) | Along S Leeward Way | 19 |
+| [90532](https://precinct.netpress.com/#39-90532) | Along Erb Way and S Leeward Way | 9 |
+| [90533](https://precinct.netpress.com/#39-90533) | Near Blewett Rd | 0 |
 | [90534](https://precinct.netpress.com/#39-90534) | Tyson St, Fetterman Dr, Sigurd Ln | 5 |
 | [90535](https://precinct.netpress.com/#39-90535) | S Welty Rd, Welty Rd, Highway 33 | 12 |
 | [90536](https://precinct.netpress.com/#39-90536) | Blewett Rd, S Koster Rd, Ohm Rd | 20 |
 | [90537](https://precinct.netpress.com/#39-90537) | S Welty Rd, Welty Rd | 0 |
-| [90538](https://precinct.netpress.com/#39-90538) |  | 2 |
-| [90539](https://precinct.netpress.com/#39-90539) |  | 10 |
-| [90540](https://precinct.netpress.com/#39-90540) |  | 5 |
+| [90538](https://precinct.netpress.com/#39-90538) | Near I- 5 | 2 |
+| [90539](https://precinct.netpress.com/#39-90539) | Near I- 5 | 10 |
+| [90540](https://precinct.netpress.com/#39-90540) | Near S Banta Rd | 5 |
 | [90541](https://precinct.netpress.com/#39-90541) | S Banta Rd | 0 |
 | [90542](https://precinct.netpress.com/#39-90542) | Tracy; Bates Rd, Erb Way | 467 |
 | [90544](https://precinct.netpress.com/#39-90544) | Zilli Dr, Falcone Dr, Waterwell Way | 603 |
 | [90545](https://precinct.netpress.com/#39-90545) | S Banta Rd, W Linne Rd | 26 |
-| [90546](https://precinct.netpress.com/#39-90546) |  | 21 |
+| [90546](https://precinct.netpress.com/#39-90546) | Near S Bird Rd | 21 |
 | [90547](https://precinct.netpress.com/#39-90547) | Tracy Defense Depot, S Chrisman Rd, Durham Ferry Rd | 111 |
 | [90548](https://precinct.netpress.com/#39-90548) | S Lehman Rd, W Lehman Rd | 22 |
-| [90549](https://precinct.netpress.com/#39-90549) |  | 32 |
-| [90550](https://precinct.netpress.com/#39-90550) |  | 57 |
+| [90549](https://precinct.netpress.com/#39-90549) | Along S Bird Rd | 32 |
+| [90550](https://precinct.netpress.com/#39-90550) | Along W Linne Rd | 57 |
 | [90551](https://precinct.netpress.com/#39-90551) | S Bird Rd, W Lehman Rd, Durham Ferry Rd | 50 |
 | [90552](https://precinct.netpress.com/#39-90552) | Highway 33 | 20 |
-| [90553](https://precinct.netpress.com/#39-90553) |  | 31 |
-| [90554](https://precinct.netpress.com/#39-90554) |  | 6 |
+| [90553](https://precinct.netpress.com/#39-90553) | Along I- 5 and Durham Ferry Rd | 31 |
+| [90554](https://precinct.netpress.com/#39-90554) | Near I- 5 | 6 |
 | [90555](https://precinct.netpress.com/#39-90555) | W Kenner Rd, S Bird Rd | 31 |
 | [90556](https://precinct.netpress.com/#39-90556) | Dreyer Rd, Vernalis Rd, Highway 132 | 14 |
 | [90557](https://precinct.netpress.com/#39-90557) | W Linne Rd | 0 |
-| [90558](https://precinct.netpress.com/#39-90558) |  | 0 |
-| [90559](https://precinct.netpress.com/#39-90559) |  | 1 |
+| [90558](https://precinct.netpress.com/#39-90558) | Near Kasson Rd | 0 |
+| [90559](https://precinct.netpress.com/#39-90559) | Near Kasson Rd | 1 |
 | [90560](https://precinct.netpress.com/#39-90560) | W Linne Rd, E Linne Rd | 2 |
 | [90561](https://precinct.netpress.com/#39-90561) | Critchett Rd, Kasson Rd, Tavake Rd | 41 |
 | [90562](https://precinct.netpress.com/#39-90562) | Durham Ferry Rd, W Linne Rd | 31 |
@@ -780,26 +780,26 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [90566](https://precinct.netpress.com/#39-90566) | Sycamore Dr, Crescent Lake, Sierra Trl | 182 |
 | [90567](https://precinct.netpress.com/#39-90567) | Durham Ferry Rd, S Koster Rd, Kasson Rd | 36 |
 | [90568](https://precinct.netpress.com/#39-90568) | Bevis Rd | 8 |
-| [90569](https://precinct.netpress.com/#39-90569) |  | 0 |
+| [90569](https://precinct.netpress.com/#39-90569) | Near Highway 33 | 0 |
 | [90570](https://precinct.netpress.com/#39-90570) | Highway 33, S Koster Rd | 13 |
-| [90571](https://precinct.netpress.com/#39-90571) |  | 3 |
+| [90571](https://precinct.netpress.com/#39-90571) | Along Durham Ferry Rd and Determination Dr | 3 |
 | [90572](https://precinct.netpress.com/#39-90572) | Bevis Rd, Vernalis Rd, Kenner Rd | 77 |
 | [90573](https://precinct.netpress.com/#39-90573) | S Greenwood Rd, Highway 33 | 29 |
 | [90574](https://precinct.netpress.com/#39-90574) | S Greenwood Rd, Determination Dr, Kasson Rd | 21 |
 | [90575](https://precinct.netpress.com/#39-90575) | Von Sosten Rd, Redondo Dr, Tsirelas Dr | 605 |
-| [90576](https://precinct.netpress.com/#39-90576) |  | 14 |
+| [90576](https://precinct.netpress.com/#39-90576) | Along Mountain House Pkwy and Patterson Pass Rd | 14 |
 | [90577](https://precinct.netpress.com/#39-90577) | W Patterson Pass Rd, Via Nicolo Rd, S Patterson Pass Rd | 28 |
 | [90579](https://precinct.netpress.com/#39-90579) | Tracy; Schulte Rd, Corporate Ct | 6 |
 | [90580](https://precinct.netpress.com/#39-90580) | W Schulte Rd | 2 |
 | [90582](https://precinct.netpress.com/#39-90582) | S Banta Rd, E Grantline Rd | 5 |
 | [90583](https://precinct.netpress.com/#39-90583) | Berry Ave, S Bird Rd, W F St | 343 |
 | [90584](https://precinct.netpress.com/#39-90584) | W Lorenzen Rd, Kasson Rd, W Wright Rd | 24 |
-| [90585](https://precinct.netpress.com/#39-90585) |  | 9 |
-| [90586](https://precinct.netpress.com/#39-90586) |  | 0 |
+| [90585](https://precinct.netpress.com/#39-90585) | Along Kasson Rd | 9 |
+| [90586](https://precinct.netpress.com/#39-90586) | Near Kasson Rd | 0 |
 | [90587](https://precinct.netpress.com/#39-90587) | Hansen Rd | 4 |
-| [90588](https://precinct.netpress.com/#39-90588) |  | 2 |
+| [90588](https://precinct.netpress.com/#39-90588) | Near Hansen Rd | 2 |
 | [90589](https://precinct.netpress.com/#39-90589) | Tracy | 0 |
-| [90590](https://precinct.netpress.com/#39-90590) | Tracy | 0 |
+| [90590](https://precinct.netpress.com/#39-90590) | Tracy; along I- 580 and Co Hwy J2 | 0 |
 | [90591](https://precinct.netpress.com/#39-90591) | Tracy; Co Hwy J2 | 4 |
 | [90592](https://precinct.netpress.com/#39-90592) | Tracy; Midway Dr, Carnegie Dr | 137 |
 | [90593](https://precinct.netpress.com/#39-90593) | Tracy; Mountain View Rd, Trisler Ct | 99 |
@@ -823,12 +823,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [91139](https://precinct.netpress.com/#39-91139) | Garden Acres; S Del Mar Ave, Dawes Ave | 689 |
 | [91146](https://precinct.netpress.com/#39-91146) | Country Club; Calaveras River | 0 |
 | [91147](https://precinct.netpress.com/#39-91147) | Country Club and Stockton; W Telegraph Ave, Calariva Dr | 783 |
-| [91149](https://precinct.netpress.com/#39-91149) |  | 1 |
-| [91151](https://precinct.netpress.com/#39-91151) |  | 0 |
+| [91149](https://precinct.netpress.com/#39-91149) | Near 99 Frontage Rd | 1 |
+| [91151](https://precinct.netpress.com/#39-91151) | Near Austin Rd | 0 |
 | [91152](https://precinct.netpress.com/#39-91152) | August; Robindale Ave, N Redwood Ave | 825 |
 | [91153](https://precinct.netpress.com/#39-91153) | August and Stockton; E Francis St, E John St | 495 |
 | [91154](https://precinct.netpress.com/#39-91154) | Stockton; Learned Ave, Section Ave | 271 |
-| [91155](https://precinct.netpress.com/#39-91155) |  | 0 |
+| [91155](https://precinct.netpress.com/#39-91155) | Along Charter Way and Mariposa Rd | 0 |
 | [91156](https://precinct.netpress.com/#39-91156) | Taft Mosswood and Stockton; Mourfield Ave, W Ivy Ave | 631 |
 | [91157](https://precinct.netpress.com/#39-91157) | Kennedy and Stockton; S B St, E 10th St | 635 |
 | [91161](https://precinct.netpress.com/#39-91161) | Kennedy; Marfargoa Rd, Clark Dr | 294 |
@@ -870,15 +870,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [91256](https://precinct.netpress.com/#39-91256) | Stockton; N Meadow Ave, Saint Carlo Ave | 161 |
 | [91257](https://precinct.netpress.com/#39-91257) | Stockton; Marlette Rd, Lower Sacramento Rd | 9 |
 | [91258](https://precinct.netpress.com/#39-91258) | Stockton; Morada Ln, E Morada Ln | 0 |
-| [91259](https://precinct.netpress.com/#39-91259) |  | 5 |
+| [91259](https://precinct.netpress.com/#39-91259) | Along Lower Sacramento Rd and Wakefield Rd | 5 |
 | [91260](https://precinct.netpress.com/#39-91260) | Wakefield Rd | 0 |
 | [91261](https://precinct.netpress.com/#39-91261) | Stockton; Wakefield Rd | 0 |
-| [91262](https://precinct.netpress.com/#39-91262) |  | 1 |
-| [91263](https://precinct.netpress.com/#39-91263) |  | 6 |
+| [91262](https://precinct.netpress.com/#39-91262) | Near Davis Rd | 1 |
+| [91263](https://precinct.netpress.com/#39-91263) | Near Davis Rd | 6 |
 | [91264](https://precinct.netpress.com/#39-91264) | Stockton | 0 |
 | [91265](https://precinct.netpress.com/#39-91265) | Wakefield Rd | 0 |
 | [91266](https://precinct.netpress.com/#39-91266) | Stockton; Bear Creek Levee Rd, Lower Sacramento Rd | 12 |
-| [91267](https://precinct.netpress.com/#39-91267) |  | 3 |
+| [91267](https://precinct.netpress.com/#39-91267) | Along Lower Sacramento Rd | 3 |
 | [91268](https://precinct.netpress.com/#39-91268) | Stockton; Elkhorn Dr, Shull Pl | 118 |
 | [91269](https://precinct.netpress.com/#39-91269) | Stockton; Arroyo Way, Balboa Ave | 583 |
 | [91270](https://precinct.netpress.com/#39-91270) | Broadridge Way, Estate Dr | 114 |
@@ -900,7 +900,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [91427](https://precinct.netpress.com/#39-91427) | Highway 4, E Mariposa Rd, Santa Ana Way | 14 |
 | [91437](https://precinct.netpress.com/#39-91437) | E Hammer Ln, Moreland St | 44 |
 | [91438](https://precinct.netpress.com/#39-91438) | Maranatha Dr, Moreland St | 11 |
-| [91439](https://precinct.netpress.com/#39-91439) |  | 3 |
+| [91439](https://precinct.netpress.com/#39-91439) | Near 99 Frontage Rd | 3 |
 | [91440](https://precinct.netpress.com/#39-91440) | 99 Frontage Rd | 49 |
 | [91441](https://precinct.netpress.com/#39-91441) | Morada; N Ashley Ln, Helen Ln | 67 |
 | [91442](https://precinct.netpress.com/#39-91442) | Waller Rd, Childress Rd | 88 |
@@ -919,7 +919,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [92429](https://precinct.netpress.com/#39-92429) | Woodbridge; W Lucas Rd, Stoyanoff Ln | 309 |
 | [92438](https://precinct.netpress.com/#39-92438) | Collierville; Sherry Dr, 99 Frontage Rd | 558 |
 | [92439](https://precinct.netpress.com/#39-92439) | Stockton; Davis Rd, N Thornton Rd | 8 |
-| [92443](https://precinct.netpress.com/#39-92443) |  | 0 |
+| [92443](https://precinct.netpress.com/#39-92443) | Near N Guild Ave | 0 |
 | [92444](https://precinct.netpress.com/#39-92444) | Lodi; S Guild Ave | 3 |
 | [92445](https://precinct.netpress.com/#39-92445) | Lodi; Beckman Rd, E Harney Ln | 57 |
 | [92446](https://precinct.netpress.com/#39-92446) | Lodi; Wells Ln, E Hogan Ln | 68 |
@@ -935,7 +935,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [92456](https://precinct.netpress.com/#39-92456) | Collierville; Cherokee Ln, Calimyrna Rd | 135 |
 | [92457](https://precinct.netpress.com/#39-92457) | Collierville; Fairlane Rd, N Kennefick Rd | 201 |
 | [92458](https://precinct.netpress.com/#39-92458) | Dogtown and Collierville; Dustin Rd, Jahant Rd | 358 |
-| [92459](https://precinct.netpress.com/#39-92459) |  | 0 |
+| [92459](https://precinct.netpress.com/#39-92459) | Near Cotta Rd | 0 |
 | [92460](https://precinct.netpress.com/#39-92460) | Terminous and Lodi; Guard Rd, Glasscock Rd | 337 |
 | [92462](https://precinct.netpress.com/#39-92462) | Cotta Rd, N Interstate Hwy 5 Frontage Rd, W Kingdon Rd | 111 |
 | [92463](https://precinct.netpress.com/#39-92463) | W Peltier Rd, N Rond Rd, Van Exel Rd | 7 |
@@ -954,8 +954,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [92483](https://precinct.netpress.com/#39-92483) | W Peltier Rd, N Thornton Rd, Acampo Rd | 18 |
 | [92485](https://precinct.netpress.com/#39-92485) | Thornton Rd | 8 |
 | [92486](https://precinct.netpress.com/#39-92486) | W Turner Rd, N Thornton Rd | 22 |
-| [92487](https://precinct.netpress.com/#39-92487) |  | 3 |
-| [92488](https://precinct.netpress.com/#39-92488) |  | 7 |
+| [92487](https://precinct.netpress.com/#39-92487) | Near W Turner Rd | 3 |
+| [92488](https://precinct.netpress.com/#39-92488) | Along W Turner Rd | 7 |
 | [92491](https://precinct.netpress.com/#39-92491) | Woodbridge; Indiana St, Ironstone St | 597 |
 | [92492](https://precinct.netpress.com/#39-92492) | W Woodbridge Rd, N Ray Rd, Davis Rd | 175 |
 | [92493](https://precinct.netpress.com/#39-92493) | Stockton; N Lower Sacramento Rd | 5 |
@@ -963,7 +963,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [92495](https://precinct.netpress.com/#39-92495) | Blossom Rd, Koontz, N Vail Rd | 64 |
 | [92497](https://precinct.netpress.com/#39-92497) | N Tully Rd | 8 |
 | [92498](https://precinct.netpress.com/#39-92498) | Lockeford; Atkins Rd, Tully Rd | 232 |
-| [92499](https://precinct.netpress.com/#39-92499) |  | 2 |
+| [92499](https://precinct.netpress.com/#39-92499) | Near Lower Sacramento Rd | 2 |
 | [93101](https://precinct.netpress.com/#39-93101) | John Turk Rd | 0 |
 | [93302](https://precinct.netpress.com/#39-93302) | Lathrop; Crocker Rd, S Roberts Rd | 102 |
 | [93304](https://precinct.netpress.com/#39-93304) | Old River | 1 |
@@ -973,22 +973,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [93309](https://precinct.netpress.com/#39-93309) | Lathrop; Mossdale Rd, San Joaquin River | 11 |
 | [93506](https://precinct.netpress.com/#39-93506) | Tracy; W Larch Rd, Clover Rd | 216 |
 | [93509](https://precinct.netpress.com/#39-93509) | Tracy; Laurel Rd, Laurel Ave | 35 |
-| [93520](https://precinct.netpress.com/#39-93520) |  | 0 |
+| [93520](https://precinct.netpress.com/#39-93520) | Near Kasson Rd | 0 |
 | [93527](https://precinct.netpress.com/#39-93527) | Tracy; W Clover Rd, Corporate Limit Rd | 52 |
 | [93528](https://precinct.netpress.com/#39-93528) | Old River | 9 |
 | [93529](https://precinct.netpress.com/#39-93529) | Mancuso Rd | 12 |
 | [93539](https://precinct.netpress.com/#39-93539) | Tracy; Byron Rd, Hansen Rd | 135 |
-| [93544](https://precinct.netpress.com/#39-93544) |  | 10 |
+| [93544](https://precinct.netpress.com/#39-93544) | Along S Tracy Blvd | 10 |
 | [93550](https://precinct.netpress.com/#39-93550) | Bethany Rd, Naglee Rd, W Middle Rd | 21 |
 | [93551](https://precinct.netpress.com/#39-93551) | W Middle Rd, San Jose Rd | 41 |
 | [93552](https://precinct.netpress.com/#39-93552) | San Jose Rd | 0 |
 | [93553](https://precinct.netpress.com/#39-93553) | W Grant Line Rd | 7 |
 | [93554](https://precinct.netpress.com/#39-93554) | S Lammers Rd | 0 |
-| [93555](https://precinct.netpress.com/#39-93555) |  | 1 |
+| [93555](https://precinct.netpress.com/#39-93555) | Along W Grant Line Rd | 1 |
 | [93556](https://precinct.netpress.com/#39-93556) | Tracy; Sugar Cut, W Platti Rd | 46 |
 | [93557](https://precinct.netpress.com/#39-93557) | San Jose Rd, Bethany Rd, S Reeve Rd | 32 |
 | [93558](https://precinct.netpress.com/#39-93558) | S Reeve Rd | 7 |
-| [93559](https://precinct.netpress.com/#39-93559) |  | 0 |
+| [93559](https://precinct.netpress.com/#39-93559) | Near S Reeve Rd | 0 |
 | [93560](https://precinct.netpress.com/#39-93560) | Reeves Rd | 12 |
 | [93561](https://precinct.netpress.com/#39-93561) | Bethany Rd, Naglee Rd | 1 |
 | [93562](https://precinct.netpress.com/#39-93562) | W Larch Rd | 21 |
@@ -1001,29 +1001,29 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [93576](https://precinct.netpress.com/#39-93576) | Tracy; Canal Blvd, Paradise Rd | 177 |
 | [93577](https://precinct.netpress.com/#39-93577) | Tracy; California Ave, El Rancho Rd | 43 |
 | [93578](https://precinct.netpress.com/#39-93578) | W Toleri Rd, California Ave | 9 |
-| [93579](https://precinct.netpress.com/#39-93579) |  | 6 |
+| [93579](https://precinct.netpress.com/#39-93579) | Along I- 205 and Canal Blvd | 6 |
 | [93585](https://precinct.netpress.com/#39-93585) | Patterson Pass Rd, Mountain House Pkwy | 0 |
-| [93586](https://precinct.netpress.com/#39-93586) |  | 0 |
+| [93586](https://precinct.netpress.com/#39-93586) | Near W Grant Line Rd | 0 |
 | [93587](https://precinct.netpress.com/#39-93587) | W Grant Line Rd, Mulberry Ln | 85 |
-| [93591](https://precinct.netpress.com/#39-93591) |  | 0 |
+| [93591](https://precinct.netpress.com/#39-93591) | Along Kelso Rd | 0 |
 | [93593](https://precinct.netpress.com/#39-93593) | S Reeve Rd | 4 |
-| [93594](https://precinct.netpress.com/#39-93594) |  | 23 |
+| [93594](https://precinct.netpress.com/#39-93594) | Along W Middle Rd and San Jose Rd | 23 |
 | [93595](https://precinct.netpress.com/#39-93595) | W Schulte Rd | 13 |
 | [93596](https://precinct.netpress.com/#39-93596) | Tracy; Capitol Park Dr | 3 |
 | [93597](https://precinct.netpress.com/#39-93597) | Tracy | 1 |
-| [93598](https://precinct.netpress.com/#39-93598) |  | 0 |
-| [93599](https://precinct.netpress.com/#39-93599) |  | 0 |
+| [93598](https://precinct.netpress.com/#39-93598) | Near Merced Way | 0 |
+| [93599](https://precinct.netpress.com/#39-93599) | Along S Macarthur Dr | 0 |
 | [94113](https://precinct.netpress.com/#39-94113) | Stockton; Earhart Ave, Qantas Ln | 0 |
 | [94116](https://precinct.netpress.com/#39-94116) | French Camp; S El Dorado St, Arch Airport Rd | 1 |
 | [94117](https://precinct.netpress.com/#39-94117) | S McKinley Ave | 0 |
-| [94118](https://precinct.netpress.com/#39-94118) |  | 8 |
-| [94119](https://precinct.netpress.com/#39-94119) |  | 6 |
-| [94120](https://precinct.netpress.com/#39-94120) |  | 0 |
+| [94118](https://precinct.netpress.com/#39-94118) | Near French Camp Rd | 8 |
+| [94119](https://precinct.netpress.com/#39-94119) | Near S Airport Way | 6 |
+| [94120](https://precinct.netpress.com/#39-94120) | Near French Camp Rd | 0 |
 | [94121](https://precinct.netpress.com/#39-94121) | French Camp Rd | 50 |
 | [94122](https://precinct.netpress.com/#39-94122) | French Camp Rd, Dudley Rd | 65 |
 | [94123](https://precinct.netpress.com/#39-94123) | Stockton; Lindbergh St, Longe St | 0 |
 | [94124](https://precinct.netpress.com/#39-94124) | 99 Frontage Rd | 0 |
-| [94125](https://precinct.netpress.com/#39-94125) |  | 0 |
+| [94125](https://precinct.netpress.com/#39-94125) | Near Highway 99 | 0 |
 | [94126](https://precinct.netpress.com/#39-94126) | Airport Way | 0 |
 | [94304](https://precinct.netpress.com/#39-94304) | Joseph Rd | 88 |
 | [94311](https://precinct.netpress.com/#39-94311) | S Holmes Rd | 16 |
@@ -1035,9 +1035,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [94322](https://precinct.netpress.com/#39-94322) | Fisk Rd, Airport Way | 65 |
 | [94327](https://precinct.netpress.com/#39-94327) | Nile Ave, Nile Rd | 0 |
 | [94329](https://precinct.netpress.com/#39-94329) | E Nile Rd, Fig Ave, Fig Rd | 26 |
-| [94330](https://precinct.netpress.com/#39-94330) |  | 6 |
+| [94330](https://precinct.netpress.com/#39-94330) | Along Austin Rd | 6 |
 | [94331](https://precinct.netpress.com/#39-94331) | S Tinnin Rd | 52 |
-| [94332](https://precinct.netpress.com/#39-94332) |  | 0 |
+| [94332](https://precinct.netpress.com/#39-94332) | Near Highway 99 | 0 |
 | [94334](https://precinct.netpress.com/#39-94334) | Peach Rd, Peach Ave, Fig Ave | 303 |
 | [94335](https://precinct.netpress.com/#39-94335) | Spreckles Rd, Industrial Park Dr | 1 |
 | [94336](https://precinct.netpress.com/#39-94336) | Sedan Ave | 0 |
@@ -1046,13 +1046,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [94339](https://precinct.netpress.com/#39-94339) | Briggs Ave, Bowman Rd, W Fedora Rd | 139 |
 | [94340](https://precinct.netpress.com/#39-94340) | Lathrop; Frewert Rd, Manila Rd | 124 |
 | [94341](https://precinct.netpress.com/#39-94341) | Florence Ave | 53 |
-| [94342](https://precinct.netpress.com/#39-94342) |  | 0 |
+| [94342](https://precinct.netpress.com/#39-94342) | Along McKinley Ave | 0 |
 | [94343](https://precinct.netpress.com/#39-94343) | Calesetta Pl, Rapallo Way | 41 |
 | [94344](https://precinct.netpress.com/#39-94344) | Chiavari Way, Oakwood Lake, Aplicella Ct | 958 |
 | [94345](https://precinct.netpress.com/#39-94345) | French Camp and Lathrop; S Priest Rd, S McKinley Ave | 698 |
 | [94346](https://precinct.netpress.com/#39-94346) | Garner Rd, Small Rd, E Palm Tree Ln | 125 |
 | [94347](https://precinct.netpress.com/#39-94347) | Manteca; Lovelace Rd, N Union Rd | 217 |
-| [94348](https://precinct.netpress.com/#39-94348) |  | 59 |
+| [94348](https://precinct.netpress.com/#39-94348) | Along Airport Way and Lathrop Rd | 59 |
 | [94414](https://precinct.netpress.com/#39-94414) | Cometa Rd, E Thalheim Colony Rd, Henry Rd | 243 |
 | [94415](https://precinct.netpress.com/#39-94415) | Lone Tree Rd | 3 |
 | [94420](https://precinct.netpress.com/#39-94420) | Kaiser Rd, Burnham Rd, Santa Ana Ave | 167 |
@@ -1064,15 +1064,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [94431](https://precinct.netpress.com/#39-94431) | Arch Rd | 0 |
 | [94432](https://precinct.netpress.com/#39-94432) | Stockton; Newcastle Rd | 0 |
 | [94433](https://precinct.netpress.com/#39-94433) | Kaiser Rd, Lynch Rd, French Camp Rd | 26 |
-| [94434](https://precinct.netpress.com/#39-94434) |  | 0 |
-| [94435](https://precinct.netpress.com/#39-94435) |  | 0 |
+| [94434](https://precinct.netpress.com/#39-94434) | Near Kaiser Rd | 0 |
+| [94435](https://precinct.netpress.com/#39-94435) | Near Castle Rd | 0 |
 | [94436](https://precinct.netpress.com/#39-94436) | S Prescott Rd, Castle Rd, S 99 Frontage Rd | 687 |
 | [94437](https://precinct.netpress.com/#39-94437) | E Louise Ave | 1 |
 | [94438](https://precinct.netpress.com/#39-94438) | Wildwood Rd, Marie Baker Rd, Concord Ave | 27 |
-| [94439](https://precinct.netpress.com/#39-94439) |  | 7 |
-| [94440](https://precinct.netpress.com/#39-94440) |  | 11 |
+| [94439](https://precinct.netpress.com/#39-94439) | Along S Jack Tone Rd | 7 |
+| [94440](https://precinct.netpress.com/#39-94440) | Along S Jack Tone Rd | 11 |
 | [94441](https://precinct.netpress.com/#39-94441) | S Jack Tone Rd | 31 |
-| [94442](https://precinct.netpress.com/#39-94442) |  | 11 |
+| [94442](https://precinct.netpress.com/#39-94442) | Along Avena Rd | 11 |
 | [94443](https://precinct.netpress.com/#39-94443) | Due Rd, Lone Tree Rd, French Camp Rd | 146 |
 | [94444](https://precinct.netpress.com/#39-94444) | Lawrence Rd, Zumwalt Rd, Blackmore Rd | 292 |
 | [94445](https://precinct.netpress.com/#39-94445) | Franscella Ln, Elsholz Rd, S Murphy Rd | 130 |
@@ -1099,13 +1099,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [94538](https://precinct.netpress.com/#39-94538) | S Frederick Ave, S Mohler Rd, E Moncure Rd | 139 |
 | [94539](https://precinct.netpress.com/#39-94539) | Lyons Rd, W Ripon Rd | 80 |
 | [94540](https://precinct.netpress.com/#39-94540) | Kincaid Rd, Hutchinson Rd, Brown Rd | 13 |
-| [94541](https://precinct.netpress.com/#39-94541) |  | 2 |
-| [94542](https://precinct.netpress.com/#39-94542) |  | 0 |
+| [94541](https://precinct.netpress.com/#39-94541) | Along Melton Rd | 2 |
+| [94542](https://precinct.netpress.com/#39-94542) | Near Austin Rd | 0 |
 | [94543](https://precinct.netpress.com/#39-94543) | Curtis Ave, E Moncure Rd, Austin Rd | 47 |
 | [94544](https://precinct.netpress.com/#39-94544) | Stanislaus River, Austin Rd | 6 |
 | [94545](https://precinct.netpress.com/#39-94545) | Leroy Ave, N Ripon Rd, Jack Tone Rd | 146 |
 | [94546](https://precinct.netpress.com/#39-94546) | Cedar Ln, Wagner Rd, S Wagner Ave | 108 |
-| [94547](https://precinct.netpress.com/#39-94547) |  | 5 |
+| [94547](https://precinct.netpress.com/#39-94547) | Along Stone Rd | 5 |
 | [94548](https://precinct.netpress.com/#39-94548) | Mahon Ave, Mahon Rd, Maahon Ave | 211 |
 | [94549](https://precinct.netpress.com/#39-94549) | Arthur Rd, Brennan Rd, Brennan Ave | 36 |
 | [94550](https://precinct.netpress.com/#39-94550) | Magnolia Rd, Magnolia Ave, Buerer Rd | 140 |
@@ -1122,22 +1122,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [95502](https://precinct.netpress.com/#39-95502) | S Chrisman Rd, W Schulte Rd, Macarthur Dr | 39 |
 | [95503](https://precinct.netpress.com/#39-95503) | Tracy; Cabe Rd, Carmelo Ave | 121 |
 | [95504](https://precinct.netpress.com/#39-95504) | Tracy; W Loramar Ln | 14 |
-| [95505](https://precinct.netpress.com/#39-95505) |  | 0 |
-| [95506](https://precinct.netpress.com/#39-95506) |  | 5 |
+| [95505](https://precinct.netpress.com/#39-95505) | Along W 11th St and I- 205 Bus | 0 |
+| [95506](https://precinct.netpress.com/#39-95506) | Along S Banta Rd | 5 |
 | [95507](https://precinct.netpress.com/#39-95507) | S Banta Rd, Lovely Rd | 19 |
 | [96101](https://precinct.netpress.com/#39-96101) | Adelbert Ave, 4th St, S Olive Ave | 251 |
-| [96102](https://precinct.netpress.com/#39-96102) | August | 0 |
+| [96102](https://precinct.netpress.com/#39-96102) | August; along E St and E Vail Ave | 0 |
 | [96301](https://precinct.netpress.com/#39-96301) | Pixley Slough, Disappointment Slough | 0 |
 | [96302](https://precinct.netpress.com/#39-96302) | French Camp; W Howard Rd, S J Co Sheriffs Facility | 2 |
 | [96303](https://precinct.netpress.com/#39-96303) | Endow Rd, W Sneed Rd, Bright Rd | 58 |
 | [96304](https://precinct.netpress.com/#39-96304) | W Ott Rd, Howard Rd, Bowman Rd | 34 |
 | [96401](https://precinct.netpress.com/#39-96401) | N Wimer Rd, E Wimer Rd | 5 |
 | [96402](https://precinct.netpress.com/#39-96402) | N Shelton Rd | 3 |
-| [96403](https://precinct.netpress.com/#39-96403) |  | 0 |
-| [96404](https://precinct.netpress.com/#39-96404) |  | 30 |
+| [96403](https://precinct.netpress.com/#39-96403) | Near Highway 4 | 0 |
+| [96404](https://precinct.netpress.com/#39-96404) | Along Drais Rd | 30 |
 | [96405](https://precinct.netpress.com/#39-96405) | Mobley Rd | 0 |
 | [96406](https://precinct.netpress.com/#39-96406) | Gawne Rd, Escalon Bellota Rd | 9 |
-| [96407](https://precinct.netpress.com/#39-96407) |  | 2 |
+| [96407](https://precinct.netpress.com/#39-96407) | Near S Henry Rd | 2 |
 | [96408](https://precinct.netpress.com/#39-96408) | S Henry Rd, E Sonora Rd | 11 |
 | [96409](https://precinct.netpress.com/#39-96409) | Carter Rd, Co Hwy J6, Dodds Rd | 16 |
 | [96410](https://precinct.netpress.com/#39-96410) | Farmington; Via Casilina Pkwy, Via Carano Pl | 20 |
@@ -1146,16 +1146,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [96413](https://precinct.netpress.com/#39-96413) | E Louise Ave, Louise Ave | 17 |
 | [96414](https://precinct.netpress.com/#39-96414) | N Davis Rd | 52 |
 | [96415](https://precinct.netpress.com/#39-96415) | Kristen Ct, E Tehama Dr, Tehama Dr | 46 |
-| [96416](https://precinct.netpress.com/#39-96416) |  | 12 |
+| [96416](https://precinct.netpress.com/#39-96416) | Near E Harney Ln | 12 |
 | [96417](https://precinct.netpress.com/#39-96417) | N Extension Rd | 42 |
 | [96418](https://precinct.netpress.com/#39-96418) | N Extension Ct | 0 |
 | [96419](https://precinct.netpress.com/#39-96419) | Armstrong Rd, N Lower Sacramento Rd | 33 |
 | [96420](https://precinct.netpress.com/#39-96420) | E Eight Mile Rd, N West Ln | 4 |
 | [96421](https://precinct.netpress.com/#39-96421) | N West Ln, Mettler Rd | 26 |
-| [96422](https://precinct.netpress.com/#39-96422) |  | 18 |
+| [96422](https://precinct.netpress.com/#39-96422) | Along Mettler Rd | 18 |
 | [96423](https://precinct.netpress.com/#39-96423) | Beaver Slough, N Lamb Rd, W Walnut Grove Rd | 98 |
 | [96424](https://precinct.netpress.com/#39-96424) | Thornton; Kile Rd | 6 |
-| [96425](https://precinct.netpress.com/#39-96425) |  | 0 |
+| [96425](https://precinct.netpress.com/#39-96425) | Near Koontz | 0 |
 | [96426](https://precinct.netpress.com/#39-96426) | Kile Rd, Beaver Slough, Mokelumne River | 3 |
 | [96427](https://precinct.netpress.com/#39-96427) | N Thornton Rd, Kile Rd, Thornton Rd | 8 |
 | [96428](https://precinct.netpress.com/#39-96428) | N Gogna Rd, Fanning Rd, N Jack Tone Rd | 35 |
@@ -1169,10 +1169,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [96436](https://precinct.netpress.com/#39-96436) | Baker Rd, E Eight Mile Rd, Comstock Rd | 97 |
 | [96501](https://precinct.netpress.com/#39-96501) | Spring Creek Dr, S Pebble Beach Ln, E Milgeo Ave | 61 |
 | [96502](https://precinct.netpress.com/#39-96502) | S Tracy Blvd | 0 |
-| [96503](https://precinct.netpress.com/#39-96503) |  | 0 |
-| [96504](https://precinct.netpress.com/#39-96504) |  | 4 |
+| [96503](https://precinct.netpress.com/#39-96503) | Along S Macarthur Dr | 0 |
+| [96504](https://precinct.netpress.com/#39-96504) | Near W Linne Rd | 4 |
 | [96505](https://precinct.netpress.com/#39-96505) | S Macarthur Dr | 46 |
-| [96506](https://precinct.netpress.com/#39-96506) |  | 9 |
+| [96506](https://precinct.netpress.com/#39-96506) | Near S Banta Rd | 9 |
 | [96507](https://precinct.netpress.com/#39-96507) | S Tinnin Rd, S Manteca Rd, W Ripon Rd | 37 |
 | [96508](https://precinct.netpress.com/#39-96508) | Brady Rd, S Manteca Rd, Melton Rd | 19 |
 | [96509](https://precinct.netpress.com/#39-96509) | Brady Rd, Melton Rd | 7 |
@@ -1182,7 +1182,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [99401](https://precinct.netpress.com/#39-99401) | Woodbridge and Lodi; Mokelumne St, Cypress Run | 890 |
 | [99402](https://precinct.netpress.com/#39-99402) | Woodbridge; Mokelumne River | 0 |
 | [99403](https://precinct.netpress.com/#39-99403) | Hilde Ln, S Lower Sacramento Rd | 23 |
-| [99404](https://precinct.netpress.com/#39-99404) |  | 0 |
+| [99404](https://precinct.netpress.com/#39-99404) | Near N Thornton Rd | 0 |
 | [99405](https://precinct.netpress.com/#39-99405) | N Thornton Rd, Thornton Rd, Royal Rd | 18 |
 | [99406](https://precinct.netpress.com/#39-99406) | N Extension Ct, Springer Ln, N Extension Rd | 39 |
 | [99407](https://precinct.netpress.com/#39-99407) | Paved Dr, Westgate Dr | 20 |

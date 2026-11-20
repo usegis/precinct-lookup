@@ -14,25 +14,25 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2000](https://precinct.netpress.com/#56-2000) | School Canyon Rd, Sanjon Barranca Rd, Ventura River Trail (Ojai Valley Trail Extension) | 1 |
 | [2001](https://precinct.netpress.com/#56-2001) | North Ventura Avenue; Shell Rd E, N Ventura Ave | 24 |
 | [2002](https://precinct.netpress.com/#56-2002) | Fire Rd, Crimea St | 0 |
-| [2003](https://precinct.netpress.com/#56-2003) |  | 4 |
+| [2003](https://precinct.netpress.com/#56-2003) | Near N Ventura Ave | 4 |
 | [3000](https://precinct.netpress.com/#56-3000) | Stump Rd, S Sespe St, San Cayetano St | 319 |
 | [3001](https://precinct.netpress.com/#56-3001) | Hardnego Rd, Armstrong Rd, Balcom Canyon Rd | 8 |
 | [3002](https://precinct.netpress.com/#56-3002) | E Guiberson Rd, Jeep Trl, Cavin Rd | 8 |
 | [3003](https://precinct.netpress.com/#56-3003) | Loftus Canyon Rd, Glanville Rd, Arbolita Ranch Rd | 66 |
 | [3006](https://precinct.netpress.com/#56-3006) | Saviers Rd | 0 |
-| [3007](https://precinct.netpress.com/#56-3007) |  | 1 |
+| [3007](https://precinct.netpress.com/#56-3007) | Near Saviers Rd | 1 |
 | [3012](https://precinct.netpress.com/#56-3012) | Cavin Rd | 3 |
 | [4000](https://precinct.netpress.com/#56-4000) | Lingdooley Ranch, Wheeler Canyon Rd, Todd Barranca | 7 |
-| [4001](https://precinct.netpress.com/#56-4001) |  | 2 |
+| [4001](https://precinct.netpress.com/#56-4001) | Along Aliso Canyon Rd | 2 |
 | [4002](https://precinct.netpress.com/#56-4002) | Hampton Canyon Rd, Wheeler Canyon Rd, Todd Barranca | 59 |
 | [4003](https://precinct.netpress.com/#56-4003) | Adams Canyon Rd, Salt Marsh Rd, Lingdooley Ranch Rd | 0 |
 | [4004](https://precinct.netpress.com/#56-4004) | Rancho Filosi, Dickenson Rd, Cemetery Rd | 7 |
 | [4007](https://precinct.netpress.com/#56-4007) | Happy Talk Ranch Rd, Ohara Canyon Rd, Adams Canyon Rd | 3 |
-| [4009](https://precinct.netpress.com/#56-4009) |  | 0 |
+| [4009](https://precinct.netpress.com/#56-4009) | Near Adams Canyon Rd | 0 |
 | [4010](https://precinct.netpress.com/#56-4010) | Pine Rd, Foothill Rd, Aguacate Loop | 139 |
 | [4011](https://precinct.netpress.com/#56-4011) | Willoughby Rd, (Does Not Exist), Lingdooley Ranch Rd | 66 |
 | [4100](https://precinct.netpress.com/#56-4100) | Orchard Ln, Santa Paula St, Cummings Rd | 156 |
-| [4102](https://precinct.netpress.com/#56-4102) |  | 2 |
+| [4102](https://precinct.netpress.com/#56-4102) | Along Dickenson Rd and Cemetery Rd | 2 |
 | [4103](https://precinct.netpress.com/#56-4103) | Shell Rd, Mission Rock Rd, Pinkerton Rd | 136 |
 | [4104](https://precinct.netpress.com/#56-4104) | Olive Rd, Ranch Rd, Santa Paula St | 0 |
 | [4105](https://precinct.netpress.com/#56-4105) | Middle Rd, W Santa Paula St, Santa Paula St | 105 |
@@ -42,7 +42,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5002](https://precinct.netpress.com/#56-5002) | Big Sycamore Canyon Rd, Ranch Center Rd, Rosewood Ave | 4 |
 | [5003](https://precinct.netpress.com/#56-5003) | Howard Rd, W Potrero Rd, Pancho Rd | 16 |
 | [5004](https://precinct.netpress.com/#56-5004) | Terry Rd, W Potrero Rd | 4 |
-| [5006](https://precinct.netpress.com/#56-5006) |  | 0 |
+| [5006](https://precinct.netpress.com/#56-5006) | Along W Potrero Rd | 0 |
 | [5007](https://precinct.netpress.com/#56-5007) | Oak Grove Fire Rd, Hartman Dr, Camarillo Springs Rd | 9 |
 | [5008](https://precinct.netpress.com/#56-5008) | Rosita Rd | 11 |
 | [5009](https://precinct.netpress.com/#56-5009) | Calleguas Ln | 0 |
@@ -53,7 +53,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5304](https://precinct.netpress.com/#56-5304) | S Las Posas Rd, Highway 34, Pleasant Valley Rd | 5 |
 | [5305](https://precinct.netpress.com/#56-5305) | Hueneme Rd, Las Posas Rd, Laguna Rd | 3 |
 | [5307](https://precinct.netpress.com/#56-5307) | Cawelti Rd, Highway 34 | 22 |
-| [5308](https://precinct.netpress.com/#56-5308) |  | 0 |
+| [5308](https://precinct.netpress.com/#56-5308) | Along S Las Posas Rd and Cawelti Rd | 0 |
 | [5309](https://precinct.netpress.com/#56-5309) | Cawelti Rd | 0 |
 | [5310](https://precinct.netpress.com/#56-5310) | S Lewis Rd | 7 |
 | [5311](https://precinct.netpress.com/#56-5311) | Old Dairy Rd, Creek Rd, S Lewis Rd | 6 |
@@ -77,7 +77,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [6917](https://precinct.netpress.com/#56-6917) | Howard Rd, Pancho Rd | 4 |
 | [6918](https://precinct.netpress.com/#56-6918) | Camarillo; Antonio Ave, Antonio Dr | 1 |
 | [6919](https://precinct.netpress.com/#56-6919) | Camarillo; Encino Ave, Menta Ln | 77 |
-| [6920](https://precinct.netpress.com/#56-6920) |  | 0 |
+| [6920](https://precinct.netpress.com/#56-6920) | Along Cam Alvarez | 0 |
 | [6921](https://precinct.netpress.com/#56-6921) | Camarillo; Armitos Dr, Cll Dia | 877 |
 | [6922](https://precinct.netpress.com/#56-6922) | Camarillo; Felicia St, Hidalgo St | 682 |
 | [6923](https://precinct.netpress.com/#56-6923) | Camarillo; Ave Encanto, Otono Ct | 177 |
@@ -132,7 +132,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7042](https://precinct.netpress.com/#56-7042) | Camarillo; Ramona Dr, Mariano St | 67 |
 | [7043](https://precinct.netpress.com/#56-7043) | Camarillo; Cll de Marejada, Corte Campanero | 52 |
 | [7044](https://precinct.netpress.com/#56-7044) | Camarillo; Willis Ave, Durley Ave | 34 |
-| [7045](https://precinct.netpress.com/#56-7045) |  | 2 |
+| [7045](https://precinct.netpress.com/#56-7045) | Camarillo; near Ramona Dr | 2 |
 | [7046](https://precinct.netpress.com/#56-7046) | Camarillo; Hillridge Dr, La Culebra Cir | 528 |
 | [7047](https://precinct.netpress.com/#56-7047) | Camarillo | 3 |
 | [7048](https://precinct.netpress.com/#56-7048) | Camarillo; Dawson Dr, Cll San Pablo | 12 |
@@ -163,7 +163,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7078](https://precinct.netpress.com/#56-7078) | Camarillo; Appletree Ave, Bent Twig Ave | 910 |
 | [8000](https://precinct.netpress.com/#56-8000) | Ojai Valley Trl, Park View Dr, Ventura River | 53 |
 | [8001](https://precinct.netpress.com/#56-8001) | Oak View; Camp Willett Rd, Fraser St | 45 |
-| [8002](https://precinct.netpress.com/#56-8002) |  | 4 |
+| [8002](https://precinct.netpress.com/#56-8002) | Near N Ventura Ave | 4 |
 | [8003](https://precinct.netpress.com/#56-8003) | Camp Willet Rd | 18 |
 | [8004](https://precinct.netpress.com/#56-8004) | (Dirt Road), Oak Knoll Rd, Encino Dr | 13 |
 | [8005](https://precinct.netpress.com/#56-8005) | Casitas Vista Rd, Ventura River, Santa Ana Rd | 194 |
@@ -171,27 +171,27 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [8007](https://precinct.netpress.com/#56-8007) | Edison Dr, Ranch Rd, Highway 33 | 74 |
 | [8008](https://precinct.netpress.com/#56-8008) | Nye Rd, Brock Ln, Highway 33 | 267 |
 | [8009](https://precinct.netpress.com/#56-8009) | Nye Rd | 10 |
-| [8010](https://precinct.netpress.com/#56-8010) |  | 5 |
-| [8011](https://precinct.netpress.com/#56-8011) |  | 8 |
-| [8012](https://precinct.netpress.com/#56-8012) |  | 1 |
-| [8013](https://precinct.netpress.com/#56-8013) |  | 3 |
-| [8015](https://precinct.netpress.com/#56-8015) |  | 2 |
-| [8016](https://precinct.netpress.com/#56-8016) |  | 10 |
-| [8017](https://precinct.netpress.com/#56-8017) |  | 20 |
-| [8018](https://precinct.netpress.com/#56-8018) |  | 10 |
+| [8010](https://precinct.netpress.com/#56-8010) | Near N Ventura Ave | 5 |
+| [8011](https://precinct.netpress.com/#56-8011) | Near N Ventura Ave | 8 |
+| [8012](https://precinct.netpress.com/#56-8012) | Along Ranch Rd | 1 |
+| [8013](https://precinct.netpress.com/#56-8013) | Near Edison Dr | 3 |
+| [8015](https://precinct.netpress.com/#56-8015) | Near Edison Dr | 2 |
+| [8016](https://precinct.netpress.com/#56-8016) | Near N Ventura Ave | 10 |
+| [8017](https://precinct.netpress.com/#56-8017) | Along Ranch Rd | 20 |
+| [8018](https://precinct.netpress.com/#56-8018) | Near N Ventura Ave | 10 |
 | [8020](https://precinct.netpress.com/#56-8020) | Fraser Rd, Fraser Ln | 0 |
 | [8021](https://precinct.netpress.com/#56-8021) | Mobil Ln, Mobile Ln, Ventura River | 42 |
-| [8022](https://precinct.netpress.com/#56-8022) | E Old Creek Rd, Old Creek Rd, Sulphur Mountain Rd, Highway 33 | 14 |
+| [8022](https://precinct.netpress.com/#56-8022) | E Old Creek Rd, Old Creek Rd, Sulphur Mountain Rd | 14 |
 | [8023](https://precinct.netpress.com/#56-8023) | E Old Creek Rd, Old Creek Rd | 6 |
-| [8026](https://precinct.netpress.com/#56-8026) |  | 2 |
+| [8026](https://precinct.netpress.com/#56-8026) | Oak View; near Creek Rd | 2 |
 | [8027](https://precinct.netpress.com/#56-8027) | Sulphur Mountain Rd, Camp Willet Rd, Creek Rd | 40 |
-| [8028](https://precinct.netpress.com/#56-8028) |  | 6 |
+| [8028](https://precinct.netpress.com/#56-8028) | Near Creek Rd | 6 |
 | [8029](https://precinct.netpress.com/#56-8029) | Oak View; Oak Knoll Dr, Oak Knoll Rd | 40 |
-| [8030](https://precinct.netpress.com/#56-8030) | E Old Creek Rd, Old Creek Rd, Sulphur Mountain Rd, Spring St | 28 |
+| [8030](https://precinct.netpress.com/#56-8030) | E Old Creek Rd, Old Creek Rd, Sulphur Mountain Rd | 28 |
 | [8031](https://precinct.netpress.com/#56-8031) | Oak View; Fraser Ln, Osage Ave | 1 |
 | [8032](https://precinct.netpress.com/#56-8032) | Canada de Alisos Rd, Coche Canyon Rd, Sulphur Canyon Rd | 3 |
-| [8033](https://precinct.netpress.com/#56-8033) |  | 5 |
-| [9000](https://precinct.netpress.com/#56-9000) |  | 0 |
+| [8033](https://precinct.netpress.com/#56-8033) | Near Casitas Vista Rd | 5 |
+| [9000](https://precinct.netpress.com/#56-9000) | Along Central Ave and Ave de Aprisa | 0 |
 | [9002](https://precinct.netpress.com/#56-9002) | Beardsley Rd, Ave de Autlan | 0 |
 | [10100](https://precinct.netpress.com/#56-10100) | E Center Rd, E La Loma Ave, Milligen Rd | 57 |
 | [10200](https://precinct.netpress.com/#56-10200) | W Mountain Rd, Skywalker Dr, Clubhouse Dr | 144 |
@@ -207,14 +207,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11000](https://precinct.netpress.com/#56-11000) | Thacher Rd, McNell Rd, Hermitage Rd | 797 |
 | [11001](https://precinct.netpress.com/#56-11001) | Black Mountain Fire Rd, Tower Dr, Reeves Rd | 268 |
 | [11002](https://precinct.netpress.com/#56-11002) | Reeves Rd, Fuel Break Rd, Topa Topa Ranch Rd | 8 |
-| [11003](https://precinct.netpress.com/#56-11003) |  | 2 |
+| [11003](https://precinct.netpress.com/#56-11003) | Along Grand Ave | 2 |
 | [11004](https://precinct.netpress.com/#56-11004) | Upper Hartman Ranch Rd, Sespe Creek, Gypsum Mine Rd | 2 |
 | [11005](https://precinct.netpress.com/#56-11005) | Ojai; Gorham Rd, Grand Ave | 2 |
 | [11006](https://precinct.netpress.com/#56-11006) | Amber Ln, Country Club Dr, Oak Dr | 13 |
 | [11007](https://precinct.netpress.com/#56-11007) | Oak Dr | 4 |
 | [11008](https://precinct.netpress.com/#56-11008) | Creek Ln, Amber Ln, Ventura St | 11 |
 | [11009](https://precinct.netpress.com/#56-11009) | Ave de la Entrada | 17 |
-| [11010](https://precinct.netpress.com/#56-11010) |  | 5 |
+| [11010](https://precinct.netpress.com/#56-11010) | Along Boardman Rd | 5 |
 | [11011](https://precinct.netpress.com/#56-11011) | Largomarsino Ranch, Gridley Rd | 6 |
 | [11012](https://precinct.netpress.com/#56-11012) | Rose Valley Rd, Sespe River Rd, Rose Valley Lake Rd | 8 |
 | [11013](https://precinct.netpress.com/#56-11013) | (Forest Service Only), Nordhoff Ridge Rd, Sisar Canyon Rd | 0 |
@@ -239,7 +239,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [13007](https://precinct.netpress.com/#56-13007) | Fillmore; Heritage Valley Pkwy, Edgewood Dr | 728 |
 | [13008](https://precinct.netpress.com/#56-13008) | Fillmore; Blaine Ave, Chapparral St | 757 |
 | [13009](https://precinct.netpress.com/#56-13009) | Fillmore; Island View St, Elkins Ln | 261 |
-| [13010](https://precinct.netpress.com/#56-13010) | Fillmore; Clay St, Saratoga St, Fillmore St | 310 |
+| [13010](https://precinct.netpress.com/#56-13010) | Fillmore; Clay St, Saratoga St | 310 |
 | [13012](https://precinct.netpress.com/#56-13012) | Fillmore; Del Valle Dr, McCampbell St | 471 |
 | [13013](https://precinct.netpress.com/#56-13013) | Fillmore; Burlington, Santa Fe St | 511 |
 | [13014](https://precinct.netpress.com/#56-13014) | Fillmore; Arborwood St, River St | 657 |
@@ -249,12 +249,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [13018](https://precinct.netpress.com/#56-13018) | Fillmore; River St, E St | 71 |
 | [13019](https://precinct.netpress.com/#56-13019) | Fillmore; Surrey Way, Dunton Ln | 252 |
 | [13020](https://precinct.netpress.com/#56-13020) | Fillmore; Santa Clara St, Santa Clara Ave | 7 |
-| [13021](https://precinct.netpress.com/#56-13021) | Fillmore; Clay St, Saratoga St, Bard St | 656 |
+| [13021](https://precinct.netpress.com/#56-13021) | Fillmore; Clay St, Saratoga St | 656 |
 | [13022](https://precinct.netpress.com/#56-13022) | Fillmore; Cook Dr, Mountain View St | 504 |
-| [14000](https://precinct.netpress.com/#56-14000) | Santa Rosa Valley | 0 |
-| [14001](https://precinct.netpress.com/#56-14001) |  | 0 |
+| [14000](https://precinct.netpress.com/#56-14000) | Santa Rosa Valley; along Presilla Rd | 0 |
+| [14001](https://precinct.netpress.com/#56-14001) | Along Presilla Rd and Presillo Rd | 0 |
 | [14002](https://precinct.netpress.com/#56-14002) | Santa Rosa Valley; Presilla Rd | 3 |
-| [14004](https://precinct.netpress.com/#56-14004) | Santa Rosa Valley | 2 |
+| [14004](https://precinct.netpress.com/#56-14004) | Santa Rosa Valley; along Nido Cir | 2 |
 | [14100](https://precinct.netpress.com/#56-14100) | Highway 23 | 0 |
 | [14101](https://precinct.netpress.com/#56-14101) | Waters Rd, Shekell Rd, Highway 23 | 54 |
 | [14102](https://precinct.netpress.com/#56-14102) | Skyline Rd, Shekell Rd, Waynes Rd | 2 |
@@ -270,15 +270,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [14207](https://precinct.netpress.com/#56-14207) | Moorpark; Rifleman Dr, Grimes Canyon Rd | 11 |
 | [14208](https://precinct.netpress.com/#56-14208) | Stockton Rd | 6 |
 | [14209](https://precinct.netpress.com/#56-14209) | Ridgemoor Dr, Saint Maarten Dr, Greenridge Dr | 38 |
-| [14210](https://precinct.netpress.com/#56-14210) |  | 2 |
+| [14210](https://precinct.netpress.com/#56-14210) | Near Citrus Dr | 2 |
 | [14211](https://precinct.netpress.com/#56-14211) | Hitch Blvd | 0 |
 | [14213](https://precinct.netpress.com/#56-14213) | Brennan Rd | 0 |
 | [14217](https://precinct.netpress.com/#56-14217) | Cerzanne, Ternez Dr, Ventavo Rd | 6 |
 | [14218](https://precinct.netpress.com/#56-14218) | Arroyo Simi River, Highway 118 | 0 |
 | [14219](https://precinct.netpress.com/#56-14219) | Cerzanne, Presilla Rd | 15 |
-| [14220](https://precinct.netpress.com/#56-14220) |  | 0 |
+| [14220](https://precinct.netpress.com/#56-14220) | Along Happy Camp Rd and Saviers Rd | 0 |
 | [14222](https://precinct.netpress.com/#56-14222) | Shekell Rd, Broadway Rd | 14 |
-| [14223](https://precinct.netpress.com/#56-14223) |  | 0 |
+| [14223](https://precinct.netpress.com/#56-14223) | Near Montair Dr | 0 |
 | [14227](https://precinct.netpress.com/#56-14227) | Tierra Rejada Rd | 4 |
 | [15000](https://precinct.netpress.com/#56-15000) | Fillmore; Haines Canyon Rd, Texico Rd | 28 |
 | [15001](https://precinct.netpress.com/#56-15001) | Cavin Rd, Lawton Ranch Rd | 4 |
@@ -286,7 +286,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [15003](https://precinct.netpress.com/#56-15003) | Trestle Way, Highway 126 | 12 |
 | [15004](https://precinct.netpress.com/#56-15004) | Fillmore; Goodenough Rd, Squaw Flat Rd | 55 |
 | [15005](https://precinct.netpress.com/#56-15005) | Lawton Ranch Rd, S&j Ranch Rd, Cavin Rd | 8 |
-| [15006](https://precinct.netpress.com/#56-15006) |  | 1 |
+| [15006](https://precinct.netpress.com/#56-15006) | Along Highway 23 and Chambersburg Rd | 1 |
 | [18000](https://precinct.netpress.com/#56-18000) | E Highland Dr, W Highland Dr, E Ocean View Dr | 837 |
 | [18001](https://precinct.netpress.com/#56-18001) | Camarillo; W Loop Dr, Mesa Dr | 1,088 |
 | [18002](https://precinct.netpress.com/#56-18002) | Gardenia Ave, Lantana St, Tamarix St | 224 |
@@ -298,7 +298,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [26000](https://precinct.netpress.com/#56-26000) | Bell Canyon; Dapplegray Rd, Bell Canyon Rd | 786 |
 | [26001](https://precinct.netpress.com/#56-26001) | Bell Canyon; Saddlebow Rd, Ranchero Rd | 702 |
 | [27000](https://precinct.netpress.com/#56-27000) | Milligan Barranca Rd, Price Rd, Hondo Barranca Rd | 98 |
-| [27001](https://precinct.netpress.com/#56-27001) |  | 0 |
+| [27001](https://precinct.netpress.com/#56-27001) | Near Marine View Dr | 0 |
 | [27002](https://precinct.netpress.com/#56-27002) | Estaban Dr, Cerro Crest Dr, Alviso Dr | 668 |
 | [27003](https://precinct.netpress.com/#56-27003) | Trueno Ave, Old Coach Dr, Goldenspur Dr | 99 |
 | [27005](https://precinct.netpress.com/#56-27005) | Garrido Dr, Garrido Ct, Valley Vista Dr | 106 |
@@ -311,10 +311,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [28000](https://precinct.netpress.com/#56-28000) | Oak View; Riverside Rd, Rockaway Rd | 303 |
 | [28001](https://precinct.netpress.com/#56-28001) | Oak View | 0 |
 | [28002](https://precinct.netpress.com/#56-28002) | Oak View; Grapevine Rd, Santa Ana Blvd | 169 |
-| [28003](https://precinct.netpress.com/#56-28003) | Oak View | 3 |
+| [28003](https://precinct.netpress.com/#56-28003) | Oak View; along Riverside Rd | 3 |
 | [28004](https://precinct.netpress.com/#56-28004) | Newman Ranch Rd, Santa Ana Rd | 0 |
-| [28006](https://precinct.netpress.com/#56-28006) | Oak View | 12 |
-| [28007](https://precinct.netpress.com/#56-28007) |  | 14 |
+| [28006](https://precinct.netpress.com/#56-28006) | Oak View; along Santa Ana Blvd | 12 |
+| [28007](https://precinct.netpress.com/#56-28007) | Oak View; near Riverside Rd | 14 |
 | [28008](https://precinct.netpress.com/#56-28008) | Oak View; Burnham Rd, Rockaway Rd | 110 |
 | [31000](https://precinct.netpress.com/#56-31000) | Frazier Mountain Rd, Lockwood Valley Rd, Seymour Canyon Rd | 153 |
 | [31002](https://precinct.netpress.com/#56-31002) | Piru Canyon Rd, Piru Lake, Canton Canyon Trl | 3 |
@@ -335,24 +335,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [34014](https://precinct.netpress.com/#56-34014) | Meiners Oaks | 13 |
 | [34015](https://precinct.netpress.com/#56-34015) | Meiners Oaks; Foothill Trl | 4 |
 | [34017](https://precinct.netpress.com/#56-34017) | Meiners Oaks; N Signal St, Signal St | 11 |
-| [34018](https://precinct.netpress.com/#56-34018) |  | 2 |
-| [34019](https://precinct.netpress.com/#56-34019) |  | 1 |
+| [34018](https://precinct.netpress.com/#56-34018) | Meiners Oaks; near Del Oro Dr | 2 |
+| [34019](https://precinct.netpress.com/#56-34019) | Near Foothill Trl | 1 |
 | [34020](https://precinct.netpress.com/#56-34020) | Rancho Dr | 3 |
 | [34021](https://precinct.netpress.com/#56-34021) | Meiners Oaks; Farnham Rd, Foothill Trl | 198 |
-| [34024](https://precinct.netpress.com/#56-34024) |  | 5 |
+| [34024](https://precinct.netpress.com/#56-34024) | Along Cuyama Rd and Verano Dr | 5 |
 | [34025](https://precinct.netpress.com/#56-34025) | Foothill Rd | 0 |
 | [34030](https://precinct.netpress.com/#56-34030) | Cozy Ojai Rd, Gridley Rd, Foothill Rd | 0 |
 | [34031](https://precinct.netpress.com/#56-34031) | Fairview Rd, Meiners Rd | 1 |
-| [34032](https://precinct.netpress.com/#56-34032) |  | 2 |
-| [34033](https://precinct.netpress.com/#56-34033) |  | 1 |
+| [34032](https://precinct.netpress.com/#56-34032) | Ojai; near Cuyama Rd | 2 |
+| [34033](https://precinct.netpress.com/#56-34033) | Along Cuyama Rd | 1 |
 | [35000](https://precinct.netpress.com/#56-35000) | Meiners Oaks; S La Luna Ave, El Plano Dr | 252 |
 | [35001](https://precinct.netpress.com/#56-35001) | Meiners Oaks; N Poli St, N Arnaz St | 850 |
 | [35002](https://precinct.netpress.com/#56-35002) | Mira Monte; Oso Rd | 75 |
 | [35003](https://precinct.netpress.com/#56-35003) | Meiners Oaks and Mira Monte; E El Roblar Dr, S Lomita Ave | 188 |
 | [35004](https://precinct.netpress.com/#56-35004) | Meiners Oaks; N La Luna Ave, Devereaux St | 246 |
 | [35006](https://precinct.netpress.com/#56-35006) | Meiners Oaks; N Rice Rd | 5 |
-| [35007](https://precinct.netpress.com/#56-35007) |  | 2 |
-| [35008](https://precinct.netpress.com/#56-35008) |  | 1 |
+| [35007](https://precinct.netpress.com/#56-35007) | Mira Monte; near Tico Rd | 2 |
+| [35008](https://precinct.netpress.com/#56-35008) | Mira Monte; near Tico Rd | 1 |
 | [35010](https://precinct.netpress.com/#56-35010) | Tico Rd | 3 |
 | [35012](https://precinct.netpress.com/#56-35012) | Meiners Oaks; N Rice Rd | 39 |
 | [35013](https://precinct.netpress.com/#56-35013) | Meiners Oaks; Ash Ln, N Lomita Ave | 360 |
@@ -360,8 +360,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [35015](https://precinct.netpress.com/#56-35015) | Meiners Oaks; S Padre Juan Ave, S Pueblo Ave | 87 |
 | [35016](https://precinct.netpress.com/#56-35016) | Meiners Oaks; W Lomita Ave, Tico Rd | 12 |
 | [35017](https://precinct.netpress.com/#56-35017) | Mira Monte; Meyers Rd, Meyer Rd | 26 |
-| [35018](https://precinct.netpress.com/#56-35018) |  | 1 |
-| [35019](https://precinct.netpress.com/#56-35019) |  | 0 |
+| [35018](https://precinct.netpress.com/#56-35018) | Mira Monte; near N Rice Rd | 1 |
+| [35019](https://precinct.netpress.com/#56-35019) | Along Besant Rd | 0 |
 | [36000](https://precinct.netpress.com/#56-36000) | North Ventura Avenue; Canada Larga Rd, Manuel Canyon Rd | 543 |
 | [36001](https://precinct.netpress.com/#56-36001) | North Ventura Avenue; Los Cabos Ln, Encino Ln | 787 |
 | [36002](https://precinct.netpress.com/#56-36002) | North Ventura Avenue; N Ventura Ave, Crooked Palm Rd | 4 |
@@ -373,8 +373,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [37002](https://precinct.netpress.com/#56-37002) | Aliso Canyon Rd | 15 |
 | [37003](https://precinct.netpress.com/#56-37003) | Willoughby Rd, Aliso Canyon Rd, (Does Not Exist) | 8 |
 | [37004](https://precinct.netpress.com/#56-37004) | Aliso Canyon Rd | 2 |
-| [37005](https://precinct.netpress.com/#56-37005) | San Buenaventura (Ventura) | 2 |
-| [37006](https://precinct.netpress.com/#56-37006) |  | 0 |
+| [37005](https://precinct.netpress.com/#56-37005) | San Buenaventura (Ventura); along N Saticoy Ave | 2 |
+| [37006](https://precinct.netpress.com/#56-37006) | Along Foothill Rd | 0 |
 | [37100](https://precinct.netpress.com/#56-37100) | Foothill Rd | 73 |
 | [38001](https://precinct.netpress.com/#56-38001) | Bristol Rd, Ramelli Ave, Santa Clara River | 1 |
 | [38003](https://precinct.netpress.com/#56-38003) | San Buenaventura (Ventura); Olivas Park Dr, Victoria Ave | 3 |
@@ -417,20 +417,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [39037](https://precinct.netpress.com/#56-39037) | Moorpark; Laurelhurst Rd, Bear Valley Rd | 883 |
 | [39038](https://precinct.netpress.com/#56-39038) | Moorpark; Countrymeadow St, Deermeadow St | 899 |
 | [40001](https://precinct.netpress.com/#56-40001) | San Buenaventura (Ventura); Barlow Canyon Trl, Sexton Canyon Rd | 34 |
-| [40003](https://precinct.netpress.com/#56-40003) |  | 0 |
+| [40003](https://precinct.netpress.com/#56-40003) | Along N Hill Rd | 0 |
 | [40004](https://precinct.netpress.com/#56-40004) | Cross Ln, Barranca Ave, Limoneria Ave | 17 |
 | [40150](https://precinct.netpress.com/#56-40150) | Oxnard; Perimeter Rd, Mugu Lagoon | 256 |
 | [41000](https://precinct.netpress.com/#56-41000) | Rafferty Rd | 6 |
 | [41002](https://precinct.netpress.com/#56-41002) | Orcutt Canyon Rd, Pine Grove Rd, Anlauf Canyon Rd | 159 |
-| [41004](https://precinct.netpress.com/#56-41004) |  | 32 |
-| [41005](https://precinct.netpress.com/#56-41005) |  | 7 |
-| [41006](https://precinct.netpress.com/#56-41006) |  | 14 |
+| [41004](https://precinct.netpress.com/#56-41004) | Santa Paula; near N Ojai Rd | 32 |
+| [41005](https://precinct.netpress.com/#56-41005) | Near Highway 150 | 7 |
+| [41006](https://precinct.netpress.com/#56-41006) | Near Highway 150 | 14 |
 | [42000](https://precinct.netpress.com/#56-42000) | Fair Weather Xing | 10 |
-| [42001](https://precinct.netpress.com/#56-42001) |  | 5 |
-| [42002](https://precinct.netpress.com/#56-42002) |  | 2 |
+| [42001](https://precinct.netpress.com/#56-42001) | Near N Ojai Rd | 5 |
+| [42002](https://precinct.netpress.com/#56-42002) | Along Amber Dr | 2 |
 | [43000](https://precinct.netpress.com/#56-43000) | Nyeland Acres and Oxnard; Nyland Ave, Nyeland Ave | 794 |
-| [43001](https://precinct.netpress.com/#56-43001) |  | 1 |
-| [43002](https://precinct.netpress.com/#56-43002) |  | 0 |
+| [43001](https://precinct.netpress.com/#56-43001) | Along Santa Clara Ave and Friedrich Rd | 1 |
+| [43002](https://precinct.netpress.com/#56-43002) | Near Ventura Blvd | 0 |
 | [44000](https://precinct.netpress.com/#56-44000) | Oak Park; Oak Hills Dr, Conifer Cir | 552 |
 | [44001](https://precinct.netpress.com/#56-44001) | Oak Park; Conifer St, Sunny Vista Ave | 545 |
 | [44002](https://precinct.netpress.com/#56-44002) | Las Virgines Canyon, Crummer Ranch Rd, Cheeseboro Rd | 0 |
@@ -455,14 +455,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [45003](https://precinct.netpress.com/#56-45003) | Oak View; Monte Via, Rio Via | 134 |
 | [45004](https://precinct.netpress.com/#56-45004) | Oak View; E Oak View Ave, Old Ventura Ave | 514 |
 | [45005](https://precinct.netpress.com/#56-45005) | Oak View; Almond Ave, Alto Ct | 604 |
-| [45007](https://precinct.netpress.com/#56-45007) | Oak View | 2 |
+| [45007](https://precinct.netpress.com/#56-45007) | Oak View; along Verde Oak Dr | 2 |
 | [45008](https://precinct.netpress.com/#56-45008) | Highway 33 | 1 |
-| [45009](https://precinct.netpress.com/#56-45009) | Oak View | 20 |
+| [45009](https://precinct.netpress.com/#56-45009) | Oak View; along N Ventura Ave | 20 |
 | [45010](https://precinct.netpress.com/#56-45010) | Mira Monte; Valley Ridge St, Willey St | 163 |
 | [45011](https://precinct.netpress.com/#56-45011) | Mira Monte and Oak View; Oakcrest Ave, Highway 33 | 59 |
 | [45012](https://precinct.netpress.com/#56-45012) | Oak View; Creek Rd, Portal St | 85 |
 | [45013](https://precinct.netpress.com/#56-45013) | Puesta del Sol | 25 |
-| [45014](https://precinct.netpress.com/#56-45014) |  | 1 |
+| [45014](https://precinct.netpress.com/#56-45014) | Along Portal St | 1 |
 | [45015](https://precinct.netpress.com/#56-45015) | Oak View; Barbara St, Catalina Dr | 222 |
 | [45016](https://precinct.netpress.com/#56-45016) | Oak View; Santa Ana Blvd, Prospect St | 205 |
 | [47000](https://precinct.netpress.com/#56-47000) | Rimrock Rd, Sundown Rd, Colt Ln | 118 |
@@ -470,13 +470,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [48102](https://precinct.netpress.com/#56-48102) | S Rice Ave | 13 |
 | [48103](https://precinct.netpress.com/#56-48103) | S Rice Ave | 2 |
 | [48104](https://precinct.netpress.com/#56-48104) | S Rice Ave, E Channel Islands Blvd | 0 |
-| [48105](https://precinct.netpress.com/#56-48105) |  | 0 |
+| [48105](https://precinct.netpress.com/#56-48105) | Along E Pleasant Valley Rd | 0 |
 | [48106](https://precinct.netpress.com/#56-48106) | S Wolff Rd, E Pleasant Valley Rd | 7 |
 | [48200](https://precinct.netpress.com/#56-48200) | Oxnard; E Hueneme Rd, Etting Rd | 154 |
 | [48202](https://precinct.netpress.com/#56-48202) | Mulcahey Dr, Pol Rd, Naval Air Rd | 38 |
 | [48203](https://precinct.netpress.com/#56-48203) | Wood Rd, E Pleasant Valley Rd | 6 |
-| [48204](https://precinct.netpress.com/#56-48204) |  | 0 |
-| [48205](https://precinct.netpress.com/#56-48205) |  | 0 |
+| [48204](https://precinct.netpress.com/#56-48204) | Near Laguna Rd | 0 |
+| [48205](https://precinct.netpress.com/#56-48205) | Oxnard; near Arnold Rd | 0 |
 | [50000](https://precinct.netpress.com/#56-50000) | Ojai; Saddle Ln, Longhorn Ln | 145 |
 | [50001](https://precinct.netpress.com/#56-50001) | Ojai; Del Oro Dr, Canada St | 769 |
 | [50002](https://precinct.netpress.com/#56-50002) | Ojai; S Montgomery St, Bryant Cir | 663 |
@@ -559,7 +559,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [53041](https://precinct.netpress.com/#56-53041) | Oxnard; Reina Cir, Pajaro St | 530 |
 | [53042](https://precinct.netpress.com/#56-53042) | Oxnard; Madera Pl, Sutter Dr | 799 |
 | [53043](https://precinct.netpress.com/#56-53043) | Oxnard | 1 |
-| [53044](https://precinct.netpress.com/#56-53044) |  | 0 |
+| [53044](https://precinct.netpress.com/#56-53044) | Oxnard; near Almond Dr | 0 |
 | [53045](https://precinct.netpress.com/#56-53045) | Oxnard; Martin Luther King Jr Dr, Sonata Dr | 860 |
 | [53046](https://precinct.netpress.com/#56-53046) | Oxnard; E Ventura Blvd | 0 |
 | [55000](https://precinct.netpress.com/#56-55000) | Oxnard; J St, Van Ness Ave | 901 |
@@ -600,7 +600,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [55035](https://precinct.netpress.com/#56-55035) | Oxnard; Dunkirk Dr, Naples Dr | 834 |
 | [55036](https://precinct.netpress.com/#56-55036) | Oxnard; Pier Walk, Regatta Pl | 898 |
 | [55037](https://precinct.netpress.com/#56-55037) | Oxnard; Kelp Ln, Taffrail Ln | 723 |
-| [55038](https://precinct.netpress.com/#56-55038) | Oxnard; W Roderick Ave, Douglas Ave, W Robert Ave, Carty Dr | 593 |
+| [55038](https://precinct.netpress.com/#56-55038) | Oxnard; W Roderick Ave, Douglas Ave | 593 |
 | [55039](https://precinct.netpress.com/#56-55039) | Oxnard; Terrace Ave, Highland Ave | 724 |
 | [55040](https://precinct.netpress.com/#56-55040) | Oxnard; W Juniper St, W Iris St | 536 |
 | [55041](https://precinct.netpress.com/#56-55041) | Oxnard; N Linden Dr, Maywood Way | 740 |
@@ -619,7 +619,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [55054](https://precinct.netpress.com/#56-55054) | Oxnard; Elsinore Ave, Lawrence Way | 843 |
 | [55055](https://precinct.netpress.com/#56-55055) | Oxnard; McLoughlin Ave, Alturas St | 770 |
 | [55056](https://precinct.netpress.com/#56-55056) | Oxnard; Commercial Ave, E Fifth Service St | 946 |
-| [55057](https://precinct.netpress.com/#56-55057) | Oxnard; W Roderick Ave, Douglas Ave, W Robert Ave, N M St | 817 |
+| [55057](https://precinct.netpress.com/#56-55057) | Oxnard; W Roderick Ave, Douglas Ave | 817 |
 | [55058](https://precinct.netpress.com/#56-55058) | Oxnard; Ivywood Dr, Huntswood Way | 830 |
 | [55059](https://precinct.netpress.com/#56-55059) | Oxnard; Lodgewood Way, Rosewood Dr | 855 |
 | [55060](https://precinct.netpress.com/#56-55060) | Oxnard; Isle Way, Capstan Dr | 629 |
@@ -667,10 +667,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [56101](https://precinct.netpress.com/#56-56101) | Campus Rd | 0 |
 | [56102](https://precinct.netpress.com/#56-56102) | Harbor Blvd, Santa Clara River, Victoria Ave | 8 |
 | [56300](https://precinct.netpress.com/#56-56300) | Teal Club Rd, N Patterson Rd, Brandt Way | 19 |
-| [56301](https://precinct.netpress.com/#56-56301) |  | 0 |
-| [56304](https://precinct.netpress.com/#56-56304) |  | 0 |
-| [56305](https://precinct.netpress.com/#56-56305) |  | 0 |
-| [56306](https://precinct.netpress.com/#56-56306) |  | 0 |
+| [56301](https://precinct.netpress.com/#56-56301) | Along W Wooley Rd | 0 |
+| [56304](https://precinct.netpress.com/#56-56304) | Along Victoria Ave and Teal Club Rd | 0 |
+| [56305](https://precinct.netpress.com/#56-56305) | Near Teal Club Rd | 0 |
+| [56306](https://precinct.netpress.com/#56-56306) | Oxnard; near Doris Ave | 0 |
 | [58000](https://precinct.netpress.com/#56-58000) | Piru; Lake Piru, Debris Dam | 1,436 |
 | [58001](https://precinct.netpress.com/#56-58001) | Tank Farm Rd, Sharp Rch, Holser Canyon Rd | 7 |
 | [58002](https://precinct.netpress.com/#56-58002) | Cam del Rio, Pena Ranch Rd, Via Roble Extenso | 12 |
@@ -712,13 +712,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [68000](https://precinct.netpress.com/#56-68000) | Mira Monte; Los Encinos Rd, Live Oak Creek | 148 |
 | [68001](https://precinct.netpress.com/#56-68001) | Santa Ana Rd, Lake Casitas, Haley Ranch Rd | 22 |
 | [68002](https://precinct.netpress.com/#56-68002) | De la Garrigue Rd, Cooper Canyon Rd | 7 |
-| [68003](https://precinct.netpress.com/#56-68003) | Mira Monte | 32 |
+| [68003](https://precinct.netpress.com/#56-68003) | Mira Monte; along Baldwin Rd | 32 |
 | [68004](https://precinct.netpress.com/#56-68004) | Mira Monte; Ranch Rd, Cooper Canyon Rd | 10 |
-| [68005](https://precinct.netpress.com/#56-68005) |  | 2 |
+| [68005](https://precinct.netpress.com/#56-68005) | Mira Monte; near Los Encinos Rd | 2 |
 | [68006](https://precinct.netpress.com/#56-68006) | Mira Monte | 7 |
-| [68009](https://precinct.netpress.com/#56-68009) |  | 3 |
-| [68010](https://precinct.netpress.com/#56-68010) | Oak View | 0 |
-| [68014](https://precinct.netpress.com/#56-68014) |  | 5 |
+| [68009](https://precinct.netpress.com/#56-68009) | Mira Monte; near Baldwin Rd | 3 |
+| [68010](https://precinct.netpress.com/#56-68010) | Oak View; along Burnham Rd | 0 |
+| [68014](https://precinct.netpress.com/#56-68014) | Oak View; near Burnham Rd | 5 |
 | [68016](https://precinct.netpress.com/#56-68016) | Oak View; Live Oak Creek, Burnham Rd | 9 |
 | [68017](https://precinct.netpress.com/#56-68017) | Oak View; Haley Ranch Rd | 3 |
 | [68018](https://precinct.netpress.com/#56-68018) | Burnham Rd | 8 |
@@ -750,13 +750,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [72018](https://precinct.netpress.com/#56-72018) | Santa Paula; Beech Dr, Cedar St | 40 |
 | [72019](https://precinct.netpress.com/#56-72019) | Santa Paula; Harvest Loop, Autumn Path Ln | 1,343 |
 | [72020](https://precinct.netpress.com/#56-72020) | Santa Paula; Atmore Dr, Dickenson Rd | 505 |
-| [72021](https://precinct.netpress.com/#56-72021) |  | 3 |
+| [72021](https://precinct.netpress.com/#56-72021) | Santa Paula; near Mariposa Dr | 3 |
 | [72022](https://precinct.netpress.com/#56-72022) | Santa Paula; McKevett Rd, Glenway St | 467 |
 | [72023](https://precinct.netpress.com/#56-72023) | Santa Paula; Outer Dr, Vernon Pl | 651 |
 | [72024](https://precinct.netpress.com/#56-72024) | Santa Paula; E Santa Barbara St, Davis St | 250 |
 | [72025](https://precinct.netpress.com/#56-72025) | Santa Paula; Felkins Rd, S Peck Rd | 55 |
 | [72026](https://precinct.netpress.com/#56-72026) | Santa Paula; Grant Line St | 150 |
-| [72027](https://precinct.netpress.com/#56-72027) | Santa Paula | 8 |
+| [72027](https://precinct.netpress.com/#56-72027) | Santa Paula; along Fair Weather Xing | 8 |
 | [72028](https://precinct.netpress.com/#56-72028) | Santa Paula; Cherry Hill Rd, Honeywood Ct | 159 |
 | [72029](https://precinct.netpress.com/#56-72029) | Santa Paula; Peach Dr, Tangerine Way | 192 |
 | [72030](https://precinct.netpress.com/#56-72030) | Santa Paula; S Beckwith Rd, Beckwith Rd | 46 |
@@ -775,27 +775,27 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [74004](https://precinct.netpress.com/#56-74004) | Santa Rosa Valley | 4 |
 | [74005](https://precinct.netpress.com/#56-74005) | Santa Rosa Valley; Blanchard Rd, Hill Canyon Rd | 681 |
 | [74200](https://precinct.netpress.com/#56-74200) | Santa Rosa Valley; Sunset Valley Rd, Esperance Dr | 88 |
-| [78000](https://precinct.netpress.com/#56-78000) |  | 0 |
+| [78000](https://precinct.netpress.com/#56-78000) | Along Camelia Way | 0 |
 | [78001](https://precinct.netpress.com/#56-78001) | Saticoy and San Buenaventura (Ventura); Nardo St, Violeta St | 440 |
-| [78002](https://precinct.netpress.com/#56-78002) | Saticoy | 0 |
+| [78002](https://precinct.netpress.com/#56-78002) | Saticoy; along S Wells Rd | 0 |
 | [78100](https://precinct.netpress.com/#56-78100) | San Buenaventura (Ventura); Darling Rd | 6 |
-| [78102](https://precinct.netpress.com/#56-78102) |  | 8 |
+| [78102](https://precinct.netpress.com/#56-78102) | Saticoy; near Campanula Ave | 8 |
 | [79000](https://precinct.netpress.com/#56-79000) | Brownstone Reservoir, San Cayetano Rd, Boulder Creek Rd | 466 |
 | [81000](https://precinct.netpress.com/#56-81000) | Lake Sherwood; W Stafford Rd, Ladbrook Way | 882 |
 | [81001](https://precinct.netpress.com/#56-81001) | Lake Sherwood; Lake Sherwood, E Potrero Rd | 527 |
 | [81002](https://precinct.netpress.com/#56-81002) | Staber Rd, Hidden Valley Rd, Hidden Valley Rd Exd | 81 |
 | [81003](https://precinct.netpress.com/#56-81003) | Lake Sherwood; Ann's Fire Rd, Janss Fire Rd | 0 |
-| [81004](https://precinct.netpress.com/#56-81004) |  | 0 |
+| [81004](https://precinct.netpress.com/#56-81004) | Lake Sherwood; near Lake Sherwood Dr | 0 |
 | [81005](https://precinct.netpress.com/#56-81005) | White Stallion Rd | 4 |
 | [81006](https://precinct.netpress.com/#56-81006) | W Carlisle Rd, E Carlisle Rd, Veeder Fire Rd | 52 |
 | [81007](https://precinct.netpress.com/#56-81007) | White Stallion Rd | 9 |
-| [81008](https://precinct.netpress.com/#56-81008) |  | 0 |
+| [81008](https://precinct.netpress.com/#56-81008) | Near W Potrero Rd | 0 |
 | [81009](https://precinct.netpress.com/#56-81009) | Lake Sherwood | 2 |
 | [81010](https://precinct.netpress.com/#56-81010) | W Potrero Rd | 0 |
 | [81012](https://precinct.netpress.com/#56-81012) | Lake Sherwood; Trentwood Dr, W Potrero Rd | 0 |
 | [81013](https://precinct.netpress.com/#56-81013) | E Carlisle Rd, Carlisle Rd, Decker | 31 |
 | [81015](https://precinct.netpress.com/#56-81015) | White Stallion Rd | 7 |
-| [81018](https://precinct.netpress.com/#56-81018) |  | 3 |
+| [81018](https://precinct.netpress.com/#56-81018) | Lake Sherwood; near W Potrero Rd | 3 |
 | [82000](https://precinct.netpress.com/#56-82000) | Channel Islands Beach; Island View Ave, Ocean Dr | 757 |
 | [82001](https://precinct.netpress.com/#56-82001) | Channel Islands Beach; Panama Dr, Cahuenga Dr | 780 |
 | [84000](https://precinct.netpress.com/#56-84000) | Simi Valley; W Los Angeles Ave, W Cochran St | 13 |
@@ -941,10 +941,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [86015](https://precinct.netpress.com/#56-86015) | Sand Canyon Rd, Underwood, La Crembre Rd | 79 |
 | [86016](https://precinct.netpress.com/#56-86016) | Posita Rd, East Rd | 24 |
 | [86017](https://precinct.netpress.com/#56-86017) | Somis; Groves Pl | 91 |
-| [86019](https://precinct.netpress.com/#56-86019) |  | 51 |
+| [86019](https://precinct.netpress.com/#56-86019) | Somis; near Bell Ranch Rd | 51 |
 | [86100](https://precinct.netpress.com/#56-86100) | Balcom Canyon Rd | 0 |
 | [86101](https://precinct.netpress.com/#56-86101) | Bixby Rd | 20 |
-| [86104](https://precinct.netpress.com/#56-86104) |  | 5 |
+| [86104](https://precinct.netpress.com/#56-86104) | Along Balcom Canyon Rd | 5 |
 | [86200](https://precinct.netpress.com/#56-86200) | Manzanilla Dr, Chagall Dr, Stockton Rd | 79 |
 | [86201](https://precinct.netpress.com/#56-86201) | Vista Anacapa Rd, Stockton Rd, Balcom Canyon Rd | 60 |
 | [89000](https://precinct.netpress.com/#56-89000) | Middle Ridge Fire Rd, Tripps Canyon Rd, Harraca Springs Rd | 0 |
@@ -952,7 +952,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [89004](https://precinct.netpress.com/#56-89004) | Happy Camp Rd | 0 |
 | [90000](https://precinct.netpress.com/#56-90000) | Tapo Canyon Rd, Las Llajas Canyon Rd, Bennett Rd | 78 |
 | [90001](https://precinct.netpress.com/#56-90001) | Happy Camp Canyon Fire Rd, Jeep Trl, No 2 Canyon Rd | 13 |
-| [90003](https://precinct.netpress.com/#56-90003) |  | 0 |
+| [90003](https://precinct.netpress.com/#56-90003) | Along Walnut Ave and Felix Ave | 0 |
 | [90004](https://precinct.netpress.com/#56-90004) | Flood St, Cole Ave, Faxton Ct | 275 |
 | [90005](https://precinct.netpress.com/#56-90005) | Ditch Rd | 38 |
 | [90006](https://precinct.netpress.com/#56-90006) | Country Ln | 33 |
@@ -1089,7 +1089,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [92126](https://precinct.netpress.com/#56-92126) | Thousand Oaks; Hathaway Blvd, Rainfield Ave | 302 |
 | [92127](https://precinct.netpress.com/#56-92127) | Thousand Oaks; Ave de Royale, N Westlake Blvd | 548 |
 | [92128](https://precinct.netpress.com/#56-92128) | Thousand Oaks; Meadowrun St, Crossridge Ct | 73 |
-| [92129](https://precinct.netpress.com/#56-92129) |  | 0 |
+| [92129](https://precinct.netpress.com/#56-92129) | Along N Moorpark Rd | 0 |
 | [92130](https://precinct.netpress.com/#56-92130) | Thousand Oaks; N Wendy Dr, W Hillcrest Dr | 0 |
 | [92131](https://precinct.netpress.com/#56-92131) | Thousand Oaks; W Hillcrest Dr, Cll Yucca | 2 |
 | [94001](https://precinct.netpress.com/#56-94001) | Mira Monte; E Villanova Rd, Villanova Rd | 90 |
@@ -1107,25 +1107,25 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [94015](https://precinct.netpress.com/#56-94015) | Mira Monte; Osage Ave | 5 |
 | [94016](https://precinct.netpress.com/#56-94016) | Rancho Dos Rios, Olive Dr, Creek Rd | 26 |
 | [94017](https://precinct.netpress.com/#56-94017) | Kenewa St | 14 |
-| [94018](https://precinct.netpress.com/#56-94018) |  | 0 |
+| [94018](https://precinct.netpress.com/#56-94018) | Near Creek Rd | 0 |
 | [94019](https://precinct.netpress.com/#56-94019) | Osage Ave | 12 |
-| [94020](https://precinct.netpress.com/#56-94020) |  | 1 |
-| [94021](https://precinct.netpress.com/#56-94021) |  | 2 |
-| [94022](https://precinct.netpress.com/#56-94022) |  | 1 |
+| [94020](https://precinct.netpress.com/#56-94020) | Near Creek Rd | 1 |
+| [94021](https://precinct.netpress.com/#56-94021) | Near Creek Rd | 2 |
+| [94022](https://precinct.netpress.com/#56-94022) | Near Creek Rd | 1 |
 | [94023](https://precinct.netpress.com/#56-94023) | Mira Monte; E Villanova Rd | 0 |
-| [94025](https://precinct.netpress.com/#56-94025) | Mira Monte | 0 |
+| [94025](https://precinct.netpress.com/#56-94025) | Mira Monte; along Loma Dr | 0 |
 | [94026](https://precinct.netpress.com/#56-94026) | Mira Monte; Don Antonio Way, La Plz | 672 |
 | [94027](https://precinct.netpress.com/#56-94027) | Pegasus St | 4 |
 | [94028](https://precinct.netpress.com/#56-94028) | Mira Monte; Judy Ln, Park Dr | 29 |
 | [94029](https://precinct.netpress.com/#56-94029) | Trusty Ln | 2 |
 | [94030](https://precinct.netpress.com/#56-94030) | Mira Monte; Orchard Dr, Corta St | 251 |
-| [94031](https://precinct.netpress.com/#56-94031) |  | 7 |
+| [94031](https://precinct.netpress.com/#56-94031) | Mira Monte; near Pegasus St | 7 |
 | [94032](https://precinct.netpress.com/#56-94032) | Mira Monte; S Rice Rd, Highway 150 | 40 |
 | [94033](https://precinct.netpress.com/#56-94033) | Mira Monte; Moreno Dr | 3 |
 | [94034](https://precinct.netpress.com/#56-94034) | Mira Monte; Old Baldwin Rd, Kecyle Yard | 4 |
 | [94035](https://precinct.netpress.com/#56-94035) | Sumac Dr, Tiara Dr, Highland Dr | 175 |
 | [94039](https://precinct.netpress.com/#56-94039) | Mira Monte; Loma Dr | 10 |
-| [94040](https://precinct.netpress.com/#56-94040) | Mira Monte | 169 |
+| [94040](https://precinct.netpress.com/#56-94040) | Mira Monte; along Loma Dr | 169 |
 | [94041](https://precinct.netpress.com/#56-94041) | Mira Monte; Fierro Dr, Camille Dr | 438 |
 | [95000](https://precinct.netpress.com/#56-95000) | Thousand Oaks; S Ventu Park Rd, S McKnight Rd | 855 |
 | [95001](https://precinct.netpress.com/#56-95001) | Cll Arroyo, Cll Laredo, Cll Sequoia | 535 |
@@ -1138,7 +1138,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [95008](https://precinct.netpress.com/#56-95008) | Casa Conejo; Ruth Dr, Frankie Dr | 642 |
 | [95009](https://precinct.netpress.com/#56-95009) | Casa Conejo; Dorena Dr, Alice Dr | 903 |
 | [95010](https://precinct.netpress.com/#56-95010) | Kelly Knoll Ln, Silas Ln | 19 |
-| [95011](https://precinct.netpress.com/#56-95011) |  | 6 |
+| [95011](https://precinct.netpress.com/#56-95011) | Near Mapleleaf Ave | 6 |
 | [95012](https://precinct.netpress.com/#56-95012) | W Kelly Rd | 14 |
 | [95017](https://precinct.netpress.com/#56-95017) | Kelly Knoll Ln | 8 |
 | [96000](https://precinct.netpress.com/#56-96000) | Lion Canyon Reservoir, Lion Canyon Fire Rd, Old Hwy 150 | 596 |
@@ -1251,7 +1251,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [97104](https://precinct.netpress.com/#56-97104) | San Buenaventura (Ventura); College Dr, S Mills Rd | 771 |
 | [97105](https://precinct.netpress.com/#56-97105) | San Buenaventura (Ventura); Utica Ave, Ann Arbor Ave | 619 |
 | [97106](https://precinct.netpress.com/#56-97106) | San Buenaventura (Ventura); Halifax St, Big Horn St | 816 |
-| [97107](https://precinct.netpress.com/#56-97107) |  | 45 |
+| [97107](https://precinct.netpress.com/#56-97107) | San Buenaventura (Ventura); near Loma Vista Rd | 45 |
 | [97108](https://precinct.netpress.com/#56-97108) | San Buenaventura (Ventura); Fairfax Ave, Arnett Ave | 947 |
 | [97109](https://precinct.netpress.com/#56-97109) | San Buenaventura (Ventura); Walker St, Teton Ln | 815 |
 | [97110](https://precinct.netpress.com/#56-97110) | San Buenaventura (Ventura); Chamberlain St, Rio Grande St | 361 |

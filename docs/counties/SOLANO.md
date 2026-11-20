@@ -95,8 +95,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [19410](https://precinct.netpress.com/#48-19410) | Vallejo; McGary Rd | 0 |
 | [19805](https://precinct.netpress.com/#48-19805) | South Slough, China Slough, Highway 37 | 4 |
 | [19810](https://precinct.netpress.com/#48-19810) | Vallejo; Napa River, Highway 37 | 0 |
-| [19815](https://precinct.netpress.com/#48-19815) |  | 0 |
-| [19830](https://precinct.netpress.com/#48-19830) |  | 59 |
+| [19815](https://precinct.netpress.com/#48-19815) | Along Highway 37 and Marine World Pkwy | 0 |
+| [19830](https://precinct.netpress.com/#48-19830) | Along Springs Rd | 59 |
 | [21005](https://precinct.netpress.com/#48-21005) | Benicia; E E St, E H St | 787 |
 | [21010](https://precinct.netpress.com/#48-21010) | Benicia; E L St, E 3rd St | 955 |
 | [21015](https://precinct.netpress.com/#48-21015) | Benicia; E 6th St, Oak Rd | 862 |
@@ -135,10 +135,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [23020](https://precinct.netpress.com/#48-23020) | Fairfield; Lakeview Cir, Vintage Ave | 929 |
 | [23022](https://precinct.netpress.com/#48-23022) | Fairfield; Brookdale Cir, Greentree Cir | 611 |
 | [23025](https://precinct.netpress.com/#48-23025) | Fairfield; Antiquity Dr, Dynasty Dr | 930 |
-| [23027](https://precinct.netpress.com/#48-23027) |  | 0 |
+| [23027](https://precinct.netpress.com/#48-23027) | Fairfield; near Mangels Blvd | 0 |
 | [23028](https://precinct.netpress.com/#48-23028) | Fairfield; Pavilion Dr, Mangels Blvd | 485 |
 | [23029](https://precinct.netpress.com/#48-23029) | Fairfield; Julia Berger Cir, Bus Center Dr | 798 |
-| [23030](https://precinct.netpress.com/#48-23030) |  | 0 |
+| [23030](https://precinct.netpress.com/#48-23030) | Along Central Way | 0 |
 | [23035](https://precinct.netpress.com/#48-23035) | Fairfield; Highland Cir, Brookside Cir | 694 |
 | [23037](https://precinct.netpress.com/#48-23037) | Fairfield; Driftwood Cir, Summer Grove Cir | 673 |
 | [23042](https://precinct.netpress.com/#48-23042) | Fairfield; Ramsey Rd | 0 |
@@ -191,12 +191,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [27205](https://precinct.netpress.com/#48-27205) | Vallejo; Devlin Dr, Keats Dr | 655 |
 | [27210](https://precinct.netpress.com/#48-27210) | Vallejo; Hazelwood St, Fernwood St | 728 |
 | [27225](https://precinct.netpress.com/#48-27225) | Vallejo; Longridge Dr, Sunnyglen Dr | 217 |
-| [29005](https://precinct.netpress.com/#48-29005) |  | 11 |
+| [29005](https://precinct.netpress.com/#48-29005) | Along Hamilton Dr and Midway Rd | 11 |
 | [29080](https://precinct.netpress.com/#48-29080) | Vallejo; Lake Herman Rd | 4 |
-| [29095](https://precinct.netpress.com/#48-29095) |  | 0 |
+| [29095](https://precinct.netpress.com/#48-29095) | Near Lake Herman Rd | 0 |
 | [29097](https://precinct.netpress.com/#48-29097) | Lake Herman Rd, Lake Herman | 0 |
 | [29100](https://precinct.netpress.com/#48-29100) | Lopes Rd, Sky Valley Rd, Oakridge Ln | 19 |
-| [29145](https://precinct.netpress.com/#48-29145) |  | 3 |
+| [29145](https://precinct.netpress.com/#48-29145) | Near Sky Valley Rd | 3 |
 | [29155](https://precinct.netpress.com/#48-29155) | Lopes Ranch Rd | 0 |
 | [29160](https://precinct.netpress.com/#48-29160) | Goodyear Rd, Morrow Ln, Pierce Ln | 16 |
 | [29400](https://precinct.netpress.com/#48-29400) | Green Valley and Fairfield; Mason Rd, Via Palo Linda | 579 |
@@ -209,12 +209,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [29418](https://precinct.netpress.com/#48-29418) | Green Valley; Green Valley Oaks Dr | 0 |
 | [29419](https://precinct.netpress.com/#48-29419) | Morrison Ln | 3 |
 | [29420](https://precinct.netpress.com/#48-29420) | Lynch Rd, Highway 12 | 3 |
-| [29430](https://precinct.netpress.com/#48-29430) |  | 0 |
+| [29430](https://precinct.netpress.com/#48-29430) | Along McGary Rd | 0 |
 | [29470](https://precinct.netpress.com/#48-29470) | Lopes Rd, Marshview Rd | 4 |
 | [29510](https://precinct.netpress.com/#48-29510) | Fairfield; Smith Dr, Bridgeport Ave | 110 |
 | [29515](https://precinct.netpress.com/#48-29515) | Grizzly Island Rd, Roaring River Slough, Frost Slough | 23 |
 | [29520](https://precinct.netpress.com/#48-29520) | Chadbourne Slough, Boynton Slough, Frank Horan Slough | 3 |
-| [29530](https://precinct.netpress.com/#48-29530) |  | 0 |
+| [29530](https://precinct.netpress.com/#48-29530) | Along Chadbourne Rd | 0 |
 | [29550](https://precinct.netpress.com/#48-29550) | Goodyear Rd, Marshview Rd, Cordelia Slough | 0 |
 | [29560](https://precinct.netpress.com/#48-29560) | Cordelia Rd, Highway 12 | 16 |
 | [29565](https://precinct.netpress.com/#48-29565) | Thomasson Ln, Cordelia Rd | 34 |
@@ -279,7 +279,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [33245](https://precinct.netpress.com/#48-33245) | Fairfield; Meadowlark Dr, Allston Pl | 488 |
 | [33247](https://precinct.netpress.com/#48-33247) | Fairfield; Irving Ct, Allston Ct | 171 |
 | [33250](https://precinct.netpress.com/#48-33250) | Fairfield; Davis Dr, Catlin Dr | 437 |
-| [33253](https://precinct.netpress.com/#48-33253) |  | 0 |
+| [33253](https://precinct.netpress.com/#48-33253) | Fairfield; near E Tabor Ave | 0 |
 | [33255](https://precinct.netpress.com/#48-33255) | Fairfield; Bel Air Cir, Walters Ct | 613 |
 | [33260](https://precinct.netpress.com/#48-33260) | Fairfield; Stoneman Dr | 212 |
 | [33267](https://precinct.netpress.com/#48-33267) | Fairfield; Tabor Ave, Apple Tree Ln | 626 |
@@ -325,12 +325,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [39414](https://precinct.netpress.com/#48-39414) | Solano Rd, Tolenas Rd, Prosperity Ln | 406 |
 | [39415](https://precinct.netpress.com/#48-39415) | Olive Ave, Rush Ln | 57 |
 | [39416](https://precinct.netpress.com/#48-39416) | Wiley Ln, Wiley Ct, Hickam Ct | 0 |
-| [39448](https://precinct.netpress.com/#48-39448) |  | 1 |
+| [39448](https://precinct.netpress.com/#48-39448) | Fairfield; near Daniel St | 1 |
 | [39449](https://precinct.netpress.com/#48-39449) | Fairfield; Solano College Rd, Suisun Valley Rd | 0 |
 | [39450](https://precinct.netpress.com/#48-39450) | Williams Rd, Clayton Rd, Gordon Valley Rd | 332 |
 | [39451](https://precinct.netpress.com/#48-39451) | Fairfield; Abernathy Rd, Mankas Corner Rd | 22 |
 | [39452](https://precinct.netpress.com/#48-39452) | Fairfield; Suisun Pkwy, Russell Rd | 79 |
-| [39456](https://precinct.netpress.com/#48-39456) |  | 0 |
+| [39456](https://precinct.netpress.com/#48-39456) | Along Suisun Valley Rd | 0 |
 | [39459](https://precinct.netpress.com/#48-39459) | Willotta Dr, Chilmark Pl, Mark Pl | 182 |
 | [39462](https://precinct.netpress.com/#48-39462) | Soda Springs Rd, Pebble Beach Cir, Sales Ln | 13 |
 | [39464](https://precinct.netpress.com/#48-39464) | Gordon Valley Rd | 4 |
@@ -353,8 +353,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [42043](https://precinct.netpress.com/#48-42043) | Dixon; S Porter Rd, Marvin Ct | 278 |
 | [42045](https://precinct.netpress.com/#48-42045) | Dixon; W Cherry St, Gold St | 577 |
 | [42050](https://precinct.netpress.com/#48-42050) | Dixon; S Almond St, Hillview Dr | 795 |
-| [42051](https://precinct.netpress.com/#48-42051) |  | 24 |
-| [42055](https://precinct.netpress.com/#48-42055) |  | 5 |
+| [42051](https://precinct.netpress.com/#48-42051) | Along S Almond St and S Porter Rd | 24 |
+| [42055](https://precinct.netpress.com/#48-42055) | Dixon; near E A St | 5 |
 | [42057](https://precinct.netpress.com/#48-42057) | E D St, N 5th St | 23 |
 | [42060](https://precinct.netpress.com/#48-42060) | Dixon; E Parkway Dr, College Way | 782 |
 | [42062](https://precinct.netpress.com/#48-42062) | Dixon; Peters Ave, Porter St | 7 |
@@ -362,17 +362,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [42067](https://precinct.netpress.com/#48-42067) | Dixon | 0 |
 | [42068](https://precinct.netpress.com/#48-42068) | Dixon; E C St, E B St | 259 |
 | [42070](https://precinct.netpress.com/#48-42070) | Dixon; E Creekside Cir, Priddy Dr | 697 |
-| [42072](https://precinct.netpress.com/#48-42072) |  | 0 |
+| [42072](https://precinct.netpress.com/#48-42072) | Dixon; near N 1st St | 0 |
 | [42085](https://precinct.netpress.com/#48-42085) | Dixon; Milk Farm Rd, Bus Park Dr | 30 |
 | [42105](https://precinct.netpress.com/#48-42105) | Dixon; Valley Glen Dr, Duncan St | 725 |
-| [42107](https://precinct.netpress.com/#48-42107) | Dixon | 0 |
+| [42107](https://precinct.netpress.com/#48-42107) | Dixon; along Porter Rd | 0 |
 | [42109](https://precinct.netpress.com/#48-42109) | Dixon; Bello Dr, Parkway Blvd | 472 |
 | [42240](https://precinct.netpress.com/#48-42240) | Dixon; Autumn Breeze Dr, Westerly Way | 109 |
 | [42250](https://precinct.netpress.com/#48-42250) | Dixon; S Lincoln St, Sunflower Way | 187 |
 | [46010](https://precinct.netpress.com/#48-46010) | Vacaville; Granada Ln, Gonzales Dr | 568 |
 | [46012](https://precinct.netpress.com/#48-46012) | Corte Seville, Florence Dr, Castile Ct | 68 |
 | [46015](https://precinct.netpress.com/#48-46015) | Vacaville; Farrell Rd, N Orchard Ave | 11 |
-| [46020](https://precinct.netpress.com/#48-46020) | Vacaville | 2 |
+| [46020](https://precinct.netpress.com/#48-46020) | Vacaville; along Santa Cruz Ct | 2 |
 | [46025](https://precinct.netpress.com/#48-46025) | Vacaville; Ridgewood Dr, Quietwood Dr | 707 |
 | [46028](https://precinct.netpress.com/#48-46028) | Vacaville; Fruitvale Rd, Sycamore Ct | 97 |
 | [46030](https://precinct.netpress.com/#48-46030) | Vacaville; Timber Dr, Dennis Dr | 603 |
@@ -380,7 +380,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [46036](https://precinct.netpress.com/#48-46036) | Vacaville; Laramie Way, Eldridge Ave | 222 |
 | [46037](https://precinct.netpress.com/#48-46037) | Vacaville; Fruit Stand Cir, Apricot Cir | 258 |
 | [46040](https://precinct.netpress.com/#48-46040) | Vacaville; Shady Glen Ave, Shady Glen Rd | 59 |
-| [46042](https://precinct.netpress.com/#48-46042) | Vacaville | 13 |
+| [46042](https://precinct.netpress.com/#48-46042) | Vacaville; along Canyon Rd | 13 |
 | [46047](https://precinct.netpress.com/#48-46047) | Vacaville; Solano Ln, Grape St | 406 |
 | [46050](https://precinct.netpress.com/#48-46050) | Vacaville; W Deodara St, Deodara St | 838 |
 | [46055](https://precinct.netpress.com/#48-46055) | Vacaville; Neil St, Camellia Way | 690 |
@@ -434,9 +434,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [46195](https://precinct.netpress.com/#48-46195) | Vacaville; Lagoon Valley Rd, Lagoon Valley Lake | 157 |
 | [46205](https://precinct.netpress.com/#48-46205) | Vacaville; Butcher Rd, La Cruz Ln | 905 |
 | [46210](https://precinct.netpress.com/#48-46210) | Vacaville; Ogden Way, Bella Vista Rd | 656 |
-| [46212](https://precinct.netpress.com/#48-46212) | Vacaville | 22 |
+| [46212](https://precinct.netpress.com/#48-46212) | Vacaville; along Davis St | 22 |
 | [46217](https://precinct.netpress.com/#48-46217) | Vacaville; Cherry Glen Rd | 1 |
-| [46250](https://precinct.netpress.com/#48-46250) | Vacaville | 0 |
+| [46250](https://precinct.netpress.com/#48-46250) | Vacaville; along Lagoon Valley Rd | 0 |
 | [46255](https://precinct.netpress.com/#48-46255) | Vacaville; Spindrift Way, Bowline Dr | 867 |
 | [46260](https://precinct.netpress.com/#48-46260) | Vacaville; Nelson Rd, Lyon Rd | 0 |
 | [46270](https://precinct.netpress.com/#48-46270) | Vacaville; Andrea Dr, Georgetown Dr | 417 |
@@ -475,26 +475,26 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [49240](https://precinct.netpress.com/#48-49240) | McCune Creek, Porter Rd, Pedrick Rd | 54 |
 | [49260](https://precinct.netpress.com/#48-49260) | Campbell Rd, Stevenson Bridge Rd, Phillips Rd | 92 |
 | [49267](https://precinct.netpress.com/#48-49267) | Dixon; Sievers Rd, Currey Rd | 1 |
-| [49270](https://precinct.netpress.com/#48-49270) |  | 8 |
+| [49270](https://precinct.netpress.com/#48-49270) | Near Midway Rd | 8 |
 | [49275](https://precinct.netpress.com/#48-49275) | Gaddini Rd, Boyce Rd, Putah Creek Rd | 92 |
 | [49277](https://precinct.netpress.com/#48-49277) | McNeill Ln | 1 |
 | [49280](https://precinct.netpress.com/#48-49280) | Tremont Rd, Hackman Rd, Hyde Rd | 241 |
 | [49305](https://precinct.netpress.com/#48-49305) | Halley Rd | 15 |
 | [49311](https://precinct.netpress.com/#48-49311) | Hartley and Allendale; Wadkins Ln, Griffin Rd | 271 |
-| [49320](https://precinct.netpress.com/#48-49320) |  | 1 |
+| [49320](https://precinct.netpress.com/#48-49320) | Vacaville; near N Meridian Rd | 1 |
 | [49695](https://precinct.netpress.com/#48-49695) | Allendale; Olivas Ln, Skyhawk Ln | 151 |
 | [49700](https://precinct.netpress.com/#48-49700) | Hartley and Allendale; Carmelita Way, Cantelow Rd | 264 |
 | [49704](https://precinct.netpress.com/#48-49704) | Serenity Hills Rd, Solar Hills Dr, Dobbins St | 419 |
 | [49708](https://precinct.netpress.com/#48-49708) | Rogers Ln | 25 |
-| [49711](https://precinct.netpress.com/#48-49711) |  | 2 |
+| [49711](https://precinct.netpress.com/#48-49711) | Near Canyon Rd | 2 |
 | [49712](https://precinct.netpress.com/#48-49712) | Farrell Rd | 20 |
-| [49713](https://precinct.netpress.com/#48-49713) |  | 2 |
-| [49714](https://precinct.netpress.com/#48-49714) |  | 0 |
+| [49713](https://precinct.netpress.com/#48-49713) | Near Dobbins St | 2 |
+| [49714](https://precinct.netpress.com/#48-49714) | Near Cotting Ln | 0 |
 | [49715](https://precinct.netpress.com/#48-49715) | Dobbins St | 0 |
 | [49717](https://precinct.netpress.com/#48-49717) | Gibson Canyon Rd | 21 |
 | [49718](https://precinct.netpress.com/#48-49718) | Bucktown Ln, Pleasant Hills Ranch Way, Fawn Ln | 183 |
 | [49720](https://precinct.netpress.com/#48-49720) | Vacaville; Cherry Glen Rd, Pleasants Valley Rd | 97 |
-| [49722](https://precinct.netpress.com/#48-49722) |  | 0 |
+| [49722](https://precinct.netpress.com/#48-49722) | Along Linda Vista Rd | 0 |
 | [49723](https://precinct.netpress.com/#48-49723) | Allendale; Linda Vista Rd, Spencer Ln | 0 |
 | [49725](https://precinct.netpress.com/#48-49725) | Hartley; Stocking Ln, Clancy Ln | 231 |
 | [49726](https://precinct.netpress.com/#48-49726) | Allendale; English Hills Rd, Sierra Vista Dr | 209 |
@@ -505,19 +505,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [49734](https://precinct.netpress.com/#48-49734) | Joslin Ln, Cantelow Rd, Brehme Ln | 52 |
 | [49735](https://precinct.netpress.com/#48-49735) | Allendale and Hartley; W Ranch Ln, Scenic Ranch Ln | 137 |
 | [49736](https://precinct.netpress.com/#48-49736) | Dry Creek Trl | 18 |
-| [49738](https://precinct.netpress.com/#48-49738) | Allendale | 5 |
+| [49738](https://precinct.netpress.com/#48-49738) | Allendale; along N Locke Rd and Locke Rd | 5 |
 | [49740](https://precinct.netpress.com/#48-49740) | Hartley and Allendale; Locke Rd, Hartley Rd | 839 |
 | [49742](https://precinct.netpress.com/#48-49742) | Hartley and Vacaville; Quinn Rd, Winding Way | 170 |
 | [49746](https://precinct.netpress.com/#48-49746) | Allendale; Shawn Ln | 20 |
 | [49748](https://precinct.netpress.com/#48-49748) | Hartley and Vacaville; Beck Ln, Craig Ln | 232 |
 | [49758](https://precinct.netpress.com/#48-49758) | Allendale; Heather Ln, N Locke Rd | 181 |
-| [49760](https://precinct.netpress.com/#48-49760) |  | 11 |
+| [49760](https://precinct.netpress.com/#48-49760) | Along Cromwell Ln and Standfill Ln | 11 |
 | [49768](https://precinct.netpress.com/#48-49768) | Cherry Glen Rd | 7 |
-| [49770](https://precinct.netpress.com/#48-49770) |  | 1 |
-| [49772](https://precinct.netpress.com/#48-49772) |  | 4 |
+| [49770](https://precinct.netpress.com/#48-49770) | Hartley; near Shelton Ln | 1 |
+| [49772](https://precinct.netpress.com/#48-49772) | Hartley; near Timm Rd | 4 |
 | [49776](https://precinct.netpress.com/#48-49776) | Hartley; Standfill Ln, Shelton Ln | 24 |
 | [49780](https://precinct.netpress.com/#48-49780) | Mix Canyon Rd, Blue Ridge Rd, Twin Fawn Trl | 136 |
-| [49783](https://precinct.netpress.com/#48-49783) |  | 3 |
+| [49783](https://precinct.netpress.com/#48-49783) | Near Blue Mountain Dr | 3 |
 | [49786](https://precinct.netpress.com/#48-49786) | Laguna Creek Trl, Gates Canyon Rd, Whedbee Dr | 68 |
 | [49789](https://precinct.netpress.com/#48-49789) | Hartley; Dobbins St, Independence Ln | 21 |
 | [49790](https://precinct.netpress.com/#48-49790) | Vacaville; Vine Ct, Vine St | 54 |
@@ -525,9 +525,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [49900](https://precinct.netpress.com/#48-49900) | Allendale; Highway 128, Sackrett Ln | 84 |
 | [49902](https://precinct.netpress.com/#48-49902) | Olive School Ln, Putah Creek, Putah Creek Rd | 365 |
 | [49905](https://precinct.netpress.com/#48-49905) | Quail Canyon Rd, Digger Pine Rdg, Pleasants Valley Rd | 47 |
-| [49915](https://precinct.netpress.com/#48-49915) |  | 3 |
+| [49915](https://precinct.netpress.com/#48-49915) | Along Winters Rd | 3 |
 | [49916](https://precinct.netpress.com/#48-49916) | Campos Ln | 6 |
-| [52100](https://precinct.netpress.com/#48-52100) | Dixon | 0 |
+| [52100](https://precinct.netpress.com/#48-52100) | Dixon; along Pedrick Rd | 0 |
 | [53003](https://precinct.netpress.com/#48-53003) | Fairfield; Chuck Hammond Dr, Walker Dr | 766 |
 | [53005](https://precinct.netpress.com/#48-53005) | Fairfield; Rowe Dr, Bickford Cir | 962 |
 | [53007](https://precinct.netpress.com/#48-53007) | Fairfield; Collins Dr, Cannon Dr | 594 |
@@ -565,7 +565,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [53129](https://precinct.netpress.com/#48-53129) | Fairfield; Manuel Campos Pkwy | 0 |
 | [53135](https://precinct.netpress.com/#48-53135) | Fairfield; Clay Bank Rd, Danbury Way | 786 |
 | [53137](https://precinct.netpress.com/#48-53137) | Fairfield; Nelson Rd, Paradise Valley Rd | 1 |
-| [53138](https://precinct.netpress.com/#48-53138) | Fairfield | 3 |
+| [53138](https://precinct.netpress.com/#48-53138) | Fairfield; along Windsorville Way and Woodstock Ct | 3 |
 | [53139](https://precinct.netpress.com/#48-53139) | Fairfield; N Texas St, Nelson Rd | 0 |
 | [53140](https://precinct.netpress.com/#48-53140) | Fairfield; Constitution Ave, Avondale Cir | 794 |
 | [53146](https://precinct.netpress.com/#48-53146) | Fairfield; Couples Cir, Stewart Dr | 397 |
@@ -609,7 +609,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [56055](https://precinct.netpress.com/#48-56055) | Vacaville; Notre Dame Cir, Arabian Cir | 717 |
 | [56057](https://precinct.netpress.com/#48-56057) | Vacaville; Atchison Dr, Zephyr Ln | 423 |
 | [56060](https://precinct.netpress.com/#48-56060) | Vacaville; Nut Tree Rd, Orange Dr | 0 |
-| [56062](https://precinct.netpress.com/#48-56062) | Vacaville | 2 |
+| [56062](https://precinct.netpress.com/#48-56062) | Vacaville; along Elmira Rd | 2 |
 | [56065](https://precinct.netpress.com/#48-56065) | Vacaville; Rio Grande Dr, Rio Granda Dr | 58 |
 | [56125](https://precinct.netpress.com/#48-56125) | Vacaville; Colonial Cir, Somerville Dr | 791 |
 | [56127](https://precinct.netpress.com/#48-56127) | Vacaville; Sage Sparrow Cir, Sparrowhawk Dr | 962 |
@@ -625,12 +625,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [56150](https://precinct.netpress.com/#48-56150) | Vacaville; Via del Sol, Brighton Cir | 941 |
 | [56152](https://precinct.netpress.com/#48-56152) | Vacaville; Canterbury Cir, Lancaster St | 541 |
 | [56160](https://precinct.netpress.com/#48-56160) | Vacaville; Royal Oaks Dr, Dover Way | 601 |
-| [56162](https://precinct.netpress.com/#48-56162) | Vacaville | 0 |
+| [56162](https://precinct.netpress.com/#48-56162) | Vacaville; along Vanden Rd | 0 |
 | [56165](https://precinct.netpress.com/#48-56165) | Vacaville; Jerrylee Rd, Shefford Dr | 807 |
-| [56167](https://precinct.netpress.com/#48-56167) | Vacaville | 0 |
+| [56167](https://precinct.netpress.com/#48-56167) | Vacaville; along Sawyer Dr | 0 |
 | [56170](https://precinct.netpress.com/#48-56170) | Vacaville; Woodhaven Dr, Greenwich Cir | 672 |
 | [56175](https://precinct.netpress.com/#48-56175) | Vacaville; Bel Air Dr, Normandy Dr | 824 |
-| [56180](https://precinct.netpress.com/#48-56180) | Vacaville | 0 |
+| [56180](https://precinct.netpress.com/#48-56180) | Vacaville; along Marshall Rd and Greenwich Cir | 0 |
 | [56190](https://precinct.netpress.com/#48-56190) | Vacaville; Keith Way, Temple Dr | 507 |
 | [56192](https://precinct.netpress.com/#48-56192) | Vacaville; Edwin Dr, Randall Ave | 512 |
 | [56195](https://precinct.netpress.com/#48-56195) | Vacaville; Arbor Oaks Dr, Kingswood Ave | 672 |
@@ -648,9 +648,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [56722](https://precinct.netpress.com/#48-56722) | Vacaville; Broadfork Cir, Bailer Ct | 633 |
 | [56724](https://precinct.netpress.com/#48-56724) | Vacaville; Carroll Way, Cultivator Dr | 30 |
 | [59147](https://precinct.netpress.com/#48-59147) | Vacaville; Fry Rd | 1 |
-| [59150](https://precinct.netpress.com/#48-59150) | Fairfield | 7 |
-| [59170](https://precinct.netpress.com/#48-59170) |  | 0 |
-| [59175](https://precinct.netpress.com/#48-59175) |  | 3 |
+| [59150](https://precinct.netpress.com/#48-59150) | Fairfield; along Torrington Way and Pomfret Ct | 7 |
+| [59170](https://precinct.netpress.com/#48-59170) | Along Dobe Ln | 0 |
+| [59175](https://precinct.netpress.com/#48-59175) | Near Lagoon Valley Rd | 3 |
 | [59180](https://precinct.netpress.com/#48-59180) | Discovery Way, Zachary Ct | 0 |
 | [59195](https://precinct.netpress.com/#48-59195) | Chimney Rock Way, Paradise Valley Rd | 9 |
 | [59300](https://precinct.netpress.com/#48-59300) | Weber Rd, McCune Creek, Byrnes Rd | 156 |
@@ -658,7 +658,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59340](https://precinct.netpress.com/#48-59340) | Dixon; Lookout Slough, Liberty Island Rd | 212 |
 | [59345](https://precinct.netpress.com/#48-59345) | Barker Slough, Cook Ln, Hay Rd | 17 |
 | [59351](https://precinct.netpress.com/#48-59351) | Bartlett Rd, Robben Rd, Norton Rd | 10 |
-| [59353](https://precinct.netpress.com/#48-59353) |  | 0 |
+| [59353](https://precinct.netpress.com/#48-59353) | Along Fry Rd | 0 |
 | [59357](https://precinct.netpress.com/#48-59357) | Fox Rd, Cypress Trl, Lewis Rd | 52 |
 | [59372](https://precinct.netpress.com/#48-59372) | Vacaville; Lewis Rd | 0 |
 | [59400](https://precinct.netpress.com/#48-59400) | Talbert Ln, Sacramento River, Stratton Ln | 0 |
@@ -677,7 +677,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59615](https://precinct.netpress.com/#48-59615) | Fairfield; Box R Ranch Rd, Dally Rd | 10 |
 | [59620](https://precinct.netpress.com/#48-59620) | Meridian Rd | 10 |
 | [59625](https://precinct.netpress.com/#48-59625) | Vanden Rd, Peabody Rd | 6 |
-| [59627](https://precinct.netpress.com/#48-59627) |  | 0 |
+| [59627](https://precinct.netpress.com/#48-59627) | Fairfield; near Perry Polk Dr | 0 |
 | [59630](https://precinct.netpress.com/#48-59630) | Burke Ln | 0 |
 | [59640](https://precinct.netpress.com/#48-59640) | McCrory Rd, N Gate Rd | 0 |
 | [59700](https://precinct.netpress.com/#48-59700) | Elmira; Holdener Rd, Chicorp Ln | 201 |
@@ -687,8 +687,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59717](https://precinct.netpress.com/#48-59717) | Lewis Rd, Hay Rd, Meridian Rd | 11 |
 | [59720](https://precinct.netpress.com/#48-59720) | S A St, Vaca Station Rd, Calif Pacific Rd | 20 |
 | [59725](https://precinct.netpress.com/#48-59725) | Hawkins Rd, Fox Rd, Clark Rd | 15 |
-| [59726](https://precinct.netpress.com/#48-59726) |  | 4 |
+| [59726](https://precinct.netpress.com/#48-59726) | Near Fry Rd | 4 |
 | [59727](https://precinct.netpress.com/#48-59727) | Fry Rd | 0 |
 | [59730](https://precinct.netpress.com/#48-59730) | Hay Rd, Dally Rd | 34 |
-| [59735](https://precinct.netpress.com/#48-59735) |  | 4 |
+| [59735](https://precinct.netpress.com/#48-59735) | Near Hay Rd | 4 |
 | [59740](https://precinct.netpress.com/#48-59740) | Vacaville and Elmira; Hawkins Rd, Byrnes Rd | 64 |

@@ -82,7 +82,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [20718](https://precinct.netpress.com/#21-20718) | Ross; Ivy Dr, Fernhill Ave | 566 |
 | [20719](https://precinct.netpress.com/#21-20719) | Ross; Lagunitas Rd, Upper Rd W | 569 |
 | [20728](https://precinct.netpress.com/#21-20728) | Ross; Baywood Ave, Laurel Grove Ave | 597 |
-| [20763](https://precinct.netpress.com/#21-20763) |  | 2 |
+| [20763](https://precinct.netpress.com/#21-20763) | Ross; near Morrison Rd | 2 |
 | [20810](https://precinct.netpress.com/#21-20810) | San Anselmo and Fairfax; Oak Springs Dr, Woodside Dr | 932 |
 | [20811](https://precinct.netpress.com/#21-20811) | San Anselmo; The Alameda, Butterfield Rd | 708 |
 | [20814](https://precinct.netpress.com/#21-20814) | San Anselmo; Scenic Ave, Allyn Ave | 623 |
@@ -119,7 +119,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [21255](https://precinct.netpress.com/#21-21255) | Sleepy Hollow; Fawn Dr, Deer Hollow Rd | 378 |
 | [30145](https://precinct.netpress.com/#21-30145) | Belvedere; Golden Gate Ave, Belvedere Ave | 852 |
 | [30153](https://precinct.netpress.com/#21-30153) | Belvedere; Belvedere Lagoon, Lagoon Rd | 754 |
-| [30201](https://precinct.netpress.com/#21-30201) |  | 0 |
+| [30201](https://precinct.netpress.com/#21-30201) | Corte Madera; near Paradise Dr | 0 |
 | [30501](https://precinct.netpress.com/#21-30501) | Mill Valley; Ralston Ave, W Blithedale Ave | 876 |
 | [30502](https://precinct.netpress.com/#21-30502) | Mill Valley; Hillside Ave, Greenwood Way | 690 |
 | [30503](https://precinct.netpress.com/#21-30503) | Mill Valley; Lovell Ave, Summit Ave | 884 |
@@ -231,7 +231,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [41253](https://precinct.netpress.com/#21-41253) | Railroad Grade Fire Rd, Camp Eastwood Rd, E Ridgecrest Blvd | 13 |
 | [41254](https://precinct.netpress.com/#21-41254) | Stinson Beach; Cold Stream Fire Rd, Willow Camp Fire Rd | 209 |
 | [41255](https://precinct.netpress.com/#21-41255) | Lattie Ln | 59 |
-| [41256](https://precinct.netpress.com/#21-41256) |  | 3 |
+| [41256](https://precinct.netpress.com/#21-41256) | Tamalpais-Homestead Valley; near Homestead Blvd | 3 |
 | [50601](https://precinct.netpress.com/#21-50601) | Novato; San Andreas Dr, San Domingo Way | 845 |
 | [50602](https://precinct.netpress.com/#21-50602) | Novato; Middle Burdell Fire Rd, Buck Center Dr | 498 |
 | [50603](https://precinct.netpress.com/#21-50603) | Novato; San Felipe Way, San Marin Dr | 881 |

@@ -42,7 +42,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1187555](https://precinct.netpress.com/#09-1187555) | El Dorado Hills; Gresham Dr, Silva Valley Pkwy | 1,503 |
 | [1187557](https://precinct.netpress.com/#09-1187557) | El Dorado Hills; White Rock Rd, Clarkville Xing | 0 |
 | [1187559](https://precinct.netpress.com/#09-1187559) | El Dorado Hills; Town Center Blvd, Post St | 297 |
-| [1187561](https://precinct.netpress.com/#09-1187561) |  | 1 |
+| [1187561](https://precinct.netpress.com/#09-1187561) | Along White Rock Rd | 1 |
 | [1187563](https://precinct.netpress.com/#09-1187563) | El Dorado Hills; Manchester Dr, Dunnwood Dr | 785 |
 | [1187564](https://precinct.netpress.com/#09-1187564) | El Dorado Hills; Aristotle Dr, Via Barlogio | 129 |
 | [1187565](https://precinct.netpress.com/#09-1187565) | El Dorado Hills; Seneca Cir, Montridge Way | 985 |
@@ -54,19 +54,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1187575](https://precinct.netpress.com/#09-1187575) | El Dorado Hills; Stanford Ln, Governor Dr | 1,348 |
 | [1187577](https://precinct.netpress.com/#09-1187577) | El Dorado Hills; Brisbane Cir, Springburn Way | 1,056 |
 | [1187579](https://precinct.netpress.com/#09-1187579) | El Dorado Hills; Meadow Wood Dr, Serrano Pkwy | 893 |
-| [1187581](https://precinct.netpress.com/#09-1187581) |  | 5 |
+| [1187581](https://precinct.netpress.com/#09-1187581) | El Dorado Hills; near Bates Cir | 5 |
 | [1487501](https://precinct.netpress.com/#09-1487501) | El Dorado Hills; Folsom Lake, Access Rd | 0 |
 | [1487504](https://precinct.netpress.com/#09-1487504) | New York Ravine | 12 |
-| [1487507](https://precinct.netpress.com/#09-1487507) |  | 0 |
+| [1487507](https://precinct.netpress.com/#09-1487507) | Along Lakehills Dr | 0 |
 | [1487510](https://precinct.netpress.com/#09-1487510) | El Dorado Hills; Jason Ln, Old Green Valley Rd | 2 |
-| [1487513](https://precinct.netpress.com/#09-1487513) |  | 8 |
+| [1487513](https://precinct.netpress.com/#09-1487513) | Along Old Green Valley Rd | 8 |
 | [1487516](https://precinct.netpress.com/#09-1487516) | El Dorado Hills and Cameron Park; Old Green Valley Rd, Sandhurst Hill Rd | 9 |
 | [2037501](https://precinct.netpress.com/#09-2037501) | Cameron Park and El Dorado Hills; Pryor Dr, Bridger Dr | 101 |
 | [2037507](https://precinct.netpress.com/#09-2037507) | Cameron Park; Gateway Dr, Winterhaven Dr | 1,371 |
 | [2037510](https://precinct.netpress.com/#09-2037510) | Cameron Park; Mira Loma Dr, Alhambra Dr | 1,341 |
 | [2037513](https://precinct.netpress.com/#09-2037513) | Cameron Park; Royal Park Dr, Waverly Dr | 815 |
 | [2037516](https://precinct.netpress.com/#09-2037516) | Cameron Park and El Dorado Hills; Woodleigh Ln, Wilkinson Rd | 1,660 |
-| [2037519](https://precinct.netpress.com/#09-2037519) |  | 0 |
+| [2037519](https://precinct.netpress.com/#09-2037519) | Along Robles Ct | 0 |
 | [2037522](https://precinct.netpress.com/#09-2037522) | Cameron Park; Boeing Rd, Western Dr | 223 |
 | [2037525](https://precinct.netpress.com/#09-2037525) | Cameron Park; Oxford Rd, Sudbury Rd | 1,027 |
 | [2037528](https://precinct.netpress.com/#09-2037528) | Cameron Park and Shingle Springs; Sinclair Dr, Braemer Dr | 260 |
@@ -80,8 +80,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2037552](https://precinct.netpress.com/#09-2037552) | Cameron Park and El Dorado Hills; Knollwood Dr, Kimberly Rd | 1,553 |
 | [2157501](https://precinct.netpress.com/#09-2157501) | Freshwater Ln, Sand Ridge Rd, Tripp Rd | 372 |
 | [2157504](https://precinct.netpress.com/#09-2157504) | Quartz Dr, Stope Way, Patriot Rd | 125 |
-| [2157510](https://precinct.netpress.com/#09-2157510) |  | 6 |
-| [2157513](https://precinct.netpress.com/#09-2157513) |  | 2 |
+| [2157510](https://precinct.netpress.com/#09-2157510) | Near State Hwy 49 | 6 |
+| [2157513](https://precinct.netpress.com/#09-2157513) | Along Crystal Blvd | 2 |
 | [2157519](https://precinct.netpress.com/#09-2157519) | Crystal Blvd, Oak Ridge Cir, Sodalite St | 639 |
 | [2187501](https://precinct.netpress.com/#09-2187501) | El Dorado Hills; Sunbella St, Nicola St | 102 |
 | [2187504](https://precinct.netpress.com/#09-2187504) | El Dorado Hills; Calypso Cir, Carson Crossings Dr | 1,835 |
@@ -99,9 +99,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2187540](https://precinct.netpress.com/#09-2187540) | El Dorado Hills; Ryan Ranch Rd, Beaver Pond Rd | 135 |
 | [2187549](https://precinct.netpress.com/#09-2187549) | El Dorado Hills | 0 |
 | [2273103](https://precinct.netpress.com/#09-2273103) | Sweeney Rd, Sweeney Dr, Casa Contenta Dr | 296 |
-| [2273106](https://precinct.netpress.com/#09-2273106) |  | 0 |
-| [2273109](https://precinct.netpress.com/#09-2273109) |  | 0 |
-| [2273112](https://precinct.netpress.com/#09-2273112) |  | 0 |
+| [2273106](https://precinct.netpress.com/#09-2273106) | Near Happy Valley Rd | 0 |
+| [2273109](https://precinct.netpress.com/#09-2273109) | Near Happy Valley Rd | 0 |
+| [2273112](https://precinct.netpress.com/#09-2273112) | Near Eagle Canyon Rd | 0 |
 | [2273115](https://precinct.netpress.com/#09-2273115) | Sciaroni Rd, Marshall Mine Rd, Mehaney Ranch Rd | 0 |
 | [2273118](https://precinct.netpress.com/#09-2273118) | Grizzly Flats; Capps Crossing Rd, Big Canyon Loop Rd | 288 |
 | [2273121](https://precinct.netpress.com/#09-2273121) | Grizzly Flats; Winding Way, Blue Mountain Dr | 381 |
@@ -126,24 +126,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2337510](https://precinct.netpress.com/#09-2337510) | Bonnetti Rd, Whiplash Way | 10 |
 | [2337515](https://precinct.netpress.com/#09-2337515) | Thunder Ln, Gild Creek Rd, Cothrin Ranch Rd | 167 |
 | [2337516](https://precinct.netpress.com/#09-2337516) | El Dorado Hills; Grazing Hill Rd, Cothrin Ranch Rd | 255 |
-| [2337519](https://precinct.netpress.com/#09-2337519) |  | 2 |
+| [2337519](https://precinct.netpress.com/#09-2337519) | Near Summer Creek Ct | 2 |
 | [2337522](https://precinct.netpress.com/#09-2337522) | Fernwood Dr, Bullard Dr, Fernwood Loop | 77 |
 | [2337525](https://precinct.netpress.com/#09-2337525) | El Dorado Hills; Top Rail Ct, Top Rail Ln | 24 |
 | [2337528](https://precinct.netpress.com/#09-2337528) | El Dorado Hills; Barnett Ranch Rd, Steeple Chase Dr | 510 |
 | [2453101](https://precinct.netpress.com/#09-2453101) | Iron Mountain Rd, N South Rd | 1 |
 | [2487501](https://precinct.netpress.com/#09-2487501) | Cameron Park; Foxmore Ln, Lambeth Dr | 307 |
-| [2487504](https://precinct.netpress.com/#09-2487504) |  | 0 |
+| [2487504](https://precinct.netpress.com/#09-2487504) | Cameron Park; near Bass Lake Rd | 0 |
 | [2517501](https://precinct.netpress.com/#09-2517501) | Carousel Ln, Veld Way | 27 |
-| [2517504](https://precinct.netpress.com/#09-2517504) | Cameron Park | 1 |
+| [2517504](https://precinct.netpress.com/#09-2517504) | Cameron Park; along Cayente Way | 1 |
 | [2517507](https://precinct.netpress.com/#09-2517507) | El Dorado Hills; Jubilee Trl, La Casa Dr | 215 |
 | [2517510](https://precinct.netpress.com/#09-2517510) | Cameron Park and El Dorado Hills; Shingle Lime Mine Rd, Deer Creek Rd | 2 |
 | [2517513](https://precinct.netpress.com/#09-2517513) | French Creek Rd, Larelyn Ln, Hidden Cir | 163 |
-| [2517514](https://precinct.netpress.com/#09-2517514) |  | 0 |
+| [2517514](https://precinct.netpress.com/#09-2517514) | Near Big Canyon Rd | 0 |
 | [2517516](https://precinct.netpress.com/#09-2517516) | Brandon Rd | 3 |
 | [2573103](https://precinct.netpress.com/#09-2573103) | Dollhouse Rd, Happy Valley Cutoff Rd, Brewers Hill Rd | 248 |
 | [2573106](https://precinct.netpress.com/#09-2573106) | Vogelsang Ln, Mount Aukum Rd, Eagle Canyon Rd | 37 |
 | [2573109](https://precinct.netpress.com/#09-2573109) | Oak Leaf Cir, Nawi Trl, Oak Leaf Ct | 109 |
-| [2577102](https://precinct.netpress.com/#09-2577102) |  | 0 |
+| [2577102](https://precinct.netpress.com/#09-2577102) | Near Bucks Bar Cir | 0 |
 | [2577105](https://precinct.netpress.com/#09-2577105) | Bucks Bar Rd | 1 |
 | [2577108](https://precinct.netpress.com/#09-2577108) | Silver Ridge Ln, Paramount Pass, Cumberland Trl | 133 |
 | [2577111](https://precinct.netpress.com/#09-2577111) | Co Hwy 116 | 6 |
@@ -157,12 +157,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3067111](https://precinct.netpress.com/#09-3067111) | Camino; Larsen Dr, Crystal Springs Rd | 914 |
 | [3067112](https://precinct.netpress.com/#09-3067112) | Camino; Mill Pond, Blakeley Reservoir | 328 |
 | [3067113](https://precinct.netpress.com/#09-3067113) | Cable Rd, Slab Creek Resv Rd, Forebay Rd | 148 |
-| [3067114](https://precinct.netpress.com/#09-3067114) |  | 4 |
+| [3067114](https://precinct.netpress.com/#09-3067114) | Along N Canyon Rd | 4 |
 | [3067501](https://precinct.netpress.com/#09-3067501) | Pocket Mine Rd, Holland Dr, Kona Dr | 94 |
 | [3067502](https://precinct.netpress.com/#09-3067502) | Hassler Rd, Mount Olympus Dr, Old Hassler Creek Ln | 170 |
 | [3067504](https://precinct.netpress.com/#09-3067504) | Mosquito Rd, Union Ridge Rd, Fruitridge Rd | 610 |
 | [3067505](https://precinct.netpress.com/#09-3067505) | Mosquito Rd, Dancing Oaks Rd, Keeble Ln | 32 |
-| [3067506](https://precinct.netpress.com/#09-3067506) |  | 0 |
+| [3067506](https://precinct.netpress.com/#09-3067506) | Near Union Ridge Rd | 0 |
 | [3067507](https://precinct.netpress.com/#09-3067507) | Mountain Way, Prosperity Ln, Church Ranch Rd | 0 |
 | [3097501](https://precinct.netpress.com/#09-3097501) | Diana St, Bryan Way, Old Toll Rd | 574 |
 | [3097502](https://precinct.netpress.com/#09-3097502) | Mariposite Ln, Bedford Ave | 30 |
@@ -178,7 +178,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3157511](https://precinct.netpress.com/#09-3157511) | Diamond Springs; Forni Rd, China Garden Rd | 645 |
 | [3157513](https://precinct.netpress.com/#09-3157513) | Diamond Springs; Enterprise Dr, Lindberg Ave | 1,082 |
 | [3157516](https://precinct.netpress.com/#09-3157516) | Clarion Ct | 27 |
-| [3157519](https://precinct.netpress.com/#09-3157519) | Diamond Springs | 11 |
+| [3157519](https://precinct.netpress.com/#09-3157519) | Diamond Springs; along Main St and Pleasant Valley Rd | 11 |
 | [3157520](https://precinct.netpress.com/#09-3157520) | El Dorado St, Toyan Dr, Petersen Ct | 11 |
 | [3157522](https://precinct.netpress.com/#09-3157522) | Diamond Springs; N Circle Dr, Canyon Valley Rd | 1,262 |
 | [3157525](https://precinct.netpress.com/#09-3157525) | Diamond Springs; Forest Lake Rd, Cappella Dr | 1,132 |
@@ -193,7 +193,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3157546](https://precinct.netpress.com/#09-3157546) | Diamond Springs; E China Hill Rd, Tioga Ln | 138 |
 | [3157549](https://precinct.netpress.com/#09-3157549) | Diamond Springs; Sierra Oaks Dr, Spreading Oak Ln | 85 |
 | [3427501](https://precinct.netpress.com/#09-3427501) | Placerville; Mallard Ln, McIntosh Dr | 339 |
-| [3427504](https://precinct.netpress.com/#09-3427504) |  | 0 |
+| [3427504](https://precinct.netpress.com/#09-3427504) | Along Caswell Ct | 0 |
 | [3427507](https://precinct.netpress.com/#09-3427507) | Placerville; Placerville Dr, Fair Ln | 1,176 |
 | [3427510](https://precinct.netpress.com/#09-3427510) | Placerville; Combellac Rd, Oak Crest Cir | 943 |
 | [3427513](https://precinct.netpress.com/#09-3427513) | Placerville; Tunnel St, Bedford Ave | 907 |
@@ -209,10 +209,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3547102](https://precinct.netpress.com/#09-3547102) | Smith Flat School Rd, Jacquier Rd, Parkway Dr | 39 |
 | [3547103](https://precinct.netpress.com/#09-3547103) | Camino; Ivy Knoll Dr, Newtown Rd | 343 |
 | [3547104](https://precinct.netpress.com/#09-3547104) | Fort Jim Rd, Deer Canyon Rd, Newtown Rd | 297 |
-| [3547106](https://precinct.netpress.com/#09-3547106) |  | 2 |
+| [3547106](https://precinct.netpress.com/#09-3547106) | Near Ivy Knoll Dr | 2 |
 | [3547109](https://precinct.netpress.com/#09-3547109) | Jim Valley Rd, Jimtown Way, Green Canyon Rd | 44 |
-| [3547110](https://precinct.netpress.com/#09-3547110) |  | 0 |
-| [3547112](https://precinct.netpress.com/#09-3547112) |  | 0 |
+| [3547110](https://precinct.netpress.com/#09-3547110) | Near Jim Valley Rd | 0 |
+| [3547112](https://precinct.netpress.com/#09-3547112) | Near Fairover Dr | 0 |
 | [3547501](https://precinct.netpress.com/#09-3547501) | Carson Rd, Glenview Dr, Big Barn Rd | 569 |
 | [3547502](https://precinct.netpress.com/#09-3547502) | Placerville; Upper Reservoir, Coon Hollow Rd | 635 |
 | [3547504](https://precinct.netpress.com/#09-3547504) | Texas Hill Rd, Gingham Ct, Fairover Dr | 181 |
@@ -233,7 +233,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3577504](https://precinct.netpress.com/#09-3577504) | Horizon Dr, Brandy Ln, High Lonesome Trl | 136 |
 | [3577507](https://precinct.netpress.com/#09-3577507) | Metate Trl, Nashville Trl, Calamity Ln | 105 |
 | [3577510](https://precinct.netpress.com/#09-3577510) | Jackrabbit Ct, Jackrabbit Dr | 4 |
-| [3577513](https://precinct.netpress.com/#09-3577513) |  | 0 |
+| [3577513](https://precinct.netpress.com/#09-3577513) | Near Puma Point Ln | 0 |
 | [4037501](https://precinct.netpress.com/#09-4037501) | Cameron Park; Royce Dr, Bentley Dr | 495 |
 | [4063101](https://precinct.netpress.com/#09-4063101) | Blodgett Forest Rd, Spring Rd, Sand Mt Blvd | 2 |
 | [4097103](https://precinct.netpress.com/#09-4097103) | South Fork American River, Rock Creek Rd, Mule Skinner Rd | 3 |
@@ -247,7 +247,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4127504](https://precinct.netpress.com/#09-4127504) | Oleander Ln, Monty Mine Trl, Pawprint Path | 148 |
 | [4127507](https://precinct.netpress.com/#09-4127507) | Luneman Rd, Arrowbee Dr, Hidden Lake Dr | 1,296 |
 | [4127510](https://precinct.netpress.com/#09-4127510) | El Largo Dr, W El Largo Dr, Stags Leap Rd | 21 |
-| [4127511](https://precinct.netpress.com/#09-4127511) |  | 0 |
+| [4127511](https://precinct.netpress.com/#09-4127511) | Near Lilyama Rd | 0 |
 | [4127513](https://precinct.netpress.com/#09-4127513) | Hillock Dr, Lakeview Dr, Saddleback Ct | 56 |
 | [4127514](https://precinct.netpress.com/#09-4127514) | Bacchi Rd, Prospectors Rd | 18 |
 | [4127515](https://precinct.netpress.com/#09-4127515) | Teal Pond Rd, Teal Pond Ct, Sundown Trl | 19 |
@@ -277,13 +277,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4157510](https://precinct.netpress.com/#09-4157510) | Diamond Springs; Mortara Cir, Bear Ct | 60 |
 | [4157513](https://precinct.netpress.com/#09-4157513) | Dragon Springs Rd, Mulberry Ln, Oak Ridge Rd | 135 |
 | [4157516](https://precinct.netpress.com/#09-4157516) | Diamond Springs; Sundance Trl, White Oak Ridge Rd | 92 |
-| [4157519](https://precinct.netpress.com/#09-4157519) |  | 2 |
+| [4157519](https://precinct.netpress.com/#09-4157519) | Near El Dorado Fwy | 2 |
 | [4157522](https://precinct.netpress.com/#09-4157522) | Spice Ln, Secluded Way, Marybelle Ln | 12 |
 | [4157525](https://precinct.netpress.com/#09-4157525) | Diamond Springs; Merchant Cir, Kingvale Rd | 228 |
 | [4157526](https://precinct.netpress.com/#09-4157526) | Diamond Springs; Studebaker Rd, Fawn St | 265 |
 | [4157528](https://precinct.netpress.com/#09-4157528) | Bumper Rd, Concept Mountain Rd, Kingvale Ct | 88 |
 | [4157529](https://precinct.netpress.com/#09-4157529) | Irish Port Ln | 1 |
-| [4187501](https://precinct.netpress.com/#09-4187501) |  | 5 |
+| [4187501](https://precinct.netpress.com/#09-4187501) | El Dorado Hills; near Salmon Falls Rd | 5 |
 | [4187504](https://precinct.netpress.com/#09-4187504) | El Dorado Hills; Uplands Dr, Green Valley Rd | 218 |
 | [4213102](https://precinct.netpress.com/#09-4213102) | Flicker Way, Bear Creek Rd, Bar Bach Rd | 13 |
 | [4213105](https://precinct.netpress.com/#09-4213105) | Bear Creek Rd, Darling Cabin Rd, Piper Ln | 56 |
@@ -292,13 +292,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4217140](https://precinct.netpress.com/#09-4217140) | Dark Canyon Rd, Twisting Trails Rd, Howards Crossing Rd | 131 |
 | [4217143](https://precinct.netpress.com/#09-4217143) | Meadowbrook Rd, Wabasso Ln, Cairndale Ln | 241 |
 | [4217501](https://precinct.netpress.com/#09-4217501) | Syd Rd, Coon Creek Rd, Hoboken Creek Rd | 376 |
-| [4217504](https://precinct.netpress.com/#09-4217504) |  | 0 |
+| [4217504](https://precinct.netpress.com/#09-4217504) | Near Magic Ring Rd | 0 |
 | [4217510](https://precinct.netpress.com/#09-4217510) | Georgetown; Andy Wolf Rd, Rd 878 | 1,289 |
 | [4217513](https://precinct.netpress.com/#09-4217513) | Coloma; Prospectors Rd, Widowmaker Rd | 45 |
 | [4217516](https://precinct.netpress.com/#09-4217516) | Terra Vw Lp, Tara Vw Lp, Mount Murphy Rd | 7 |
 | [4217519](https://precinct.netpress.com/#09-4217519) | Hancock Rd, Johntown Creek Rd, Sailor Ridge Rd | 133 |
 | [4217522](https://precinct.netpress.com/#09-4217522) | Chrysler Cir, Lazy Brook Trl, Lynx Ridge Rd | 133 |
-| [4217525](https://precinct.netpress.com/#09-4217525) |  | 0 |
+| [4217525](https://precinct.netpress.com/#09-4217525) | Near Johntown Creek Rd | 0 |
 | [4217531](https://precinct.netpress.com/#09-4217531) | Sea Ranch Rd, Twin Ridges Rd | 0 |
 | [4217534](https://precinct.netpress.com/#09-4217534) | Bayne Rd, Stewart Mine Rd, Garden Park Dr | 713 |
 | [4217537](https://precinct.netpress.com/#09-4217537) | Ave Chateau, Sourdough Trl | 6 |
@@ -342,7 +342,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4487519](https://precinct.netpress.com/#09-4487519) | Sweet Valley Rd | 2 |
 | [4487522](https://precinct.netpress.com/#09-4487522) | Sweet Valley Rd | 24 |
 | [4487528](https://precinct.netpress.com/#09-4487528) | El Dorado Hills and Cameron Park; Deer Valley Rd, Green Valley Rd | 1,359 |
-| [4487529](https://precinct.netpress.com/#09-4487529) |  | 2 |
+| [4487529](https://precinct.netpress.com/#09-4487529) | Near Green Valley Rd | 2 |
 | [4487531](https://precinct.netpress.com/#09-4487531) | Woodsman Rd, Octagon Pl, Jurgens Rd | 2 |
 | [4487534](https://precinct.netpress.com/#09-4487534) | Cameron Park; Travois Cir, Silverleaf Dr | 77 |
 | [4487537](https://precinct.netpress.com/#09-4487537) | Cameron Park; Aquamarine Cir, Tourmaline Way | 270 |
@@ -351,11 +351,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4487546](https://precinct.netpress.com/#09-4487546) | Old Meder Rd | 12 |
 | [4487549](https://precinct.netpress.com/#09-4487549) | Shingle Springs; Carlson Dr, Ponderosa Rd | 597 |
 | [4487550](https://precinct.netpress.com/#09-4487550) | Dunnings Rd, Sabre Ct, Bugle Ct | 24 |
-| [4487552](https://precinct.netpress.com/#09-4487552) |  | 7 |
+| [4487552](https://precinct.netpress.com/#09-4487552) | Along Oak Lane Dr and Dos Vistas Dr | 7 |
 | [4487555](https://precinct.netpress.com/#09-4487555) | Black Oak Rd, Black Oak Dr, Wintercrest Ln | 58 |
 | [4487558](https://precinct.netpress.com/#09-4487558) | Cameron Park; Walnut Dr, Valley View Rd | 155 |
-| [4487561](https://precinct.netpress.com/#09-4487561) |  | 0 |
-| [4487562](https://precinct.netpress.com/#09-4487562) |  | 2 |
+| [4487561](https://precinct.netpress.com/#09-4487561) | Near Black Oak Rd | 0 |
+| [4487562](https://precinct.netpress.com/#09-4487562) | Near N Shingle Rd | 2 |
 | [4487564](https://precinct.netpress.com/#09-4487564) | Rolling Ranch Rd, Rosa Ln | 50 |
 | [4487567](https://precinct.netpress.com/#09-4487567) | Kenworth Dr, Peaceful Garden Way, Motto Ln | 397 |
 | [4487568](https://precinct.netpress.com/#09-4487568) | Dry Creek Rd, Alpine View Dr, Kelley Creek Ln | 50 |
@@ -383,7 +383,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4517534](https://precinct.netpress.com/#09-4517534) | Shingle Springs; Many Oaks Ln, Calderwood Rd | 232 |
 | [4517537](https://precinct.netpress.com/#09-4517537) | Idle Creek Dr, Creekside Ct, Creekside Dr | 4 |
 | [4517540](https://precinct.netpress.com/#09-4517540) | Shingle Springs; Product Dr, Business Dr | 175 |
-| [4517543](https://precinct.netpress.com/#09-4517543) |  | 0 |
+| [4517543](https://precinct.netpress.com/#09-4517543) | Shingle Springs; near Lakeview Dr | 0 |
 | [4517546](https://precinct.netpress.com/#09-4517546) | Shingle Springs; Lakeview Dr, Presley Ln | 153 |
 | [4517549](https://precinct.netpress.com/#09-4517549) | Shingle Springs; Hillwood Dr, Woodside Way | 307 |
 | [4517552](https://precinct.netpress.com/#09-4517552) | Creekside Dr, Deloris Rd, Holly Dr | 82 |
@@ -413,14 +413,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5453134](https://precinct.netpress.com/#09-5453134) | Shealor Lakes, Iron Mountain Rd, Mormon Emigrant Trl | 20 |
 | [5573101](https://precinct.netpress.com/#09-5573101) | Pennyroyal Dr, Begonia Dr, Sly Park Rd | 294 |
 | [5603101](https://precinct.netpress.com/#09-5603101) | South Lake Tahoe; Saddle Rd, Keller Rd | 998 |
-| [5603104](https://precinct.netpress.com/#09-5603104) |  | 4 |
+| [5603104](https://precinct.netpress.com/#09-5603104) | Along Frontier Ct | 4 |
 | [5603110](https://precinct.netpress.com/#09-5603110) | South Lake Tahoe; Azure Ave, Meadow Rd | 834 |
 | [5603113](https://precinct.netpress.com/#09-5603113) | South Lake Tahoe; Blackwood Rd, Johnson Blvd | 1,107 |
 | [5603116](https://precinct.netpress.com/#09-5603116) | South Lake Tahoe; Fairway Dr | 0 |
 | [5603119](https://precinct.netpress.com/#09-5603119) | South Lake Tahoe; Al Tahoe Blvd, Johnson Blvd | 1 |
 | [5603122](https://precinct.netpress.com/#09-5603122) | South Lake Tahoe; Glenwood Way, Walkup Rd | 888 |
 | [5603125](https://precinct.netpress.com/#09-5603125) | South Lake Tahoe; Sacramento Ave, San Francisco Ave | 1,275 |
-| [5603128](https://precinct.netpress.com/#09-5603128) | South Lake Tahoe | 0 |
+| [5603128](https://precinct.netpress.com/#09-5603128) | South Lake Tahoe; along Macinaw St | 0 |
 | [5603131](https://precinct.netpress.com/#09-5603131) | South Lake Tahoe; Springwood Dr, Ruth Ave | 1,017 |
 | [5603134](https://precinct.netpress.com/#09-5603134) | South Lake Tahoe; Venice Dr, Sailing Lagoon | 1,020 |
 | [5603137](https://precinct.netpress.com/#09-5603137) | South Lake Tahoe; Tahoe Island Dr, Anita Dr | 936 |
@@ -428,8 +428,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5603143](https://precinct.netpress.com/#09-5603143) | South Lake Tahoe; College Ave, Al Tahoe Blvd | 12 |
 | [5603146](https://precinct.netpress.com/#09-5603146) | South Lake Tahoe; Knox Ave, William Ave | 758 |
 | [5603149](https://precinct.netpress.com/#09-5603149) | South Lake Tahoe; Melba Dr, Winnemucca Ave | 423 |
-| [5603152](https://precinct.netpress.com/#09-5603152) | South Lake Tahoe | 3 |
-| [5603155](https://precinct.netpress.com/#09-5603155) | South Lake Tahoe | 2 |
+| [5603152](https://precinct.netpress.com/#09-5603152) | South Lake Tahoe; along South Ave | 3 |
+| [5603155](https://precinct.netpress.com/#09-5603155) | South Lake Tahoe; along Winnemucca Ave and Meadow Crest Dr | 2 |
 | [5603158](https://precinct.netpress.com/#09-5603158) | South Lake Tahoe; Bonanza Ave, D St | 1,185 |
 | [5603161](https://precinct.netpress.com/#09-5603161) | South Lake Tahoe | 0 |
 | [5603164](https://precinct.netpress.com/#09-5603164) | South Lake Tahoe; Gardner St, Clement Ave | 27 |
@@ -444,7 +444,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5633119](https://precinct.netpress.com/#09-5633119) | Sierra Ski Ranch Rd, Lake Audrian, Sayles Canyon Trl | 24 |
 | [5633121](https://precinct.netpress.com/#09-5633121) | Lake Margaret, Cody Meadows | 0 |
 | [5633127](https://precinct.netpress.com/#09-5633127) | Black Bart Ave, Golden Bear Trl, Plateau Cir | 701 |
-| [5633129](https://precinct.netpress.com/#09-5633129) |  | 0 |
+| [5633129](https://precinct.netpress.com/#09-5633129) | Along Winnemucca Ave and Silver Tip Ave | 0 |
 | [5633131](https://precinct.netpress.com/#09-5633131) | Pioneer Trl, Onnontioga St, Washoan Blvd | 846 |
 | [5633133](https://precinct.netpress.com/#09-5633133) | Meadow Vale Dr, Pebble Beach Rd, Pebble Beach Dr | 228 |
 | [5633135](https://precinct.netpress.com/#09-5633135) | Cascade Lake, Lake Tahoe Blvd, Sawmill Rd | 757 |
@@ -453,8 +453,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5633151](https://precinct.netpress.com/#09-5633151) | Lily Lake | 0 |
 | [5633153](https://precinct.netpress.com/#09-5633153) | Fallen Leaf Lake, Fallen Leaf Rd, Lily Lake | 43 |
 | [5633155](https://precinct.netpress.com/#09-5633155) | Cascade Rd, Sugar Pine Rd, Lake Tahoe | 11 |
-| [5633157](https://precinct.netpress.com/#09-5633157) |  | 0 |
+| [5633157](https://precinct.netpress.com/#09-5633157) | Near State Hwy 89 | 0 |
 | [5663101](https://precinct.netpress.com/#09-5663101) | Tahoma; Mc Kinney Rd, Miami Ave | 21 |
 | [5663104](https://precinct.netpress.com/#09-5663104) | Tahoma; S Fire Rd, N Fire Rd | 597 |
 | [5663107](https://precinct.netpress.com/#09-5663107) | Lester Beach Rd, Lake Tahoe | 1 |
-| [5663110](https://precinct.netpress.com/#09-5663110) |  | 4 |
+| [5663110](https://precinct.netpress.com/#09-5663110) | Near Crest Dr | 4 |

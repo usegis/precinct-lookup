@@ -51,7 +51,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [203400](https://precinct.netpress.com/#01-203400) | Berkeley; Linden Ave, Claremont Cres | 666 |
 | [203500](https://precinct.netpress.com/#01-203500) | Berkeley; Garber St, Belrose Ave | 788 |
 | [203800](https://precinct.netpress.com/#01-203800) | Berkeley; Bateman St, Dowling Pl | 788 |
-| [203880](https://precinct.netpress.com/#01-203880) |  | 33 |
+| [203880](https://precinct.netpress.com/#01-203880) | Oakland; near Dana St | 33 |
 | [203900](https://precinct.netpress.com/#01-203900) | Berkeley | 90 |
 | [204000](https://precinct.netpress.com/#01-204000) | Berkeley; Russell St, Hillegass Ave | 219 |
 | [204100](https://precinct.netpress.com/#01-204100) | Berkeley; Martin Luther King Jr Way, Josephine St | 480 |
@@ -65,7 +65,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [204310](https://precinct.netpress.com/#01-204310) | Berkeley; Ellsworth St, Deakin St | 447 |
 | [204510](https://precinct.netpress.com/#01-204510) | Berkeley; Derby St, Ellsworth St | 548 |
 | [204600](https://precinct.netpress.com/#01-204600) | Berkeley; Blake St, Dana St | 148 |
-| [204610](https://precinct.netpress.com/#01-204610) | Berkeley | 101 |
+| [204610](https://precinct.netpress.com/#01-204610) | Berkeley; along Dana St | 101 |
 | [204620](https://precinct.netpress.com/#01-204620) | Berkeley; Chilton Way | 81 |
 | [204900](https://precinct.netpress.com/#01-204900) | Berkeley; Dwight Way, Haste St | 486 |
 | [204910](https://precinct.netpress.com/#01-204910) | Berkeley; Telegraph Ave | 232 |
@@ -91,8 +91,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [206700](https://precinct.netpress.com/#01-206700) | Berkeley; Vine St, Henry St | 121 |
 | [206710](https://precinct.netpress.com/#01-206710) | Berkeley; Vine St, Milvia St | 349 |
 | [206720](https://precinct.netpress.com/#01-206720) | Berkeley; Shattuck Ave, Vine St | 198 |
-| [206730](https://precinct.netpress.com/#01-206730) | Berkeley | 133 |
-| [206800](https://precinct.netpress.com/#01-206800) | Berkeley | 231 |
+| [206730](https://precinct.netpress.com/#01-206730) | Berkeley; along Cedar St | 133 |
+| [206800](https://precinct.netpress.com/#01-206800) | Berkeley; along Hearst Ave | 231 |
 | [206900](https://precinct.netpress.com/#01-206900) | Berkeley; Delaware St, Milvia St | 784 |
 | [207000](https://precinct.netpress.com/#01-207000) | Berkeley; Carlotta Ave, Hopkins St | 671 |
 | [207010](https://precinct.netpress.com/#01-207010) | Berkeley; Josephine St, Grant St | 425 |
@@ -120,7 +120,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [208400](https://precinct.netpress.com/#01-208400) | Berkeley; Russell St, Grant St | 879 |
 | [208410](https://precinct.netpress.com/#01-208410) | Berkeley; Derby St, Carleton St | 443 |
 | [208420](https://precinct.netpress.com/#01-208420) | Berkeley; Blake St, Ellsworth St | 326 |
-| [208430](https://precinct.netpress.com/#01-208430) | Berkeley | 190 |
+| [208430](https://precinct.netpress.com/#01-208430) | Berkeley; along Blake St and Shattuck Ave | 190 |
 | [208500](https://precinct.netpress.com/#01-208500) | Berkeley; Fulton St, Parker St | 567 |
 | [208510](https://precinct.netpress.com/#01-208510) | Berkeley; Adeline St, Otis St | 529 |
 | [208600](https://precinct.netpress.com/#01-208600) | Berkeley; Deakin St, Woolsey St | 389 |
@@ -217,7 +217,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [224400](https://precinct.netpress.com/#01-224400) | Oakland; Glen Park Rd, Allman St | 253 |
 | [224410](https://precinct.netpress.com/#01-224410) | Oakland; Montana St, Adell Ct | 492 |
 | [224420](https://precinct.netpress.com/#01-224420) | Oakland; Bienati Way, Dimond Ave | 47 |
-| [224440](https://precinct.netpress.com/#01-224440) | Oakland | 56 |
+| [224440](https://precinct.netpress.com/#01-224440) | Oakland; along Adell Ct and Montana St | 56 |
 | [224500](https://precinct.netpress.com/#01-224500) | Oakland; Canon Ave, Elston Ave | 939 |
 | [224600](https://precinct.netpress.com/#01-224600) | Oakland; Hampel St, Randolph Ave | 814 |
 | [224800](https://precinct.netpress.com/#01-224800) | Oakland; Forest Hill Ave, Coloma St | 924 |
@@ -267,7 +267,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [260300](https://precinct.netpress.com/#01-260300) | Albany; Cerrito St, Buchanan St | 434 |
 | [260400](https://precinct.netpress.com/#01-260400) | Albany; Adams St, Madison St | 820 |
 | [260600](https://precinct.netpress.com/#01-260600) | Albany; Pierce St, Cleveland Ave | 919 |
-| [260610](https://precinct.netpress.com/#01-260610) | Albany | 935 |
+| [260610](https://precinct.netpress.com/#01-260610) | Albany; along Pierce St | 935 |
 | [260800](https://precinct.netpress.com/#01-260800) | Albany; Brighton Ave, Kains Ave | 930 |
 | [260900](https://precinct.netpress.com/#01-260900) | Albany; Key Route Blvd, Spokane Ave | 971 |
 | [261000](https://precinct.netpress.com/#01-261000) | Albany; Santa Fe Ave, San Carlos Ave | 968 |
@@ -407,8 +407,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [333440](https://precinct.netpress.com/#01-333440) | Oakland; Embarcadero W, Oakland Inner Hbr | 454 |
 | [333450](https://precinct.netpress.com/#01-333450) | Oakland; Franklin St, Broadway | 162 |
 | [333460](https://precinct.netpress.com/#01-333460) | Oakland; Embarcadero W, Alice St | 200 |
-| [333470](https://precinct.netpress.com/#01-333470) | Oakland | 127 |
-| [333480](https://precinct.netpress.com/#01-333480) | Oakland | 0 |
+| [333470](https://precinct.netpress.com/#01-333470) | Oakland; along Webster St Tube and Franklin St | 127 |
+| [333480](https://precinct.netpress.com/#01-333480) | Oakland; along Water St and Franklin St | 0 |
 | [333500](https://precinct.netpress.com/#01-333500) | Oakland; Hanover Ave, Stow Ave | 613 |
 | [333510](https://precinct.netpress.com/#01-333510) | Oakland; Lester Ave, Acton Pl | 786 |
 | [333600](https://precinct.netpress.com/#01-333600) | Oakland; 1st Ave, Lakeshore | 323 |
@@ -639,8 +639,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [380700](https://precinct.netpress.com/#01-380700) | Emeryville; La Coste St, Shellmound St | 642 |
 | [380800](https://precinct.netpress.com/#01-380800) | Emeryville; Christie Ave, Shellmound Way | 919 |
 | [394000](https://precinct.netpress.com/#01-394000) | Redwood Rd, Skyline Trl, Grass Valley Rd | 0 |
-| [394100](https://precinct.netpress.com/#01-394100) |  | 2 |
-| [394200](https://precinct.netpress.com/#01-394200) |  | 2 |
+| [394100](https://precinct.netpress.com/#01-394100) | Oakland; near Balmoral Dr | 2 |
+| [394200](https://precinct.netpress.com/#01-394200) | Oakland; near Redwood Rd | 2 |
 | [400100](https://precinct.netpress.com/#01-400100) | Oakland and San Leandro; Marlow Dr, Covington St | 745 |
 | [400200](https://precinct.netpress.com/#01-400200) | Oakland; Sun Valley Dr, Scotia Ave | 842 |
 | [400300](https://precinct.netpress.com/#01-400300) | Oakland; Elysian Fields Dr, Royal Oak Rd | 606 |
@@ -676,7 +676,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [415800](https://precinct.netpress.com/#01-415800) | Oakland; 105th Ave, Almanza Dr | 1,027 |
 | [415900](https://precinct.netpress.com/#01-415900) | Oakland; Catron Dr, Bergedo Dr | 627 |
 | [420010](https://precinct.netpress.com/#01-420010) | Hayward and San Lorenzo; W A St, Hathaway Ave | 0 |
-| [420020](https://precinct.netpress.com/#01-420020) | Hayward | 0 |
+| [420020](https://precinct.netpress.com/#01-420020) | Hayward; along Arbor Ave | 0 |
 | [420030](https://precinct.netpress.com/#01-420030) | Hayward; Happyland, Fuller Ave | 133 |
 | [420040](https://precinct.netpress.com/#01-420040) | Hayward; Old Oak Ln, Redwing Way | 188 |
 | [420050](https://precinct.netpress.com/#01-420050) | Hayward; Yolo St, Inyo St | 185 |
@@ -686,11 +686,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [420230](https://precinct.netpress.com/#01-420230) | Hayward; S Garden Ave, Victory Dr | 860 |
 | [420240](https://precinct.netpress.com/#01-420240) | Hayward and San Lorenzo; S Garden Ave | 0 |
 | [420250](https://precinct.netpress.com/#01-420250) | Hayward; Sueirro St, Hohener Ave | 494 |
-| [420260](https://precinct.netpress.com/#01-420260) |  | 45 |
+| [420260](https://precinct.netpress.com/#01-420260) | Along Marin Ave | 45 |
 | [420300](https://precinct.netpress.com/#01-420300) | Hayward; Clubhouse Dr, Sahara Rd | 206 |
 | [420310](https://precinct.netpress.com/#01-420310) | Hayward and San Lorenzo; Corsair Blvd, Golf Course Rd | 34 |
 | [420320](https://precinct.netpress.com/#01-420320) | Hayward; San Francisco Bay, W Winton Ave | 0 |
-| [420340](https://precinct.netpress.com/#01-420340) |  | 0 |
+| [420340](https://precinct.netpress.com/#01-420340) | Along W Winton Ave | 0 |
 | [420360](https://precinct.netpress.com/#01-420360) | Hayward; Incline Ct | 14 |
 | [420370](https://precinct.netpress.com/#01-420370) | Hayward; Castlewood Rd, Castlewood Ct | 5 |
 | [420400](https://precinct.netpress.com/#01-420400) | Barrington Ct, Cabot Blvd, W Winton Ave | 0 |
@@ -751,15 +751,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [423700](https://precinct.netpress.com/#01-423700) | Hayward; Sandoval Way, Huntwood Ave | 0 |
 | [423710](https://precinct.netpress.com/#01-423710) | Hayward; Chance St, Olympic Ave | 1,438 |
 | [423800](https://precinct.netpress.com/#01-423800) | Hayward; Zephyr Ave, Whipple Rd | 7 |
-| [423810](https://precinct.netpress.com/#01-423810) | Hayward | 0 |
+| [423810](https://precinct.netpress.com/#01-423810) | Hayward; along Whipple Rd | 0 |
 | [424000](https://precinct.netpress.com/#01-424000) | Hayward; Saint Andrews St, Hoylake St | 524 |
 | [424010](https://precinct.netpress.com/#01-424010) | Hayward; Rousseau St, Rivercrest Ln | 401 |
 | [424100](https://precinct.netpress.com/#01-424100) | Hayward; Treeview St, Vanderbilt St | 853 |
 | [424110](https://precinct.netpress.com/#01-424110) | Hayward; Arrowhead Way, Bridgeview Way | 1,061 |
 | [424200](https://precinct.netpress.com/#01-424200) | Hayward; Oakhill Way, Hershey Way | 60 |
-| [424210](https://precinct.netpress.com/#01-424210) |  | 15 |
+| [424210](https://precinct.netpress.com/#01-424210) | Hayward; near Carroll Ave | 15 |
 | [424300](https://precinct.netpress.com/#01-424300) | Hayward; Wheelon Ave, Meadowbrook Ave | 813 |
-| [424310](https://precinct.netpress.com/#01-424310) | Hayward | 42 |
+| [424310](https://precinct.netpress.com/#01-424310) | Hayward; along Carroll Ave | 42 |
 | [424400](https://precinct.netpress.com/#01-424400) | Hayward; Medinah St, Westchester St | 803 |
 | [424500](https://precinct.netpress.com/#01-424500) | Hayward; Hugh Way, Corrine St | 384 |
 | [424510](https://precinct.netpress.com/#01-424510) | Hayward; Chicoine Ave, Trevor Ave | 283 |
@@ -767,22 +767,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [430010](https://precinct.netpress.com/#01-430010) | San Lorenzo; Hathaway Ave | 0 |
 | [430020](https://precinct.netpress.com/#01-430020) | Hayward; Hathaway Ave | 0 |
 | [430100](https://precinct.netpress.com/#01-430100) | Hayward; Flagg St, Smalley Ave | 389 |
-| [430110](https://precinct.netpress.com/#01-430110) |  | 0 |
+| [430110](https://precinct.netpress.com/#01-430110) | Hayward; near A St | 0 |
 | [430120](https://precinct.netpress.com/#01-430120) | Hayward | 0 |
 | [430130](https://precinct.netpress.com/#01-430130) | Hayward; A St | 0 |
-| [430140](https://precinct.netpress.com/#01-430140) | Hayward | 0 |
+| [430140](https://precinct.netpress.com/#01-430140) | Hayward; along A St | 0 |
 | [430150](https://precinct.netpress.com/#01-430150) | Hayward | 0 |
 | [430160](https://precinct.netpress.com/#01-430160) | Hayward; Laurel Ave, Sunset Blvd | 5 |
 | [430170](https://precinct.netpress.com/#01-430170) | Hayward; Kingsford Way, Grand Ter | 580 |
 | [430200](https://precinct.netpress.com/#01-430200) | Hayward; Prospect St, Hotel Ave | 541 |
 | [430300](https://precinct.netpress.com/#01-430300) | Hayward; D St, C St | 40 |
-| [430410](https://precinct.netpress.com/#01-430410) |  | 8 |
+| [430410](https://precinct.netpress.com/#01-430410) | Hayward; near Sunset Blvd | 8 |
 | [430430](https://precinct.netpress.com/#01-430430) | Hayward; Westfield Ave, Western Blvd | 122 |
 | [430440](https://precinct.netpress.com/#01-430440) | Hayward | 2 |
 | [430450](https://precinct.netpress.com/#01-430450) | Hayward and Cherryland; Vallejo St | 4 |
-| [430460](https://precinct.netpress.com/#01-430460) |  | 10 |
+| [430460](https://precinct.netpress.com/#01-430460) | Hayward; near Sunset Blvd | 10 |
 | [430470](https://precinct.netpress.com/#01-430470) | Simon St | 3 |
-| [430500](https://precinct.netpress.com/#01-430500) |  | 2 |
+| [430500](https://precinct.netpress.com/#01-430500) | Cherryland; near Montgomery St | 2 |
 | [430510](https://precinct.netpress.com/#01-430510) | Hayward; Montgomery St | 96 |
 | [430600](https://precinct.netpress.com/#01-430600) | Hayward; Watkins St, City Walk Pl | 532 |
 | [430610](https://precinct.netpress.com/#01-430610) | Hayward; Sunset Blvd, Montgomery Ave | 730 |
@@ -798,7 +798,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [430810](https://precinct.netpress.com/#01-430810) | Russell Way | 72 |
 | [430820](https://precinct.netpress.com/#01-430820) | Hayward; N 3rd St, Crescent Ave | 0 |
 | [430860](https://precinct.netpress.com/#01-430860) | Hayward; Rockaway Ln, Dole Way | 66 |
-| [430870](https://precinct.netpress.com/#01-430870) | Hayward | 0 |
+| [430870](https://precinct.netpress.com/#01-430870) | Hayward; along City Center Dr | 0 |
 | [430880](https://precinct.netpress.com/#01-430880) | Hayward; Russell Way, A St | 89 |
 | [430900](https://precinct.netpress.com/#01-430900) | Hayward; Highway 238, C St | 703 |
 | [431100](https://precinct.netpress.com/#01-431100) | Hayward; Zaballos Ct, Templeton St | 821 |
@@ -815,12 +815,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [431500](https://precinct.netpress.com/#01-431500) | Hayward; Panda Way, Beaver Dr | 155 |
 | [431600](https://precinct.netpress.com/#01-431600) | Hayward; (Unnamed Alley), Laurentian Ln | 358 |
 | [431610](https://precinct.netpress.com/#01-431610) | E St | 51 |
-| [431620](https://precinct.netpress.com/#01-431620) |  | 16 |
+| [431620](https://precinct.netpress.com/#01-431620) | Along E St and Leisure Ter | 16 |
 | [431700](https://precinct.netpress.com/#01-431700) | Hayward and Fairview; 2nd St, Fawn Meadow Ln | 202 |
-| [431710](https://precinct.netpress.com/#01-431710) |  | 0 |
+| [431710](https://precinct.netpress.com/#01-431710) | Hayward; near 2nd St | 0 |
 | [431730](https://precinct.netpress.com/#01-431730) | Hayward and Fairview; Vista Greens Ct, Oakridge Ct | 85 |
-| [431740](https://precinct.netpress.com/#01-431740) |  | 2 |
-| [431750](https://precinct.netpress.com/#01-431750) |  | 4 |
+| [431740](https://precinct.netpress.com/#01-431740) | Along Campus Dr | 2 |
+| [431750](https://precinct.netpress.com/#01-431750) | Along 2nd St | 4 |
 | [431800](https://precinct.netpress.com/#01-431800) | Hayward; Fletcher Ln, Walpert St | 465 |
 | [431810](https://precinct.netpress.com/#01-431810) | Hayward; Carmelita Dr, Acacia Dr | 291 |
 | [431900](https://precinct.netpress.com/#01-431900) | Hayward; Garwood Glen Dr, Echo Springs Dr | 76 |
@@ -857,12 +857,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [433620](https://precinct.netpress.com/#01-433620) | Hayward; Drummond Dr, Carrick Cir | 489 |
 | [433630](https://precinct.netpress.com/#01-433630) | Hayward; Country Club Dr, Dunfirth Dr | 879 |
 | [433640](https://precinct.netpress.com/#01-433640) | Hayward; Country Club Dr | 30 |
-| [433650](https://precinct.netpress.com/#01-433650) |  | 0 |
+| [433650](https://precinct.netpress.com/#01-433650) | Hayward; near Country Club Dr | 0 |
 | [433700](https://precinct.netpress.com/#01-433700) | Hayward; University Ct, Hayward Ct | 1,125 |
 | [433710](https://precinct.netpress.com/#01-433710) | Hayward; Fox Hollow Dr, Barn Rock Dr | 437 |
 | [433800](https://precinct.netpress.com/#01-433800) | Hayward and Fairview; Durham Way, Oakes Dr | 397 |
 | [433900](https://precinct.netpress.com/#01-433900) | Hayward; Oakes Dr, Carisbrook Ct | 375 |
-| [438200](https://precinct.netpress.com/#01-438200) | Hayward | 12 |
+| [438200](https://precinct.netpress.com/#01-438200) | Hayward; along Palomares Rd | 12 |
 | [438300](https://precinct.netpress.com/#01-438300) | Hayward; Cowing Rd | 2 |
 | [438500](https://precinct.netpress.com/#01-438500) | Hayward; Santos Ranch Rd, Kilkare | 6 |
 | [440000](https://precinct.netpress.com/#01-440000) | San Lorenzo; Via Estrella, Via San Ardo | 753 |
@@ -904,7 +904,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [443710](https://precinct.netpress.com/#01-443710) | Castro Valley; Fairmont Dr | 0 |
 | [443800](https://precinct.netpress.com/#01-443800) | Castro Valley; Sol St, Luna Ave | 350 |
 | [443900](https://precinct.netpress.com/#01-443900) | Ashland and Cherryland; Marion St, Georgean St | 237 |
-| [447010](https://precinct.netpress.com/#01-447010) | Castro Valley | 2 |
+| [447010](https://precinct.netpress.com/#01-447010) | Castro Valley; along Lake Chabot Rd | 2 |
 | [447020](https://precinct.netpress.com/#01-447020) | Castro Valley; Fairmont Dr | 0 |
 | [447030](https://precinct.netpress.com/#01-447030) | Castro Valley; Chabot View Dr, Fairmont Dr | 0 |
 | [447040](https://precinct.netpress.com/#01-447040) | Castro Valley; Lake Chabot Rd | 0 |
@@ -914,7 +914,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [447200](https://precinct.netpress.com/#01-447200) | Castro Valley and Ashland; Gramercy Dr, Manchester Rd | 1,243 |
 | [447210](https://precinct.netpress.com/#01-447210) | Castro Valley | 7 |
 | [447220](https://precinct.netpress.com/#01-447220) | Cambrian Dr, Easy St | 42 |
-| [447230](https://precinct.netpress.com/#01-447230) |  | 13 |
+| [447230](https://precinct.netpress.com/#01-447230) | Along Easy St | 13 |
 | [447240](https://precinct.netpress.com/#01-447240) | Easy St | 4 |
 | [447300](https://precinct.netpress.com/#01-447300) | Castro Valley; Lyle St, Crest Ave | 156 |
 | [447310](https://precinct.netpress.com/#01-447310) | Castro Valley; Strong Way, Titan Way | 126 |
@@ -942,7 +942,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [450820](https://precinct.netpress.com/#01-450820) | San Leandro and San Lorenzo; Grant Ave, San Francisco Bay | 2 |
 | [450910](https://precinct.netpress.com/#01-450910) | San Leandro | 0 |
 | [450920](https://precinct.netpress.com/#01-450920) | San Leandro; Manor Blvd, Wicks Blvd | 0 |
-| [450930](https://precinct.netpress.com/#01-450930) | San Leandro | 6 |
+| [450930](https://precinct.netpress.com/#01-450930) | San Leandro; along Manor Blvd | 6 |
 | [451000](https://precinct.netpress.com/#01-451000) | San Leandro; Manor Blvd, Chapel Ave | 564 |
 | [451400](https://precinct.netpress.com/#01-451400) | San Leandro; Fargo Ave, Greer Ave | 663 |
 | [451410](https://precinct.netpress.com/#01-451410) | San Leandro; Embers Way, Tropic Ct | 169 |
@@ -977,7 +977,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [454230](https://precinct.netpress.com/#01-454230) | San Leandro | 0 |
 | [454300](https://precinct.netpress.com/#01-454300) | San Leandro; Adason Dr, Halcyon Dr | 90 |
 | [454500](https://precinct.netpress.com/#01-454500) | San Leandro; Hollyhock Dr, Nabor St | 987 |
-| [454510](https://precinct.netpress.com/#01-454510) | San Leandro | 0 |
+| [454510](https://precinct.netpress.com/#01-454510) | San Leandro; along Thornally Dr | 0 |
 | [454520](https://precinct.netpress.com/#01-454520) | San Leandro; Bayfair Dr, Thornally Dr | 4 |
 | [454530](https://precinct.netpress.com/#01-454530) | Washington Ave | 0 |
 | [454540](https://precinct.netpress.com/#01-454540) | San Leandro; 139th Ave | 3 |
@@ -1026,8 +1026,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [458500](https://precinct.netpress.com/#01-458500) | San Leandro; Antonio St, Dan Niemi Way | 111 |
 | [458800](https://precinct.netpress.com/#01-458800) | San Leandro; Martin Blvd, Arthur Ave | 1,357 |
 | [458900](https://precinct.netpress.com/#01-458900) | San Leandro; Timothy Dr, Warden Ave | 897 |
-| [458910](https://precinct.netpress.com/#01-458910) |  | 0 |
-| [458920](https://precinct.netpress.com/#01-458920) |  | 0 |
+| [458910](https://precinct.netpress.com/#01-458910) | Along Highway 112 and Highway 61 | 0 |
+| [458920](https://precinct.netpress.com/#01-458920) | Along Phillips Ln | 0 |
 | [464000](https://precinct.netpress.com/#01-464000) | Pinehurst Rd, Ridge Top Rd | 2 |
 | [464010](https://precinct.netpress.com/#01-464010) | Oakland; Skyline, Skyline Trl | 0 |
 | [464300](https://precinct.netpress.com/#01-464300) | Upper San Leandro Reservoir, Big Burn Rd, Miller Rd | 0 |
@@ -1040,18 +1040,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [464640](https://precinct.netpress.com/#01-464640) | Castro Valley; Crow Canyon Rd | 59 |
 | [464650](https://precinct.netpress.com/#01-464650) | Castro Valley; Vogel Rd, Oak Tree Ln | 85 |
 | [464660](https://precinct.netpress.com/#01-464660) | Crow Canyon Rd, Norris Canyon Rd, Bellina Canyon Rd | 138 |
-| [464700](https://precinct.netpress.com/#01-464700) |  | 0 |
+| [464700](https://precinct.netpress.com/#01-464700) | Along Redwood Rd | 0 |
 | [464710](https://precinct.netpress.com/#01-464710) | Lake Chabot, Redwood Rd | 0 |
 | [470100](https://precinct.netpress.com/#01-470100) | Castro Valley; Knoll Way, Bedford Dr | 191 |
 | [470110](https://precinct.netpress.com/#01-470110) | Castro Valley; Oak St | 52 |
-| [470310](https://precinct.netpress.com/#01-470310) |  | 0 |
+| [470310](https://precinct.netpress.com/#01-470310) | Castro Valley; near N 3rd St | 0 |
 | [470400](https://precinct.netpress.com/#01-470400) | Castro Valley; Baywood Ave, Grove Way | 699 |
 | [470500](https://precinct.netpress.com/#01-470500) | Castro Valley; Strobridge Ave, Rizzo Ave | 697 |
 | [470600](https://precinct.netpress.com/#01-470600) | Castro Valley and Hayward; Lessley Ave, Reading Ave | 1,006 |
 | [470700](https://precinct.netpress.com/#01-470700) | Castro Valley; Center St | 461 |
 | [470800](https://precinct.netpress.com/#01-470800) | Castro Valley; Cameron St, Queen St | 826 |
 | [470900](https://precinct.netpress.com/#01-470900) | Castro Valley and Hayward; Idena Ave, Watson St | 584 |
-| [471000](https://precinct.netpress.com/#01-471000) |  | 1 |
+| [471000](https://precinct.netpress.com/#01-471000) | Castro Valley; near Grove Way | 1 |
 | [471200](https://precinct.netpress.com/#01-471200) | Castro Valley; Aspen Ave, Cato Ct | 365 |
 | [471300](https://precinct.netpress.com/#01-471300) | Castro Valley; Baker Rd, Rutledge Rd | 409 |
 | [471400](https://precinct.netpress.com/#01-471400) | Castro Valley; Norbridge Ave, Wilbeam Ave | 987 |
@@ -1107,12 +1107,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [475540](https://precinct.netpress.com/#01-475540) | Castro Valley; Pineville Cir, Summerglen Pl | 1,256 |
 | [475600](https://precinct.netpress.com/#01-475600) | Hollis Canyon Rd, Eden Canyon Rd | 45 |
 | [475640](https://precinct.netpress.com/#01-475640) | Castro Valley; Redwood Rd | 0 |
-| [475700](https://precinct.netpress.com/#01-475700) |  | 4 |
+| [475700](https://precinct.netpress.com/#01-475700) | Along Hollis Canyon Rd and Eden Canyon Rd | 4 |
 | [476100](https://precinct.netpress.com/#01-476100) | Castro Valley; Boulder Canyon Dr, Canyon Terrace Dr | 1,435 |
 | [476110](https://precinct.netpress.com/#01-476110) | Castro Valley and Fairview; Five Canyons Pkwy, Crestfield Dr | 1,072 |
-| [476120](https://precinct.netpress.com/#01-476120) |  | 3 |
+| [476120](https://precinct.netpress.com/#01-476120) | Castro Valley; near Canyon Oaks Ct | 3 |
 | [476130](https://precinct.netpress.com/#01-476130) | Fairview; Blackstone Ct, Old Fairview Ave | 75 |
-| [476140](https://precinct.netpress.com/#01-476140) |  | 0 |
+| [476140](https://precinct.netpress.com/#01-476140) | Along Five Canyons Pkwy and Oak Terrace Rd | 0 |
 | [476150](https://precinct.netpress.com/#01-476150) | Castro Valley; Oak Terrace Rd, Hilltop Rd | 29 |
 | [476160](https://precinct.netpress.com/#01-476160) | Oak Terrace Rd, Hilltop Rd, Fairview Ave | 9 |
 | [480010](https://precinct.netpress.com/#01-480010) | Castro Valley; Castro Valley Blvd, Oak St | 0 |
@@ -1121,31 +1121,31 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [481200](https://precinct.netpress.com/#01-481200) | Cherryland and Ashland; Meekland Ave, Standish Ave | 1,329 |
 | [481300](https://precinct.netpress.com/#01-481300) | Cherryland and Ashland; Camden Ave, Concord Ave | 681 |
 | [481310](https://precinct.netpress.com/#01-481310) | Cherryland; Saint James Ct | 37 |
-| [481400](https://precinct.netpress.com/#01-481400) | Cherryland; Cherry Way, Blossom Way, Western Blvd | 551 |
+| [481400](https://precinct.netpress.com/#01-481400) | Cherryland; Cherry Way, Blossom Way | 551 |
 | [481410](https://precinct.netpress.com/#01-481410) | Cherryland and Castro Valley; Montgomery Ave, Apple Ave | 621 |
 | [481420](https://precinct.netpress.com/#01-481420) | Cherryland and Hayward; Rufus Ct | 62 |
-| [481430](https://precinct.netpress.com/#01-481430) |  | 0 |
-| [481440](https://precinct.netpress.com/#01-481440) | Cherryland | 6 |
-| [481500](https://precinct.netpress.com/#01-481500) | Cherryland; Cherry Way, Blossom Way, Haviland Ave | 1,099 |
+| [481430](https://precinct.netpress.com/#01-481430) | Cherryland; near Montgomery St | 0 |
+| [481440](https://precinct.netpress.com/#01-481440) | Cherryland; along Mission Blvd | 6 |
+| [481500](https://precinct.netpress.com/#01-481500) | Cherryland; Cherry Way, Blossom Way | 1,099 |
 | [481510](https://precinct.netpress.com/#01-481510) | Cherryland; Meekland Ave, Leighty Ct | 123 |
 | [481540](https://precinct.netpress.com/#01-481540) | Cherryland and San Lorenzo; Meekland Ave, W Blossom Way | 191 |
-| [481550](https://precinct.netpress.com/#01-481550) |  | 0 |
+| [481550](https://precinct.netpress.com/#01-481550) | Hayward; near Meekland Ave | 0 |
 | [481800](https://precinct.netpress.com/#01-481800) | Cherryland; Willow Ave, Banyan St | 453 |
 | [481810](https://precinct.netpress.com/#01-481810) | San Lorenzo and Hayward; Hathaway Ave, Lansing Way | 478 |
 | [481900](https://precinct.netpress.com/#01-481900) | Cherryland; Smalley Ave, Princeton St | 371 |
 | [481910](https://precinct.netpress.com/#01-481910) | Cherryland; Sunset Blvd, Corte Americo | 527 |
 | [481920](https://precinct.netpress.com/#01-481920) | Cherryland; Poplar Ave, Laurel Ave | 241 |
-| [481930](https://precinct.netpress.com/#01-481930) |  | 0 |
-| [481940](https://precinct.netpress.com/#01-481940) |  | 20 |
-| [481950](https://precinct.netpress.com/#01-481950) |  | 0 |
-| [481960](https://precinct.netpress.com/#01-481960) | Hayward | 0 |
-| [481970](https://precinct.netpress.com/#01-481970) |  | 0 |
+| [481930](https://precinct.netpress.com/#01-481930) | Hayward; near Meekland Ave | 0 |
+| [481940](https://precinct.netpress.com/#01-481940) | Hayward; near A St | 20 |
+| [481950](https://precinct.netpress.com/#01-481950) | Hayward; near A St | 0 |
+| [481960](https://precinct.netpress.com/#01-481960) | Hayward; along A St | 0 |
+| [481970](https://precinct.netpress.com/#01-481970) | Cherryland; near A St | 0 |
 | [482000](https://precinct.netpress.com/#01-482000) | Westfield Ave, Grove Way, Vallejo St | 81 |
 | [482010](https://precinct.netpress.com/#01-482010) | Cherryland; Vallejo St | 50 |
 | [482020](https://precinct.netpress.com/#01-482020) | Cherryland; Western Blvd | 13 |
 | [482030](https://precinct.netpress.com/#01-482030) | Cherryland; Vallejo Ct | 24 |
-| [482040](https://precinct.netpress.com/#01-482040) |  | 7 |
-| [482050](https://precinct.netpress.com/#01-482050) | Cherryland | 18 |
+| [482040](https://precinct.netpress.com/#01-482040) | Cherryland; near Vallejo St | 7 |
+| [482050](https://precinct.netpress.com/#01-482050) | Cherryland; along Vallejo St and Simon St | 18 |
 | [483000](https://precinct.netpress.com/#01-483000) | San Lorenzo and Hayward; W Sunset Blvd, Garden Ave | 1,011 |
 | [484000](https://precinct.netpress.com/#01-484000) | San Lorenzo; Railroad Ave | 0 |
 | [484010](https://precinct.netpress.com/#01-484010) | San Lorenzo; Phil Dr, Worthley Dr | 1 |
@@ -1158,8 +1158,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [491000](https://precinct.netpress.com/#01-491000) | Fairview and Hayward; Ralston Way, Monika Ln | 979 |
 | [491010](https://precinct.netpress.com/#01-491010) | Fairview and Castro Valley; Don Castro Lake, Grove Way | 3 |
 | [491020](https://precinct.netpress.com/#01-491020) | Fairview and Castro Valley; Don Castro Lake, Woodroe Ave | 0 |
-| [491040](https://precinct.netpress.com/#01-491040) | Fairview | 0 |
-| [491050](https://precinct.netpress.com/#01-491050) | Fairview | 62 |
+| [491040](https://precinct.netpress.com/#01-491040) | Fairview; along Canyon Ridge Pl | 0 |
+| [491050](https://precinct.netpress.com/#01-491050) | Fairview; along Wingate Way | 62 |
 | [491100](https://precinct.netpress.com/#01-491100) | Fairview; Jamie Way, Shawn Way | 966 |
 | [491120](https://precinct.netpress.com/#01-491120) | Fairview and Castro Valley; Kelly St, Valley View Dr | 617 |
 | [491130](https://precinct.netpress.com/#01-491130) | Fairview; Karina St, Jelincic Dr | 147 |
@@ -1168,12 +1168,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [491210](https://precinct.netpress.com/#01-491210) | Fairview; Randall Way, Hidden Ln | 909 |
 | [491300](https://precinct.netpress.com/#01-491300) | Fairview; East Ave, Oak Creek Pl | 1,099 |
 | [491400](https://precinct.netpress.com/#01-491400) | Fairview; Nina St, Bland St | 559 |
-| [491410](https://precinct.netpress.com/#01-491410) |  | 2 |
+| [491410](https://precinct.netpress.com/#01-491410) | Along Winfeldt Rd | 2 |
 | [491500](https://precinct.netpress.com/#01-491500) | Fairview; Bridle Dr, Hackamore Dr | 876 |
-| [491510](https://precinct.netpress.com/#01-491510) | Fairview | 0 |
+| [491510](https://precinct.netpress.com/#01-491510) | Fairview; along Ridgeview Pl | 0 |
 | [491600](https://precinct.netpress.com/#01-491600) | Fairview and Hayward; Clover Rd, Star Ridge Rd | 289 |
 | [491630](https://precinct.netpress.com/#01-491630) | Fairview; Arbutus Ct, Picea Ct | 97 |
-| [491640](https://precinct.netpress.com/#01-491640) | Fairview | 46 |
+| [491640](https://precinct.netpress.com/#01-491640) | Fairview; along Fairview Ave | 46 |
 | [491650](https://precinct.netpress.com/#01-491650) | Picea Ct | 1 |
 | [492000](https://precinct.netpress.com/#01-492000) | Castro Valley; Fraga Rd | 107 |
 | [492010](https://precinct.netpress.com/#01-492010) | Castro Valley; Paloverde Rd, E Castro Valley Blvd | 36 |
@@ -1183,16 +1183,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [492060](https://precinct.netpress.com/#01-492060) | Palomares Rd | 9 |
 | [492100](https://precinct.netpress.com/#01-492100) | T, Palomares Rd | 8 |
 | [492110](https://precinct.netpress.com/#01-492110) | Castro Valley; Fairview Ave | 8 |
-| [492120](https://precinct.netpress.com/#01-492120) |  | 0 |
-| [492140](https://precinct.netpress.com/#01-492140) | Fairview | 0 |
-| [492150](https://precinct.netpress.com/#01-492150) |  | 0 |
-| [492160](https://precinct.netpress.com/#01-492160) |  | 6 |
-| [498100](https://precinct.netpress.com/#01-498100) |  | 6 |
+| [492120](https://precinct.netpress.com/#01-492120) | Fairview; near Fairview Ave | 0 |
+| [492140](https://precinct.netpress.com/#01-492140) | Fairview; along Fairview Ave | 0 |
+| [492150](https://precinct.netpress.com/#01-492150) | Near Palomares Rd | 0 |
+| [492160](https://precinct.netpress.com/#01-492160) | Hayward; near Palomares Rd | 6 |
+| [498100](https://precinct.netpress.com/#01-498100) | Near Palomares Rd | 6 |
 | [498200](https://precinct.netpress.com/#01-498200) | Palomares Rd, Vogel Ln | 9 |
 | [498210](https://precinct.netpress.com/#01-498210) | Palomares Rd | 8 |
 | [498260](https://precinct.netpress.com/#01-498260) | Vogel Ln, Palomares Rd | 4 |
 | [498300](https://precinct.netpress.com/#01-498300) | Palomares Rd | 38 |
-| [498310](https://precinct.netpress.com/#01-498310) |  | 0 |
+| [498310](https://precinct.netpress.com/#01-498310) | Along Sunol Ridge Trl | 0 |
 | [498360](https://precinct.netpress.com/#01-498360) | Sunol and Fremont; Highway 84 | 0 |
 | [499000](https://precinct.netpress.com/#01-499000) | Sunol; Sunol Ridge Trl, Highway 84 | 11 |
 | [500100](https://precinct.netpress.com/#01-500100) | Livermore; Marigold Rd, Heather Ln | 796 |
@@ -1244,7 +1244,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [501820](https://precinct.netpress.com/#01-501820) | Livermore; Anna Maria St, Virginia Dr | 775 |
 | [501840](https://precinct.netpress.com/#01-501840) | Livermore; Ruby Rd, Murdell Ln | 1,010 |
 | [501900](https://precinct.netpress.com/#01-501900) | Livermore; Kalthoff Cmn, Rocky Rdg | 45 |
-| [501950](https://precinct.netpress.com/#01-501950) | Livermore | 0 |
+| [501950](https://precinct.netpress.com/#01-501950) | Livermore; along E Vineyard Ave | 0 |
 | [502000](https://precinct.netpress.com/#01-502000) | Livermore; Florence Rd, Aberdeen Ave | 813 |
 | [502010](https://precinct.netpress.com/#01-502010) | Livermore; De Leon Way, Vienna St | 689 |
 | [502020](https://precinct.netpress.com/#01-502020) | Livermore; Rivers Bend Cir, Vintage Ln | 1,161 |
@@ -1255,7 +1255,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [502200](https://precinct.netpress.com/#01-502200) | Livermore; Farnsworth Dr, Waverly Cmn | 662 |
 | [502210](https://precinct.netpress.com/#01-502210) | Livermore; Pso Laguna Seco, Rapallo Cmn | 749 |
 | [502220](https://precinct.netpress.com/#01-502220) | Livermore; Edinburgh Dr, N Mines Rd | 814 |
-| [502230](https://precinct.netpress.com/#01-502230) |  | 0 |
+| [502230](https://precinct.netpress.com/#01-502230) | Near N Livermore Ave | 0 |
 | [502300](https://precinct.netpress.com/#01-502300) | Livermore; Bellmawr Dr, Milton Way | 519 |
 | [502310](https://precinct.netpress.com/#01-502310) | Livermore; Bennett Dr, Contractors Pl | 23 |
 | [502320](https://precinct.netpress.com/#01-502320) | Livermore; 1st St, Trevarno Rd | 431 |
@@ -1275,7 +1275,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [502940](https://precinct.netpress.com/#01-502940) | Livermore; Bellington Cmn, Heligan Ln | 876 |
 | [510100](https://precinct.netpress.com/#01-510100) | N Livermore Ave, Dagnino Rd, May School Rd | 179 |
 | [510110](https://precinct.netpress.com/#01-510110) | Collier Canyon Rd | 42 |
-| [510120](https://precinct.netpress.com/#01-510120) |  | 6 |
+| [510120](https://precinct.netpress.com/#01-510120) | Along E Airway Blvd | 6 |
 | [510150](https://precinct.netpress.com/#01-510150) | Las Positas Rd | 5 |
 | [510160](https://precinct.netpress.com/#01-510160) | Doolan Rd, Collier Canyon Rd | 15 |
 | [510200](https://precinct.netpress.com/#01-510200) | Frick Lake, Altamont Pass Rd, Vasco Rd | 76 |
@@ -1390,7 +1390,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [535500](https://precinct.netpress.com/#01-535500) | Stanley Blvd, Busch Rd, El Charro Rd | 3 |
 | [535600](https://precinct.netpress.com/#01-535600) | Mohr Ave | 0 |
 | [535800](https://precinct.netpress.com/#01-535800) | El Charro Rd, Mohr Ave | 0 |
-| [535900](https://precinct.netpress.com/#01-535900) |  | 0 |
+| [535900](https://precinct.netpress.com/#01-535900) | Along El Charro Rd | 0 |
 | [540100](https://precinct.netpress.com/#01-540100) | Dublin; Bloomington Way, W Vomac Rd | 850 |
 | [540200](https://precinct.netpress.com/#01-540200) | Dublin; Peppertree Rd, Silvergate Dr | 635 |
 | [540300](https://precinct.netpress.com/#01-540300) | Dublin; Rolling Hills Dr, Brittany Dr | 718 |
@@ -1449,8 +1449,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [547980](https://precinct.netpress.com/#01-547980) | Dublin; Finnian Way, Chancery Ln | 905 |
 | [547990](https://precinct.netpress.com/#01-547990) | Dublin; Scottfield St, Alliston Loop | 623 |
 | [810900](https://precinct.netpress.com/#01-810900) | Bello Rd | 0 |
-| [811000](https://precinct.netpress.com/#01-811000) |  | 2 |
-| [815100](https://precinct.netpress.com/#01-815100) |  | 0 |
+| [811000](https://precinct.netpress.com/#01-811000) | Along Cana Rd | 2 |
+| [815100](https://precinct.netpress.com/#01-815100) | Along Paloverde Rd | 0 |
 | [815110](https://precinct.netpress.com/#01-815110) | Dublin Canyon Rd | 4 |
 | [815120](https://precinct.netpress.com/#01-815120) | Dublin Canyon Rd, Schaefer Ranch Rd | 0 |
 | [815130](https://precinct.netpress.com/#01-815130) | Paloverde Rd | 0 |
@@ -1461,7 +1461,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [819110](https://precinct.netpress.com/#01-819110) | Stony Brk | 2 |
 | [820000](https://precinct.netpress.com/#01-820000) | Union City and Fremont; Palomares Rd, Highway 84 | 0 |
 | [820200](https://precinct.netpress.com/#01-820200) | Union City; May Rd, Whipple Rd | 195 |
-| [821010](https://precinct.netpress.com/#01-821010) |  | 0 |
+| [821010](https://precinct.netpress.com/#01-821010) | Along Mission Blvd | 0 |
 | [821020](https://precinct.netpress.com/#01-821020) | May Rd | 0 |
 | [821100](https://precinct.netpress.com/#01-821100) | Union City; O Connell Ln | 360 |
 | [821110](https://precinct.netpress.com/#01-821110) | Union City; Appian Way, Riviera Dr | 1,080 |
@@ -1481,7 +1481,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [821600](https://precinct.netpress.com/#01-821600) | Union City; Hartford Dr, Sherman Dr | 769 |
 | [821700](https://precinct.netpress.com/#01-821700) | Union City and Fremont; Condor Dr, Hop Ranch Rd | 1,036 |
 | [821710](https://precinct.netpress.com/#01-821710) | Union City; Palm Dr, Tropicana Way | 856 |
-| [821720](https://precinct.netpress.com/#01-821720) |  | 35 |
+| [821720](https://precinct.netpress.com/#01-821720) | Along Medallion Dr and Horatio Ct | 35 |
 | [821730](https://precinct.netpress.com/#01-821730) | Union City; Trefry Ct, Almaden Blvd | 330 |
 | [821740](https://precinct.netpress.com/#01-821740) | Horatio Ct | 17 |
 | [821750](https://precinct.netpress.com/#01-821750) | Union City; Kenita Way, Great Arbor Way | 527 |
@@ -1499,7 +1499,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [822900](https://precinct.netpress.com/#01-822900) | Union City; Hemlock Dr, Palmetto Dr | 342 |
 | [823000](https://precinct.netpress.com/#01-823000) | Union City; Teddy Dr, Ithaca St | 723 |
 | [823010](https://precinct.netpress.com/#01-823010) | Union City; Highway 238 | 0 |
-| [823040](https://precinct.netpress.com/#01-823040) |  | 0 |
+| [823040](https://precinct.netpress.com/#01-823040) | Union City; near Basswood Ct | 0 |
 | [823100](https://precinct.netpress.com/#01-823100) | Union City; E St, Railroad Ave | 975 |
 | [823200](https://precinct.netpress.com/#01-823200) | Union City; F St, H St | 1,137 |
 | [823300](https://precinct.netpress.com/#01-823300) | Union City; 11th St, I St | 932 |
@@ -1536,12 +1536,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [830400](https://precinct.netpress.com/#01-830400) | Fremont; Marshlands Rd, Highway 84 | 0 |
 | [830410](https://precinct.netpress.com/#01-830410) | Fremont; Patterson Ranch Rd, Quarry Rd | 0 |
 | [830420](https://precinct.netpress.com/#01-830420) | Fremont; Rancho del Sur Dr, Rancho del Norte Dr | 884 |
-| [830450](https://precinct.netpress.com/#01-830450) |  | 2 |
+| [830450](https://precinct.netpress.com/#01-830450) | Fremont; near Marshlands Rd | 2 |
 | [830460](https://precinct.netpress.com/#01-830460) | Fremont and Newark; San Francisco Bay, Mud Creek | 0 |
 | [830500](https://precinct.netpress.com/#01-830500) | Fremont; Eucalyptus Ter, Via Lugano | 1,301 |
 | [830510](https://precinct.netpress.com/#01-830510) | Patterson Ranch Rd | 0 |
 | [830520](https://precinct.netpress.com/#01-830520) | Fremont; Kaiser Dr, Dumbarton Cir | 2 |
-| [830530](https://precinct.netpress.com/#01-830530) |  | 1 |
+| [830530](https://precinct.netpress.com/#01-830530) | Fremont; near Highway 84 | 1 |
 | [830600](https://precinct.netpress.com/#01-830600) | Fremont; Shalimar Cir, Forest Hills Com | 679 |
 | [830700](https://precinct.netpress.com/#01-830700) | Fremont; Pueblo Ter, Mallard Cmn | 843 |
 | [830800](https://precinct.netpress.com/#01-830800) | Fremont; Touchstone Ter, Rousillon Ave | 441 |
@@ -1619,7 +1619,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [834000](https://precinct.netpress.com/#01-834000) | Fremont; Niles Blvd, Carnation Way | 863 |
 | [834010](https://precinct.netpress.com/#01-834010) | Fremont; Blaisdell Way, Nichols Ave | 614 |
 | [834020](https://precinct.netpress.com/#01-834020) | Fremont; De Lucchi Ter, Highway 84 | 6 |
-| [834040](https://precinct.netpress.com/#01-834040) |  | 0 |
+| [834040](https://precinct.netpress.com/#01-834040) | Fremont; near Mayhews Rd | 0 |
 | [834100](https://precinct.netpress.com/#01-834100) | Fremont; Posada Way, Barcelona Dr | 746 |
 | [834200](https://precinct.netpress.com/#01-834200) | Fremont; Third St, Second St | 970 |
 | [834300](https://precinct.netpress.com/#01-834300) | Fremont; Montecito Dr, Washburn Dr | 696 |
@@ -1653,7 +1653,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [835610](https://precinct.netpress.com/#01-835610) | Fremont; Cherry Ln, Adcock Dr | 759 |
 | [835700](https://precinct.netpress.com/#01-835700) | Fremont; Gallaudet Dr, Branta Cmn | 107 |
 | [835710](https://precinct.netpress.com/#01-835710) | Fremont; Waterside Cir, Lakefront Cir | 1,221 |
-| [835720](https://precinct.netpress.com/#01-835720) |  | 79 |
+| [835720](https://precinct.netpress.com/#01-835720) | Along Stevenson Blvd and Guardino Dr | 79 |
 | [835730](https://precinct.netpress.com/#01-835730) | Fremont; Walnut Ave, Guardino Dr | 263 |
 | [835740](https://precinct.netpress.com/#01-835740) | Fremont; Guardino Dr, Pepys Way | 159 |
 | [835800](https://precinct.netpress.com/#01-835800) | Fremont; Stevenson Cmn, Mission View Dr | 962 |
@@ -1669,7 +1669,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [836120](https://precinct.netpress.com/#01-836120) | Fremont | 0 |
 | [836200](https://precinct.netpress.com/#01-836200) | Fremont; Co Rd No 1008, Ondina Dr | 1,022 |
 | [836210](https://precinct.netpress.com/#01-836210) | Fremont; Canyon Hts Dr, Vinha Way | 1,259 |
-| [836220](https://precinct.netpress.com/#01-836220) | Fremont | 0 |
+| [836220](https://precinct.netpress.com/#01-836220) | Fremont; along Harvard Ct | 0 |
 | [836310](https://precinct.netpress.com/#01-836310) | Fremont; Valero Dr, Gomes Rd | 653 |
 | [836400](https://precinct.netpress.com/#01-836400) | Fremont; Bedford St, Kensington Dr | 993 |
 | [836410](https://precinct.netpress.com/#01-836410) | Fremont; Cam Santa Barbara, Via San Gabriel | 644 |
@@ -1681,7 +1681,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [837000](https://precinct.netpress.com/#01-837000) | Fremont; Castillejo Way, Luzon Dr | 559 |
 | [837010](https://precinct.netpress.com/#01-837010) | Sabercat Rd, Sabercat Pl | 0 |
 | [837020](https://precinct.netpress.com/#01-837020) | Fremont; Blacow Rd | 114 |
-| [837030](https://precinct.netpress.com/#01-837030) |  | 0 |
+| [837030](https://precinct.netpress.com/#01-837030) | Along Osgood Rd and Sand Ln | 0 |
 | [837040](https://precinct.netpress.com/#01-837040) | Fremont; Osgood Rd, Osgood Ct | 3 |
 | [837100](https://precinct.netpress.com/#01-837100) | Fremont; Lerwick St, Enos St | 683 |
 | [837110](https://precinct.netpress.com/#01-837110) | Fremont; Laurel Glen Cmn, Adelina Ter | 589 |
@@ -1718,28 +1718,28 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [839070](https://precinct.netpress.com/#01-839070) | Fremont; S Grimmer Blvd, Industrial Dr | 14 |
 | [839100](https://precinct.netpress.com/#01-839100) | Fremont; Kato Rd, Milmont St | 1,048 |
 | [839120](https://precinct.netpress.com/#01-839120) | Fremont; Lakeview Blvd, W Warren Ave | 15 |
-| [839200](https://precinct.netpress.com/#01-839200) |  | 6 |
-| [839210](https://precinct.netpress.com/#01-839210) |  | 5 |
-| [839220](https://precinct.netpress.com/#01-839220) |  | 3 |
+| [839200](https://precinct.netpress.com/#01-839200) | Fremont; near Morrison Canyon Rd | 6 |
+| [839210](https://precinct.netpress.com/#01-839210) | Fremont; near Morrison Canyon Rd | 5 |
+| [839220](https://precinct.netpress.com/#01-839220) | Fremont; near Vargas Rd | 3 |
 | [839230](https://precinct.netpress.com/#01-839230) | Fremont; Morrison Canyon Rd | 1 |
 | [839240](https://precinct.netpress.com/#01-839240) | Fremont; Castro Ln, Vargas Rd | 49 |
 | [839260](https://precinct.netpress.com/#01-839260) | Fremont; Pico Rd, Vargas Rd | 11 |
 | [839300](https://precinct.netpress.com/#01-839300) | Fremont; Mission Rd | 11 |
 | [839310](https://precinct.netpress.com/#01-839310) | Fremont; Mill Creek Rd | 7 |
-| [839320](https://precinct.netpress.com/#01-839320) | Fremont | 0 |
+| [839320](https://precinct.netpress.com/#01-839320) | Fremont; along Felipe Cmn | 0 |
 | [839330](https://precinct.netpress.com/#01-839330) | Fremont; Montclaire Dr, Aguila Ter | 144 |
-| [839340](https://precinct.netpress.com/#01-839340) |  | 0 |
-| [839350](https://precinct.netpress.com/#01-839350) |  | 0 |
+| [839340](https://precinct.netpress.com/#01-839340) | Fremont; near I- 680 | 0 |
+| [839350](https://precinct.netpress.com/#01-839350) | Along Hunter Ter | 0 |
 | [839360](https://precinct.netpress.com/#01-839360) | Fremont; Vargas Rd | 8 |
 | [839370](https://precinct.netpress.com/#01-839370) | Fremont; Hochler Dr, Operations Rd | 0 |
-| [839380](https://precinct.netpress.com/#01-839380) |  | 0 |
+| [839380](https://precinct.netpress.com/#01-839380) | Fremont; near I- 680 | 0 |
 | [839390](https://precinct.netpress.com/#01-839390) | Fremont; Regional Park Trl, Mill Creek Rd | 0 |
 | [839510](https://precinct.netpress.com/#01-839510) | Fremont; Warm Springs Blvd, Park Cmn | 263 |
 | [839530](https://precinct.netpress.com/#01-839530) | Fremont; Avalon Heights Ter, Belmont Ter | 679 |
 | [839600](https://precinct.netpress.com/#01-839600) | Fremont; Mill Creek Rd | 13 |
 | [850100](https://precinct.netpress.com/#01-850100) | Newark; Thornton Ave, Marshlands Rd | 0 |
-| [850150](https://precinct.netpress.com/#01-850150) |  | 0 |
-| [850210](https://precinct.netpress.com/#01-850210) |  | 0 |
+| [850150](https://precinct.netpress.com/#01-850150) | Newark; near Hidden Harbor Way | 0 |
+| [850210](https://precinct.netpress.com/#01-850210) | Along Mowry Ave | 0 |
 | [850220](https://precinct.netpress.com/#01-850220) | Newark; Stevenson Blvd | 0 |
 | [850230](https://precinct.netpress.com/#01-850230) | Newark; Eureka Dr, Dragonfly St | 541 |
 | [850300](https://precinct.netpress.com/#01-850300) | Newark; Station Rd, Cherry St | 911 |
@@ -1779,24 +1779,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [866830](https://precinct.netpress.com/#01-866830) | Sunol; Calaveras Rd, Calaveras Ave | 2 |
 | [866840](https://precinct.netpress.com/#01-866840) | Sunol; Alameda Creek Reservoir, Kilkare Rd | 0 |
 | [866850](https://precinct.netpress.com/#01-866850) | San Antonio Reservoir, Indian Creek Rd, Highway 84 | 2 |
-| [866900](https://precinct.netpress.com/#01-866900) | Sunol | 0 |
+| [866900](https://precinct.netpress.com/#01-866900) | Sunol; along Highway 84 and Niles Blvd | 0 |
 | [866910](https://precinct.netpress.com/#01-866910) | Welch Creek Rd, Geary Rd, Hayfield Rd | 24 |
 | [866920](https://precinct.netpress.com/#01-866920) | Welch Creek Rd | 0 |
 | [867100](https://precinct.netpress.com/#01-867100) | Sunol; Tecado Com, Mission Rd | 20 |
 | [867110](https://precinct.netpress.com/#01-867110) | Sunol; Morrison Canyon Rd, Mission Rd | 13 |
 | [867200](https://precinct.netpress.com/#01-867200) | Sunol; Sheridan Rd, Andrade Rd | 99 |
 | [867310](https://precinct.netpress.com/#01-867310) | Oakridge Rd, Calaveras Reservoir, Calaveras Ave | 2 |
-| [867320](https://precinct.netpress.com/#01-867320) |  | 0 |
-| [867400](https://precinct.netpress.com/#01-867400) |  | 1 |
-| [867410](https://precinct.netpress.com/#01-867410) |  | 8 |
+| [867320](https://precinct.netpress.com/#01-867320) | Near Mill Creek Rd | 0 |
+| [867400](https://precinct.netpress.com/#01-867400) | Fremont; near Mill Creek Rd | 1 |
+| [867410](https://precinct.netpress.com/#01-867410) | Fremont; near Mill Creek Rd | 8 |
 | [870000](https://precinct.netpress.com/#01-870000) | Golf Rd, Castlewood Dr, Country Club Cir | 204 |
 | [870010](https://precinct.netpress.com/#01-870010) | Castledown Rd, Bunker Ln, Oak Ln | 313 |
 | [870100](https://precinct.netpress.com/#01-870100) | Sunol; Alisal St, Happy Valley Rd | 261 |
 | [870150](https://precinct.netpress.com/#01-870150) | Pleasanton Sunol Rd | 0 |
-| [870200](https://precinct.netpress.com/#01-870200) |  | 1 |
+| [870200](https://precinct.netpress.com/#01-870200) | Pleasanton; near Valenza Way | 1 |
 | [870300](https://precinct.netpress.com/#01-870300) | Pleasanton; Jerlin Pl, Foothill Rd | 7 |
-| [880200](https://precinct.netpress.com/#01-880200) |  | 27 |
-| [880220](https://precinct.netpress.com/#01-880220) |  | 6 |
+| [880200](https://precinct.netpress.com/#01-880200) | Near Dublin Canyon Rd | 27 |
+| [880220](https://precinct.netpress.com/#01-880220) | Along Dublin Canyon Rd | 6 |
 | [880300](https://precinct.netpress.com/#01-880300) | Santos Ranch Rd | 0 |
 | [880310](https://precinct.netpress.com/#01-880310) | Tehan Canyon Rd, Santos Ranch Rd | 6 |
 | [880410](https://precinct.netpress.com/#01-880410) | Dublin Canyon Rd | 0 |

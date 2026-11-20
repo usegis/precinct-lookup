@@ -17,7 +17,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10060](https://precinct.netpress.com/#52-10060) | Cannon Rd, Sheila Rd, View Dr | 561 |
 | [10130](https://precinct.netpress.com/#52-10130) | Red Bluff; Frontier Dr, Old Mission Dr | 968 |
 | [10135](https://precinct.netpress.com/#52-10135) | Wilcox Rd, Noble Oaks Dr, Adobe Rd | 806 |
-| [10140](https://precinct.netpress.com/#52-10140) |  | 0 |
+| [10140](https://precinct.netpress.com/#52-10140) | Along Via Hermosa and Via del Roble | 0 |
 | [10145](https://precinct.netpress.com/#52-10145) | Skyline Dr | 0 |
 | [12060](https://precinct.netpress.com/#52-12060) | Red Bluff; Haley Ln, Larie Ln | 988 |
 | [12080](https://precinct.netpress.com/#52-12080) | Red Bluff; Terrace Dr, Duncan Rd | 1,074 |
@@ -40,13 +40,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30270](https://precinct.netpress.com/#52-30270) | Williams Ave, Sherman Dr, Kersteins Rd | 368 |
 | [30280](https://precinct.netpress.com/#52-30280) | Red Bluff; Andreini Rd, Short Ave | 1,152 |
 | [30290](https://precinct.netpress.com/#52-30290) | Williams Ave, Dale Ave, Orchard Way | 436 |
-| [30295](https://precinct.netpress.com/#52-30295) |  | 0 |
+| [30295](https://precinct.netpress.com/#52-30295) | Along McGlynn Dr and Belle Mill Rd | 0 |
 | [30300](https://precinct.netpress.com/#52-30300) | Oklahoma Ave, Heilman Ave, Craig Creek Ln | 728 |
 | [30320](https://precinct.netpress.com/#52-30320) | Manton; Forward Rd, Co Rd A6 | 195 |
 | [30330](https://precinct.netpress.com/#52-30330) | Mineral; Forest Ln, Scenic Ave | 99 |
 | [30340](https://precinct.netpress.com/#52-30340) | Paynes Creek and Dales; Lanes Valley Rd, Battle Creek | 204 |
 | [32350](https://precinct.netpress.com/#52-32350) | Red Bluff; Gamay Ct, Cabernet Ct | 567 |
-| [32355](https://precinct.netpress.com/#52-32355) | Red Bluff | 111 |
+| [32355](https://precinct.netpress.com/#52-32355) | Red Bluff; along Lakeside Dr and Wiltsey Rd | 111 |
 | [40180](https://precinct.netpress.com/#52-40180) | Lowery Rd, Co Rd 80, Hesse Rd | 155 |
 | [40360](https://precinct.netpress.com/#52-40360) | Viola Ave, Rice Creek Ln, Flournoy Ave | 592 |
 | [40365](https://precinct.netpress.com/#52-40365) | Stony Creek, Long Hollow Rd, Elmore Creek | 18 |
@@ -62,11 +62,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [40495](https://precinct.netpress.com/#52-40495) | Moran Rd, Lobinger Ave, Green Meadows Ln | 0 |
 | [40620](https://precinct.netpress.com/#52-40620) | Tehama Ave, Gerber Rd, Woodland Ave | 133 |
 | [40625](https://precinct.netpress.com/#52-40625) | Gerber; Holmes Rd, Tehama Rd | 0 |
-| [41380](https://precinct.netpress.com/#52-41380) | Corning | 883 |
-| [41385](https://precinct.netpress.com/#52-41385) |  | 0 |
+| [41380](https://precinct.netpress.com/#52-41380) | Corning; along Colusa St and North St | 883 |
+| [41385](https://precinct.netpress.com/#52-41385) | Along O Ave | 0 |
 | [41390](https://precinct.netpress.com/#52-41390) | Corning; Grant Ave | 174 |
 | [41400](https://precinct.netpress.com/#52-41400) | Corning; Chicago Ave, Lost Ave | 293 |
-| [41410](https://precinct.netpress.com/#52-41410) | Corning | 715 |
+| [41410](https://precinct.netpress.com/#52-41410) | Corning; along Houghton Ave and Toomes Ave | 715 |
 | [50370](https://precinct.netpress.com/#52-50370) | Walch Ave, Sacramento River, 7th Ave | 285 |
 | [50450](https://precinct.netpress.com/#52-50450) | Inghram Rd, Valley Vista Dr, Capay Rd | 241 |
 | [50460](https://precinct.netpress.com/#52-50460) | Mayhew Ave, Malton Ave, Hawley Rd | 0 |
@@ -77,6 +77,6 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [50590](https://precinct.netpress.com/#52-50590) | Wilson St, Sacramento River, 9th Ave | 1,028 |
 | [50600](https://precinct.netpress.com/#52-50600) | Corning; Kirkwood Rd, Columbia Ave | 612 |
 | [50630](https://precinct.netpress.com/#52-50630) | Vina; Meridian Rd, Barber Rd | 337 |
-| [51510](https://precinct.netpress.com/#52-51510) | Corning | 932 |
+| [51510](https://precinct.netpress.com/#52-51510) | Corning; along Marguerite Ave and 1st St | 932 |
 | [51520](https://precinct.netpress.com/#52-51520) | Corning; Mobile Dr, Beech Way | 402 |
 | [53610](https://precinct.netpress.com/#52-53610) | Tehama; S 2nd St, B St | 240 |

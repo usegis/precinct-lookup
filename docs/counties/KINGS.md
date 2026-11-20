@@ -13,9 +13,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | --- | --- | --- |
 | [12001](https://precinct.netpress.com/#16-12001) | Lemoore; Fox Dr, Fox St | 551 |
 | [12002](https://precinct.netpress.com/#16-12002) | Lemoore; N Lemoore Ave, Devon Dr | 340 |
-| [12003](https://precinct.netpress.com/#16-12003) | Lemoore | 9 |
+| [12003](https://precinct.netpress.com/#16-12003) | Lemoore; along Devon Dr and Fenmore Ave | 9 |
 | [12004](https://precinct.netpress.com/#16-12004) | Lemoore | 61 |
-| [12005](https://precinct.netpress.com/#16-12005) | Lemoore | 0 |
+| [12005](https://precinct.netpress.com/#16-12005) | Lemoore; along 18th Ave | 0 |
 | [12006](https://precinct.netpress.com/#16-12006) | Greystone Ct | 35 |
 | [12007](https://precinct.netpress.com/#16-12007) | Lemoore; Club Dr, Murphy Dr | 544 |
 | [12008](https://precinct.netpress.com/#16-12008) | Lemoore; Pembrook Ln, W Hanford Armona Rd | 0 |
@@ -24,9 +24,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [12011](https://precinct.netpress.com/#16-12011) | Lemoore; G St, F St | 193 |
 | [12012](https://precinct.netpress.com/#16-12012) | Lemoore; Oleander Ave, E Bush St | 303 |
 | [12013](https://precinct.netpress.com/#16-12013) | Lemoore; Magnolia Ave, Daphne Ln | 416 |
-| [12014](https://precinct.netpress.com/#16-12014) | Lemoore; Cinnamon Dr, W Cinnamon Dr, Somerset Dr | 44 |
+| [12014](https://precinct.netpress.com/#16-12014) | Lemoore; Cinnamon Dr, W Cinnamon Dr | 44 |
 | [12015](https://precinct.netpress.com/#16-12015) | Lemoore; Follett St, Washington Dr | 60 |
-| [12016](https://precinct.netpress.com/#16-12016) | Lemoore; Cinnamon Dr, W Cinnamon Dr, N 19th Ave | 7 |
+| [12016](https://precinct.netpress.com/#16-12016) | Lemoore; Cinnamon Dr, W Cinnamon Dr | 7 |
 | [12017](https://precinct.netpress.com/#16-12017) | Lemoore; G Aly, Fox St | 32 |
 | [12018](https://precinct.netpress.com/#16-12018) | Lemoore; W Bush St, Martin St | 132 |
 | [12019](https://precinct.netpress.com/#16-12019) | Lemoore; Skaggs St, Hamlet St | 393 |
@@ -36,22 +36,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [12023](https://precinct.netpress.com/#16-12023) | Lemoore; Laurel Ln, W D St | 156 |
 | [12024](https://precinct.netpress.com/#16-12024) | Lemoore; E St, W D St | 36 |
 | [12025](https://precinct.netpress.com/#16-12025) | Lemoore; Cypress Ln, W D St | 253 |
-| [12026](https://precinct.netpress.com/#16-12026) | Lemoore | 0 |
+| [12026](https://precinct.netpress.com/#16-12026) | Lemoore; along 19th Ave and 19 1/2 Ave | 0 |
 | [12027](https://precinct.netpress.com/#16-12027) | Lemoore; Oakdale Ln, S Olive St | 370 |
 | [12028](https://precinct.netpress.com/#16-12028) | Lemoore; Montclair Apartments, Aspen Ln | 256 |
 | [12029](https://precinct.netpress.com/#16-12029) | Lemoore; Tammy Ln, Orangewood Dr | 439 |
 | [12030](https://precinct.netpress.com/#16-12030) | Lemoore; Silverado Dr, Humboldt St | 642 |
 | [12031](https://precinct.netpress.com/#16-12031) | Lemoore; Atlantic Ave, National Dr | 310 |
 | [12032](https://precinct.netpress.com/#16-12032) | Lemoore; Christine Ln, Cambria Ln | 194 |
-| [12033](https://precinct.netpress.com/#16-12033) | Lemoore | 0 |
+| [12033](https://precinct.netpress.com/#16-12033) | Lemoore; along 18 1/2 Ave and Vine St | 0 |
 | [12034](https://precinct.netpress.com/#16-12034) | Lemoore; Stinson Dr, Bodega Ave | 141 |
 | [12035](https://precinct.netpress.com/#16-12035) | Lemoore; 18 1/4 Ave, Enterprise Dr | 154 |
 | [12036](https://precinct.netpress.com/#16-12036) | Lemoore; Golf Ave, Paradise Loop | 468 |
 | [12037](https://precinct.netpress.com/#16-12037) | Lemoore; 18 1/2 Ave, Vine St | 0 |
 | [12038](https://precinct.netpress.com/#16-12038) | Lemoore; Helene St, Philan St | 64 |
 | [12039](https://precinct.netpress.com/#16-12039) | Lemoore; Champion St, Cedar Ln | 29 |
-| [12040](https://precinct.netpress.com/#16-12040) | Lemoore | 0 |
-| [12041](https://precinct.netpress.com/#16-12041) | Lemoore | 0 |
+| [12040](https://precinct.netpress.com/#16-12040) | Lemoore; along S 18th Ave and S Lemoore Ave | 0 |
+| [12041](https://precinct.netpress.com/#16-12041) | Lemoore; along 19 1/2 Ave | 0 |
 | [12042](https://precinct.netpress.com/#16-12042) | Lemoore; Bush St, Pederson St | 353 |
 | [19001](https://precinct.netpress.com/#16-19001) | Iona Ave, Hogan Dr, Hotchkiss Dr | 167 |
 | [19004](https://precinct.netpress.com/#16-19004) | E D St, 17th Ave | 29 |
@@ -67,11 +67,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [19014](https://precinct.netpress.com/#16-19014) | Avenal Cutoff Rd | 0 |
 | [19015](https://precinct.netpress.com/#16-19015) | Jackson Ave, 21 1/2 Ave | 2 |
 | [19016](https://precinct.netpress.com/#16-19016) | Lemoore; Jackson Ave, S 19th Ave | 180 |
-| [19017](https://precinct.netpress.com/#16-19017) |  | 2 |
-| [19018](https://precinct.netpress.com/#16-19018) |  | 46 |
-| [19019](https://precinct.netpress.com/#16-19019) |  | 4 |
+| [19017](https://precinct.netpress.com/#16-19017) | Along 21st Ave and 19 1/2 Ave | 2 |
+| [19018](https://precinct.netpress.com/#16-19018) | Along 17th Ave | 46 |
+| [19019](https://precinct.netpress.com/#16-19019) | Along 16th Ave | 4 |
 | [19020](https://precinct.netpress.com/#16-19020) | Enterprise Ave, S Westlawn Ave, 27th Ave | 0 |
-| [19021](https://precinct.netpress.com/#16-19021) |  | 3 |
+| [19021](https://precinct.netpress.com/#16-19021) | Near Avenal Cutoff Rd | 3 |
 | [19022](https://precinct.netpress.com/#16-19022) | Avenal Cutoff Rd, Kent Ave, Murphy Ranch Rd | 0 |
 | [19023](https://precinct.netpress.com/#16-19023) | Murphy Ranch Rd | 1 |
 | [19024](https://precinct.netpress.com/#16-19024) | Murphy Ranch Rd | 0 |
@@ -79,10 +79,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [19026](https://precinct.netpress.com/#16-19026) | 21st Ave, 21 1/2 Ave | 0 |
 | [19027](https://precinct.netpress.com/#16-19027) | Medford Ave, 17th Ave, 18th Ave | 20 |
 | [19028](https://precinct.netpress.com/#16-19028) | Jeff Rd, Alkali Dr, Saltgrass Rd | 295 |
-| [19029](https://precinct.netpress.com/#16-19029) |  | 0 |
+| [19029](https://precinct.netpress.com/#16-19029) | Along 21st Ave | 0 |
 | [19030](https://precinct.netpress.com/#16-19030) | 20th Ave, Highway 41 | 3 |
 | [19031](https://precinct.netpress.com/#16-19031) | 17th Ave | 66 |
-| [19032](https://precinct.netpress.com/#16-19032) |  | 63 |
+| [19032](https://precinct.netpress.com/#16-19032) | Along Highway 41 and State Hwy 41 | 63 |
 | [19033](https://precinct.netpress.com/#16-19033) | Java Ave, S 19th Ave, 19th Ave | 64 |
 | [19034](https://precinct.netpress.com/#16-19034) | 18th Ave, Davis Cir | 17 |
 | [19035](https://precinct.netpress.com/#16-19035) | 18th Ave, Lansing Ave | 7 |
@@ -104,8 +104,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [19054](https://precinct.netpress.com/#16-19054) | Stratford; Main St | 0 |
 | [19055](https://precinct.netpress.com/#16-19055) | Stratford; Main St, Laurel Ave | 7 |
 | [19056](https://precinct.netpress.com/#16-19056) | Stratford; 5th St, Main St | 11 |
-| [19057](https://precinct.netpress.com/#16-19057) |  | 1 |
-| [19058](https://precinct.netpress.com/#16-19058) |  | 0 |
+| [19057](https://precinct.netpress.com/#16-19057) | Near Laurel Ave | 1 |
+| [19058](https://precinct.netpress.com/#16-19058) | Along Empire St | 0 |
 | [19059](https://precinct.netpress.com/#16-19059) | Avenal Cutoff Rd, 29th Ave, S Bishop Ave | 6 |
 | [19061](https://precinct.netpress.com/#16-19061) | Houston Rd, 16th Ave | 82 |
 | [19062](https://precinct.netpress.com/#16-19062) | Highway 41 | 0 |
@@ -114,27 +114,27 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [19065](https://precinct.netpress.com/#16-19065) | Lincoln Ave, Laurel Ave, Lakeview Ave | 0 |
 | [19066](https://precinct.netpress.com/#16-19066) | S 19th Ave | 4 |
 | [19067](https://precinct.netpress.com/#16-19067) | 19th Ave | 0 |
-| [19068](https://precinct.netpress.com/#16-19068) |  | 3 |
-| [19069](https://precinct.netpress.com/#16-19069) | Stratford | 3 |
-| [19070](https://precinct.netpress.com/#16-19070) |  | 3 |
+| [19068](https://precinct.netpress.com/#16-19068) | Along Highway 41 and State Hwy 41 | 3 |
+| [19069](https://precinct.netpress.com/#16-19069) | Stratford; along Laurel Ave and 6th St | 3 |
+| [19070](https://precinct.netpress.com/#16-19070) | Along 21st Ave and 20th Ave | 3 |
 | [21001](https://precinct.netpress.com/#16-21001) | Hanford; 9 1/8 Ave, 3rd St | 0 |
 | [21002](https://precinct.netpress.com/#16-21002) | Hanford; E 3rd St, Glendale Ave | 0 |
 | [21003](https://precinct.netpress.com/#16-21003) | Hanford; E 3rd St, 3rd St | 3 |
 | [21004](https://precinct.netpress.com/#16-21004) | Hanford; S 10th Ave | 5 |
 | [21005](https://precinct.netpress.com/#16-21005) | Hanford; 9 1/2 Ave, Hanford Armona Rd | 0 |
-| [21007](https://precinct.netpress.com/#16-21007) | Hanford | 1 |
-| [21008](https://precinct.netpress.com/#16-21008) |  | 0 |
+| [21007](https://precinct.netpress.com/#16-21007) | Hanford; along Hanford Armona Rd | 1 |
+| [21008](https://precinct.netpress.com/#16-21008) | Hanford; near Hanford Armona Rd | 0 |
 | [21009](https://precinct.netpress.com/#16-21009) | Hanford; Houston Ave | 0 |
 | [21010](https://precinct.netpress.com/#16-21010) | Hanford | 0 |
 | [21011](https://precinct.netpress.com/#16-21011) | Hanford; Crown Ave | 0 |
-| [21012](https://precinct.netpress.com/#16-21012) | Hanford | 0 |
+| [21012](https://precinct.netpress.com/#16-21012) | Hanford; along Crown Ave | 0 |
 | [21013](https://precinct.netpress.com/#16-21013) | Hanford; Industrial Ave, Crown Ave | 0 |
 | [21014](https://precinct.netpress.com/#16-21014) | Hanford | 2 |
 | [21016](https://precinct.netpress.com/#16-21016) | Hanford; Energy St, Power Way | 1 |
 | [21017](https://precinct.netpress.com/#16-21017) | Hanford; 3rd St, E 3rd St | 1 |
 | [21018](https://precinct.netpress.com/#16-21018) | Hanford | 0 |
 | [21020](https://precinct.netpress.com/#16-21020) | Hanford; S 11th Ave | 0 |
-| [21021](https://precinct.netpress.com/#16-21021) | Hanford | 3 |
+| [21021](https://precinct.netpress.com/#16-21021) | Hanford; along 10th Ave | 3 |
 | [23001](https://precinct.netpress.com/#16-23001) | Corcoran; Gardner Ave, Yoder Blvd | 373 |
 | [23002](https://precinct.netpress.com/#16-23002) | Corcoran | 4 |
 | [23003](https://precinct.netpress.com/#16-23003) | Corcoran; Otis Ave | 0 |
@@ -142,11 +142,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [23005](https://precinct.netpress.com/#16-23005) | Corcoran; Bell Ave, Estes Ave | 144 |
 | [23006](https://precinct.netpress.com/#16-23006) | Corcoran; Claire Ave | 17 |
 | [23007](https://precinct.netpress.com/#16-23007) | Corcoran; Preston Way, Hanna Ave | 131 |
-| [23008](https://precinct.netpress.com/#16-23008) | Corcoran | 12 |
+| [23008](https://precinct.netpress.com/#16-23008) | Corcoran; along Patterson Ave and Letts Ave | 12 |
 | [23009](https://precinct.netpress.com/#16-23009) | Corcoran; Wigdal Ave, Sherman Ave | 97 |
 | [23010](https://precinct.netpress.com/#16-23010) | Corcoran; Stanley Ave, Bainum Ave | 147 |
 | [23011](https://precinct.netpress.com/#16-23011) | Corcoran; Philip St, Charles St | 190 |
-| [23012](https://precinct.netpress.com/#16-23012) | Corcoran | 1 |
+| [23012](https://precinct.netpress.com/#16-23012) | Corcoran; along Santa Fe Ave | 1 |
 | [23013](https://precinct.netpress.com/#16-23013) | Corcoran; Patterson Ave, Keegan Ave | 340 |
 | [23014](https://precinct.netpress.com/#16-23014) | Corcoran; Dairy Ave | 139 |
 | [23015](https://precinct.netpress.com/#16-23015) | Corcoran; Industrial Ave, Pickerell Ave | 0 |
@@ -154,13 +154,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [23018](https://precinct.netpress.com/#16-23018) | Corcoran; Heffner Ave, Van Dorsten Ave | 145 |
 | [23019](https://precinct.netpress.com/#16-23019) | Corcoran; Lorina Ave, Garvey Ave | 204 |
 | [23020](https://precinct.netpress.com/#16-23020) | Corcoran; Bell Ave, Lorina Ave | 49 |
-| [23021](https://precinct.netpress.com/#16-23021) | Corcoran | 11 |
+| [23021](https://precinct.netpress.com/#16-23021) | Corcoran; along 6 1/2 Ave and Bell Ave | 11 |
 | [23022](https://precinct.netpress.com/#16-23022) | Corcoran; Hume Lake Ave, Sequoia Ave | 98 |
 | [23023](https://precinct.netpress.com/#16-23023) | Corcoran; Branum Ave, Olympic Ave | 31 |
 | [23024](https://precinct.netpress.com/#16-23024) | Corcoran; Sherman Ave | 0 |
-| [23025](https://precinct.netpress.com/#16-23025) |  | 4 |
+| [23025](https://precinct.netpress.com/#16-23025) | Along Sherman Ave | 4 |
 | [23026](https://precinct.netpress.com/#16-23026) | Sherman Ave, Omaha Ave | 0 |
-| [23027](https://precinct.netpress.com/#16-23027) | Corcoran; Branum Ave, Olympic Ave, Sherman Ave | 25 |
+| [23027](https://precinct.netpress.com/#16-23027) | Corcoran; Branum Ave, Olympic Ave | 25 |
 | [23028](https://precinct.netpress.com/#16-23028) | Corcoran; Orange Ave | 3 |
 | [23029](https://precinct.netpress.com/#16-23029) | Corcoran; Nevada Ave, 5 1/2 Ave | 0 |
 | [23030](https://precinct.netpress.com/#16-23030) | Corcoran; Doran Ave, Olympic Ave | 208 |
@@ -178,11 +178,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [23043](https://precinct.netpress.com/#16-23043) | Corcoran; Canal Rd | 0 |
 | [23044](https://precinct.netpress.com/#16-23044) | Corcoran; Nimitz Ave, Dairy Ave | 42 |
 | [23045](https://precinct.netpress.com/#16-23045) | Corcoran; Josephine Ave, Claire Ave | 19 |
-| [23046](https://precinct.netpress.com/#16-23046) | Corcoran | 0 |
+| [23046](https://precinct.netpress.com/#16-23046) | Corcoran; along Van Dorsten Ave | 0 |
 | [23047](https://precinct.netpress.com/#16-23047) | Corcoran; James Ave, Benrus Ave | 258 |
 | [23048](https://precinct.netpress.com/#16-23048) | Corcoran; Highway 137 | 1 |
 | [23049](https://precinct.netpress.com/#16-23049) | Corcoran; 5 1/2 Ave | 29 |
-| [23050](https://precinct.netpress.com/#16-23050) |  | 0 |
+| [23050](https://precinct.netpress.com/#16-23050) | Near 6th Ave | 0 |
 | [23051](https://precinct.netpress.com/#16-23051) | Corcoran; Letts St, Aurand Ct | 112 |
 | [23052](https://precinct.netpress.com/#16-23052) | Corcoran; King Ave, Van Dorsten Ave | 0 |
 | [23053](https://precinct.netpress.com/#16-23053) | Corcoran; King Ave, Rd 16 | 0 |
@@ -216,14 +216,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [24015](https://precinct.netpress.com/#16-24015) | Avenal; W Stanislaus St, C Ave | 26 |
 | [29001](https://precinct.netpress.com/#16-29001) | Orchard Dr, Hanford Armona Rd | 0 |
 | [29002](https://precinct.netpress.com/#16-29002) | 9 1/8 Ave, 9th Ave, 8 3/4 Ave | 119 |
-| [29003](https://precinct.netpress.com/#16-29003) |  | 0 |
+| [29003](https://precinct.netpress.com/#16-29003) | Near 9 1/2 Ave | 0 |
 | [29004](https://precinct.netpress.com/#16-29004) | E 16th Ave, 8 1/2 Ave, Hanford Armona Rd | 77 |
-| [29005](https://precinct.netpress.com/#16-29005) |  | 6 |
+| [29005](https://precinct.netpress.com/#16-29005) | Near Central Valley Hwy | 6 |
 | [29006](https://precinct.netpress.com/#16-29006) | Hanford; 10th Ave | 2 |
 | [29007](https://precinct.netpress.com/#16-29007) | 14 1/2 Ave, 13th Ave, Kansas Ave | 5 |
 | [29008](https://precinct.netpress.com/#16-29008) | 16th Ave, 14th Ave, Kansas Ave | 1 |
-| [29009](https://precinct.netpress.com/#16-29009) | Home Garden | 3 |
-| [29010](https://precinct.netpress.com/#16-29010) | Home Garden | 0 |
+| [29009](https://precinct.netpress.com/#16-29009) | Home Garden; along 10th Ave | 3 |
+| [29010](https://precinct.netpress.com/#16-29010) | Home Garden; along 10 1/2 Ave | 0 |
 | [29011](https://precinct.netpress.com/#16-29011) | Home Garden; Libbie Ln, Haven Ln | 155 |
 | [29012](https://precinct.netpress.com/#16-29012) | Home Garden; Home Ave, 5th Pl | 151 |
 | [29013](https://precinct.netpress.com/#16-29013) | Home Garden; 1st Pl, S 10th Ave | 144 |
@@ -231,45 +231,45 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [29015](https://precinct.netpress.com/#16-29015) | Shaw Pl | 0 |
 | [29016](https://precinct.netpress.com/#16-29016) | 6th Pl | 9 |
 | [29017](https://precinct.netpress.com/#16-29017) | Iona Ave, 9th Ave | 19 |
-| [29018](https://precinct.netpress.com/#16-29018) |  | 16 |
-| [29019](https://precinct.netpress.com/#16-29019) |  | 21 |
+| [29018](https://precinct.netpress.com/#16-29018) | Along 9th Ave | 16 |
+| [29019](https://precinct.netpress.com/#16-29019) | Near S 10th Ave | 21 |
 | [29020](https://precinct.netpress.com/#16-29020) | S 10th Ave | 3 |
 | [29021](https://precinct.netpress.com/#16-29021) | Kent Ave, Jersey Ave, 9th Ave | 4 |
 | [29022](https://precinct.netpress.com/#16-29022) | Kansas Ave, Highway 43, 9th Ave | 25 |
 | [29023](https://precinct.netpress.com/#16-29023) | 10th Ave, Balaam Dr | 49 |
 | [29024](https://precinct.netpress.com/#16-29024) | Idaho Ave, Longfellow, 9th Ave | 30 |
 | [29025](https://precinct.netpress.com/#16-29025) | Jackson Ave, S 11th Ave, S 10th Ave | 25 |
-| [29026](https://precinct.netpress.com/#16-29026) |  | 4 |
+| [29026](https://precinct.netpress.com/#16-29026) | Along 10 1/2 Ave | 4 |
 | [29027](https://precinct.netpress.com/#16-29027) | 10 1/2 Ave | 0 |
 | [29028](https://precinct.netpress.com/#16-29028) | S 10th Ave, 10th Ave, 9 1/2 Ave | 3 |
 | [29029](https://precinct.netpress.com/#16-29029) | Lansing Ave, 9th Ave | 13 |
 | [29030](https://precinct.netpress.com/#16-29030) | Lansing Ave | 3 |
-| [29031](https://precinct.netpress.com/#16-29031) |  | 0 |
-| [29033](https://precinct.netpress.com/#16-29033) |  | 3 |
-| [29034](https://precinct.netpress.com/#16-29034) |  | 2 |
+| [29031](https://precinct.netpress.com/#16-29031) | Along Central Valley Hwy and 8th Ave | 0 |
+| [29033](https://precinct.netpress.com/#16-29033) | Near Central Valley Hwy | 3 |
+| [29034](https://precinct.netpress.com/#16-29034) | Near 6th Ave | 2 |
 | [29035](https://precinct.netpress.com/#16-29035) | 9 3/4 Ave | 38 |
 | [29036](https://precinct.netpress.com/#16-29036) | 9 1/2 Ave | 6 |
 | [29041](https://precinct.netpress.com/#16-29041) | 5th Ave | 0 |
 | [29043](https://precinct.netpress.com/#16-29043) | Newton Ave, 12th Ave, Nevada Ave | 4 |
-| [29052](https://precinct.netpress.com/#16-29052) |  | 12 |
+| [29052](https://precinct.netpress.com/#16-29052) | Along Pickerell Ave and 5th Ave | 12 |
 | [29053](https://precinct.netpress.com/#16-29053) | Corcoran; Pickerell Ave | 5 |
 | [29054](https://precinct.netpress.com/#16-29054) | Rd 20, 4th Ave, 6th Ave | 11 |
 | [29059](https://precinct.netpress.com/#16-29059) | 6th Ave, 224 Ave | 1 |
 | [29060](https://precinct.netpress.com/#16-29060) | Corcoran Irrigation Dist Reservoir, 6th Ave, Nevada Ave | 0 |
 | [29061](https://precinct.netpress.com/#16-29061) | Rd 20, 4th Ave, 4th | 1 |
 | [29062](https://precinct.netpress.com/#16-29062) | Highway 43, Nevada Ave | 6 |
-| [29063](https://precinct.netpress.com/#16-29063) |  | 0 |
+| [29063](https://precinct.netpress.com/#16-29063) | Along Central Valley Hwy and 8th Ave | 0 |
 | [29064](https://precinct.netpress.com/#16-29064) | 10 1/2 Ave | 0 |
-| [29065](https://precinct.netpress.com/#16-29065) |  | 0 |
+| [29065](https://precinct.netpress.com/#16-29065) | Along 10 1/2 Ave | 0 |
 | [29066](https://precinct.netpress.com/#16-29066) | Nevada Ave | 2 |
 | [29067](https://precinct.netpress.com/#16-29067) | Guiberson Ave, Nimitz Ave, Nevada Ave | 0 |
-| [29068](https://precinct.netpress.com/#16-29068) |  | 0 |
+| [29068](https://precinct.netpress.com/#16-29068) | Along Nimitz Ave and Orange Ave | 0 |
 | [29069](https://precinct.netpress.com/#16-29069) | Percolation Basin, 5th Ave, Nevada Ave | 17 |
 | [29070](https://precinct.netpress.com/#16-29070) | State Hwy 137, 4 1/2 Ave, Rd 16 | 39 |
 | [29072](https://precinct.netpress.com/#16-29072) | Santa Fe Ave, Pickerill Ave, Highway 137 | 0 |
-| [29073](https://precinct.netpress.com/#16-29073) |  | 5 |
+| [29073](https://precinct.netpress.com/#16-29073) | Along Newark Ave and Van Dorsten Ave | 5 |
 | [29074](https://precinct.netpress.com/#16-29074) | Canal Rd, Newark Ave | 11 |
-| [29075](https://precinct.netpress.com/#16-29075) |  | 5 |
+| [29075](https://precinct.netpress.com/#16-29075) | Along Canal Rd | 5 |
 | [29076](https://precinct.netpress.com/#16-29076) | Nice Ave, 6 1/4 Ave, Niles Ave | 87 |
 | [29077](https://precinct.netpress.com/#16-29077) | 6 1/2 Ave, Newark Ave, Orange Ave | 0 |
 | [29078](https://precinct.netpress.com/#16-29078) | 5 1/2 Ave, Nevada Ave | 6 |
@@ -279,9 +279,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [29082](https://precinct.netpress.com/#16-29082) | 9 1/2 Ave | 18 |
 | [29083](https://precinct.netpress.com/#16-29083) | Bainum Ave | 5 |
 | [29084](https://precinct.netpress.com/#16-29084) | Highway 137, Pueblo Ave, 7 1/2 Ave | 12 |
-| [29085](https://precinct.netpress.com/#16-29085) |  | 3 |
+| [29085](https://precinct.netpress.com/#16-29085) | Along 7th Ave and Ottawa Ave | 3 |
 | [29086](https://precinct.netpress.com/#16-29086) | 7 1/2 Ave, 7th Ave | 0 |
-| [29087](https://precinct.netpress.com/#16-29087) |  | 0 |
+| [29087](https://precinct.netpress.com/#16-29087) | Near 10th Ave | 0 |
 | [29088](https://precinct.netpress.com/#16-29088) | 10th Ave, Helm Lewis Ditch, Niles Ave | 5 |
 | [29089](https://precinct.netpress.com/#16-29089) | Oregon Ave, Santa Fe Ave, Rd 16 | 0 |
 | [29090](https://precinct.netpress.com/#16-29090) | 7th Ave, 6th Ave, Quail Ave | 0 |
@@ -290,13 +290,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [29093](https://precinct.netpress.com/#16-29093) | Salem Ave, Dairy Ave, Racine Ave | 5 |
 | [29095](https://precinct.netpress.com/#16-29095) | Tule River, Utica Ave, Redding Ave | 4 |
 | [29098](https://precinct.netpress.com/#16-29098) | Country Line Ave, Dairy Ave, 6th Ave | 0 |
-| [29100](https://precinct.netpress.com/#16-29100) |  | 0 |
-| [29101](https://precinct.netpress.com/#16-29101) |  | 12 |
+| [29100](https://precinct.netpress.com/#16-29100) | Near 10th Ave | 0 |
+| [29101](https://precinct.netpress.com/#16-29101) | Along 6 1/2 Ave and Orange Ave | 12 |
 | [29103](https://precinct.netpress.com/#16-29103) | Highway 137, 10th Ave, 9th Ave | 0 |
-| [29106](https://precinct.netpress.com/#16-29106) |  | 16 |
+| [29106](https://precinct.netpress.com/#16-29106) | Along Omaha Ave | 16 |
 | [29108](https://precinct.netpress.com/#16-29108) | Paramount Ave, Vendor St, Van Dorsten Ave | 27 |
 | [29110](https://precinct.netpress.com/#16-29110) | Niles Ave | 28 |
-| [29111](https://precinct.netpress.com/#16-29111) |  | 0 |
+| [29111](https://precinct.netpress.com/#16-29111) | Along 5 1/2 Ave | 0 |
 | [29115](https://precinct.netpress.com/#16-29115) | Utica Ave, Frontage Rd, 25th Ave | 0 |
 | [29116](https://precinct.netpress.com/#16-29116) | Avenal; Big Tar Canyon Rd, Cholame Valley Wagon Rd | 12 |
 | [29118](https://precinct.netpress.com/#16-29118) | Shell Rd, Quebec Ave, Skyline Rd | 0 |
@@ -346,10 +346,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [32002](https://precinct.netpress.com/#16-32002) | Lemoore; W Spring Ln, W Burlwood Ln | 293 |
 | [32003](https://precinct.netpress.com/#16-32003) | Lemoore; Antelope Dr, W Spring Ln | 220 |
 | [32004](https://precinct.netpress.com/#16-32004) | Lemoore; E Hazelwood Dr, E Hanford Armona Rd | 401 |
-| [32005](https://precinct.netpress.com/#16-32005) | Lemoore; E Spruce Ave, E Deodar Ln, Faun Dr | 183 |
+| [32005](https://precinct.netpress.com/#16-32005) | Lemoore; E Spruce Ave, E Deodar Ln | 183 |
 | [32006](https://precinct.netpress.com/#16-32006) | Lemoore; E Glendale Ave, Glendale Ave | 0 |
 | [32007](https://precinct.netpress.com/#16-32007) | Lemoore; Ashland Dr, Tamarack Ln | 194 |
-| [32008](https://precinct.netpress.com/#16-32008) | Lemoore; E Spruce Ave, E Deodar Ln, Mary Dr | 110 |
+| [32008](https://precinct.netpress.com/#16-32008) | Lemoore; E Spruce Ave, E Deodar Ln | 110 |
 | [32009](https://precinct.netpress.com/#16-32009) | Lemoore; Elderwood Ln, King Ct | 196 |
 | [32010](https://precinct.netpress.com/#16-32010) | Lemoore; Pine Dr, Shady St | 464 |
 | [32011](https://precinct.netpress.com/#16-32011) | Lemoore; American Ave, Columbus Way | 421 |
@@ -362,31 +362,31 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [32018](https://precinct.netpress.com/#16-32018) | Lemoore; Makenna St, Scotland St | 49 |
 | [39001](https://precinct.netpress.com/#16-39001) | Douglas Ave, 12 3/4 Ave, 13 1/4 Ave | 50 |
 | [39002](https://precinct.netpress.com/#16-39002) | Hardwick; Excelsior Ave, 14 1/4 Ave | 185 |
-| [39003](https://precinct.netpress.com/#16-39003) |  | 39 |
+| [39003](https://precinct.netpress.com/#16-39003) | Along 12th Ave | 39 |
 | [39004](https://precinct.netpress.com/#16-39004) | Everett Ave, 13th Ave, 12th Ave | 34 |
 | [39005](https://precinct.netpress.com/#16-39005) | 14th Ave, Elgin Ave, 13th Ave | 17 |
-| [39006](https://precinct.netpress.com/#16-39006) |  | 0 |
+| [39006](https://precinct.netpress.com/#16-39006) | Along 12th Ave | 0 |
 | [39007](https://precinct.netpress.com/#16-39007) | 12th Ave | 0 |
 | [39008](https://precinct.netpress.com/#16-39008) | Flint Ave, 15th Ave, Elgin Ave | 64 |
 | [39009](https://precinct.netpress.com/#16-39009) | Hanford; 13th Ave, 12th Ave | 48 |
-| [39011](https://precinct.netpress.com/#16-39011) |  | 5 |
+| [39011](https://precinct.netpress.com/#16-39011) | Along Fargo Ave | 5 |
 | [39012](https://precinct.netpress.com/#16-39012) | Grangeville; Francisco Dr, School Rd | 270 |
 | [39013](https://precinct.netpress.com/#16-39013) | Grangeville Blvd, Fargo Ave, 13 1/2 Ave | 26 |
 | [39014](https://precinct.netpress.com/#16-39014) | Lilly Way, Fargo Ave | 45 |
-| [39015](https://precinct.netpress.com/#16-39015) |  | 0 |
+| [39015](https://precinct.netpress.com/#16-39015) | Near Vineyard St | 0 |
 | [39016](https://precinct.netpress.com/#16-39016) | Hanford; 12th Ave, Fargo Ave | 0 |
-| [39017](https://precinct.netpress.com/#16-39017) |  | 61 |
+| [39017](https://precinct.netpress.com/#16-39017) | Along N Magna Carta Ave | 61 |
 | [39018](https://precinct.netpress.com/#16-39018) | Grangeville; Liberty Ln, 15th Ave | 138 |
 | [39019](https://precinct.netpress.com/#16-39019) | 14th Ave, 13th Ave | 22 |
 | [39020](https://precinct.netpress.com/#16-39020) | W Lacey Blvd, Geneva Ave, 14 1/2 Ave | 11 |
 | [39021](https://precinct.netpress.com/#16-39021) | Grangeville Blvd | 15 |
 | [39022](https://precinct.netpress.com/#16-39022) | Flint Ave | 17 |
 | [39023](https://precinct.netpress.com/#16-39023) | 16th Ave | 8 |
-| [39024](https://precinct.netpress.com/#16-39024) |  | 16 |
+| [39024](https://precinct.netpress.com/#16-39024) | Near W Lacey Blvd | 16 |
 | [39025](https://precinct.netpress.com/#16-39025) | Elder Ave, 15th Ave, 16th Ave | 38 |
-| [39026](https://precinct.netpress.com/#16-39026) |  | 0 |
+| [39026](https://precinct.netpress.com/#16-39026) | Near 16th Ave | 0 |
 | [39029](https://precinct.netpress.com/#16-39029) | W Excelsior Ave, 24 1/2 Ave, S Bryan Ave | 23 |
-| [39030](https://precinct.netpress.com/#16-39030) |  | 6 |
+| [39030](https://precinct.netpress.com/#16-39030) | Near Grangeville Blvd | 6 |
 | [39031](https://precinct.netpress.com/#16-39031) | E Excelsior Ave, Everett Ave, Excelsior Ave | 40 |
 | [39032](https://precinct.netpress.com/#16-39032) | W Glendale Ave, Highway 41, Lacey Blvd | 53 |
 | [39033](https://precinct.netpress.com/#16-39033) | 23 1/2 Ave, Everett Ave, Elder Ave | 49 |
@@ -404,13 +404,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [39050](https://precinct.netpress.com/#16-39050) | Elgin Ave, 21 1/2 Ave | 15 |
 | [39051](https://precinct.netpress.com/#16-39051) | 25th St, Hanford-Armona Rd, Geneva Ave | 106 |
 | [39052](https://precinct.netpress.com/#16-39052) | 20 1/2 Ave | 60 |
-| [39053](https://precinct.netpress.com/#16-39053) |  | 0 |
+| [39053](https://precinct.netpress.com/#16-39053) | Along Grangeville Blvd Byp | 0 |
 | [39055](https://precinct.netpress.com/#16-39055) | Lemoore | 0 |
 | [39056](https://precinct.netpress.com/#16-39056) | Lemoore Naval Air Station, Reeves Blvd, 26 1/2 Ave | 0 |
 | [39057](https://precinct.netpress.com/#16-39057) | Lemoore Naval Air Station, Skytrain Ave, Gateway Rd | 0 |
-| [39058](https://precinct.netpress.com/#16-39058) |  | 5 |
+| [39058](https://precinct.netpress.com/#16-39058) | Near 21st Ave | 5 |
 | [39059](https://precinct.netpress.com/#16-39059) | Lemoore; Elder Ave, Excelsior Ave | 27 |
-| [39060](https://precinct.netpress.com/#16-39060) |  | 11 |
+| [39060](https://precinct.netpress.com/#16-39060) | Along 16th Ave | 11 |
 | [39061](https://precinct.netpress.com/#16-39061) | 17 1/4 Ave, 17th Ave, Hickery Park Dr | 103 |
 | [39062](https://precinct.netpress.com/#16-39062) | Fargo Ave, 20th Ave | 15 |
 | [39063](https://precinct.netpress.com/#16-39063) | Grangeville Blvd, 18th Ave | 85 |
@@ -440,26 +440,26 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [41007](https://precinct.netpress.com/#16-41007) | Hanford; N 11th Ave | 1 |
 | [41008](https://precinct.netpress.com/#16-41008) | Hanford; Whitmore St, Middleton St | 185 |
 | [41009](https://precinct.netpress.com/#16-41009) | Hanford; Kaweah St, Neville St | 50 |
-| [41010](https://precinct.netpress.com/#16-41010) | Hanford; W Florinda St, W Cameron St, Whitmore St | 88 |
+| [41010](https://precinct.netpress.com/#16-41010) | Hanford; W Florinda St, W Cameron St | 88 |
 | [41011](https://precinct.netpress.com/#16-41011) | Hanford; Low St, Whitmore St | 38 |
 | [41012](https://precinct.netpress.com/#16-41012) | Hanford; N 10 1/2 Ave, N Irwin St | 122 |
-| [41013](https://precinct.netpress.com/#16-41013) | Hanford; W Florinda St, W Cameron St, W Bush St | 78 |
+| [41013](https://precinct.netpress.com/#16-41013) | Hanford; W Florinda St, W Cameron St | 78 |
 | [41014](https://precinct.netpress.com/#16-41014) | Hanford; Katherine St, Keith St | 93 |
 | [41015](https://precinct.netpress.com/#16-41015) | Hanford; W Elm St, N Irwin St | 115 |
 | [41016](https://precinct.netpress.com/#16-41016) | Hanford; 11th St, Park Ave | 98 |
 | [41017](https://precinct.netpress.com/#16-41017) | Hanford; W 4th St, S 10 1/2 Ave | 1 |
-| [41018](https://precinct.netpress.com/#16-41018) | Hanford; W 6th St, W 7th St, S Redington St | 25 |
+| [41018](https://precinct.netpress.com/#16-41018) | Hanford; W 6th St, W 7th St | 25 |
 | [41019](https://precinct.netpress.com/#16-41019) | Hanford; S Phillips St, W 2nd St | 360 |
 | [41020](https://precinct.netpress.com/#16-41020) | Hanford; Doris St, Hanford Armona Rd | 4 |
 | [41021](https://precinct.netpress.com/#16-41021) | Hanford; S Jordan Way, Fran Dr | 126 |
-| [41022](https://precinct.netpress.com/#16-41022) |  | 0 |
+| [41022](https://precinct.netpress.com/#16-41022) | Hanford; near 10 1/2 Ave | 0 |
 | [41023](https://precinct.netpress.com/#16-41023) | Hanford; S Williams St, W 3rd St | 65 |
 | [41024](https://precinct.netpress.com/#16-41024) | Hanford; W Hanford Armona Rd | 1 |
 | [41025](https://precinct.netpress.com/#16-41025) | Hanford; S Harris St, E 2nd St | 254 |
 | [41026](https://precinct.netpress.com/#16-41026) | Hanford; W 5th St, S 11th Ave | 0 |
-| [41027](https://precinct.netpress.com/#16-41027) |  | 0 |
+| [41027](https://precinct.netpress.com/#16-41027) | Along Campus Dr | 0 |
 | [41028](https://precinct.netpress.com/#16-41028) | Hanford; Mall Dr, W 6th St | 26 |
-| [41029](https://precinct.netpress.com/#16-41029) | Hanford; W 6th St, W 7th St, Henderson St | 112 |
+| [41029](https://precinct.netpress.com/#16-41029) | Hanford; W 6th St, W 7th St | 112 |
 | [41030](https://precinct.netpress.com/#16-41030) | Hanford; Garner Ave, Goleta Way | 98 |
 | [41031](https://precinct.netpress.com/#16-41031) | Hanford; Kimball St, Washington St | 437 |
 | [41032](https://precinct.netpress.com/#16-41032) | Hanford; S 11 1/2 Ave, Manor Ave | 117 |
@@ -501,45 +501,45 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [41069](https://precinct.netpress.com/#16-41069) | Hanford; Thompson Dr, 10 1/2 Ave | 4 |
 | [41070](https://precinct.netpress.com/#16-41070) | Hanford; 12th Ave | 0 |
 | [41071](https://precinct.netpress.com/#16-41071) | Hanford; 12 1/2 Ave | 0 |
-| [41072](https://precinct.netpress.com/#16-41072) | Hanford | 1 |
+| [41072](https://precinct.netpress.com/#16-41072) | Hanford; along Hanford Armona Rd | 1 |
 | [41074](https://precinct.netpress.com/#16-41074) | Hanford; W Ivy St | 0 |
-| [41075](https://precinct.netpress.com/#16-41075) |  | 0 |
-| [49001](https://precinct.netpress.com/#16-49001) |  | 11 |
+| [41075](https://precinct.netpress.com/#16-41075) | Near Parkside Dr | 0 |
+| [49001](https://precinct.netpress.com/#16-49001) | Along 12th Ave | 11 |
 | [49002](https://precinct.netpress.com/#16-49002) | Home Garden; Cam Ramon | 22 |
 | [49003](https://precinct.netpress.com/#16-49003) | 10 1/2 Ave, Thompson Dr | 37 |
 | [49004](https://precinct.netpress.com/#16-49004) | Hume Ave, 15th Ave | 64 |
 | [49005](https://precinct.netpress.com/#16-49005) | Armona; Houston Ave, Hood Ave | 47 |
 | [49007](https://precinct.netpress.com/#16-49007) | Armona; 13th Ave, Front St | 13 |
 | [49008](https://precinct.netpress.com/#16-49008) | Armona; Larkspur Way, Crocus Way | 402 |
-| [49009](https://precinct.netpress.com/#16-49009) |  | 28 |
+| [49009](https://precinct.netpress.com/#16-49009) | Along Hanford Armona Rd | 28 |
 | [49011](https://precinct.netpress.com/#16-49011) | Jackson Ave, Iona Ave, 12th Ave | 100 |
 | [49012](https://precinct.netpress.com/#16-49012) | Jersey Ave, 12th Ave, 13th Ave | 12 |
 | [49013](https://precinct.netpress.com/#16-49013) | Idaho Ave, Iona Ave, 15th Ave | 48 |
 | [49014](https://precinct.netpress.com/#16-49014) | Armona; Railroad Ave, Jackson St | 46 |
 | [49015](https://precinct.netpress.com/#16-49015) | Kent Ave, Jersey Ave, 15th Ave | 15 |
 | [49016](https://precinct.netpress.com/#16-49016) | 14th Ave, 15th Ave | 13 |
-| [49017](https://precinct.netpress.com/#16-49017) |  | 0 |
-| [49018](https://precinct.netpress.com/#16-49018) |  | 0 |
+| [49017](https://precinct.netpress.com/#16-49017) | Along S 11th Ave and 12th Ave | 0 |
+| [49018](https://precinct.netpress.com/#16-49018) | Near S 11th Ave | 0 |
 | [49019](https://precinct.netpress.com/#16-49019) | Idaho Ave | 0 |
-| [49020](https://precinct.netpress.com/#16-49020) |  | 2 |
-| [49021](https://precinct.netpress.com/#16-49021) |  | 0 |
+| [49020](https://precinct.netpress.com/#16-49020) | Near Kansas Ave | 2 |
+| [49021](https://precinct.netpress.com/#16-49021) | Near 14th Ave | 0 |
 | [49022](https://precinct.netpress.com/#16-49022) | 15th Ave | 3 |
 | [49023](https://precinct.netpress.com/#16-49023) | Hanford | 1 |
 | [49024](https://precinct.netpress.com/#16-49024) | 12th Ave | 4 |
 | [49025](https://precinct.netpress.com/#16-49025) | Kent Ave, 13th Ave | 10 |
-| [49026](https://precinct.netpress.com/#16-49026) |  | 0 |
+| [49026](https://precinct.netpress.com/#16-49026) | Along Kansas Ave | 0 |
 | [49027](https://precinct.netpress.com/#16-49027) | 15th Ave | 44 |
 | [49028](https://precinct.netpress.com/#16-49028) | 16th Ave | 13 |
-| [49029](https://precinct.netpress.com/#16-49029) |  | 0 |
+| [49029](https://precinct.netpress.com/#16-49029) | Along Kent Ave and Kansas Ave | 0 |
 | [49030](https://precinct.netpress.com/#16-49030) | Balm of Gilead Ave, Highway Ave | 24 |
 | [49031](https://precinct.netpress.com/#16-49031) | Armona; Dan Dr, Front St | 452 |
-| [49032](https://precinct.netpress.com/#16-49032) |  | 0 |
+| [49032](https://precinct.netpress.com/#16-49032) | Armona; near Locust St | 0 |
 | [49033](https://precinct.netpress.com/#16-49033) | Locust St | 0 |
 | [49034](https://precinct.netpress.com/#16-49034) | Armona; Walker St, Alen Way | 279 |
 | [49035](https://precinct.netpress.com/#16-49035) | Armona; Vista Dr, Matthew Way | 104 |
 | [49036](https://precinct.netpress.com/#16-49036) | Armona; Lyn St, Ada St | 275 |
 | [49037](https://precinct.netpress.com/#16-49037) | Armona; 6th St, Pistachio St | 125 |
-| [49038](https://precinct.netpress.com/#16-49038) | Armona | 0 |
+| [49038](https://precinct.netpress.com/#16-49038) | Armona; along Hume Ave | 0 |
 | [49039](https://precinct.netpress.com/#16-49039) | Armona; 14 1/2 Ave, 15th Ave | 39 |
 | [49040](https://precinct.netpress.com/#16-49040) | 16th Ave, Hanford Armona Rd | 15 |
 | [49041](https://precinct.netpress.com/#16-49041) | 12 1/2 Ave | 9 |
@@ -548,7 +548,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [49044](https://precinct.netpress.com/#16-49044) | Highway 198 | 0 |
 | [49045](https://precinct.netpress.com/#16-49045) | 14th Ave, 13th Ave, 13 1/4 Ave | 96 |
 | [49046](https://precinct.netpress.com/#16-49046) | 15th Ave | 20 |
-| [49047](https://precinct.netpress.com/#16-49047) |  | 12 |
+| [49047](https://precinct.netpress.com/#16-49047) | Along Iona Ave and 15th Ave | 12 |
 | [49048](https://precinct.netpress.com/#16-49048) | Hanford | 60 |
 | [49049](https://precinct.netpress.com/#16-49049) | Hanford; S 11th Ave | 5 |
 | [49050](https://precinct.netpress.com/#16-49050) | Houston Ave, 16th Ave | 52 |
@@ -556,9 +556,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [49052](https://precinct.netpress.com/#16-49052) | Armona; Hume Ave | 16 |
 | [51001](https://precinct.netpress.com/#16-51001) | Hanford; Northstar Dr, Aspen St | 441 |
 | [51002](https://precinct.netpress.com/#16-51002) | Hanford; W Fargo Ave, Aspen St | 269 |
-| [51003](https://precinct.netpress.com/#16-51003) | Hanford | 9 |
+| [51003](https://precinct.netpress.com/#16-51003) | Hanford; along Pepper Dr | 9 |
 | [51004](https://precinct.netpress.com/#16-51004) | Hanford; Timberline Ct, Tamarack Ct | 89 |
-| [51005](https://precinct.netpress.com/#16-51005) |  | 12 |
+| [51005](https://precinct.netpress.com/#16-51005) | Along Aspen St and Pepper Dr | 12 |
 | [51006](https://precinct.netpress.com/#16-51006) | Michael Way | 9 |
 | [51007](https://precinct.netpress.com/#16-51007) | Hanford; Tarragon Ave, Pepper Dr | 395 |
 | [51008](https://precinct.netpress.com/#16-51008) | Hanford; Mansionette Dr, W Sherwood Dr | 170 |
@@ -584,7 +584,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [51028](https://precinct.netpress.com/#16-51028) | Hanford; Leoni Dr, Monroe Dr | 22 |
 | [51029](https://precinct.netpress.com/#16-51029) | Hanford; E Cortner St, E Earl Way | 143 |
 | [51030](https://precinct.netpress.com/#16-51030) | Hanford; N Fairmont Dr, E Leland Way | 152 |
-| [51031](https://precinct.netpress.com/#16-51031) |  | 8 |
+| [51031](https://precinct.netpress.com/#16-51031) | Hanford; near E Leland Way | 8 |
 | [51032](https://precinct.netpress.com/#16-51032) | Hanford; E Lemmon Way, N Kensington Way | 144 |
 | [51033](https://precinct.netpress.com/#16-51033) | Hanford; N Kensington Way, E Leland Way | 171 |
 | [51034](https://precinct.netpress.com/#16-51034) | Hanford; N Mayfair Dr, N Woodridge Way | 161 |
@@ -609,7 +609,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [51054](https://precinct.netpress.com/#16-51054) | Hanford; E 6th St, Brown St | 2 |
 | [51055](https://precinct.netpress.com/#16-51055) | Hanford; E Elm St | 54 |
 | [51056](https://precinct.netpress.com/#16-51056) | Hanford; E 4th St, E 5th St | 18 |
-| [51057](https://precinct.netpress.com/#16-51057) |  | 1 |
+| [51057](https://precinct.netpress.com/#16-51057) | Along N 10th Ave and E Grangeville Blvd | 1 |
 | [51058](https://precinct.netpress.com/#16-51058) | Hanford; N 10th Ave, E Grangeville Blvd | 0 |
 | [51059](https://precinct.netpress.com/#16-51059) | Hanford | 0 |
 | [51060](https://precinct.netpress.com/#16-51060) | Hanford; N 10th Ave, E 11th St | 0 |
@@ -632,12 +632,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [51078](https://precinct.netpress.com/#16-51078) | Hanford; 9 1/2 Ave | 0 |
 | [51079](https://precinct.netpress.com/#16-51079) | Hanford; E Elm St | 102 |
 | [51080](https://precinct.netpress.com/#16-51080) | Hanford; N Harris St, E Elm St | 43 |
-| [51081](https://precinct.netpress.com/#16-51081) | Hanford | 68 |
+| [51081](https://precinct.netpress.com/#16-51081) | Hanford; along N 10th Ave and N White St | 68 |
 | [51082](https://precinct.netpress.com/#16-51082) | Hanford; Elaine Dr, Maxwell Dr | 235 |
 | [51083](https://precinct.netpress.com/#16-51083) | Hanford; Elm Ct, Van Ct | 154 |
 | [51084](https://precinct.netpress.com/#16-51084) | Hanford; Summer Field Dr, Fernot Way | 211 |
 | [51085](https://precinct.netpress.com/#16-51085) | Hanford; 9 1/4 Ave | 0 |
-| [51086](https://precinct.netpress.com/#16-51086) | Hanford | 12 |
+| [51086](https://precinct.netpress.com/#16-51086) | Hanford; along Whitney Dr | 12 |
 | [51087](https://precinct.netpress.com/#16-51087) | Hanford; Acacia St, Alder Ave | 341 |
 | [51088](https://precinct.netpress.com/#16-51088) | Hanford; E Magnolia Ave, E Sycamore Dr | 84 |
 | [51089](https://precinct.netpress.com/#16-51089) | Hanford; E Birch Ave, N 10th Ave | 75 |
@@ -656,8 +656,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [51102](https://precinct.netpress.com/#16-51102) | Hanford; Babe Ruth Dr, Beulah St | 38 |
 | [51103](https://precinct.netpress.com/#16-51103) | Hanford; Kruger Ave, Jessie Ave | 19 |
 | [51104](https://precinct.netpress.com/#16-51104) | Hanford; Mary St, Garcia Ln | 119 |
-| [51105](https://precinct.netpress.com/#16-51105) |  | 6 |
-| [51106](https://precinct.netpress.com/#16-51106) |  | 0 |
+| [51105](https://precinct.netpress.com/#16-51105) | Along Poplar St | 6 |
+| [51106](https://precinct.netpress.com/#16-51106) | Hanford; near E Grangeville Blvd | 0 |
 | [51107](https://precinct.netpress.com/#16-51107) | Hanford; Hardcastle Ave, Carey Ave | 53 |
 | [59001](https://precinct.netpress.com/#16-59001) | 232 Ave, 4th | 13 |
 | [59002](https://precinct.netpress.com/#16-59002) | Benicia Ave, S Bethel Ave, Barstow Ave | 26 |
@@ -669,13 +669,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59008](https://precinct.netpress.com/#16-59008) | Corona Ave, Cairo Ave, 8th Ave | 52 |
 | [59009](https://precinct.netpress.com/#16-59009) | Chico Ave, 8th Ave | 0 |
 | [59011](https://precinct.netpress.com/#16-59011) | Cairo Ave, 9 1/2 Ave, Denver Ave | 43 |
-| [59012](https://precinct.netpress.com/#16-59012) |  | 0 |
+| [59012](https://precinct.netpress.com/#16-59012) | Along Cairo Ave | 0 |
 | [59013](https://precinct.netpress.com/#16-59013) | Burris Park Dr, 5 3/4 Ave, Clinton Ave | 10 |
 | [59015](https://precinct.netpress.com/#16-59015) | Leonard, 11 1/2 Ave, 10 1/2 Ave | 28 |
 | [59016](https://precinct.netpress.com/#16-59016) | N 11th Ave, Cody Dr, Highway 43 | 84 |
 | [59017](https://precinct.netpress.com/#16-59017) | Dover Ave, Elder Ave | 44 |
 | [59018](https://precinct.netpress.com/#16-59018) | S 8th Ave, Denver Ave, Dover Ave | 171 |
-| [59019](https://precinct.netpress.com/#16-59019) | N 4th Ave, Rd 20, 4th Ave, Dover Ave | 15 |
+| [59019](https://precinct.netpress.com/#16-59019) | N 4th Ave, Rd 20, 4th Ave | 15 |
 | [59020](https://precinct.netpress.com/#16-59020) | Excelsior Ave, Dover Ave | 12 |
 | [59021](https://precinct.netpress.com/#16-59021) | Ave 336, Excelsior Ave, 4th Ave | 6 |
 | [59022](https://precinct.netpress.com/#16-59022) | 4th Ave | 3 |
@@ -686,7 +686,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59027](https://precinct.netpress.com/#16-59027) | N 11th Ave | 12 |
 | [59028](https://precinct.netpress.com/#16-59028) | 7th Rd, Hanford Armona Rd | 17 |
 | [59029](https://precinct.netpress.com/#16-59029) | Fairway Dr, 10 1/4 Ave, N Douty St | 20 |
-| [59030](https://precinct.netpress.com/#16-59030) |  | 2 |
+| [59030](https://precinct.netpress.com/#16-59030) | Along State Hwy 43 and 10th Ave | 2 |
 | [59031](https://precinct.netpress.com/#16-59031) | Eddy St, Carolyn Ave, Curtis St | 189 |
 | [59032](https://precinct.netpress.com/#16-59032) | 9 1/4 Ave, Fairview Pl, E Leland Way | 13 |
 | [59033](https://precinct.netpress.com/#16-59033) | N Carolyn Ln, Vista Ave, Coast Ave | 113 |
@@ -696,23 +696,23 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59037](https://precinct.netpress.com/#16-59037) | Lacy Blvd, Highway 43 | 0 |
 | [59038](https://precinct.netpress.com/#16-59038) | 6th Ave, Fargo Ave | 21 |
 | [59039](https://precinct.netpress.com/#16-59039) | Flint Ave, 8 1/2 Ave | 21 |
-| [59040](https://precinct.netpress.com/#16-59040) |  | 1 |
+| [59040](https://precinct.netpress.com/#16-59040) | Along State Hwy 43 | 1 |
 | [59041](https://precinct.netpress.com/#16-59041) | 7 1/2 Ave, 8 1/2 Ave, Fargo Ave | 59 |
 | [59042](https://precinct.netpress.com/#16-59042) | 7th Ave, 7 1/2 Ave | 27 |
 | [59043](https://precinct.netpress.com/#16-59043) | Flint Ave, 6th Ave | 6 |
 | [59044](https://precinct.netpress.com/#16-59044) | Fargo Ave | 8 |
 | [59045](https://precinct.netpress.com/#16-59045) | Grangeville Blvd, 5th Ave | 6 |
-| [59046](https://precinct.netpress.com/#16-59046) |  | 4 |
+| [59046](https://precinct.netpress.com/#16-59046) | Along 5th Ave | 4 |
 | [59047](https://precinct.netpress.com/#16-59047) | 5th Ave, 4th Ave | 11 |
-| [59048](https://precinct.netpress.com/#16-59048) |  | 2 |
+| [59048](https://precinct.netpress.com/#16-59048) | Along Hanford Expy and 4th Ave | 2 |
 | [59049](https://precinct.netpress.com/#16-59049) | Lacy Blvd, Ponderosa Rd, Edna Way | 70 |
 | [59050](https://precinct.netpress.com/#16-59050) | Highway 43 | 0 |
 | [59051](https://precinct.netpress.com/#16-59051) | Highway 198, 5 1/2 Ave | 7 |
 | [59052](https://precinct.netpress.com/#16-59052) | 4th Ave | 0 |
 | [59053](https://precinct.netpress.com/#16-59053) | 6th Ave, Hanford Armona Rd | 54 |
 | [59054](https://precinct.netpress.com/#16-59054) | 7th Ave, Hanford Armona Rd | 14 |
-| [59055](https://precinct.netpress.com/#16-59055) |  | 36 |
-| [59056](https://precinct.netpress.com/#16-59056) |  | 10 |
+| [59055](https://precinct.netpress.com/#16-59055) | Along Houston Ave and 6th Ave | 36 |
+| [59056](https://precinct.netpress.com/#16-59056) | Along 6th Ave | 10 |
 | [59057](https://precinct.netpress.com/#16-59057) | 7th Ave, 6th Ave | 8 |
 | [59058](https://precinct.netpress.com/#16-59058) | Idaho Ave, 3rd Ave, Rd 28 | 17 |
 | [59059](https://precinct.netpress.com/#16-59059) | Grangeville Blvd, Fairfax Ave | 13 |
@@ -726,5 +726,5 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [59072](https://precinct.netpress.com/#16-59072) | Rd 20, 4th Ave | 0 |
 | [59073](https://precinct.netpress.com/#16-59073) | 5th Ave, 4th, Rd 20 | 15 |
 | [59074](https://precinct.netpress.com/#16-59074) | 5 1/2 Ave, 5th Ave | 6 |
-| [59075](https://precinct.netpress.com/#16-59075) |  | 3 |
+| [59075](https://precinct.netpress.com/#16-59075) | Near Kansas Ave | 3 |
 | [59077](https://precinct.netpress.com/#16-59077) | Ave 384, Boston Ave, N 5 1/2 Ave | 53 |

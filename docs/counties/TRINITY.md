@@ -29,10 +29,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [14420100](https://precinct.netpress.com/#53-14420100) | Weaverville; Weaver Bally Loop, Easter Ave | 194 |
 | [14420200](https://precinct.netpress.com/#53-14420200) | Leslie Ln | 11 |
 | [14420400](https://precinct.netpress.com/#53-14420400) | Weaverville; Sidney Gulch Rd, Glennison Gap Rd | 6 |
-| [21230300](https://precinct.netpress.com/#53-21230300) |  | 0 |
+| [21230300](https://precinct.netpress.com/#53-21230300) | Near Highway 3 | 0 |
 | [22110100](https://precinct.netpress.com/#53-22110100) | Weaverville; Martin Rd, Masonic Ln | 1,585 |
 | [22110200](https://precinct.netpress.com/#53-22110200) | Weaverville; Brooks Ln, Lance Gulch Rd | 170 |
-| [22170400](https://precinct.netpress.com/#53-22170400) | Weaverville | 0 |
+| [22170400](https://precinct.netpress.com/#53-22170400) | Weaverville; along Main St | 0 |
 | [23010600](https://precinct.netpress.com/#53-23010600) | Weaverville; Browns Ranch Rd | 23 |
 | [23010900](https://precinct.netpress.com/#53-23010900) | Weaverville and Douglas City; Tucker Hill Rd | 3 |
 | [23310100](https://precinct.netpress.com/#53-23310100) | Weaverville; Oregon St, Dutch Ln | 69 |

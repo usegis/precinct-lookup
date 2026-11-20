@@ -25,7 +25,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1113](https://precinct.netpress.com/#38-1113) | San Francisco; Montana St, Thrift St | 1,101 |
 | [1114](https://precinct.netpress.com/#38-1114) | San Francisco; Broad St, Sadowa St | 868 |
 | [1115](https://precinct.netpress.com/#38-1115) | San Francisco; Sickles Ave, Sears St | 1,012 |
-| [1116](https://precinct.netpress.com/#38-1116) | San Francisco | 63 |
+| [1116](https://precinct.netpress.com/#38-1116) | San Francisco; along Howth St | 63 |
 | [1117](https://precinct.netpress.com/#38-1117) | San Francisco; Howth St, Louisburg St | 1,004 |
 | [1118](https://precinct.netpress.com/#38-1118) | San Francisco; Caine Ave, Majestic Ave | 1,199 |
 | [1119](https://precinct.netpress.com/#38-1119) | San Francisco; Rome St, Nahua Ave | 882 |
@@ -107,7 +107,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7054](https://precinct.netpress.com/#38-7054) | San Francisco; Jamestown Ave, Key Ave | 1,166 |
 | [7055](https://precinct.netpress.com/#38-7055) | San Francisco; Hollister Ave, Harney Way | 739 |
 | [7056](https://precinct.netpress.com/#38-7056) | San Francisco; Donner Ave, Cameron Way | 796 |
-| [7201](https://precinct.netpress.com/#38-7201) | San Francisco; Steiner St, Fillmore St, Clay St | 741 |
+| [7201](https://precinct.netpress.com/#38-7201) | San Francisco; Steiner St, Fillmore St | 741 |
 | [7202](https://precinct.netpress.com/#38-7202) | San Francisco; Orben Pl, Webster St | 905 |
 | [7203](https://precinct.netpress.com/#38-7203) | San Francisco; Octavia St | 180 |
 | [7204](https://precinct.netpress.com/#38-7204) | San Francisco; Octavia St | 208 |
@@ -158,10 +158,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7506](https://precinct.netpress.com/#38-7506) | San Francisco; Byington St, Eddy St | 1,165 |
 | [7507](https://precinct.netpress.com/#38-7507) | San Francisco; Galilee Ln, Larch Way | 967 |
 | [7508](https://precinct.netpress.com/#38-7508) | San Francisco; McAllister St, Seymour St | 1,095 |
-| [7509](https://precinct.netpress.com/#38-7509) | San Francisco; Turk Blvd, Turk St, Golden Gate Ave | 1,151 |
+| [7509](https://precinct.netpress.com/#38-7509) | San Francisco; Turk Blvd, Turk St | 1,151 |
 | [7511](https://precinct.netpress.com/#38-7511) | San Francisco; Laguna St, Eddy St | 1,147 |
 | [7512](https://precinct.netpress.com/#38-7512) | San Francisco; Birch St, McAllister St | 1,170 |
-| [7513](https://precinct.netpress.com/#38-7513) | San Francisco; Hayes St, Fell St, Divisadero St | 1,204 |
+| [7513](https://precinct.netpress.com/#38-7513) | San Francisco; Hayes St, Fell St | 1,204 |
 | [7514](https://precinct.netpress.com/#38-7514) | San Francisco; Steiner St, Fillmore St | 1,307 |
 | [7515](https://precinct.netpress.com/#38-7515) | San Francisco; Fulton St, Grove St | 1,279 |
 | [7516](https://precinct.netpress.com/#38-7516) | San Francisco; Linden St, Ivy St | 1,010 |
@@ -176,7 +176,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7526](https://precinct.netpress.com/#38-7526) | San Francisco; Willow St, Olive St | 1,257 |
 | [7527](https://precinct.netpress.com/#38-7527) | San Francisco; Ofarrell St, Antonio St | 1,295 |
 | [7528](https://precinct.netpress.com/#38-7528) | San Francisco; Ellis St, Cohen Pl | 1,035 |
-| [7529](https://precinct.netpress.com/#38-7529) | San Francisco; Turk Blvd, Turk St, Leavenworth St | 984 |
+| [7529](https://precinct.netpress.com/#38-7529) | San Francisco; Turk Blvd, Turk St | 984 |
 | [7531](https://precinct.netpress.com/#38-7531) | San Francisco; Hyde St, Dodge St | 1,058 |
 | [7532](https://precinct.netpress.com/#38-7532) | San Francisco; Dr Carlton P Goodlett Pl, United Nations Plz | 1,172 |
 | [7533](https://precinct.netpress.com/#38-7533) | San Francisco; Taylor St, Eddy St | 1,230 |
@@ -200,14 +200,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7618](https://precinct.netpress.com/#38-7618) | San Francisco; 7th St, Townsend St | 724 |
 | [7619](https://precinct.netpress.com/#38-7619) | San Francisco; Berry St, 6th St | 686 |
 | [7621](https://precinct.netpress.com/#38-7621) | San Francisco; Long Bridge St, Channel St | 881 |
-| [7622](https://precinct.netpress.com/#38-7622) | San Francisco; Terry Francois St, Terry A Francois Blvd, Mission Bay Blvd S | 1,088 |
+| [7622](https://precinct.netpress.com/#38-7622) | San Francisco; Terry Francois St, Terry A Francois Blvd | 1,088 |
 | [7623](https://precinct.netpress.com/#38-7623) | San Francisco; Mint Plz, Mint St | 668 |
 | [7624](https://precinct.netpress.com/#38-7624) | San Francisco; Folsom St, 6th St | 881 |
 | [7625](https://precinct.netpress.com/#38-7625) | San Francisco; Howard St, Holland Ct | 727 |
 | [7626](https://precinct.netpress.com/#38-7626) | San Francisco; Shipley St, Clara St | 637 |
 | [7627](https://precinct.netpress.com/#38-7627) | San Francisco; Welsh St, Freelon St | 954 |
 | [7628](https://precinct.netpress.com/#38-7628) | San Francisco; King St, Townsend St | 757 |
-| [7629](https://precinct.netpress.com/#38-7629) | San Francisco; Terry Francois St, Terry A Francois Blvd, Mission Rock St | 1,446 |
+| [7629](https://precinct.netpress.com/#38-7629) | San Francisco; Terry Francois St, Terry A Francois Blvd | 1,446 |
 | [7631](https://precinct.netpress.com/#38-7631) | San Francisco; Market St, New Montgomery St | 1,099 |
 | [7632](https://precinct.netpress.com/#38-7632) | San Francisco; Perry St, Lapu Lapu St | 1,011 |
 | [7633](https://precinct.netpress.com/#38-7633) | San Francisco; S Park Ave, Taber Aly | 765 |
@@ -216,7 +216,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7636](https://precinct.netpress.com/#38-7636) | San Francisco; Beale St, Main St | 4 |
 | [7637](https://precinct.netpress.com/#38-7637) | San Francisco; Steuart St, Main St | 1,012 |
 | [7638](https://precinct.netpress.com/#38-7638) | San Francisco; Malden Aly, Tehama St | 1,033 |
-| [7639](https://precinct.netpress.com/#38-7639) | San Francisco; Folsom St, Harrison St, Essex St | 1,091 |
+| [7639](https://precinct.netpress.com/#38-7639) | San Francisco; Folsom St, Harrison St | 1,091 |
 | [7641](https://precinct.netpress.com/#38-7641) | San Francisco; Main St | 1,104 |
 | [7642](https://precinct.netpress.com/#38-7642) | San Francisco; Zeno Pl, Beale St | 1,008 |
 | [7643](https://precinct.netpress.com/#38-7643) | San Francisco; Embarcadero South St, Spear St | 814 |
@@ -252,7 +252,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7811](https://precinct.netpress.com/#38-7811) | San Francisco; Market St, Douglass St | 970 |
 | [7812](https://precinct.netpress.com/#38-7812) | San Francisco; Ford St, Pond St | 1,233 |
 | [7813](https://precinct.netpress.com/#38-7813) | San Francisco; Landers St, Sharon St | 1,263 |
-| [7814](https://precinct.netpress.com/#38-7814) | San Francisco; Dolores St, Guerrero St, Elgin Park | 1,044 |
+| [7814](https://precinct.netpress.com/#38-7814) | San Francisco; Dolores St, Guerrero St | 1,044 |
 | [7815](https://precinct.netpress.com/#38-7815) | San Francisco; Ramona Ave, Ramona St | 1,267 |
 | [7816](https://precinct.netpress.com/#38-7816) | San Francisco; Church St, Dorland St | 1,030 |
 | [7817](https://precinct.netpress.com/#38-7817) | San Francisco; Chula Ln, 16th St | 1,110 |
@@ -262,7 +262,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7822](https://precinct.netpress.com/#38-7822) | San Francisco; Hartford St, Noe St | 1,051 |
 | [7823](https://precinct.netpress.com/#38-7823) | San Francisco; Liberty St, Hill St | 1,219 |
 | [7824](https://precinct.netpress.com/#38-7824) | San Francisco; Ames St, Church St | 1,081 |
-| [7825](https://precinct.netpress.com/#38-7825) | San Francisco; Dolores St, Guerrero St, Oakwood St | 1,206 |
+| [7825](https://precinct.netpress.com/#38-7825) | San Francisco; Dolores St, Guerrero St | 1,206 |
 | [7826](https://precinct.netpress.com/#38-7826) | San Francisco; Twin Peaks Blvd, Crestline Dr | 833 |
 | [7827](https://precinct.netpress.com/#38-7827) | San Francisco; Burnett Ave, Gardenside Dr | 936 |
 | [7828](https://precinct.netpress.com/#38-7828) | San Francisco; Hoffman Ave, Grand View Ave | 906 |
@@ -298,7 +298,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7907](https://precinct.netpress.com/#38-7907) | San Francisco; Linda St, Guerrero St | 1,160 |
 | [7908](https://precinct.netpress.com/#38-7908) | San Francisco; Clarion Aly, Sycamore St | 1,117 |
 | [7909](https://precinct.netpress.com/#38-7909) | San Francisco; Lexington St, San Carlos St | 1,068 |
-| [7911](https://precinct.netpress.com/#38-7911) | San Francisco; Folsom St, Harrison St, Shotwell St | 1,066 |
+| [7911](https://precinct.netpress.com/#38-7911) | San Francisco; Folsom St, Harrison St | 1,066 |
 | [7912](https://precinct.netpress.com/#38-7912) | San Francisco; Florida St, 21st St | 1,291 |
 | [7913](https://precinct.netpress.com/#38-7913) | San Francisco; Bartlett St, 21st St | 1,300 |
 | [7914](https://precinct.netpress.com/#38-7914) | San Francisco; S Van Ness Ave, 21st St | 1,317 |
@@ -342,7 +342,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9106](https://precinct.netpress.com/#38-9106) | San Francisco; 27th Ave, 26th Ave | 1,272 |
 | [9107](https://precinct.netpress.com/#38-9107) | San Francisco; Lake St, W Clay St | 963 |
 | [9108](https://precinct.netpress.com/#38-9108) | San Francisco; Clement St, 22nd Ave | 1,181 |
-| [9109](https://precinct.netpress.com/#38-9109) | San Francisco; 19th Ave, 18th Ave, 21st Ave, 20th Ave | 1,178 |
+| [9109](https://precinct.netpress.com/#38-9109) | San Francisco; 19th Ave, 18th Ave | 1,178 |
 | [9111](https://precinct.netpress.com/#38-9111) | San Francisco; Lake St, 17th Ave | 1,147 |
 | [9112](https://precinct.netpress.com/#38-9112) | San Francisco; Clement St, Tacoma St | 860 |
 | [9113](https://precinct.netpress.com/#38-9113) | San Francisco; 11th Ave, 10th Ave | 1,128 |
@@ -355,21 +355,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9121](https://precinct.netpress.com/#38-9121) | San Francisco; 40th Ave, 41st Ave | 1,082 |
 | [9122](https://precinct.netpress.com/#38-9122) | San Francisco; Balboa St, Geary Blvd | 1,109 |
 | [9123](https://precinct.netpress.com/#38-9123) | San Francisco; 32nd Ave, 33rd Ave | 1,292 |
-| [9124](https://precinct.netpress.com/#38-9124) | San Francisco; Geary Blvd, Balboa St, Anza St | 1,249 |
+| [9124](https://precinct.netpress.com/#38-9124) | San Francisco; Geary Blvd, Balboa St | 1,249 |
 | [9125](https://precinct.netpress.com/#38-9125) | San Francisco; 24th Ave, 23rd Ave | 984 |
 | [9126](https://precinct.netpress.com/#38-9126) | San Francisco; 19th Ave, Anza St | 1,236 |
-| [9127](https://precinct.netpress.com/#38-9127) | San Francisco; Geary Blvd, Balboa St, 17th Ave | 1,220 |
+| [9127](https://precinct.netpress.com/#38-9127) | San Francisco; Geary Blvd, Balboa St | 1,220 |
 | [9128](https://precinct.netpress.com/#38-9128) | San Francisco; 11th Ave, 12th Ave | 1,150 |
 | [9129](https://precinct.netpress.com/#38-9129) | San Francisco; 8th Ave, 10th Ave | 1,131 |
 | [9131](https://precinct.netpress.com/#38-9131) | San Francisco; Balboa St, 7th Ave | 1,097 |
 | [9132](https://precinct.netpress.com/#38-9132) | San Francisco; 2nd Ave, 3rd Ave | 1,199 |
 | [9133](https://precinct.netpress.com/#38-9133) | San Francisco; La Playa St, 47th Ave | 1,136 |
 | [9134](https://precinct.netpress.com/#38-9134) | San Francisco; Cabrillo St, Balboa St | 1,281 |
-| [9135](https://precinct.netpress.com/#38-9135) | San Francisco; 38th Ave, 40th Ave, 39th Ave, 37th Ave | 1,234 |
+| [9135](https://precinct.netpress.com/#38-9135) | San Francisco; 38th Ave, 40th Ave | 1,234 |
 | [9136](https://precinct.netpress.com/#38-9136) | San Francisco; Chain of Lakes, Spreckels Lake Dr | 1,256 |
 | [9137](https://precinct.netpress.com/#38-9137) | San Francisco; 30th Ave, 27th Ave | 1,267 |
 | [9138](https://precinct.netpress.com/#38-9138) | San Francisco; Cabrillo St, 25th Ave | 1,106 |
-| [9139](https://precinct.netpress.com/#38-9139) | San Francisco; 19th Ave, 18th Ave, 21st Ave, 20th Ave | 1,192 |
+| [9139](https://precinct.netpress.com/#38-9139) | San Francisco; 19th Ave, 18th Ave | 1,192 |
 | [9141](https://precinct.netpress.com/#38-9141) | San Francisco; Cabrillo St, 14th Ave | 1,141 |
 | [9142](https://precinct.netpress.com/#38-9142) | San Francisco; Fulton St, Conservatory Dr E | 1,145 |
 | [9143](https://precinct.netpress.com/#38-9143) | San Francisco; Cabrillo St, 6th Ave | 1,338 |
@@ -391,9 +391,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9213](https://precinct.netpress.com/#38-9213) | San Francisco; Greenwich St, Filbert St | 1,219 |
 | [9214](https://precinct.netpress.com/#38-9214) | San Francisco; Moulton St, Pixley St | 1,255 |
 | [9215](https://precinct.netpress.com/#38-9215) | San Francisco; Gough St, Filbert St | 1,287 |
-| [9216](https://precinct.netpress.com/#38-9216) | San Francisco; Union St, Green St, Normandie Ter | 1,184 |
+| [9216](https://precinct.netpress.com/#38-9216) | San Francisco; Union St, Green St | 1,184 |
 | [9217](https://precinct.netpress.com/#38-9217) | San Francisco; Steiner St, Scott St | 1,247 |
-| [9218](https://precinct.netpress.com/#38-9218) | San Francisco; Union St, Green St, Fillmore St | 1,414 |
+| [9218](https://precinct.netpress.com/#38-9218) | San Francisco; Union St, Green St | 1,414 |
 | [9219](https://precinct.netpress.com/#38-9219) | San Francisco; Vallejo St, Charlton Ct | 1,156 |
 | [9221](https://precinct.netpress.com/#38-9221) | San Francisco; Gough St, Laguna St | 1,206 |
 | [9222](https://precinct.netpress.com/#38-9222) | San Francisco; Franklin St, Green St | 1,379 |
@@ -431,7 +431,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9407](https://precinct.netpress.com/#38-9407) | San Francisco; Lincoln Way, Highway 1 | 1,246 |
 | [9408](https://precinct.netpress.com/#38-9408) | San Francisco; 48th Ave, La Playa St | 1,022 |
 | [9409](https://precinct.netpress.com/#38-9409) | San Francisco; Kirkham St, Lawton St | 872 |
-| [9411](https://precinct.netpress.com/#38-9411) | San Francisco; 38th Ave, 40th Ave, 39th Ave, Lawton St | 1,155 |
+| [9411](https://precinct.netpress.com/#38-9411) | San Francisco; 38th Ave, 40th Ave | 1,155 |
 | [9412](https://precinct.netpress.com/#38-9412) | San Francisco; Kirkham St | 1,153 |
 | [9413](https://precinct.netpress.com/#38-9413) | San Francisco; Moraga St, Lawton St | 1,242 |
 | [9414](https://precinct.netpress.com/#38-9414) | San Francisco; Kirkham St, 27th Ave | 1,114 |
@@ -458,8 +458,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9437](https://precinct.netpress.com/#38-9437) | San Francisco; Ulloa St, 40th Ave | 1,127 |
 | [9438](https://precinct.netpress.com/#38-9438) | San Francisco; Santiago St, 37th Ave | 1,020 |
 | [9439](https://precinct.netpress.com/#38-9439) | San Francisco; Taraval St, Vicente St | 926 |
-| [9441](https://precinct.netpress.com/#38-9441) | San Francisco; Ulloa St, Taraval St, 29th Ave | 1,119 |
-| [9442](https://precinct.netpress.com/#38-9442) | San Francisco; Ulloa St, Taraval St, Santiago St | 934 |
+| [9441](https://precinct.netpress.com/#38-9441) | San Francisco; Ulloa St, Taraval St | 1,119 |
+| [9442](https://precinct.netpress.com/#38-9442) | San Francisco; Ulloa St, Taraval St | 934 |
 | [9443](https://precinct.netpress.com/#38-9443) | San Francisco; Great Hwy, Upper Great Hwy | 1,090 |
 | [9444](https://precinct.netpress.com/#38-9444) | San Francisco; Sloat Blvd, 42nd Ave | 1,097 |
 | [9445](https://precinct.netpress.com/#38-9445) | San Francisco; Sunset Blvd, 37th Ave | 1,023 |
@@ -470,12 +470,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [9451](https://precinct.netpress.com/#38-9451) | San Francisco; Gellert Dr, Sloat Blvd | 1,292 |
 | [9452](https://precinct.netpress.com/#38-9452) | San Francisco; Forest View Dr, Inverness Dr | 1,138 |
 | [9501](https://precinct.netpress.com/#38-9501) | San Francisco; Frederick St, Haight St | 1,165 |
-| [9502](https://precinct.netpress.com/#38-9502) | San Francisco; Hayes St, Fell St, Cole St | 1,008 |
-| [9503](https://precinct.netpress.com/#38-9503) | San Francisco; Oak St, Page St, Kezar Dr | 1,043 |
+| [9502](https://precinct.netpress.com/#38-9502) | San Francisco; Hayes St, Fell St | 1,008 |
+| [9503](https://precinct.netpress.com/#38-9503) | San Francisco; Oak St, Page St | 1,043 |
 | [9504](https://precinct.netpress.com/#38-9504) | San Francisco; Haight St, Downey St | 1,357 |
 | [9505](https://precinct.netpress.com/#38-9505) | San Francisco; Ashbury St, Masonic Ave | 1,394 |
-| [9506](https://precinct.netpress.com/#38-9506) | San Francisco; Oak St, Page St, Central Ave | 1,199 |
-| [9507](https://precinct.netpress.com/#38-9507) | San Francisco; Hayes St, Fell St, Grove St | 990 |
+| [9506](https://precinct.netpress.com/#38-9506) | San Francisco; Oak St, Page St | 1,199 |
+| [9507](https://precinct.netpress.com/#38-9507) | San Francisco; Hayes St, Fell St | 990 |
 | [9508](https://precinct.netpress.com/#38-9508) | San Francisco; Broderick St, Divisadero St | 1,158 |
 | [9509](https://precinct.netpress.com/#38-9509) | San Francisco; Divisadero St, Haight St | 1,038 |
 | [9511](https://precinct.netpress.com/#38-9511) | San Francisco; Erkson Ct | 457 |

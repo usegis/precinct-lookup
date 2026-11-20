@@ -36,7 +36,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1022014](https://precinct.netpress.com/#54-1022014) | Exeter; Filbert St, S Quince Ave | 48 |
 | [1022015](https://precinct.netpress.com/#54-1022015) | Exeter; Orange Ave | 13 |
 | [1022016](https://precinct.netpress.com/#54-1022016) | Exeter; W Maple St, S Orange Ave | 19 |
-| [1022018](https://precinct.netpress.com/#54-1022018) | Exeter | 0 |
+| [1022018](https://precinct.netpress.com/#54-1022018) | Exeter; along Rd 184 and W Myer Ave | 0 |
 | [1023001](https://precinct.netpress.com/#54-1023001) | Exeter; Glenn View Ct, Richmond Ct | 146 |
 | [1023002](https://precinct.netpress.com/#54-1023002) | Exeter; Leta Mae Ct, Meadow Ave | 140 |
 | [1023005](https://precinct.netpress.com/#54-1023005) | Exeter; N Quince Ave, Hannah Ave | 420 |
@@ -46,7 +46,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1023009](https://precinct.netpress.com/#54-1023009) | Exeter; Old Line Ave, Atwood Ave | 151 |
 | [1023010](https://precinct.netpress.com/#54-1023010) | Exeter; Monarch Cir | 51 |
 | [1023011](https://precinct.netpress.com/#54-1023011) | Exeter; Valencia Dr, Sierra Dr | 126 |
-| [1023012](https://precinct.netpress.com/#54-1023012) | Exeter | 34 |
+| [1023012](https://precinct.netpress.com/#54-1023012) | Exeter; along N Filbert Rd | 34 |
 | [1024002](https://precinct.netpress.com/#54-1024002) | Exeter; Visalia Rd, N G St | 0 |
 | [1024003](https://precinct.netpress.com/#54-1024003) | Exeter; W Pine St, W Palm St | 8 |
 | [1024004](https://precinct.netpress.com/#54-1024004) | Exeter; S G St | 17 |
@@ -79,7 +79,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1030006](https://precinct.netpress.com/#54-1030006) | Lindsay; N Sweetbriar Ave, N Elmwood Ave | 599 |
 | [1030007](https://precinct.netpress.com/#54-1030007) | Lindsay; Princeton Ave, Yale Ave | 232 |
 | [1030008](https://precinct.netpress.com/#54-1030008) | Lindsay; Hickory St, Sycamore Ave | 75 |
-| [1030009](https://precinct.netpress.com/#54-1030009) | Lindsay | 16 |
+| [1030009](https://precinct.netpress.com/#54-1030009) | Lindsay; along Maple Ave | 16 |
 | [1030010](https://precinct.netpress.com/#54-1030010) | Lindsay; E Tulare Rd, N Foothill Ave | 0 |
 | [1030011](https://precinct.netpress.com/#54-1030011) | Lindsay; Fairhaven, Clintwood Dr | 80 |
 | [1030012](https://precinct.netpress.com/#54-1030012) | Lindsay; E Tulare Rd, N Stanford Ave | 8 |
@@ -98,9 +98,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1030027](https://precinct.netpress.com/#54-1030027) | Lindsay; N Harvard Ave, N Stanford Ave | 91 |
 | [1030028](https://precinct.netpress.com/#54-1030028) | Lindsay; N Harvard Ave | 0 |
 | [1030029](https://precinct.netpress.com/#54-1030029) | S Harvard Ave, K Ave, Valencia St | 101 |
-| [1030030](https://precinct.netpress.com/#54-1030030) |  | 0 |
-| [1030031](https://precinct.netpress.com/#54-1030031) | Lindsay | 0 |
-| [1030032](https://precinct.netpress.com/#54-1030032) |  | 8 |
+| [1030030](https://precinct.netpress.com/#54-1030030) | Along S Harvard Ave and Valencia St | 0 |
+| [1030031](https://precinct.netpress.com/#54-1030031) | Lindsay; along E Lindmore St and S Harvard Ave | 0 |
+| [1030032](https://precinct.netpress.com/#54-1030032) | Lindsay; near E Honolulu St | 8 |
 | [1030033](https://precinct.netpress.com/#54-1030033) | Lindsay; W Lewis St, S Elmwood Ave | 7 |
 | [1030034](https://precinct.netpress.com/#54-1030034) | Ono City Pkwy | 0 |
 | [1030035](https://precinct.netpress.com/#54-1030035) | Lindsay; W Tulare Rd | 2 |
@@ -125,9 +125,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1065004](https://precinct.netpress.com/#54-1065004) | Visalia; N Virmargo St, N Green St | 1,006 |
 | [1065005](https://precinct.netpress.com/#54-1065005) | Visalia; N Lovers Ln, N McAuliff St | 324 |
 | [1065006](https://precinct.netpress.com/#54-1065006) | Visalia; Madera Ct, E Four Creeks Ct | 515 |
-| [1065007](https://precinct.netpress.com/#54-1065007) | Visalia; E Houston Ave, Ivanhoe Dr, N Burke Ct | 136 |
+| [1065007](https://precinct.netpress.com/#54-1065007) | Visalia; E Houston Ave, Ivanhoe Dr | 136 |
 | [1065008](https://precinct.netpress.com/#54-1065008) | Visalia; N Santa Fe St, E Race Ave | 45 |
-| [1065010](https://precinct.netpress.com/#54-1065010) | Visalia; E Houston Ave, Ivanhoe Dr, State Hwy 216 | 521 |
+| [1065010](https://precinct.netpress.com/#54-1065010) | Visalia; E Houston Ave, Ivanhoe Dr | 521 |
 | [1065011](https://precinct.netpress.com/#54-1065011) | Visalia; N Manzanita St, N Mc Auliff St | 464 |
 | [1065012](https://precinct.netpress.com/#54-1065012) | Visalia; E Grove Ave, E Sycamore Ave | 543 |
 | [1065013](https://precinct.netpress.com/#54-1065013) | Visalia; E Manzanita Dr, Millcreek Pkwy | 81 |
@@ -158,7 +158,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990011](https://precinct.netpress.com/#54-1990011) | Lemon Cove; Ave 319, White Way | 83 |
 | [1990014](https://precinct.netpress.com/#54-1990014) | Lindcove; Carson Ave, Ave 314 | 174 |
 | [1990015](https://precinct.netpress.com/#54-1990015) | Ave 314, Rd 212, Rd 216 | 3 |
-| [1990016](https://precinct.netpress.com/#54-1990016) |  | 0 |
+| [1990016](https://precinct.netpress.com/#54-1990016) | Along Highway 245 and Ave 314 | 0 |
 | [1990017](https://precinct.netpress.com/#54-1990017) | Highway 245, Rd 204, Rd 208 | 0 |
 | [1990018](https://precinct.netpress.com/#54-1990018) | Exeter Blvd, Co Rd J27 | 8 |
 | [1990019](https://precinct.netpress.com/#54-1990019) | Ribier Dr, Exeter Blvd, Co Rd J27 | 89 |
@@ -175,16 +175,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990033](https://precinct.netpress.com/#54-1990033) | Ave 300, Rd 210, Ave 304 | 30 |
 | [1990034](https://precinct.netpress.com/#54-1990034) | Ave 306, Highway 198, Rd 200 | 9 |
 | [1990035](https://precinct.netpress.com/#54-1990035) | Lort Dr, Drive 184B, Exeter Blvd | 48 |
-| [1990036](https://precinct.netpress.com/#54-1990036) |  | 6 |
+| [1990036](https://precinct.netpress.com/#54-1990036) | Along Lort Dr and Drive 184B | 6 |
 | [1990037](https://precinct.netpress.com/#54-1990037) | Lort Dr, Drive 184B, Rd 180 | 41 |
 | [1990038](https://precinct.netpress.com/#54-1990038) | 9th Ave E, Rd 176 | 14 |
-| [1990039](https://precinct.netpress.com/#54-1990039) |  | 0 |
+| [1990039](https://precinct.netpress.com/#54-1990039) | Along 9th Ave E and Ave 308 | 0 |
 | [1990040](https://precinct.netpress.com/#54-1990040) | Ave 309, Highway 216 | 18 |
 | [1990041](https://precinct.netpress.com/#54-1990041) | Highway 216 | 17 |
-| [1990043](https://precinct.netpress.com/#54-1990043) |  | 7 |
+| [1990043](https://precinct.netpress.com/#54-1990043) | Along Ivanhoe Dr and Sol Rd | 7 |
 | [1990044](https://precinct.netpress.com/#54-1990044) | Sol Rd, E Race Ave | 15 |
 | [1990045](https://precinct.netpress.com/#54-1990045) | E Race Ave | 9 |
-| [1990049](https://precinct.netpress.com/#54-1990049) |  | 1 |
+| [1990049](https://precinct.netpress.com/#54-1990049) | Near E Duran Ave | 1 |
 | [1990050](https://precinct.netpress.com/#54-1990050) | Rd 182, Ave 304 | 2 |
 | [1990053](https://precinct.netpress.com/#54-1990053) | Rd 154, Mineral King Ave, 6th Ave E | 36 |
 | [1990054](https://precinct.netpress.com/#54-1990054) | Mineral King Ave, Highway 198 | 33 |
@@ -207,7 +207,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990072](https://precinct.netpress.com/#54-1990072) | N Filbert Rd, W Marinette Ave, Ave 294 | 55 |
 | [1990073](https://precinct.netpress.com/#54-1990073) | N Filbert Rd, N Belmont Rd, Rd 192 | 61 |
 | [1990077](https://precinct.netpress.com/#54-1990077) | N Elberta Rd, N Anderson Rd, N Belmont Rd | 93 |
-| [1990078](https://precinct.netpress.com/#54-1990078) |  | 0 |
+| [1990078](https://precinct.netpress.com/#54-1990078) | Near W Marinette Ave | 0 |
 | [1990079](https://precinct.netpress.com/#54-1990079) | W Marinette Ave, W 288 Ave, Ave 288 | 5 |
 | [1990080](https://precinct.netpress.com/#54-1990080) | 288 | 6 |
 | [1990081](https://precinct.netpress.com/#54-1990081) | Farmersville; 288, 168 | 0 |
@@ -225,9 +225,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990098](https://precinct.netpress.com/#54-1990098) | Perkins Ln, S Anderson Rd, S Cornucopia Rd | 33 |
 | [1990099](https://precinct.netpress.com/#54-1990099) | W Myer Ave, Belmont Rd, S Belmont Rd | 6 |
 | [1990100](https://precinct.netpress.com/#54-1990100) | W Balaam Ave, Balaam Ave, S Filbert Rd | 63 |
-| [1990101](https://precinct.netpress.com/#54-1990101) |  | 0 |
-| [1990103](https://precinct.netpress.com/#54-1990103) |  | 10 |
-| [1990104](https://precinct.netpress.com/#54-1990104) |  | 2 |
+| [1990101](https://precinct.netpress.com/#54-1990101) | Along Highway 65 and W Glaze Ave | 0 |
+| [1990103](https://precinct.netpress.com/#54-1990103) | Along E List Ave | 10 |
+| [1990104](https://precinct.netpress.com/#54-1990104) | Along 14th Ave E and S Spruce Rd | 2 |
 | [1990105](https://precinct.netpress.com/#54-1990105) | 14th Ave E, S Spruce Rd | 6 |
 | [1990106](https://precinct.netpress.com/#54-1990106) | E List Ave, E Firebaugh Ave, Ave 276 | 13 |
 | [1990107](https://precinct.netpress.com/#54-1990107) | Tooleville; S Spruce Rd, E Alfred Ave | 77 |
@@ -245,14 +245,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990120](https://precinct.netpress.com/#54-1990120) | Ave 246, E Cartmill Ave, Oakdale Ave | 36 |
 | [1990121](https://precinct.netpress.com/#54-1990121) | Hypericum; Farmersville Blvd, Co Hwy J23 | 163 |
 | [1990122](https://precinct.netpress.com/#54-1990122) | Ave 248 | 2 |
-| [1990123](https://precinct.netpress.com/#54-1990123) |  | 5 |
+| [1990123](https://precinct.netpress.com/#54-1990123) | Near Ave 256 | 5 |
 | [1990124](https://precinct.netpress.com/#54-1990124) | Ave 256 | 21 |
-| [1990125](https://precinct.netpress.com/#54-1990125) |  | 0 |
+| [1990125](https://precinct.netpress.com/#54-1990125) | Along Rd 204 | 0 |
 | [1990126](https://precinct.netpress.com/#54-1990126) | Sycamore Ave, N Spruce Ave, Rd 204 | 7 |
-| [1990127](https://precinct.netpress.com/#54-1990127) |  | 5 |
-| [1990129](https://precinct.netpress.com/#54-1990129) |  | 6 |
+| [1990127](https://precinct.netpress.com/#54-1990127) | Tonyville; near Ave 256 | 5 |
+| [1990129](https://precinct.netpress.com/#54-1990129) | Near Ave 256 | 6 |
 | [1990130](https://precinct.netpress.com/#54-1990130) | E Myer Dr, Ave 272, Rd 228 | 6 |
-| [1990131](https://precinct.netpress.com/#54-1990131) |  | 3 |
+| [1990131](https://precinct.netpress.com/#54-1990131) | Along Yokohl Valley Rd | 3 |
 | [1990133](https://precinct.netpress.com/#54-1990133) | Pear Ave, Rd 244 | 0 |
 | [1990135](https://precinct.netpress.com/#54-1990135) | Burr Dr, Strathmore St, Ave 248 | 12 |
 | [1990136](https://precinct.netpress.com/#54-1990136) | Foothill Rd, I Ave, Foothill Ave | 77 |
@@ -260,7 +260,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990139](https://precinct.netpress.com/#54-1990139) | Tonyville; Brooks Ave, Ballon Ave | 76 |
 | [1990140](https://precinct.netpress.com/#54-1990140) | Tonyville; Ave 256, Willow Ave | 8 |
 | [1990141](https://precinct.netpress.com/#54-1990141) | Ave 252 | 2 |
-| [1990142](https://precinct.netpress.com/#54-1990142) |  | 3 |
+| [1990142](https://precinct.netpress.com/#54-1990142) | Along Cairns Ave and Rd 196 | 3 |
 | [1990143](https://precinct.netpress.com/#54-1990143) | Belmont Rd, Spriggs Ave, Ave 242 | 57 |
 | [1990144](https://precinct.netpress.com/#54-1990144) | Co Hwy J23, Rd 168 | 2 |
 | [1990145](https://precinct.netpress.com/#54-1990145) | Ave 234 | 2 |
@@ -271,12 +271,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990150](https://precinct.netpress.com/#54-1990150) | Ash Ave, Oak Ave, Maple Ave | 35 |
 | [1990151](https://precinct.netpress.com/#54-1990151) | Acacia Ave, Ave 242, Black Dr | 39 |
 | [1990152](https://precinct.netpress.com/#54-1990152) | Redwood Ave, Ave 247, Chestnut Ave | 80 |
-| [1990154](https://precinct.netpress.com/#54-1990154) |  | 2 |
+| [1990154](https://precinct.netpress.com/#54-1990154) | Along Ave 240 and W Palm Ave | 2 |
 | [1990155](https://precinct.netpress.com/#54-1990155) | W Palm Ave, Palm St, Rd 214 | 19 |
 | [1990156](https://precinct.netpress.com/#54-1990156) | W Fir St | 36 |
-| [1990159](https://precinct.netpress.com/#54-1990159) |  | 9 |
+| [1990159](https://precinct.netpress.com/#54-1990159) | Along Parkside Ave and E Sierra View St | 9 |
 | [1990162](https://precinct.netpress.com/#54-1990162) | Parkside Ave, Rd 218, N Bellah Ave | 15 |
-| [1990164](https://precinct.netpress.com/#54-1990164) |  | 0 |
+| [1990164](https://precinct.netpress.com/#54-1990164) | Near Bellah Ave | 0 |
 | [1990165](https://precinct.netpress.com/#54-1990165) | Bellah Ave, E Fir St | 19 |
 | [1990166](https://precinct.netpress.com/#54-1990166) | Lindsay; Rd 218, N Bellah Ave | 1 |
 | [1990167](https://precinct.netpress.com/#54-1990167) | Rancho Vista Ave | 10 |
@@ -285,14 +285,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990172](https://precinct.netpress.com/#54-1990172) | Lindsay; Page Ave, Lafayette Ave | 403 |
 | [1990173](https://precinct.netpress.com/#54-1990173) | Hillcrest Dr, N Harvard Ave, N Foothill Ave | 87 |
 | [1990174](https://precinct.netpress.com/#54-1990174) | E Fir St | 0 |
-| [1990175](https://precinct.netpress.com/#54-1990175) |  | 24 |
+| [1990175](https://precinct.netpress.com/#54-1990175) | Along I Ave and Foothill Ave | 24 |
 | [1990176](https://precinct.netpress.com/#54-1990176) | Strathmore St | 0 |
 | [1990177](https://precinct.netpress.com/#54-1990177) | El Rancho; Hall Ave | 13 |
 | [1990178](https://precinct.netpress.com/#54-1990178) | El Rancho; Holmes St, E Fir St | 30 |
-| [1990179](https://precinct.netpress.com/#54-1990179) |  | 5 |
+| [1990179](https://precinct.netpress.com/#54-1990179) | Along N Strathmore Ave | 5 |
 | [1990181](https://precinct.netpress.com/#54-1990181) | N Strathmore Ave | 11 |
 | [1990182](https://precinct.netpress.com/#54-1990182) | N Strathmore Ave, Strathmore St | 23 |
-| [1990183](https://precinct.netpress.com/#54-1990183) |  | 0 |
+| [1990183](https://precinct.netpress.com/#54-1990183) | Near E Tulare Rd | 0 |
 | [1990184](https://precinct.netpress.com/#54-1990184) | N Strathmore Ave, Ave 232 | 11 |
 | [1990185](https://precinct.netpress.com/#54-1990185) | Round Valley Dr, Ave 230, E Apricot Ave | 24 |
 | [1990186](https://precinct.netpress.com/#54-1990186) | Plum Ave, Ave 234, Ave 236 | 10 |
@@ -302,13 +302,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990191](https://precinct.netpress.com/#54-1990191) | E Honolulu St | 3 |
 | [1990192](https://precinct.netpress.com/#54-1990192) | Apple Ave, Peach Ave, Rd 242 | 3 |
 | [1990193](https://precinct.netpress.com/#54-1990193) | E Lindmore St, Rd 236, Round Valley Dr | 2 |
-| [1990194](https://precinct.netpress.com/#54-1990194) |  | 2 |
+| [1990194](https://precinct.netpress.com/#54-1990194) | Along Ave 226 | 2 |
 | [1990195](https://precinct.netpress.com/#54-1990195) | Peach Ave, Rd 242, Ave 226 | 8 |
-| [1990198](https://precinct.netpress.com/#54-1990198) |  | 3 |
-| [1990199](https://precinct.netpress.com/#54-1990199) |  | 8 |
+| [1990198](https://precinct.netpress.com/#54-1990198) | Near Ave 220 | 3 |
+| [1990199](https://precinct.netpress.com/#54-1990199) | Along Rd 252 and B Ave | 8 |
 | [1990200](https://precinct.netpress.com/#54-1990200) | Adams Ave, B Ave, Rd 252 | 3 |
 | [1990201](https://precinct.netpress.com/#54-1990201) | Ave 216, 2nd Ave, Citrus St | 19 |
-| [1990203](https://precinct.netpress.com/#54-1990203) |  | 3 |
+| [1990203](https://precinct.netpress.com/#54-1990203) | Along D Ave and Rd 244 | 3 |
 | [1990204](https://precinct.netpress.com/#54-1990204) | D Ave, Ave 220, E Waddell St | 34 |
 | [1990205](https://precinct.netpress.com/#54-1990205) | 1st Ave, Ave 224, E Lindmore St | 12 |
 | [1990206](https://precinct.netpress.com/#54-1990206) | Ave 220, E Waddell St, 2nd Ave | 28 |
@@ -322,10 +322,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990214](https://precinct.netpress.com/#54-1990214) | Lindsay; W Mariposa St, Ave 228 | 7 |
 | [1990215](https://precinct.netpress.com/#54-1990215) | Bardsley Ave, Webb Ave, Violet Ave | 64 |
 | [1990216](https://precinct.netpress.com/#54-1990216) | 1st Ave, T Ave, Ave 224 | 56 |
-| [1990217](https://precinct.netpress.com/#54-1990217) | E Prosperity Ave, Prosperity Ave, Ave 240, Highway 137 | 17 |
+| [1990217](https://precinct.netpress.com/#54-1990217) | E Prosperity Ave, Prosperity Ave, Ave 240 | 17 |
 | [1990218](https://precinct.netpress.com/#54-1990218) | Co Hwy J15 | 8 |
-| [1990219](https://precinct.netpress.com/#54-1990219) |  | 4 |
-| [1990220](https://precinct.netpress.com/#54-1990220) |  | 0 |
+| [1990219](https://precinct.netpress.com/#54-1990219) | Along Ave 208 and 5th Ave | 4 |
+| [1990220](https://precinct.netpress.com/#54-1990220) | Near 5th Ave | 0 |
 | [1990221](https://precinct.netpress.com/#54-1990221) | Ave 212, 4th Ave, Rd 184 | 6 |
 | [1990222](https://precinct.netpress.com/#54-1990222) | Ave 218, W Waddell St, Lilac Ave | 43 |
 | [1990223](https://precinct.netpress.com/#54-1990223) | W Citrus Ave, W Citrus St, 3rd Ave | 11 |
@@ -339,48 +339,48 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990231](https://precinct.netpress.com/#54-1990231) | 5th Ave, Ave 208 | 8 |
 | [1990233](https://precinct.netpress.com/#54-1990233) | S Strathmore Ave, 6th Ave, Ave 204 | 64 |
 | [1990235](https://precinct.netpress.com/#54-1990235) | 7th Ave, Rd 244 | 7 |
-| [1990236](https://precinct.netpress.com/#54-1990236) |  | 32 |
+| [1990236](https://precinct.netpress.com/#54-1990236) | Along Ave 204 and 6th Ave | 32 |
 | [1990237](https://precinct.netpress.com/#54-1990237) | Ave 200, C Ave, Rd 250 | 23 |
-| [1990238](https://precinct.netpress.com/#54-1990238) |  | 5 |
+| [1990238](https://precinct.netpress.com/#54-1990238) | Near Ave 200 | 5 |
 | [1990239](https://precinct.netpress.com/#54-1990239) | Rd 254, Frazier Hwy, Lynch Dr | 22 |
 | [1990240](https://precinct.netpress.com/#54-1990240) | Ave 196 | 21 |
 | [1990241](https://precinct.netpress.com/#54-1990241) | Co Rd J28, D Ave | 22 |
 | [1990242](https://precinct.netpress.com/#54-1990242) | Rd 244 | 19 |
 | [1990243](https://precinct.netpress.com/#54-1990243) | 9th Ave, Strathmore Rd | 0 |
-| [1990244](https://precinct.netpress.com/#54-1990244) |  | 4 |
+| [1990244](https://precinct.netpress.com/#54-1990244) | Near Frazier Hwy | 4 |
 | [1990245](https://precinct.netpress.com/#54-1990245) | F Ave, Ave 196 | 46 |
 | [1990246](https://precinct.netpress.com/#54-1990246) | Ave 192, 9th Ave, Strathmore Rd | 0 |
 | [1990247](https://precinct.netpress.com/#54-1990247) | D Ave, Ave 188, Rd 236 | 36 |
-| [1990248](https://precinct.netpress.com/#54-1990248) |  | 9 |
-| [1990249](https://precinct.netpress.com/#54-1990249) |  | 25 |
+| [1990248](https://precinct.netpress.com/#54-1990248) | Along Ave 190 | 9 |
+| [1990249](https://precinct.netpress.com/#54-1990249) | Near Rd 236 | 25 |
 | [1990250](https://precinct.netpress.com/#54-1990250) | Ave 190, F Ave, Ave 188 | 23 |
-| [1990251](https://precinct.netpress.com/#54-1990251) |  | 11 |
+| [1990251](https://precinct.netpress.com/#54-1990251) | Along Ave 190 and Ave 192 | 11 |
 | [1990252](https://precinct.netpress.com/#54-1990252) | 9th Ave, Rd 234, 8th Ave | 75 |
 | [1990253](https://precinct.netpress.com/#54-1990253) | Newcomb Dr, Orange Belt Dr, Ave 188 | 14 |
 | [1990254](https://precinct.netpress.com/#54-1990254) | H Ave, Rd 228, Olive Dr | 39 |
 | [1990255](https://precinct.netpress.com/#54-1990255) | Strathmore; H Ave, 9th Ave | 8 |
 | [1990256](https://precinct.netpress.com/#54-1990256) | Strathmore; Co Hwy J29, 9th Ave | 10 |
 | [1990257](https://precinct.netpress.com/#54-1990257) | Strathmore; Rea, Rea Rd | 159 |
-| [1990258](https://precinct.netpress.com/#54-1990258) | Strathmore | 11 |
+| [1990258](https://precinct.netpress.com/#54-1990258) | Strathmore; along Co Rd J29 and Ave 194 | 11 |
 | [1990259](https://precinct.netpress.com/#54-1990259) | Strathmore; Co Rd J29, H Ave | 4 |
 | [1990260](https://precinct.netpress.com/#54-1990260) | New State Hwy 65, Westwood St, I Ave | 11 |
-| [1990261](https://precinct.netpress.com/#54-1990261) |  | 0 |
-| [1990263](https://precinct.netpress.com/#54-1990263) | Strathmore | 0 |
+| [1990261](https://precinct.netpress.com/#54-1990261) | Along 9th Ave and Westwood St | 0 |
+| [1990263](https://precinct.netpress.com/#54-1990263) | Strathmore; along Westwood St and Rd 224 | 0 |
 | [1990264](https://precinct.netpress.com/#54-1990264) | Ave 194 | 0 |
 | [1990265](https://precinct.netpress.com/#54-1990265) | Strathmore; 8th Ave, Ave 194 | 0 |
 | [1990266](https://precinct.netpress.com/#54-1990266) | Strathmore; Richardson Rd, 8th Ave | 85 |
 | [1990267](https://precinct.netpress.com/#54-1990267) | Strathmore; Taylor Rd, Rd 231 | 65 |
 | [1990268](https://precinct.netpress.com/#54-1990268) | Strathmore; Avenue 196 Tay St, Tay Street Avenue 196 | 97 |
 | [1990269](https://precinct.netpress.com/#54-1990269) | Strathmore; H Ave, Rd 228 | 8 |
-| [1990270](https://precinct.netpress.com/#54-1990270) | Strathmore | 0 |
-| [1990271](https://precinct.netpress.com/#54-1990271) | Strathmore | 1 |
+| [1990270](https://precinct.netpress.com/#54-1990270) | Strathmore; along H Ave and Rd 228 | 0 |
+| [1990271](https://precinct.netpress.com/#54-1990271) | Strathmore; along Co Rd J28 | 1 |
 | [1990272](https://precinct.netpress.com/#54-1990272) | Co Rd J28, Ave 196, Westwood St | 0 |
-| [1990273](https://precinct.netpress.com/#54-1990273) |  | 4 |
+| [1990273](https://precinct.netpress.com/#54-1990273) | Along Rd 226 | 4 |
 | [1990274](https://precinct.netpress.com/#54-1990274) | Strathmore; Guthrie Dr, Ave 197 | 120 |
-| [1990275](https://precinct.netpress.com/#54-1990275) |  | 12 |
+| [1990275](https://precinct.netpress.com/#54-1990275) | Strathmore; near Frazier Hwy | 12 |
 | [1990276](https://precinct.netpress.com/#54-1990276) | Strathmore; Ave 196 | 0 |
-| [1990277](https://precinct.netpress.com/#54-1990277) |  | 0 |
-| [1990278](https://precinct.netpress.com/#54-1990278) |  | 0 |
+| [1990277](https://precinct.netpress.com/#54-1990277) | Strathmore; near Rd 232 | 0 |
+| [1990278](https://precinct.netpress.com/#54-1990278) | Strathmore; near Rd 232 | 0 |
 | [1990279](https://precinct.netpress.com/#54-1990279) | Strathmore; Ave 198 | 13 |
 | [1990280](https://precinct.netpress.com/#54-1990280) | Strathmore; Harper Ave, Preston Ave | 283 |
 | [1990281](https://precinct.netpress.com/#54-1990281) | Strathmore; Westwood St, I Ave | 3 |
@@ -393,16 +393,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990288](https://precinct.netpress.com/#54-1990288) | 5th Ave, Co Hwy J29, Harvard Ave | 8 |
 | [1990289](https://precinct.netpress.com/#54-1990289) | Meredith Dr, Ave 206, Rd 222 | 22 |
 | [1990290](https://precinct.netpress.com/#54-1990290) | Strathmore; Frazier Hwy, Rd 222 | 19 |
-| [1990291](https://precinct.netpress.com/#54-1990291) |  | 1 |
+| [1990291](https://precinct.netpress.com/#54-1990291) | Near Ave 200 | 1 |
 | [1990292](https://precinct.netpress.com/#54-1990292) | Ave 212 | 0 |
-| [1990293](https://precinct.netpress.com/#54-1990293) |  | 3 |
+| [1990293](https://precinct.netpress.com/#54-1990293) | Along Rd 196 and Cairns Ave | 3 |
 | [1990294](https://precinct.netpress.com/#54-1990294) | Ave 208, Ave 212, Cairns Ave | 4 |
 | [1990295](https://precinct.netpress.com/#54-1990295) | 5th Ave, Belmont Rd, 4th Ave | 0 |
 | [1990296](https://precinct.netpress.com/#54-1990296) | Rd 173, V Ave, 5th Ave | 10 |
 | [1990297](https://precinct.netpress.com/#54-1990297) | Ave 200 | 0 |
-| [1990298](https://precinct.netpress.com/#54-1990298) | Strathmore Rd, Fifth Standard Paralell S, Ave 192, Ave 198 | 6 |
+| [1990298](https://precinct.netpress.com/#54-1990298) | Strathmore Rd, Fifth Standard Paralell S, Ave 192 | 6 |
 | [1990299](https://precinct.netpress.com/#54-1990299) | Ave 198, Rd 164 | 10 |
-| [1990300](https://precinct.netpress.com/#54-1990300) | Strathmore Rd, Fifth Standard Paralell S, Ave 192, V Ave | 12 |
+| [1990300](https://precinct.netpress.com/#54-1990300) | Strathmore Rd, Fifth Standard Paralell S, Ave 192 | 12 |
 | [1990301](https://precinct.netpress.com/#54-1990301) | U Ave, 7th Ave, Ave 200 | 22 |
 | [1990302](https://precinct.netpress.com/#54-1990302) | Oklahoma Ave, 8th Ave, Rd 186 | 27 |
 | [1990303](https://precinct.netpress.com/#54-1990303) | Heber Ave, Ave 206, Ave 202 | 38 |
@@ -410,7 +410,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990305](https://precinct.netpress.com/#54-1990305) | S Spruce Ave, 5th Ave, Rd 204 | 3 |
 | [1990306](https://precinct.netpress.com/#54-1990306) | 6th Ave, N Ave, Ave 204 | 7 |
 | [1990307](https://precinct.netpress.com/#54-1990307) | L Ave, M Ave, 7th Ave | 52 |
-| [1990308](https://precinct.netpress.com/#54-1990308) |  | 10 |
+| [1990308](https://precinct.netpress.com/#54-1990308) | Along Co Rd J28 and N Ave | 10 |
 | [1990309](https://precinct.netpress.com/#54-1990309) | Plainview; Cairns Ave, 9th Ave | 19 |
 | [1990310](https://precinct.netpress.com/#54-1990310) | Plainview; Strathmore Rd, Ave 192 | 47 |
 | [1990311](https://precinct.netpress.com/#54-1990311) | Plainview; Ave 195 | 70 |
@@ -421,7 +421,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990316](https://precinct.netpress.com/#54-1990316) | Co Rd J28, 9th Ave, Ave 196 | 5 |
 | [1990317](https://precinct.netpress.com/#54-1990317) | Strathmore Rd, Ave 192, Ave 196 | 43 |
 | [1990318](https://precinct.netpress.com/#54-1990318) | Olive Dr, Ave 188, Welcome Ave | 53 |
-| [1990319](https://precinct.netpress.com/#54-1990319) |  | 7 |
+| [1990319](https://precinct.netpress.com/#54-1990319) | Along Rockford Ave and S Spruce Ave | 7 |
 | [1990320](https://precinct.netpress.com/#54-1990320) | S Spruce Ave, Rd 204 | 15 |
 | [1990321](https://precinct.netpress.com/#54-1990321) | Plainview; P Ave, Oettle Grade | 34 |
 | [1990322](https://precinct.netpress.com/#54-1990322) | Welcome Ave, Co Hwy J-27, R Ave | 7 |
@@ -429,7 +429,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990324](https://precinct.netpress.com/#54-1990324) | Ave 188 | 3 |
 | [1990325](https://precinct.netpress.com/#54-1990325) | Bliss Ln, Co Hwy J15, Welcome Ave | 16 |
 | [1990326](https://precinct.netpress.com/#54-1990326) | Ave 184, Woodville Rd, Welcome Ave | 55 |
-| [1990327](https://precinct.netpress.com/#54-1990327) |  | 3 |
+| [1990327](https://precinct.netpress.com/#54-1990327) | Along Rd 200 and P Ave | 3 |
 | [1990328](https://precinct.netpress.com/#54-1990328) | P Ave, Rd 200 | 3 |
 | [1990329](https://precinct.netpress.com/#54-1990329) | Ave 180 | 2 |
 | [1990330](https://precinct.netpress.com/#54-1990330) | Welcome Ave, S Spruce Ave, Ave 184 | 9 |
@@ -444,20 +444,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990339](https://precinct.netpress.com/#54-1990339) | Alta Robles Ave, Ave 176 | 1 |
 | [1990342](https://precinct.netpress.com/#54-1990342) | Woodville Rd, Rd 184, Rd 180 | 10 |
 | [1990343](https://precinct.netpress.com/#54-1990343) | Ave 180, Rd 172 | 0 |
-| [1990344](https://precinct.netpress.com/#54-1990344) |  | 0 |
+| [1990344](https://precinct.netpress.com/#54-1990344) | Near Rd 168 | 0 |
 | [1990346](https://precinct.netpress.com/#54-1990346) | Bliss Ln, Cloverdale, Ave 168 | 7 |
 | [1990347](https://precinct.netpress.com/#54-1990347) | Ave 172, Ave 176 | 4 |
 | [1990348](https://precinct.netpress.com/#54-1990348) | Woodville | 10 |
 | [1990349](https://precinct.netpress.com/#54-1990349) | Woodville; Cloverdale Rd, South Ave | 59 |
-| [1990351](https://precinct.netpress.com/#54-1990351) |  | 1 |
+| [1990351](https://precinct.netpress.com/#54-1990351) | Woodville; near Ave 172 | 1 |
 | [1990352](https://precinct.netpress.com/#54-1990352) | Woodville; Camara Ln, Rd 164 | 5 |
 | [1990354](https://precinct.netpress.com/#54-1990354) | Woodville; Hudson Ave, Ave 167 | 52 |
 | [1990355](https://precinct.netpress.com/#54-1990355) | Woodville; Fulton St, Reed Ave | 98 |
 | [1990357](https://precinct.netpress.com/#54-1990357) | Woodville; Ave 167, Oak Ave | 219 |
 | [1990358](https://precinct.netpress.com/#54-1990358) | Ave 166 | 0 |
-| [1990359](https://precinct.netpress.com/#54-1990359) |  | 0 |
+| [1990359](https://precinct.netpress.com/#54-1990359) | Woodville; near Rd 168 | 0 |
 | [1990360](https://precinct.netpress.com/#54-1990360) | Rd 168 | 4 |
-| [1990361](https://precinct.netpress.com/#54-1990361) |  | 27 |
+| [1990361](https://precinct.netpress.com/#54-1990361) | Woodville; near Rd 168 | 27 |
 | [1990362](https://precinct.netpress.com/#54-1990362) | Woodville | 3 |
 | [1990363](https://precinct.netpress.com/#54-1990363) | Ave 168, Woodville Rd, Rd 176 | 11 |
 | [1990364](https://precinct.netpress.com/#54-1990364) | Woodville Farm Labor Camp; Acacia Dr, Ave 160 | 152 |
@@ -470,9 +470,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990371](https://precinct.netpress.com/#54-1990371) | Ave 164, Tule River | 25 |
 | [1990372](https://precinct.netpress.com/#54-1990372) | Tule River | 5 |
 | [1990373](https://precinct.netpress.com/#54-1990373) | Madland Dr, Drive 208, Tule River | 18 |
-| [1990374](https://precinct.netpress.com/#54-1990374) |  | 0 |
+| [1990374](https://precinct.netpress.com/#54-1990374) | Near Rd 200 | 0 |
 | [1990375](https://precinct.netpress.com/#54-1990375) | Poplar-Cotton Center; Oettle Grade, Olive St | 14 |
-| [1990376](https://precinct.netpress.com/#54-1990376) |  | 0 |
+| [1990376](https://precinct.netpress.com/#54-1990376) | Along Ave 160 and Co Hwy J27 | 0 |
 | [1990377](https://precinct.netpress.com/#54-1990377) | Ave 158, Rd 182 | 0 |
 | [1990378](https://precinct.netpress.com/#54-1990378) | Rd 184 | 0 |
 | [1990379](https://precinct.netpress.com/#54-1990379) | Ave 160, Rd 176, Rd 172 | 8 |
@@ -487,55 +487,55 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990388](https://precinct.netpress.com/#54-1990388) | Oettle Grade, Co Hwy J27, Hesse Rd | 10 |
 | [1990389](https://precinct.netpress.com/#54-1990389) | Rd 206, Rd 202, Hesse Ave | 18 |
 | [1990390](https://precinct.netpress.com/#54-1990390) | Teapot Dome Ave | 0 |
-| [1990391](https://precinct.netpress.com/#54-1990391) |  | 3 |
+| [1990391](https://precinct.netpress.com/#54-1990391) | Near Macomber Rd | 3 |
 | [1990392](https://precinct.netpress.com/#54-1990392) | Rd 192, Ave 132 | 13 |
 | [1990393](https://precinct.netpress.com/#54-1990393) | W Scranton Ave, Ave 136 | 1 |
 | [1990394](https://precinct.netpress.com/#54-1990394) | Ave 148, Rd 200 | 21 |
 | [1990395](https://precinct.netpress.com/#54-1990395) | Highway 190, Rd 196 | 10 |
-| [1990396](https://precinct.netpress.com/#54-1990396) |  | 1 |
+| [1990396](https://precinct.netpress.com/#54-1990396) | Along Oettle Grade and Rd 200 | 1 |
 | [1990397](https://precinct.netpress.com/#54-1990397) | Poplar-Cotton Center; Oettle Grade, Co Hwy J27 | 29 |
 | [1990399](https://precinct.netpress.com/#54-1990399) | Poplar-Cotton Center | 0 |
 | [1990400](https://precinct.netpress.com/#54-1990400) | Ave 152, W Scranton Ave, Ave 136 | 13 |
 | [1990401](https://precinct.netpress.com/#54-1990401) | Poplar-Cotton Center | 0 |
-| [1990402](https://precinct.netpress.com/#54-1990402) |  | 1 |
-| [1990403](https://precinct.netpress.com/#54-1990403) |  | 0 |
-| [1990404](https://precinct.netpress.com/#54-1990404) |  | 0 |
-| [1990405](https://precinct.netpress.com/#54-1990405) |  | 0 |
+| [1990402](https://precinct.netpress.com/#54-1990402) | Poplar-Cotton Center; near State Hwy 190 | 1 |
+| [1990403](https://precinct.netpress.com/#54-1990403) | Poplar-Cotton Center; near State Hwy 190 | 0 |
+| [1990404](https://precinct.netpress.com/#54-1990404) | Poplar-Cotton Center; near Cook St | 0 |
+| [1990405](https://precinct.netpress.com/#54-1990405) | Along Rd 194 | 0 |
 | [1990406](https://precinct.netpress.com/#54-1990406) | Poplar-Cotton Center; Rd 194 | 6 |
 | [1990409](https://precinct.netpress.com/#54-1990409) | Poplar-Cotton Center; Cook St, Wilson Ln | 45 |
-| [1990410](https://precinct.netpress.com/#54-1990410) |  | 5 |
-| [1990411](https://precinct.netpress.com/#54-1990411) |  | 0 |
+| [1990410](https://precinct.netpress.com/#54-1990410) | Along Rd 196 | 5 |
+| [1990411](https://precinct.netpress.com/#54-1990411) | Along Rd 193 | 0 |
 | [1990412](https://precinct.netpress.com/#54-1990412) | Poplar-Cotton Center; Tobias Rd, Rd 193 | 60 |
 | [1990413](https://precinct.netpress.com/#54-1990413) | Poplar-Cotton Center; Rd 191, Kilroy Rd | 315 |
-| [1990414](https://precinct.netpress.com/#54-1990414) |  | 3 |
+| [1990414](https://precinct.netpress.com/#54-1990414) | Poplar-Cotton Center; near Ave 145 | 3 |
 | [1990415](https://precinct.netpress.com/#54-1990415) | Poplar-Cotton Center; Walker, Tule Ave | 161 |
-| [1990418](https://precinct.netpress.com/#54-1990418) | Poplar-Cotton Center | 2 |
+| [1990418](https://precinct.netpress.com/#54-1990418) | Poplar-Cotton Center; along Ave 146 | 2 |
 | [1990419](https://precinct.netpress.com/#54-1990419) | Rd 196 | 0 |
-| [1990420](https://precinct.netpress.com/#54-1990420) |  | 0 |
+| [1990420](https://precinct.netpress.com/#54-1990420) | Along Olive St | 0 |
 | [1990421](https://precinct.netpress.com/#54-1990421) | Poplar-Cotton Center; Ave 148 | 0 |
 | [1990422](https://precinct.netpress.com/#54-1990422) | Poplar-Cotton Center; Ave 151 | 13 |
-| [1990423](https://precinct.netpress.com/#54-1990423) |  | 2 |
-| [1990424](https://precinct.netpress.com/#54-1990424) |  | 0 |
+| [1990423](https://precinct.netpress.com/#54-1990423) | Along Ave 150 | 2 |
+| [1990424](https://precinct.netpress.com/#54-1990424) | Poplar-Cotton Center; near Co Hwy J27 | 0 |
 | [1990425](https://precinct.netpress.com/#54-1990425) | Poplar-Cotton Center; Ave 151, Ave 150 | 72 |
-| [1990426](https://precinct.netpress.com/#54-1990426) |  | 0 |
-| [1990427](https://precinct.netpress.com/#54-1990427) |  | 7 |
+| [1990426](https://precinct.netpress.com/#54-1990426) | Along Ave 150 | 0 |
+| [1990427](https://precinct.netpress.com/#54-1990427) | Along Ave 150 | 7 |
 | [1990428](https://precinct.netpress.com/#54-1990428) | Poplar-Cotton Center | 0 |
 | [1990429](https://precinct.netpress.com/#54-1990429) | Poplar-Cotton Center; Ave 151 | 0 |
 | [1990430](https://precinct.netpress.com/#54-1990430) | Poplar-Cotton Center | 0 |
-| [1990431](https://precinct.netpress.com/#54-1990431) | Poplar-Cotton Center | 0 |
+| [1990431](https://precinct.netpress.com/#54-1990431) | Poplar-Cotton Center; along Oettle Grade | 0 |
 | [1990432](https://precinct.netpress.com/#54-1990432) | Poplar-Cotton Center | 1 |
 | [1990433](https://precinct.netpress.com/#54-1990433) | Poplar-Cotton Center; Rd 184 | 3 |
 | [1990434](https://precinct.netpress.com/#54-1990434) | Ave 208, Highway 65 | 19 |
 | [1990435](https://precinct.netpress.com/#54-1990435) | Tower Rd, Lipson Ave, Oak Ranch Dr | 588 |
 | [1990436](https://precinct.netpress.com/#54-1990436) | Turney Ave, Ave 180, Rd 220 | 22 |
 | [1990437](https://precinct.netpress.com/#54-1990437) | Ave 334, Rd 248, Ave 326 | 14 |
-| [1990438](https://precinct.netpress.com/#54-1990438) |  | 2 |
+| [1990438](https://precinct.netpress.com/#54-1990438) | Near Ave 324 | 2 |
 | [1990439](https://precinct.netpress.com/#54-1990439) | Fritz Dr | 2 |
 | [1990440](https://precinct.netpress.com/#54-1990440) | Rd 176, Ave 120 | 0 |
-| [1990442](https://precinct.netpress.com/#54-1990442) |  | 0 |
-| [1990444](https://precinct.netpress.com/#54-1990444) |  | 2 |
+| [1990442](https://precinct.netpress.com/#54-1990442) | Near Ave 256 | 0 |
+| [1990444](https://precinct.netpress.com/#54-1990444) | Along S Spruce Rd | 2 |
 | [1990445](https://precinct.netpress.com/#54-1990445) | E List Ave | 0 |
-| [1990446](https://precinct.netpress.com/#54-1990446) |  | 3 |
+| [1990446](https://precinct.netpress.com/#54-1990446) | Near S Kaweah Ave | 3 |
 | [1990447](https://precinct.netpress.com/#54-1990447) | Exeter; Tuohy Ave, W Glaze Ave | 28 |
 | [1990448](https://precinct.netpress.com/#54-1990448) | Ave 216 | 0 |
 | [1990449](https://precinct.netpress.com/#54-1990449) | T Ave, 6th Ave, Rd 180 | 0 |
@@ -558,33 +558,33 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1990468](https://precinct.netpress.com/#54-1990468) | Foothill Rd, Foothill Ave, Ave 250 | 54 |
 | [1990469](https://precinct.netpress.com/#54-1990469) | Lemon Cove; Ave 334, Kaweah River | 12 |
 | [1990470](https://precinct.netpress.com/#54-1990470) | Lemon Cove; Sandidge Rd, Ave 330 | 5 |
-| [1990471](https://precinct.netpress.com/#54-1990471) |  | 0 |
-| [1990472](https://precinct.netpress.com/#54-1990472) |  | 5 |
+| [1990471](https://precinct.netpress.com/#54-1990471) | Along Yokohl Dr and M-296 | 0 |
+| [1990472](https://precinct.netpress.com/#54-1990472) | Along Fritz Dr | 5 |
 | [1990473](https://precinct.netpress.com/#54-1990473) | Hamilton Dr, Hill Dr, Vails Dr | 59 |
-| [1990474](https://precinct.netpress.com/#54-1990474) |  | 12 |
+| [1990474](https://precinct.netpress.com/#54-1990474) | Near Highway 198 | 12 |
 | [1990475](https://precinct.netpress.com/#54-1990475) | Lindsay; Cedar Ave, N Spruce Ave | 32 |
 | [1990476](https://precinct.netpress.com/#54-1990476) | M Ave, N Ave, Rd 212 | 16 |
-| [1990477](https://precinct.netpress.com/#54-1990477) |  | 0 |
+| [1990477](https://precinct.netpress.com/#54-1990477) | Near 9th Ave | 0 |
 | [1990478](https://precinct.netpress.com/#54-1990478) | Ave 172, Jarrard Ave, Rd 204 | 0 |
 | [1990479](https://precinct.netpress.com/#54-1990479) | Rd 246, 6th Ave, Ave 204 | 10 |
 | [1990480](https://precinct.netpress.com/#54-1990480) | Ave 192 | 9 |
 | [1990481](https://precinct.netpress.com/#54-1990481) | McAuliff Rd, Ave 313, 148 Rd | 2 |
 | [1990482](https://precinct.netpress.com/#54-1990482) | Highway 216 | 6 |
-| [1990484](https://precinct.netpress.com/#54-1990484) |  | 0 |
-| [1990485](https://precinct.netpress.com/#54-1990485) |  | 0 |
+| [1990484](https://precinct.netpress.com/#54-1990484) | Along Westwood St and Rd 224 | 0 |
+| [1990485](https://precinct.netpress.com/#54-1990485) | Near Ave 196 | 0 |
 | [1990486](https://precinct.netpress.com/#54-1990486) | Gordon Dr, Gray Dr, Jim Dr | 73 |
 | [1990487](https://precinct.netpress.com/#54-1990487) | Farmersville Blvd, Highway 137 | 0 |
 | [1990490](https://precinct.netpress.com/#54-1990490) | Highway 137 | 2 |
 | [1990492](https://precinct.netpress.com/#54-1990492) | S Strathmore Ave, Round Valley Dr | 0 |
 | [1990493](https://precinct.netpress.com/#54-1990493) | Orange Belt Hwy, Rd 228 | 7 |
 | [1990494](https://precinct.netpress.com/#54-1990494) | S Strathmore Ave, E Citrus St, 3rd Ave | 2 |
-| [1990495](https://precinct.netpress.com/#54-1990495) |  | 5 |
+| [1990495](https://precinct.netpress.com/#54-1990495) | Along Co Rd J29 and S Strathmore Ave | 5 |
 | [1990496](https://precinct.netpress.com/#54-1990496) | K Ave, Rd 220 | 2 |
 | [1990497](https://precinct.netpress.com/#54-1990497) | 9th Ave, Westwood St | 0 |
 | [1990498](https://precinct.netpress.com/#54-1990498) | Olive Dr | 12 |
 | [2051001](https://precinct.netpress.com/#54-2051001) | Tulare; Clinton Ave, Enterprise St | 1 |
-| [2051002](https://precinct.netpress.com/#54-2051002) | Tulare | 0 |
-| [2051004](https://precinct.netpress.com/#54-2051004) | Tulare | 0 |
+| [2051002](https://precinct.netpress.com/#54-2051002) | Tulare; along Rd 84 and Enterprise St | 0 |
+| [2051004](https://precinct.netpress.com/#54-2051004) | Tulare; along Enterprise St and Ave 208 | 0 |
 | [2051005](https://precinct.netpress.com/#54-2051005) | Tulare; La Dawna St, Martinho Ave | 1,637 |
 | [2051006](https://precinct.netpress.com/#54-2051006) | Tulare; S E St, Lemonwood Ave | 915 |
 | [2051007](https://precinct.netpress.com/#54-2051007) | Tulare; 88 Rd, Rd 84 | 0 |
@@ -600,11 +600,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2051018](https://precinct.netpress.com/#54-2051018) | Tulare; Yellowstone St, White St | 411 |
 | [2051019](https://precinct.netpress.com/#54-2051019) | Tulare; S Howard St, S Santa Clara St | 672 |
 | [2051020](https://precinct.netpress.com/#54-2051020) | Tulare; S Warren St, S Lansing St | 178 |
-| [2051021](https://precinct.netpress.com/#54-2051021) |  | 9 |
-| [2051022](https://precinct.netpress.com/#54-2051022) | Tulare | 12 |
+| [2051021](https://precinct.netpress.com/#54-2051021) | Along W Prosperity Ave | 9 |
+| [2051022](https://precinct.netpress.com/#54-2051022) | Tulare; along Killette Rd | 12 |
 | [2051023](https://precinct.netpress.com/#54-2051023) | Tulare | 3 |
 | [2051024](https://precinct.netpress.com/#54-2051024) | Tulare; W Tulare Ave | 0 |
-| [2051025](https://precinct.netpress.com/#54-2051025) |  | 0 |
+| [2051025](https://precinct.netpress.com/#54-2051025) | Along 88 Rd | 0 |
 | [2051026](https://precinct.netpress.com/#54-2051026) | Tulare; Justice Ave, Potomac St | 281 |
 | [2051027](https://precinct.netpress.com/#54-2051027) | Tulare; Tulare Dr, W Cross Ave | 17 |
 | [2051028](https://precinct.netpress.com/#54-2051028) | Tulare; Randle Ct, N Haven Ct | 106 |
@@ -612,7 +612,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2052001](https://precinct.netpress.com/#54-2052001) | Tulare; N E St, W Cross Ave | 868 |
 | [2052002](https://precinct.netpress.com/#54-2052002) | Tulare; N J St, N E St | 0 |
 | [2052003](https://precinct.netpress.com/#54-2052003) | Tulare; W Owens Ave, S E St | 357 |
-| [2052004](https://precinct.netpress.com/#54-2052004) | Tulare; W Kern Ave, W Tulare St, S California St | 204 |
+| [2052004](https://precinct.netpress.com/#54-2052004) | Tulare; W Kern Ave, W Tulare St | 204 |
 | [2052005](https://precinct.netpress.com/#54-2052005) | Tulare; W Cross Ave, W Maple Ave | 989 |
 | [2052006](https://precinct.netpress.com/#54-2052006) | Tulare; W Prosperity Ave | 0 |
 | [2052007](https://precinct.netpress.com/#54-2052007) | Tulare; Atwood Dr, N Atwood Dr | 263 |
@@ -620,25 +620,25 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2052009](https://precinct.netpress.com/#54-2052009) | Tulare; W King Ave, W San Joaquin Ave | 265 |
 | [2052010](https://precinct.netpress.com/#54-2052010) | Tulare; S B St, W Kern Ave | 93 |
 | [2052011](https://precinct.netpress.com/#54-2052011) | Tulare; N I St, N J St | 0 |
-| [2052012](https://precinct.netpress.com/#54-2052012) | Tulare; S G St, S F St, W Owens Ave | 33 |
+| [2052012](https://precinct.netpress.com/#54-2052012) | Tulare; S G St, S F St | 33 |
 | [2052013](https://precinct.netpress.com/#54-2052013) | Tulare; N Petaluma St, Belmont St | 1,101 |
 | [2052015](https://precinct.netpress.com/#54-2052015) | Tulare; Russell Ave, Northridge St | 200 |
 | [2052016](https://precinct.netpress.com/#54-2052016) | Tulare; W Prosperity Ave, N A St | 0 |
 | [2052017](https://precinct.netpress.com/#54-2052017) | Tulare; N I St, W San Joaquin Ave | 1 |
 | [2052018](https://precinct.netpress.com/#54-2052018) | Tulare; S H St, Highway 137 | 17 |
-| [2052019](https://precinct.netpress.com/#54-2052019) | Tulare; W Kern Ave, W Tulare St, S H St | 58 |
+| [2052019](https://precinct.netpress.com/#54-2052019) | Tulare; W Kern Ave, W Tulare St | 58 |
 | [2052020](https://precinct.netpress.com/#54-2052020) | Tulare; S J St, W Kern St | 0 |
 | [2052021](https://precinct.netpress.com/#54-2052021) | Tulare; Welch Dr, N Beatrice Dr | 156 |
 | [2052022](https://precinct.netpress.com/#54-2052022) | Tulare; Grove Dr, Hartley Ct | 28 |
 | [2052023](https://precinct.netpress.com/#54-2052023) | Tulare; N J St, Serr Ct | 71 |
 | [2052024](https://precinct.netpress.com/#54-2052024) | Tulare; Alcott St, W Lynn Ave | 732 |
 | [2052025](https://precinct.netpress.com/#54-2052025) | Tulare; W Cartmill Ave, M St | 0 |
-| [2052026](https://precinct.netpress.com/#54-2052026) | Tulare | 0 |
+| [2052026](https://precinct.netpress.com/#54-2052026) | Tulare; along W Cartmill Ave and N Oaks St | 0 |
 | [2053001](https://precinct.netpress.com/#54-2053001) | Tulare; Olson Ave, S K St | 7 |
 | [2053002](https://precinct.netpress.com/#54-2053002) | Tulare; S K St | 61 |
 | [2053003](https://precinct.netpress.com/#54-2053003) | Tulare; E Rankin Rd, S K St | 104 |
 | [2053005](https://precinct.netpress.com/#54-2053005) | Tulare; E Foster Dr, Holliday St | 505 |
-| [2053006](https://precinct.netpress.com/#54-2053006) | Tulare | 0 |
+| [2053006](https://precinct.netpress.com/#54-2053006) | Tulare; along State Hwy 99 N | 0 |
 | [2053007](https://precinct.netpress.com/#54-2053007) | Tulare; Industrial Ave, S K St | 0 |
 | [2053008](https://precinct.netpress.com/#54-2053008) | Tulare; Martin Luther King Jr Ave, E Elm Ave | 751 |
 | [2053009](https://precinct.netpress.com/#54-2053009) | Tulare; S I St, E Paige Ave | 5 |
@@ -655,8 +655,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2053027](https://precinct.netpress.com/#54-2053027) | Tulare; S L St, E Kern Ave | 16 |
 | [2053028](https://precinct.netpress.com/#54-2053028) | Tulare; E Continental Ave, S Blackstone St | 68 |
 | [2053029](https://precinct.netpress.com/#54-2053029) | Tulare; Hosfield Rd, Hosfield Dr | 2 |
-| [2053030](https://precinct.netpress.com/#54-2053030) | Tulare | 0 |
-| [2053031](https://precinct.netpress.com/#54-2053031) |  | 0 |
+| [2053030](https://precinct.netpress.com/#54-2053030) | Tulare; along State Hwy 99 N | 0 |
+| [2053031](https://precinct.netpress.com/#54-2053031) | Tulare; near S K St | 0 |
 | [2053032](https://precinct.netpress.com/#54-2053032) | Tulare; S N St, E Kern Ave | 0 |
 | [2053033](https://precinct.netpress.com/#54-2053033) | Tulare; N Canby St, N Lane St | 290 |
 | [2053034](https://precinct.netpress.com/#54-2053034) | Tulare; S Canby Ln, S Spruce St | 0 |
@@ -667,7 +667,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2053039](https://precinct.netpress.com/#54-2053039) | Tulare; Tahoe Ave, Tuolumne Ave | 238 |
 | [2054001](https://precinct.netpress.com/#54-2054001) | Tulare; Bolton Ave, Dorset St | 808 |
 | [2054002](https://precinct.netpress.com/#54-2054002) | Tulare; Diamante Dr, La Paloma Dr | 775 |
-| [2054003](https://precinct.netpress.com/#54-2054003) | Tulare | 0 |
+| [2054003](https://precinct.netpress.com/#54-2054003) | Tulare; along Ave 248 | 0 |
 | [2054004](https://precinct.netpress.com/#54-2054004) | Tulare; Pso del Lago, Riesling St | 1,176 |
 | [2054005](https://precinct.netpress.com/#54-2054005) | Tulare; E Prosperity Ave, Brentwood St | 2 |
 | [2054006](https://precinct.netpress.com/#54-2054006) | Tulare; E Fairview Ave, E Richard Smith Ave | 282 |
@@ -718,16 +718,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2055011](https://precinct.netpress.com/#54-2055011) | Tulare; Hoyt Ave, Ryan Ave | 760 |
 | [2055012](https://precinct.netpress.com/#54-2055012) | Tulare; Seaside Ave, Bellport Ave | 1,307 |
 | [2055013](https://precinct.netpress.com/#54-2055013) | Tulare; Alpine Ave, Kelty Meadow Ave | 530 |
-| [2055014](https://precinct.netpress.com/#54-2055014) | Tulare | 4 |
+| [2055014](https://precinct.netpress.com/#54-2055014) | Tulare; along Morrison St and E Bardsley Ave | 4 |
 | [2055015](https://precinct.netpress.com/#54-2055015) | Tulare; Tecopa Ave, Clover Meadow Ave | 329 |
 | [2055016](https://precinct.netpress.com/#54-2055016) | Tulare; Windsong Dr, Roundhouse St | 588 |
 | [2055017](https://precinct.netpress.com/#54-2055017) | Tulare; Softwind Dr, Brightside St | 316 |
 | [2055019](https://precinct.netpress.com/#54-2055019) | Tulare; Jensen Rd, E Bardsley Ave | 5 |
 | [2055020](https://precinct.netpress.com/#54-2055020) | Tulare; Oakmore St, Ave 228 | 6 |
 | [2055021](https://precinct.netpress.com/#54-2055021) | Tulare; S Oakmore St, Rd 124 | 33 |
-| [2055022](https://precinct.netpress.com/#54-2055022) | E Prosperity Ave, Prosperity Ave, Ave 240, Morrison St | 0 |
-| [2990000](https://precinct.netpress.com/#54-2990000) |  | 30 |
-| [2990001](https://precinct.netpress.com/#54-2990001) |  | 0 |
+| [2055022](https://precinct.netpress.com/#54-2055022) | E Prosperity Ave, Prosperity Ave, Ave 240 | 0 |
+| [2990000](https://precinct.netpress.com/#54-2990000) | Along Rd 156 | 30 |
+| [2990001](https://precinct.netpress.com/#54-2990001) | Near Rd 132 | 0 |
 | [2990002](https://precinct.netpress.com/#54-2990002) | Caldwell Ave 260, Mariposa Ave, Oakdale Ave | 94 |
 | [2990003](https://precinct.netpress.com/#54-2990003) | Co Rd J15, Ave 256, Rd 140 | 69 |
 | [2990004](https://precinct.netpress.com/#54-2990004) | Oakdale Ave, Rd 132 | 3 |
@@ -749,9 +749,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990020](https://precinct.netpress.com/#54-2990020) | Paige Rd N, Co Hwy J25, Rd 68 | 3 |
 | [2990021](https://precinct.netpress.com/#54-2990021) | W Tulare Ave, Prosperity Ave | 50 |
 | [2990022](https://precinct.netpress.com/#54-2990022) | Tulare; N Enterprise St, Ave 236B | 11 |
-| [2990023](https://precinct.netpress.com/#54-2990023) |  | 0 |
+| [2990023](https://precinct.netpress.com/#54-2990023) | Along W Pleasant Ave and Cromley St | 0 |
 | [2990026](https://precinct.netpress.com/#54-2990026) | Tulare; Tulare Santa Fe Trl, N Enterprise St | 5 |
-| [2990027](https://precinct.netpress.com/#54-2990027) |  | 0 |
+| [2990027](https://precinct.netpress.com/#54-2990027) | Along W Inyo Ave and Tulare Santa Fe Trl | 0 |
 | [2990028](https://precinct.netpress.com/#54-2990028) | S Palm St | 4 |
 | [2990029](https://precinct.netpress.com/#54-2990029) | W Soults Dr | 1 |
 | [2990030](https://precinct.netpress.com/#54-2990030) | Haven St, W Crescent Dr, W Soults Dr | 104 |
@@ -761,7 +761,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990035](https://precinct.netpress.com/#54-2990035) | Tulare; Paige Ave, Rd 96 | 10 |
 | [2990036](https://precinct.netpress.com/#54-2990036) | Matheny and Tulare; W Wade Ave, E Wade Ave | 122 |
 | [2990037](https://precinct.netpress.com/#54-2990037) | Ave 190, Octol Ave, Rd 72 | 5 |
-| [2990039](https://precinct.netpress.com/#54-2990039) |  | 11 |
+| [2990039](https://precinct.netpress.com/#54-2990039) | Along 88 Rd | 11 |
 | [2990042](https://precinct.netpress.com/#54-2990042) | Fogal Rd, Clinton Ave, Paige Rd N | 76 |
 | [2990043](https://precinct.netpress.com/#54-2990043) | Wilbur Rd, Rd 52, Paige Ave | 27 |
 | [2990044](https://precinct.netpress.com/#54-2990044) | California Ave, Rd 44, Paige Ave | 19 |
@@ -773,10 +773,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990050](https://precinct.netpress.com/#54-2990050) | Ave 194, Paige Rd N, Waukena Rd | 9 |
 | [2990051](https://precinct.netpress.com/#54-2990051) | Matheny; S Pratt St, W Addie Ave | 173 |
 | [2990052](https://precinct.netpress.com/#54-2990052) | Rd 96, Ave 198, Ave 194 | 6 |
-| [2990053](https://precinct.netpress.com/#54-2990053) |  | 1 |
+| [2990053](https://precinct.netpress.com/#54-2990053) | Along S Pratt St | 1 |
 | [2990054](https://precinct.netpress.com/#54-2990054) | Matheny; Bates Slough, E Addie Ave | 66 |
 | [2990058](https://precinct.netpress.com/#54-2990058) | Hosfield Rd, Hosfield Dr, Commercial Ave | 7 |
-| [2990059](https://precinct.netpress.com/#54-2990059) |  | 6 |
+| [2990059](https://precinct.netpress.com/#54-2990059) | Along Oakdale Ave and Spacer Dr | 6 |
 | [2990060](https://precinct.netpress.com/#54-2990060) | Fifth Standard Paralell S, Oakdale Ave, Ave 200 | 16 |
 | [2990061](https://precinct.netpress.com/#54-2990061) | Fifth Standard Paralell S, Ave 200, Rd 124 | 59 |
 | [2990062](https://precinct.netpress.com/#54-2990062) | Ave 208, Ave 204, Oakdale Ave | 2 |
@@ -794,7 +794,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990077](https://precinct.netpress.com/#54-2990077) | Rd 152, E Prosperity Ave, Prosperity Ave | 20 |
 | [2990078](https://precinct.netpress.com/#54-2990078) | E Cartmill Ave, E Prosperity Ave, Prosperity Ave | 28 |
 | [2990079](https://precinct.netpress.com/#54-2990079) | 132 Rd, Ave 245, E Cartmill Ave | 35 |
-| [2990080](https://precinct.netpress.com/#54-2990080) |  | 2 |
+| [2990080](https://precinct.netpress.com/#54-2990080) | Along N Oakmore St | 2 |
 | [2990081](https://precinct.netpress.com/#54-2990081) | Tulare; Cartmill, E Cartmill Ave | 8 |
 | [2990082](https://precinct.netpress.com/#54-2990082) | Tulare; Lewis Ln, N Oakmore St | 70 |
 | [2990083](https://precinct.netpress.com/#54-2990083) | Ranch Acre Rd, N Oakmore St | 39 |
@@ -803,25 +803,25 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990086](https://precinct.netpress.com/#54-2990086) | Rd 112 | 0 |
 | [2990087](https://precinct.netpress.com/#54-2990087) | Ave 228, Highway 137 | 5 |
 | [2990088](https://precinct.netpress.com/#54-2990088) | Co Rd 112, I Dr, Rankin Rd | 51 |
-| [2990089](https://precinct.netpress.com/#54-2990089) |  | 0 |
-| [2990091](https://precinct.netpress.com/#54-2990091) |  | 0 |
+| [2990089](https://precinct.netpress.com/#54-2990089) | Near Ave 184 | 0 |
+| [2990091](https://precinct.netpress.com/#54-2990091) | Near Ave 184 | 0 |
 | [2990093](https://precinct.netpress.com/#54-2990093) | 196 Ave, Ave 192 | 7 |
 | [2990094](https://precinct.netpress.com/#54-2990094) | Rd 48, Ave 176, Octol Ave | 25 |
 | [2990095](https://precinct.netpress.com/#54-2990095) | Rd 64, Octol Ave, Elk Bayou Rd | 55 |
 | [2990096](https://precinct.netpress.com/#54-2990096) | Rd 96 | 3 |
 | [2990097](https://precinct.netpress.com/#54-2990097) | Pratt St, I St, Octol Ave | 17 |
 | [2990098](https://precinct.netpress.com/#54-2990098) | 172 Ave, Ave 172, Ave 176 | 5 |
-| [2990099](https://precinct.netpress.com/#54-2990099) |  | 0 |
+| [2990099](https://precinct.netpress.com/#54-2990099) | Near Rd 128 | 0 |
 | [2990101](https://precinct.netpress.com/#54-2990101) | Rd 144 | 0 |
-| [2990102](https://precinct.netpress.com/#54-2990102) |  | 10 |
+| [2990102](https://precinct.netpress.com/#54-2990102) | Along Rd 136 and Rd 144 | 10 |
 | [2990103](https://precinct.netpress.com/#54-2990103) | Co Hwy J15, Ave 168, Rd 144 | 9 |
 | [2990104](https://precinct.netpress.com/#54-2990104) | Ave 160, Ave 164, Ave 168 | 21 |
 | [2990105](https://precinct.netpress.com/#54-2990105) | Ave 164, Tule River, Thompson Rd | 0 |
 | [2990106](https://precinct.netpress.com/#54-2990106) | Ave 160 | 2 |
 | [2990107](https://precinct.netpress.com/#54-2990107) | Rd 80, S I Dr, Ave 160 | 29 |
 | [2990108](https://precinct.netpress.com/#54-2990108) | Ave 170, Rd 19, 156 Ave | 2 |
-| [2990109](https://precinct.netpress.com/#54-2990109) | Rd 16, 4th Ave, Rd 24, Ave 152 | 0 |
-| [2990110](https://precinct.netpress.com/#54-2990110) |  | 0 |
+| [2990109](https://precinct.netpress.com/#54-2990109) | Rd 16, 4th Ave, Rd 24 | 0 |
+| [2990110](https://precinct.netpress.com/#54-2990110) | Along Elk Bayou Rd and Ave 144 | 0 |
 | [2990112](https://precinct.netpress.com/#54-2990112) | Ave 160, Rd 72, Rd 80 | 43 |
 | [2990114](https://precinct.netpress.com/#54-2990114) | Elk Bayou Rd | 11 |
 | [2990115](https://precinct.netpress.com/#54-2990115) | Tipton; Ave 152, Wesling Rd | 23 |
@@ -834,37 +834,37 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990125](https://precinct.netpress.com/#54-2990125) | Tipton and Pixley; Ave 144, Elk Bayou Rd | 61 |
 | [2990126](https://precinct.netpress.com/#54-2990126) | Ave 144, Rd 72, Ave 120 | 11 |
 | [2990127](https://precinct.netpress.com/#54-2990127) | Ave 144, Popular Ave, Highway 43 | 3 |
-| [2990128](https://precinct.netpress.com/#54-2990128) | Rd 16, 4th Ave, Rd 24, Ave 104 | 0 |
+| [2990128](https://precinct.netpress.com/#54-2990128) | Rd 16, 4th Ave, Rd 24 | 0 |
 | [2990129](https://precinct.netpress.com/#54-2990129) | Co Rte J33, Rd 40, Rd 32 | 2 |
 | [2990131](https://precinct.netpress.com/#54-2990131) | Pixley; Ave 104, Ave 108 | 39 |
 | [2990132](https://precinct.netpress.com/#54-2990132) | Ave 104, Rd 64 | 0 |
 | [2990133](https://precinct.netpress.com/#54-2990133) | Bayou Vista Side Ditch, Highway 43, Ave 108 | 13 |
 | [2990136](https://precinct.netpress.com/#54-2990136) | W Terra Bella Ave, Ave 96, N Eucalyptus St | 6 |
-| [2990137](https://precinct.netpress.com/#54-2990137) | Pixley | 15 |
+| [2990137](https://precinct.netpress.com/#54-2990137) | Pixley; along Rd 120 and N Airport St | 15 |
 | [2990138](https://precinct.netpress.com/#54-2990138) | E Stanford Ave, Park St | 10 |
 | [2990139](https://precinct.netpress.com/#54-2990139) | Pixley; N Park Dr, E Stanford Ave | 57 |
-| [2990140](https://precinct.netpress.com/#54-2990140) |  | 3 |
-| [2990141](https://precinct.netpress.com/#54-2990141) |  | 6 |
+| [2990140](https://precinct.netpress.com/#54-2990140) | Near E Stanford Ave | 3 |
+| [2990141](https://precinct.netpress.com/#54-2990141) | Along N Elm St and Wright Ave | 6 |
 | [2990142](https://precinct.netpress.com/#54-2990142) | E Stanford Ave, N School St, Ave 112 | 55 |
 | [2990143](https://precinct.netpress.com/#54-2990143) | Pixley; Ave 116, E Orrland Ave | 67 |
 | [2990144](https://precinct.netpress.com/#54-2990144) | E Terra Bella Ave, Co Rd J24, Ave 96 | 1 |
 | [2990145](https://precinct.netpress.com/#54-2990145) | Rd 151, E Terra Bella Ave, Ave 88 | 49 |
-| [2990146](https://precinct.netpress.com/#54-2990146) |  | 0 |
+| [2990146](https://precinct.netpress.com/#54-2990146) | Along E Court Ave and School St | 0 |
 | [2990148](https://precinct.netpress.com/#54-2990148) | Pixley; N Park Dr, N Elm St | 9 |
-| [2990150](https://precinct.netpress.com/#54-2990150) |  | 37 |
-| [2990151](https://precinct.netpress.com/#54-2990151) |  | 2 |
+| [2990150](https://precinct.netpress.com/#54-2990150) | Pixley; near N Park Dr | 37 |
+| [2990151](https://precinct.netpress.com/#54-2990151) | Pixley; near N Elm St | 2 |
 | [2990152](https://precinct.netpress.com/#54-2990152) | Pixley; School St | 0 |
 | [2990153](https://precinct.netpress.com/#54-2990153) | Pixley; S Elm St, E Joanne Ave | 112 |
-| [2990154](https://precinct.netpress.com/#54-2990154) |  | 0 |
-| [2990155](https://precinct.netpress.com/#54-2990155) |  | 46 |
+| [2990154](https://precinct.netpress.com/#54-2990154) | Pixley; near E Terra Bella Ave | 0 |
+| [2990155](https://precinct.netpress.com/#54-2990155) | Pixley; near S Maple St | 46 |
 | [2990156](https://precinct.netpress.com/#54-2990156) | Pixley; Maple St, S Maple St | 207 |
 | [2990157](https://precinct.netpress.com/#54-2990157) | Pixley; Ash St, Bradbury Ave | 297 |
-| [2990158](https://precinct.netpress.com/#54-2990158) | Pixley | 0 |
+| [2990158](https://precinct.netpress.com/#54-2990158) | Pixley; along Market St and Main St | 0 |
 | [2990159](https://precinct.netpress.com/#54-2990159) | Pixley; N Cedar St, Ave 118 | 21 |
 | [2990161](https://precinct.netpress.com/#54-2990161) | Pixley; W Compton Ave, Ellsworth St | 2 |
 | [2990162](https://precinct.netpress.com/#54-2990162) | Pixley; S Airport St | 10 |
-| [2990163](https://precinct.netpress.com/#54-2990163) |  | 1 |
-| [2990164](https://precinct.netpress.com/#54-2990164) |  | 0 |
+| [2990163](https://precinct.netpress.com/#54-2990163) | Pixley; near S Airport St | 1 |
+| [2990164](https://precinct.netpress.com/#54-2990164) | Pixley; near S Ash St | 0 |
 | [2990165](https://precinct.netpress.com/#54-2990165) | Pixley; W Terra Bella St, S Main St | 1 |
 | [2990166](https://precinct.netpress.com/#54-2990166) | Pixley; W Bradbury Ave, Bradbury Ave | 83 |
 | [2990167](https://precinct.netpress.com/#54-2990167) | Pixley; S Airport St | 0 |
@@ -879,7 +879,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990177](https://precinct.netpress.com/#54-2990177) | Diagonal 130 B, Ave 80 | 9 |
 | [2990178](https://precinct.netpress.com/#54-2990178) | Teviston; Bishop Dr, Rd 126 | 56 |
 | [2990179](https://precinct.netpress.com/#54-2990179) | Teviston; Rd 131, Williams Ave | 40 |
-| [2990180](https://precinct.netpress.com/#54-2990180) |  | 8 |
+| [2990180](https://precinct.netpress.com/#54-2990180) | Teviston; near Ave 80 | 8 |
 | [2990181](https://precinct.netpress.com/#54-2990181) | Earlimart and Teviston; Deer Creek Ave, Kramer Rd | 45 |
 | [2990182](https://precinct.netpress.com/#54-2990182) | Teviston; Bishop St, Bishop Dr | 92 |
 | [2990183](https://precinct.netpress.com/#54-2990183) | Teviston; Diagonal 130 B | 59 |
@@ -887,10 +887,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990186](https://precinct.netpress.com/#54-2990186) | Pixley; W Alila Ave, Ave 88 | 34 |
 | [2990187](https://precinct.netpress.com/#54-2990187) | Ave 88 | 0 |
 | [2990193](https://precinct.netpress.com/#54-2990193) | Ave 72, Rd 32, Rd 16 | 0 |
-| [2990195](https://precinct.netpress.com/#54-2990195) |  | 3 |
+| [2990195](https://precinct.netpress.com/#54-2990195) | Along Ave 68 | 3 |
 | [2990198](https://precinct.netpress.com/#54-2990198) | Highway 43, Rd 84, Rd 64 | 0 |
 | [2990200](https://precinct.netpress.com/#54-2990200) | Teviston; Pixley National Wildlife Ref, Deer Creek Ave | 30 |
-| [2990201](https://precinct.netpress.com/#54-2990201) |  | 1 |
+| [2990201](https://precinct.netpress.com/#54-2990201) | Along Schott St | 1 |
 | [2990202](https://precinct.netpress.com/#54-2990202) | W Sierra Ave, Ave 56, Rd 112 | 22 |
 | [2990205](https://precinct.netpress.com/#54-2990205) | Ave 69, Stoil Rd, Spa Ave | 0 |
 | [2990206](https://precinct.netpress.com/#54-2990206) | Ave 68 | 2 |
@@ -903,10 +903,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990224](https://precinct.netpress.com/#54-2990224) | Allensworth; Young Rd, Ave 39 | 121 |
 | [2990225](https://precinct.netpress.com/#54-2990225) | Allensworth; Grant Dr, Young Rd | 9 |
 | [2990229](https://precinct.netpress.com/#54-2990229) | Road 84 County Rd, Highway 43, Ave 8 | 3 |
-| [2990230](https://precinct.netpress.com/#54-2990230) |  | 1 |
+| [2990230](https://precinct.netpress.com/#54-2990230) | Near Ave 24 | 1 |
 | [2990231](https://precinct.netpress.com/#54-2990231) | Howard Rd, Rd 112, 40 Ave | 15 |
 | [2990232](https://precinct.netpress.com/#54-2990232) | Co Rd J22, Rd 85, W Sierra Ave | 5 |
-| [2990235](https://precinct.netpress.com/#54-2990235) |  | 39 |
+| [2990235](https://precinct.netpress.com/#54-2990235) | Along W Sierra Ave | 39 |
 | [2990236](https://precinct.netpress.com/#54-2990236) | Earlimart; W Sierra Rd, Main Ave | 4 |
 | [2990237](https://precinct.netpress.com/#54-2990237) | Earlimart; Bobbi Ave, Andrea Ave | 357 |
 | [2990238](https://precinct.netpress.com/#54-2990238) | Earlimart; S Elm Rd, Elm Rd | 869 |
@@ -921,16 +921,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990250](https://precinct.netpress.com/#54-2990250) | Ave 32, 28 Ave, Rd 156 | 1 |
 | [2990251](https://precinct.netpress.com/#54-2990251) | Rd 360, Rd 148, Rd 152 | 45 |
 | [2990252](https://precinct.netpress.com/#54-2990252) | White Rock Ave, Albany St, Highway 99 | 38 |
-| [2990253](https://precinct.netpress.com/#54-2990253) |  | 0 |
+| [2990253](https://precinct.netpress.com/#54-2990253) | Along Ave 8 | 0 |
 | [2990254](https://precinct.netpress.com/#54-2990254) | W Scranton Ave, Ave 136, Rd 160 | 5 |
-| [2990255](https://precinct.netpress.com/#54-2990255) |  | 2 |
+| [2990255](https://precinct.netpress.com/#54-2990255) | Near E Prosperity Ave | 2 |
 | [2990256](https://precinct.netpress.com/#54-2990256) | Bliss Ln, Ave 256, Mariposa Ave | 44 |
 | [2990257](https://precinct.netpress.com/#54-2990257) | Co Rd J22, 60 Ave, Ave 52 | 40 |
 | [2990258](https://precinct.netpress.com/#54-2990258) | Ave 40, 28 Ave, 42 Ave | 1 |
 | [2990259](https://precinct.netpress.com/#54-2990259) | Ave 16, Rd 152, Rd 156 | 6 |
 | [2990260](https://precinct.netpress.com/#54-2990260) | Ave 8, Rd 156, Ave 4 | 23 |
 | [2990261](https://precinct.netpress.com/#54-2990261) | W Tollin Rd, Killette Rd | 7 |
-| [2990262](https://precinct.netpress.com/#54-2990262) |  | 3 |
+| [2990262](https://precinct.netpress.com/#54-2990262) | Near N West St | 3 |
 | [2990264](https://precinct.netpress.com/#54-2990264) | Pixley; N Airport St, W Orrland Ave | 19 |
 | [2990265](https://precinct.netpress.com/#54-2990265) | Park St, Ave 116, Rd 124 | 10 |
 | [2990266](https://precinct.netpress.com/#54-2990266) | Co Rd J24, S Airport St, Rd 120 | 0 |
@@ -941,10 +941,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2990271](https://precinct.netpress.com/#54-2990271) | Pixley; Ellsworth Ave, S Spani Way | 42 |
 | [2990272](https://precinct.netpress.com/#54-2990272) | Pixley; S Walnut St, Walnut St | 163 |
 | [2990273](https://precinct.netpress.com/#54-2990273) | Pixley; Court Ave | 0 |
-| [2990274](https://precinct.netpress.com/#54-2990274) |  | 3 |
+| [2990274](https://precinct.netpress.com/#54-2990274) | Along Rd 132 | 3 |
 | [2990275](https://precinct.netpress.com/#54-2990275) | Tulare; Clinton Ave | 0 |
 | [2990276](https://precinct.netpress.com/#54-2990276) | Matheny; E Beacon Ave, S Casa St | 18 |
-| [2990277](https://precinct.netpress.com/#54-2990277) |  | 3 |
+| [2990277](https://precinct.netpress.com/#54-2990277) | Near Ave 184 | 3 |
 | [2990278](https://precinct.netpress.com/#54-2990278) | Rd 112, Octol Ave, Ave 184 | 0 |
 | [2990279](https://precinct.netpress.com/#54-2990279) | Highway 137, Bardsley Ave, Ave 224 | 12 |
 | [2990280](https://precinct.netpress.com/#54-2990280) | Wilbur Rd, Highway 137, Rd 52 | 5 |
@@ -979,7 +979,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3062008](https://precinct.netpress.com/#54-3062008) | Visalia; S Hall St, S Divisadero St | 617 |
 | [3062009](https://precinct.netpress.com/#54-3062009) | Visalia; W Evans Ave, S Giddings St | 142 |
 | [3062010](https://precinct.netpress.com/#54-3062010) | Visalia; S Jacob St, S Conyer Ct | 1,161 |
-| [3062011](https://precinct.netpress.com/#54-3062011) | Visalia; S Locust St, S Encina St, S Watson St, W Laura Ave | 331 |
+| [3062011](https://precinct.netpress.com/#54-3062011) | Visalia; S Locust St, S Encina St | 331 |
 | [3062012](https://precinct.netpress.com/#54-3062012) | Visalia; S Kloth Dr, E Ashland Ave | 574 |
 | [3062013](https://precinct.netpress.com/#54-3062013) | Visalia; E Monte Verde Ave, E Mesa Ct | 1,086 |
 | [3062014](https://precinct.netpress.com/#54-3062014) | Visalia; Beech Dr, S Mary Dr | 244 |
@@ -1007,7 +1007,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3062038](https://precinct.netpress.com/#54-3062038) | Visalia; S Kennedy St, Ben Maddox Way | 847 |
 | [3063001](https://precinct.netpress.com/#54-3063001) | Visalia; Ave 320 | 0 |
 | [3063002](https://precinct.netpress.com/#54-3063002) | Visalia; Alta Ave, Ave 320 | 0 |
-| [3063003](https://precinct.netpress.com/#54-3063003) | Visalia | 0 |
+| [3063003](https://precinct.netpress.com/#54-3063003) | Visalia; along Alta Ave | 0 |
 | [3063004](https://precinct.netpress.com/#54-3063004) | Visalia; Alta Ave | 0 |
 | [3063005](https://precinct.netpress.com/#54-3063005) | Visalia; Ave 312 | 1 |
 | [3063006](https://precinct.netpress.com/#54-3063006) | Visalia; Plaza Dr, N Plaza Dr | 0 |
@@ -1016,7 +1016,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3063009](https://precinct.netpress.com/#54-3063009) | Visalia; N Shirk St, N Roeben St | 1,218 |
 | [3063010](https://precinct.netpress.com/#54-3063010) | Visalia; W Riggin Ave, Perez | 1,394 |
 | [3063011](https://precinct.netpress.com/#54-3063011) | Visalia; W Sweet Dr, W Elowin Dr | 457 |
-| [3063012](https://precinct.netpress.com/#54-3063012) | Visalia | 1 |
+| [3063012](https://precinct.netpress.com/#54-3063012) | Visalia; along Rasmussen Ave | 1 |
 | [3063013](https://precinct.netpress.com/#54-3063013) | Visalia; N Century St, W Legacy Ave | 8 |
 | [3063014](https://precinct.netpress.com/#54-3063014) | Visalia; W Goshen Ave, Kelsey St | 10 |
 | [3063015](https://precinct.netpress.com/#54-3063015) | Visalia; W Pershing Ave, W Grove Ct | 556 |
@@ -1063,10 +1063,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3065010](https://precinct.netpress.com/#54-3065010) | Visalia; S Huntington St, E Castleview Ave | 427 |
 | [3065011](https://precinct.netpress.com/#54-3065011) | Visalia; S Hillcrest Dr, S Ben Maddox Way | 443 |
 | [3065012](https://precinct.netpress.com/#54-3065012) | E Tulare Ave | 36 |
-| [3065013](https://precinct.netpress.com/#54-3065013) |  | 3 |
+| [3065013](https://precinct.netpress.com/#54-3065013) | Visalia; near S Pinkham St | 3 |
 | [3065014](https://precinct.netpress.com/#54-3065014) | Visalia; E Cambridge Ave, S Cotta St | 831 |
 | [3065015](https://precinct.netpress.com/#54-3065015) | Visalia; S Bridge St, S Garden St | 114 |
-| [3065016](https://precinct.netpress.com/#54-3065016) | Visalia; S Locust St, S Encina St, S Watson St, S Court St | 600 |
+| [3065016](https://precinct.netpress.com/#54-3065016) | Visalia; S Locust St, S Encina St | 600 |
 | [3065017](https://precinct.netpress.com/#54-3065017) | Visalia; W Murray Ave, S Floral St | 247 |
 | [3065021](https://precinct.netpress.com/#54-3065021) | Visalia; S Garden St, S Court St | 96 |
 | [3065022](https://precinct.netpress.com/#54-3065022) | Visalia; S Watson St, S Court St | 104 |
@@ -1075,7 +1075,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3065025](https://precinct.netpress.com/#54-3065025) | Visalia; W Howard Ave, W Feemster Ave | 93 |
 | [3065026](https://precinct.netpress.com/#54-3065026) | Visalia; S Willis St, W Acequia | 1 |
 | [3065027](https://precinct.netpress.com/#54-3065027) | Visalia; S Watson St | 19 |
-| [3990000](https://precinct.netpress.com/#54-3990000) |  | 0 |
+| [3990000](https://precinct.netpress.com/#54-3990000) | Along Ave 320 and N Demaree Rd | 0 |
 | [3990001](https://precinct.netpress.com/#54-3990001) | N Akers St, Rd 100 | 2 |
 | [3990002](https://precinct.netpress.com/#54-3990002) | Rd 89, Ave 320 | 5 |
 | [3990007](https://precinct.netpress.com/#54-3990007) | W Ferguson Ave, N Demaree St | 1 |
@@ -1090,7 +1090,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3990026](https://precinct.netpress.com/#54-3990026) | 17th Ave W, Ave 290, Rd 56 | 45 |
 | [3990027](https://precinct.netpress.com/#54-3990027) | Frontage Rd, Highway 198 | 9 |
 | [3990028](https://precinct.netpress.com/#54-3990028) | Visalia; Highway 99 | 0 |
-| [3990030](https://precinct.netpress.com/#54-3990030) |  | 0 |
+| [3990030](https://precinct.netpress.com/#54-3990030) | Near Houston Ave | 0 |
 | [3990031](https://precinct.netpress.com/#54-3990031) | Houston Ave, Ave 280, Ave 272 | 10 |
 | [3990032](https://precinct.netpress.com/#54-3990032) | 1st Ave, Houston Ave, Rd 44 | 32 |
 | [3990033](https://precinct.netpress.com/#54-3990033) | Rd 48 | 0 |
@@ -1102,7 +1102,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3990041](https://precinct.netpress.com/#54-3990041) | Rd 100 | 1 |
 | [3990042](https://precinct.netpress.com/#54-3990042) | Co Rd J25, Rd 68, Rd 76 | 11 |
 | [3990043](https://precinct.netpress.com/#54-3990043) | Caldwell, S Shirk Rd | 67 |
-| [3990045](https://precinct.netpress.com/#54-3990045) |  | 5 |
+| [3990045](https://precinct.netpress.com/#54-3990045) | Along S Akers St | 5 |
 | [3990048](https://precinct.netpress.com/#54-3990048) | Visalia; W Visalia Pkwy, 100 Rd | 37 |
 | [3990049](https://precinct.netpress.com/#54-3990049) | Akers Rd, Rd 108 | 11 |
 | [3990050](https://precinct.netpress.com/#54-3990050) | Liberty Rd, 108 Rd, Harrison Rd | 47 |
@@ -1132,12 +1132,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3990081](https://precinct.netpress.com/#54-3990081) | Ave 280, Ave 272 | 14 |
 | [3990082](https://precinct.netpress.com/#54-3990082) | Co Rd J20 | 0 |
 | [3990083](https://precinct.netpress.com/#54-3990083) | Oscar Ave, Water Ave, Rd 150 | 79 |
-| [3990084](https://precinct.netpress.com/#54-3990084) |  | 0 |
+| [3990084](https://precinct.netpress.com/#54-3990084) | Goshen; near Rd 68 | 0 |
 | [3990088](https://precinct.netpress.com/#54-3990088) | Visalia; Drive 85, Aviation Way | 15 |
 | [3990089](https://precinct.netpress.com/#54-3990089) | Ave 271, Oakmore Way, Visalia Pkwy | 23 |
 | [3990090](https://precinct.netpress.com/#54-3990090) | Outside Creek Rd, Co Rd J15, Ave 266 | 3 |
 | [3990091](https://precinct.netpress.com/#54-3990091) | Oakmore Way, Rd 124 | 39 |
-| [3990092](https://precinct.netpress.com/#54-3990092) |  | 14 |
+| [3990092](https://precinct.netpress.com/#54-3990092) | Along Rd 92 | 14 |
 | [4011001](https://precinct.netpress.com/#54-4011001) | Dinuba; S Milsap Ave, S Myrtle Ave | 196 |
 | [4011002](https://precinct.netpress.com/#54-4011002) | Dinuba; E Meadow Ln, E Terrace Ln | 106 |
 | [4011003](https://precinct.netpress.com/#54-4011003) | Dinuba; E Mountain View Way, E Olive Way | 176 |
@@ -1217,8 +1217,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4064007](https://precinct.netpress.com/#54-4064007) | Visalia; E Glendale Ave, E Shannon Pkwy | 216 |
 | [4064008](https://precinct.netpress.com/#54-4064008) | Visalia; E Sedona Ave, E Porter Ave | 179 |
 | [4064009](https://precinct.netpress.com/#54-4064009) | Visalia; River Way Dr, W Sedona Ave | 210 |
-| [4064010](https://precinct.netpress.com/#54-4064010) | Visalia | 0 |
-| [4064011](https://precinct.netpress.com/#54-4064011) | Visalia | 0 |
+| [4064010](https://precinct.netpress.com/#54-4064010) | Visalia; along Pratt Rd and Mooney Blvd | 0 |
+| [4064011](https://precinct.netpress.com/#54-4064011) | Visalia; along Rd 124 and River Way Dr | 0 |
 | [4064012](https://precinct.netpress.com/#54-4064012) | Visalia; W Robin Ave, N Zachary St | 116 |
 | [4070001](https://precinct.netpress.com/#54-4070001) | Woodlake; W Bravo Ave, Rd 200 | 0 |
 | [4070002](https://precinct.netpress.com/#54-4070002) | Woodlake; W Ropes Ave, Ave 342 | 595 |
@@ -1227,16 +1227,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4070005](https://precinct.netpress.com/#54-4070005) | Woodlake; E Wutchumna Ave, Summit Ave | 450 |
 | [4070006](https://precinct.netpress.com/#54-4070006) | Woodlake; Bravo Lake, S Magnolia St | 456 |
 | [4070007](https://precinct.netpress.com/#54-4070007) | Woodlake; Pomegranate St, E Lakeview Ave | 701 |
-| [4070008](https://precinct.netpress.com/#54-4070008) | Woodlake | 0 |
+| [4070008](https://precinct.netpress.com/#54-4070008) | Woodlake; along S Valencia Blvd | 0 |
 | [4070009](https://precinct.netpress.com/#54-4070009) | Woodlake; Deltha Ave, Highway 245 | 0 |
-| [4070010](https://precinct.netpress.com/#54-4070010) | Woodlake | 1 |
+| [4070010](https://precinct.netpress.com/#54-4070010) | Woodlake; along E Naranjo Blvd and State Hwy 216 | 1 |
 | [4070011](https://precinct.netpress.com/#54-4070011) | Woodlake; Mulberry St, W Greenwood Ave | 58 |
 | [4070012](https://precinct.netpress.com/#54-4070012) | W Ropes Ave, Ave 342 | 8 |
 | [4070013](https://precinct.netpress.com/#54-4070013) | Woodlake; Cajon Ave | 7 |
 | [4070014](https://precinct.netpress.com/#54-4070014) | Woodlake; W Tule Ave, N Acacia St | 47 |
 | [4070015](https://precinct.netpress.com/#54-4070015) | Woodlake; Mullberry St, Mulberry St | 2 |
 | [4070016](https://precinct.netpress.com/#54-4070016) | Woodlake; Tejon Ave, N Cypress St | 34 |
-| [4070017](https://precinct.netpress.com/#54-4070017) | Woodlake | 0 |
+| [4070017](https://precinct.netpress.com/#54-4070017) | Woodlake; along State Hwy 216 and W Naranjo Blvd | 0 |
 | [4990000](https://precinct.netpress.com/#54-4990000) | American Ave, E American Ave, Ave 480 | 3 |
 | [4990001](https://precinct.netpress.com/#54-4990001) | Sand Creek Dr | 0 |
 | [4990003](https://precinct.netpress.com/#54-4990003) | Ave 464, Ave 472, Ave 468 | 53 |
@@ -1260,8 +1260,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990021](https://precinct.netpress.com/#54-4990021) | Ave 420, Rd 154, Rd 144 | 16 |
 | [4990022](https://precinct.netpress.com/#54-4990022) | Ave 420, Ave 424, Rd 144 | 3 |
 | [4990023](https://precinct.netpress.com/#54-4990023) | Ave 428, Rd 134 | 70 |
-| [4990024](https://precinct.netpress.com/#54-4990024) |  | 0 |
-| [4990025](https://precinct.netpress.com/#54-4990025) |  | 1 |
+| [4990024](https://precinct.netpress.com/#54-4990024) | Near Ave 432 | 0 |
+| [4990025](https://precinct.netpress.com/#54-4990025) | Near Ave 432 | 1 |
 | [4990026](https://precinct.netpress.com/#54-4990026) | Ave 420 | 2 |
 | [4990027](https://precinct.netpress.com/#54-4990027) | East Orosi; Georgia St, Hollister Rd | 47 |
 | [4990028](https://precinct.netpress.com/#54-4990028) | East Orosi; Ione Rd, Rd 140 | 1 |
@@ -1282,21 +1282,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990044](https://precinct.netpress.com/#54-4990044) | Ave 400 | 0 |
 | [4990045](https://precinct.netpress.com/#54-4990045) | Cutler; Ave 400, Highway 63 | 8 |
 | [4990046](https://precinct.netpress.com/#54-4990046) | Cutler; Rosalie Ave, Robert Rd | 336 |
-| [4990047](https://precinct.netpress.com/#54-4990047) | Cutler | 0 |
+| [4990047](https://precinct.netpress.com/#54-4990047) | Cutler; along Ave 404 | 0 |
 | [4990048](https://precinct.netpress.com/#54-4990048) | Cutler; Johnston Rd, Ave 403 | 414 |
 | [4990049](https://precinct.netpress.com/#54-4990049) | Ave 402, Rufus Dr | 3 |
 | [4990050](https://precinct.netpress.com/#54-4990050) | Cutler; 1st Dr, Orosi Dr | 565 |
-| [4990051](https://precinct.netpress.com/#54-4990051) |  | 0 |
+| [4990051](https://precinct.netpress.com/#54-4990051) | Cutler; near Rd 124 | 0 |
 | [4990052](https://precinct.netpress.com/#54-4990052) | Cutler; Highway 201, Rd 120 | 14 |
 | [4990053](https://precinct.netpress.com/#54-4990053) | Ave 404 | 0 |
-| [4990054](https://precinct.netpress.com/#54-4990054) |  | 0 |
+| [4990054](https://precinct.netpress.com/#54-4990054) | Near Ave 408 | 0 |
 | [4990055](https://precinct.netpress.com/#54-4990055) | Orosi; Kamm Ave, Rd 120 | 10 |
 | [4990056](https://precinct.netpress.com/#54-4990056) | Orosi and Cutler; Ave 408, Rd 124 | 58 |
 | [4990057](https://precinct.netpress.com/#54-4990057) | Orosi; Albert Ave, Highway 63 | 11 |
-| [4990058](https://precinct.netpress.com/#54-4990058) | Orosi | 1 |
+| [4990058](https://precinct.netpress.com/#54-4990058) | Orosi; along Highway 63 and Rd 128 | 1 |
 | [4990059](https://precinct.netpress.com/#54-4990059) | Orosi; Albert Ave | 51 |
 | [4990060](https://precinct.netpress.com/#54-4990060) | Orosi; Ira Ave, Edward Ave | 385 |
-| [4990061](https://precinct.netpress.com/#54-4990061) |  | 0 |
+| [4990061](https://precinct.netpress.com/#54-4990061) | Orosi; near Rd 124 | 0 |
 | [4990062](https://precinct.netpress.com/#54-4990062) | Orosi; Olympic St, Aceves Ave | 167 |
 | [4990063](https://precinct.netpress.com/#54-4990063) | Orosi; Wilma St, Aceves Ave | 225 |
 | [4990064](https://precinct.netpress.com/#54-4990064) | Orosi; Ave 413, David Rd | 517 |
@@ -1311,14 +1311,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990073](https://precinct.netpress.com/#54-4990073) | Rd 116, Ave 416 | 30 |
 | [4990074](https://precinct.netpress.com/#54-4990074) | Ave 408, Kamm Ave, Rd 112 | 1 |
 | [4990075](https://precinct.netpress.com/#54-4990075) | Rd 112 | 17 |
-| [4990076](https://precinct.netpress.com/#54-4990076) |  | 8 |
+| [4990076](https://precinct.netpress.com/#54-4990076) | Along Rd 112 | 8 |
 | [4990077](https://precinct.netpress.com/#54-4990077) | Rd 108 | 4 |
 | [4990078](https://precinct.netpress.com/#54-4990078) | Sultana; Boone Ave, Rd 106 | 73 |
 | [4990079](https://precinct.netpress.com/#54-4990079) | Rd 104, Ave 404 | 27 |
 | [4990080](https://precinct.netpress.com/#54-4990080) | Ave 408, Kamm Ave | 26 |
 | [4990081](https://precinct.netpress.com/#54-4990081) | Sultana; Rd 105 | 39 |
 | [4990082](https://precinct.netpress.com/#54-4990082) | Rd 96, Rd 100, Ave 416 | 46 |
-| [4990083](https://precinct.netpress.com/#54-4990083) |  | 30 |
+| [4990083](https://precinct.netpress.com/#54-4990083) | Along Rd 104 | 30 |
 | [4990084](https://precinct.netpress.com/#54-4990084) | E Nebraska Ave, Ave 424 | 4 |
 | [4990087](https://precinct.netpress.com/#54-4990087) | Rd 96 | 6 |
 | [4990089](https://precinct.netpress.com/#54-4990089) | Sultana; Sultana Rd, Rd 104 | 45 |
@@ -1326,7 +1326,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990091](https://precinct.netpress.com/#54-4990091) | Sultana; Court Ave, Rd 103 | 4 |
 | [4990092](https://precinct.netpress.com/#54-4990092) | Ave 412 | 7 |
 | [4990093](https://precinct.netpress.com/#54-4990093) | Ave 404, Highway 201 | 18 |
-| [4990094](https://precinct.netpress.com/#54-4990094) |  | 4 |
+| [4990094](https://precinct.netpress.com/#54-4990094) | Along Ave 412 | 4 |
 | [4990095](https://precinct.netpress.com/#54-4990095) | Ave 412 | 17 |
 | [4990096](https://precinct.netpress.com/#54-4990096) | Ave 406, Ave 404, Highway 201 | 49 |
 | [4990097](https://precinct.netpress.com/#54-4990097) | Kamm Ave, Randle Ave, Ave 408 | 15 |
@@ -1338,7 +1338,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990103](https://precinct.netpress.com/#54-4990103) | El Monte Mobile Village; Rd 68, Parkstone Ave | 107 |
 | [4990105](https://precinct.netpress.com/#54-4990105) | Ave 430, Pederson Ave, Englehart Ave | 142 |
 | [4990106](https://precinct.netpress.com/#54-4990106) | Rd 64 | 4 |
-| [4990107](https://precinct.netpress.com/#54-4990107) |  | 25 |
+| [4990107](https://precinct.netpress.com/#54-4990107) | Along Ave 424 | 25 |
 | [4990108](https://precinct.netpress.com/#54-4990108) | Ave 424 | 30 |
 | [4990109](https://precinct.netpress.com/#54-4990109) | Rd 62, Ave 426, Ave 430 | 141 |
 | [4990110](https://precinct.netpress.com/#54-4990110) | Rd 52, Ave 424, Rd 48 | 138 |
@@ -1350,13 +1350,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990117](https://precinct.netpress.com/#54-4990117) | Kings River, Johnson Ave, Rd 38 | 27 |
 | [4990118](https://precinct.netpress.com/#54-4990118) | Kings River, Rd 28, Highway 201 | 50 |
 | [4990119](https://precinct.netpress.com/#54-4990119) | Jasper Dr, Kings River, Rd 40 | 352 |
-| [4990120](https://precinct.netpress.com/#54-4990120) |  | 20 |
+| [4990120](https://precinct.netpress.com/#54-4990120) | Along Ave 400 | 20 |
 | [4990121](https://precinct.netpress.com/#54-4990121) | Highway 201 | 44 |
 | [4990122](https://precinct.netpress.com/#54-4990122) | Rd 74, Ave 404, Rd 64 | 126 |
 | [4990123](https://precinct.netpress.com/#54-4990123) | Crawford Ave, Rd 88 | 15 |
 | [4990124](https://precinct.netpress.com/#54-4990124) | Rd 74, Co Hwy J38, Ave 384 | 125 |
 | [4990125](https://precinct.netpress.com/#54-4990125) | Delft Colony; Dodge Ave, Lawrence Ave | 196 |
-| [4990126](https://precinct.netpress.com/#54-4990126) |  | 17 |
+| [4990126](https://precinct.netpress.com/#54-4990126) | Along Ave 400 and Rd 56 | 17 |
 | [4990127](https://precinct.netpress.com/#54-4990127) | Rd 48 | 6 |
 | [4990128](https://precinct.netpress.com/#54-4990128) | Rd 33, River View Ct, Rd 34 | 177 |
 | [4990129](https://precinct.netpress.com/#54-4990129) | Ave 396, Kings River Dr, Kings River | 146 |
@@ -1394,8 +1394,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990165](https://precinct.netpress.com/#54-4990165) | Goshen and Visalia; Rasmussen Ave, Ave 305 | 393 |
 | [4990166](https://precinct.netpress.com/#54-4990166) | Goshen; Ave 304 | 1 |
 | [4990167](https://precinct.netpress.com/#54-4990167) | Goshen and Visalia; Bradham Dr, W Goshen Ave | 0 |
-| [4990171](https://precinct.netpress.com/#54-4990171) | Goshen | 0 |
-| [4990172](https://precinct.netpress.com/#54-4990172) | Goshen | 19 |
+| [4990171](https://precinct.netpress.com/#54-4990171) | Goshen; along Robinson Rd | 0 |
+| [4990172](https://precinct.netpress.com/#54-4990172) | Goshen; along Rd 76 and Rasmussen Ave | 19 |
 | [4990173](https://precinct.netpress.com/#54-4990173) | Goshen; Ave 310, Eagle St | 688 |
 | [4990174](https://precinct.netpress.com/#54-4990174) | Goshen; W Riggin Ave, Ave 312 | 0 |
 | [4990175](https://precinct.netpress.com/#54-4990175) | Ave 328, Rd 76, Ave 320 | 9 |
@@ -1404,7 +1404,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990178](https://precinct.netpress.com/#54-4990178) | Crawford Ave, Ave 388, Rd 88 | 117 |
 | [4990179](https://precinct.netpress.com/#54-4990179) | Rd 96 | 8 |
 | [4990180](https://precinct.netpress.com/#54-4990180) | Ave 392 | 22 |
-| [4990181](https://precinct.netpress.com/#54-4990181) | Monson | 15 |
+| [4990181](https://precinct.netpress.com/#54-4990181) | Monson; along Rd 104 and Monson Dr | 15 |
 | [4990182](https://precinct.netpress.com/#54-4990182) | Monson; Rd 116, Rd 118 | 108 |
 | [4990183](https://precinct.netpress.com/#54-4990183) | Ave 392, Ave 396, Rd 120 | 16 |
 | [4990184](https://precinct.netpress.com/#54-4990184) | Monson; Monson Dr, Ave 388 | 42 |
@@ -1416,7 +1416,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990191](https://precinct.netpress.com/#54-4990191) | Saint Johns River | 1 |
 | [4990192](https://precinct.netpress.com/#54-4990192) | Patterson Tract; Saint Johns River, Rd 326 | 212 |
 | [4990193](https://precinct.netpress.com/#54-4990193) | N Demaree Rd, Saint Johns River, Rd 108 | 12 |
-| [4990195](https://precinct.netpress.com/#54-4990195) |  | 21 |
+| [4990195](https://precinct.netpress.com/#54-4990195) | Along River Way Dr | 21 |
 | [4990196](https://precinct.netpress.com/#54-4990196) | Cutler; Highway 63 | 1 |
 | [4990197](https://precinct.netpress.com/#54-4990197) | Cutler; Lee Rd, Highway 63 | 0 |
 | [4990198](https://precinct.netpress.com/#54-4990198) | Swanson Ave, Rd 8, Ave 388 | 17 |
@@ -1436,31 +1436,31 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990214](https://precinct.netpress.com/#54-4990214) | Highway 201, Ave 388, Rd 136 | 100 |
 | [4990215](https://precinct.netpress.com/#54-4990215) | Rd 144 | 5 |
 | [4990217](https://precinct.netpress.com/#54-4990217) | Ave 392 | 0 |
-| [4990219](https://precinct.netpress.com/#54-4990219) |  | 3 |
-| [4990221](https://precinct.netpress.com/#54-4990221) | Seville | 4 |
-| [4990222](https://precinct.netpress.com/#54-4990222) |  | 0 |
-| [4990224](https://precinct.netpress.com/#54-4990224) |  | 2 |
+| [4990219](https://precinct.netpress.com/#54-4990219) | Near Highway 201 | 3 |
+| [4990221](https://precinct.netpress.com/#54-4990221) | Seville; along Ave 384 | 4 |
+| [4990222](https://precinct.netpress.com/#54-4990222) | Near Highway 201 | 0 |
+| [4990224](https://precinct.netpress.com/#54-4990224) | Near Piedra Ave | 2 |
 | [4990225](https://precinct.netpress.com/#54-4990225) | Rd 156 | 8 |
-| [4990226](https://precinct.netpress.com/#54-4990226) |  | 0 |
+| [4990226](https://precinct.netpress.com/#54-4990226) | Seville; near Rd 156 | 0 |
 | [4990228](https://precinct.netpress.com/#54-4990228) | Seville; Rd 152 | 1 |
 | [4990229](https://precinct.netpress.com/#54-4990229) | Seville; Rd 153, Ave 381 | 133 |
-| [4990231](https://precinct.netpress.com/#54-4990231) |  | 3 |
+| [4990231](https://precinct.netpress.com/#54-4990231) | Along Rd 152 | 3 |
 | [4990232](https://precinct.netpress.com/#54-4990232) | Highway 201, Rd 144, Ave 388 | 12 |
-| [4990233](https://precinct.netpress.com/#54-4990233) | Yettem | 17 |
+| [4990233](https://precinct.netpress.com/#54-4990233) | Yettem; along Rd 124A and Rd 140 | 17 |
 | [4990234](https://precinct.netpress.com/#54-4990234) | Yettem | 2 |
-| [4990235](https://precinct.netpress.com/#54-4990235) | Yettem | 25 |
+| [4990235](https://precinct.netpress.com/#54-4990235) | Yettem; along Ave 384 and Rd 124A | 25 |
 | [4990236](https://precinct.netpress.com/#54-4990236) | Rd 152 | 0 |
 | [4990239](https://precinct.netpress.com/#54-4990239) | Rd 140 | 0 |
 | [4990240](https://precinct.netpress.com/#54-4990240) | Ave 148, Rd 144 | 11 |
 | [4990241](https://precinct.netpress.com/#54-4990241) | Piedra Ave, Ave 376 | 5 |
 | [4990242](https://precinct.netpress.com/#54-4990242) | Piedra Ave, Ave 376 | 13 |
-| [4990243](https://precinct.netpress.com/#54-4990243) |  | 0 |
+| [4990243](https://precinct.netpress.com/#54-4990243) | Along Rd 156 | 0 |
 | [4990244](https://precinct.netpress.com/#54-4990244) | 356 Ave, Avenue 360 Ave, Rd 156 | 0 |
 | [4990245](https://precinct.netpress.com/#54-4990245) | 364 Ave, Ave 356, Ave 360 | 4 |
 | [4990246](https://precinct.netpress.com/#54-4990246) | Ave 364, Rd 150, Ave 148 | 51 |
 | [4990249](https://precinct.netpress.com/#54-4990249) | Elkhorn Ave, Co Rte J36, Ave 368 | 11 |
 | [4990250](https://precinct.netpress.com/#54-4990250) | Ave 352, Rd 132, Ave 360 | 28 |
-| [4990251](https://precinct.netpress.com/#54-4990251) |  | 11 |
+| [4990251](https://precinct.netpress.com/#54-4990251) | Near Ave 352 | 11 |
 | [4990252](https://precinct.netpress.com/#54-4990252) | Ave 344, Ave 352, Rd 148 | 50 |
 | [4990253](https://precinct.netpress.com/#54-4990253) | Taurusa Rd, Rd 132, Dairy Ave | 273 |
 | [4990254](https://precinct.netpress.com/#54-4990254) | Rd 150, Rd 156, Rd 152 | 44 |
@@ -1473,18 +1473,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990262](https://precinct.netpress.com/#54-4990262) | Ivanhoe; Co Rd J34, Kibler Ave | 7 |
 | [4990263](https://precinct.netpress.com/#54-4990263) | Rd 156 | 1 |
 | [4990264](https://precinct.netpress.com/#54-4990264) | Rd 155 | 5 |
-| [4990265](https://precinct.netpress.com/#54-4990265) | Ivanhoe | 10 |
+| [4990265](https://precinct.netpress.com/#54-4990265) | Ivanhoe; along Ave 328 and Rd 152 | 10 |
 | [4990266](https://precinct.netpress.com/#54-4990266) | Ivanhoe; Ave 330, 330 Ave | 13 |
 | [4990267](https://precinct.netpress.com/#54-4990267) | Rd 152 | 6 |
 | [4990269](https://precinct.netpress.com/#54-4990269) | 158 Rd, 162 Rd, Ave 340 | 72 |
 | [4990270](https://precinct.netpress.com/#54-4990270) | Ave 332 | 12 |
 | [4990271](https://precinct.netpress.com/#54-4990271) | Ivanhoe; Live Oak Dr, Rd 159 | 488 |
-| [4990272](https://precinct.netpress.com/#54-4990272) |  | 2 |
-| [4990276](https://precinct.netpress.com/#54-4990276) |  | 0 |
-| [4990277](https://precinct.netpress.com/#54-4990277) |  | 1 |
+| [4990272](https://precinct.netpress.com/#54-4990272) | Ivanhoe; near Ave 332 | 2 |
+| [4990276](https://precinct.netpress.com/#54-4990276) | Ivanhoe; near Rd 160 | 0 |
+| [4990277](https://precinct.netpress.com/#54-4990277) | Ivanhoe; near Rd 160 | 1 |
 | [4990278](https://precinct.netpress.com/#54-4990278) | Ave 336, Ave 332, Rd 162 | 20 |
 | [4990279](https://precinct.netpress.com/#54-4990279) | Rd 161 | 2 |
-| [4990280](https://precinct.netpress.com/#54-4990280) | Ivanhoe | 2 |
+| [4990280](https://precinct.netpress.com/#54-4990280) | Ivanhoe; along Millwood Dr and Ave 328 | 2 |
 | [4990281](https://precinct.netpress.com/#54-4990281) | Ivanhoe; Beechwood Ave, Jasmine Ave | 1,077 |
 | [4990282](https://precinct.netpress.com/#54-4990282) | Ivanhoe; 327 Ave, Highway 216 | 6 |
 | [4990283](https://precinct.netpress.com/#54-4990283) | Ivanhoe; Rd 164, 164 Rd | 15 |
@@ -1498,49 +1498,49 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990293](https://precinct.netpress.com/#54-4990293) | Ave 352, Ave 348, Rd 176 | 17 |
 | [4990294](https://precinct.netpress.com/#54-4990294) | Rd 172, Ave 352 | 3 |
 | [4990295](https://precinct.netpress.com/#54-4990295) | Rd 164 | 0 |
-| [4990296](https://precinct.netpress.com/#54-4990296) |  | 0 |
+| [4990296](https://precinct.netpress.com/#54-4990296) | Near Rd 164 | 0 |
 | [4990297](https://precinct.netpress.com/#54-4990297) | Ave 380, Rd 167, Ave 386 | 26 |
 | [4990298](https://precinct.netpress.com/#54-4990298) | Rd 176 | 2 |
 | [4990299](https://precinct.netpress.com/#54-4990299) | Ave 362, Paloma Dr, Ave 356 | 4 |
 | [4990300](https://precinct.netpress.com/#54-4990300) | Rd 144 | 5 |
 | [4990301](https://precinct.netpress.com/#54-4990301) | Cottonwood Dr, Rd 182, Rd 180 | 10 |
-| [4990303](https://precinct.netpress.com/#54-4990303) |  | 0 |
+| [4990303](https://precinct.netpress.com/#54-4990303) | Near Ave 356 | 0 |
 | [4990304](https://precinct.netpress.com/#54-4990304) | 180 Rd | 0 |
-| [4990307](https://precinct.netpress.com/#54-4990307) |  | 3 |
+| [4990307](https://precinct.netpress.com/#54-4990307) | Near Ave 370 | 3 |
 | [4990308](https://precinct.netpress.com/#54-4990308) | Ave 380, Rd 184 | 3 |
 | [4990310](https://precinct.netpress.com/#54-4990310) | Rd 166, Rd 162, Rd 168 | 7 |
 | [4990311](https://precinct.netpress.com/#54-4990311) | Co Rte J40, Ave 416 | 5 |
-| [4990312](https://precinct.netpress.com/#54-4990312) |  | 0 |
+| [4990312](https://precinct.netpress.com/#54-4990312) | Near Ave 416 | 0 |
 | [4990313](https://precinct.netpress.com/#54-4990313) | Drive 152, Negro Creek Dr, Minnehaha Creek | 23 |
 | [4990314](https://precinct.netpress.com/#54-4990314) | Mira Vista Dr, Stone Corral Fire Rd | 10 |
 | [4990315](https://precinct.netpress.com/#54-4990315) | Stone Corral Fire Rd, Mira Vista Dr, Rd 197 | 233 |
 | [4990316](https://precinct.netpress.com/#54-4990316) | Mira Vista Dr, Stone Corral Fire Rd, Rd 176 | 0 |
 | [4990317](https://precinct.netpress.com/#54-4990317) | Ave 394, Rd 176 | 3 |
-| [4990318](https://precinct.netpress.com/#54-4990318) |  | 0 |
-| [4990319](https://precinct.netpress.com/#54-4990319) |  | 0 |
+| [4990318](https://precinct.netpress.com/#54-4990318) | Near Friant Kern Canal | 0 |
+| [4990319](https://precinct.netpress.com/#54-4990319) | Near Ave 388 | 0 |
 | [4990321](https://precinct.netpress.com/#54-4990321) | Friant Kern Canal | 0 |
-| [4990323](https://precinct.netpress.com/#54-4990323) |  | 0 |
+| [4990323](https://precinct.netpress.com/#54-4990323) | Along Highway 201 | 0 |
 | [4990325](https://precinct.netpress.com/#54-4990325) | Woodlake; Ave 344, Rd 192 | 1 |
-| [4990326](https://precinct.netpress.com/#54-4990326) |  | 0 |
+| [4990326](https://precinct.netpress.com/#54-4990326) | Along Millwood Dr and Rd 188 | 0 |
 | [4990327](https://precinct.netpress.com/#54-4990327) | Rd 196, Ave 332 | 8 |
 | [4990328](https://precinct.netpress.com/#54-4990328) | Rd 196 | 2 |
 | [4990329](https://precinct.netpress.com/#54-4990329) | Ave 322, Saint Johns River, Ave 332 | 200 |
 | [4990330](https://precinct.netpress.com/#54-4990330) | Inyo Ave, Blair Rd, Rd 200 | 6 |
-| [4990332](https://precinct.netpress.com/#54-4990332) |  | 5 |
+| [4990332](https://precinct.netpress.com/#54-4990332) | Along State Hwy 216 and Millwood Dr | 5 |
 | [4990333](https://precinct.netpress.com/#54-4990333) | 196 Rd, Cottonwood Dr | 0 |
 | [4990334](https://precinct.netpress.com/#54-4990334) | Millwood Dr, Ave 348, Rd 204 | 9 |
-| [4990337](https://precinct.netpress.com/#54-4990337) |  | 20 |
+| [4990337](https://precinct.netpress.com/#54-4990337) | Along Rd 204 and Blair Rd | 20 |
 | [4990338](https://precinct.netpress.com/#54-4990338) | 10th Ave N, Ave 336, Blair Rd | 4 |
 | [4990343](https://precinct.netpress.com/#54-4990343) | Woodlake; Ave 348, Rd 204 | 4 |
 | [4990345](https://precinct.netpress.com/#54-4990345) | W Cajon Ave, Ave 352, Co Rd J27 | 12 |
-| [4990346](https://precinct.netpress.com/#54-4990346) |  | 23 |
+| [4990346](https://precinct.netpress.com/#54-4990346) | Along Olivera Dr and W Cajon Ave | 23 |
 | [4990347](https://precinct.netpress.com/#54-4990347) | Millwood Dr, Co Rd J27, Ave 354 | 33 |
 | [4990348](https://precinct.netpress.com/#54-4990348) | Ave 368, Ave 376 | 24 |
 | [4990349](https://precinct.netpress.com/#54-4990349) | Kaweah River, Sentinel Dr, Dry Creek Dr | 177 |
-| [4990350](https://precinct.netpress.com/#54-4990350) |  | 2 |
+| [4990350](https://precinct.netpress.com/#54-4990350) | Along E Wutchumna Ave | 2 |
 | [4990353](https://precinct.netpress.com/#54-4990353) | Webb St, Saint Johns St, E Lakeview Ave | 45 |
-| [4990354](https://precinct.netpress.com/#54-4990354) |  | 4 |
-| [4990356](https://precinct.netpress.com/#54-4990356) |  | 7 |
+| [4990354](https://precinct.netpress.com/#54-4990354) | Near E Naranjo Blvd | 4 |
+| [4990356](https://precinct.netpress.com/#54-4990356) | Along Rd 222 and Rd 220 | 7 |
 | [4990358](https://precinct.netpress.com/#54-4990358) | Woodlake; Bravo Lake | 2 |
 | [4990359](https://precinct.netpress.com/#54-4990359) | Ave 337, Riverside Ave, Saint Johns St | 2 |
 | [4990360](https://precinct.netpress.com/#54-4990360) | Ave 332, Main Dr, Rd 214 | 118 |
@@ -1552,10 +1552,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990366](https://precinct.netpress.com/#54-4990366) | Wilsonia; Park Rd, Sierra Ln | 21 |
 | [4990368](https://precinct.netpress.com/#54-4990368) | Hartland; Eshom Valley Dr, Wortman Mills Rd | 28 |
 | [4990379](https://precinct.netpress.com/#54-4990379) | N Fork Dr, Shepard's Saddle Rd | 1 |
-| [4990380](https://precinct.netpress.com/#54-4990380) |  | 0 |
+| [4990380](https://precinct.netpress.com/#54-4990380) | Near N Fork Dr | 0 |
 | [4990384](https://precinct.netpress.com/#54-4990384) | Three Rivers; N Fork Dr | 0 |
-| [4990385](https://precinct.netpress.com/#54-4990385) |  | 0 |
-| [4990387](https://precinct.netpress.com/#54-4990387) | Three Rivers | 0 |
+| [4990385](https://precinct.netpress.com/#54-4990385) | Three Rivers; near N Fork Dr | 0 |
+| [4990387](https://precinct.netpress.com/#54-4990387) | Three Rivers; along N Fork Dr | 0 |
 | [4990388](https://precinct.netpress.com/#54-4990388) | Three Rivers; Hammond Dr, Oak Grove Dr | 18 |
 | [4990389](https://precinct.netpress.com/#54-4990389) | Three Rivers; Dinely Dr, Diney Dr | 93 |
 | [4990390](https://precinct.netpress.com/#54-4990390) | Three Rivers; Cherokee Oaks Dr, Craig Ranch Rd | 649 |
@@ -1571,7 +1571,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990414](https://precinct.netpress.com/#54-4990414) | Three Rivers and Silver City; Mineral King Rd, Mosquito Lakes | 260 |
 | [4990416](https://precinct.netpress.com/#54-4990416) | Three Rivers; Hamilton Lake, Shepard's Saddle Rd | 41 |
 | [4990417](https://precinct.netpress.com/#54-4990417) | Wolveton Rd, Lion Lake, Pear Lake | 16 |
-| [4990421](https://precinct.netpress.com/#54-4990421) |  | 0 |
+| [4990421](https://precinct.netpress.com/#54-4990421) | Along Lomitas Dr and State Hwy 216 | 0 |
 | [4990426](https://precinct.netpress.com/#54-4990426) | El Nogal Ave, Perry Dr, Rd 138 | 260 |
 | [4990428](https://precinct.netpress.com/#54-4990428) | Rd 52, Ave 320 | 5 |
 | [4990429](https://precinct.netpress.com/#54-4990429) | Goshen; Ave 308, Rd 64 | 0 |
@@ -1582,19 +1582,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990434](https://precinct.netpress.com/#54-4990434) | Fresno Rd, Rd 146, Ave 438 | 10 |
 | [4990435](https://precinct.netpress.com/#54-4990435) | Rd 162, Highway 201, Ave 380 | 0 |
 | [4990436](https://precinct.netpress.com/#54-4990436) | Ave 356 | 3 |
-| [4990438](https://precinct.netpress.com/#54-4990438) |  | 1 |
+| [4990438](https://precinct.netpress.com/#54-4990438) | Along Ave 320 | 1 |
 | [4990439](https://precinct.netpress.com/#54-4990439) | Co Rd J34, Co Rd 60, Ave 328 | 8 |
-| [4990440](https://precinct.netpress.com/#54-4990440) |  | 1 |
-| [4990441](https://precinct.netpress.com/#54-4990441) |  | 0 |
+| [4990440](https://precinct.netpress.com/#54-4990440) | Near Piedra Ave | 1 |
+| [4990441](https://precinct.netpress.com/#54-4990441) | Near Piedra Ave | 0 |
 | [4990443](https://precinct.netpress.com/#54-4990443) | 380 Ave, Ave 370, Piedra Ave | 0 |
 | [4990444](https://precinct.netpress.com/#54-4990444) | Piedra Ave, Ave 376 | 0 |
 | [4990445](https://precinct.netpress.com/#54-4990445) | Ave 364, Rd 196, Highway 201 | 130 |
-| [4990446](https://precinct.netpress.com/#54-4990446) |  | 4 |
+| [4990446](https://precinct.netpress.com/#54-4990446) | Along State Hwy 216 and Ave 344 | 4 |
 | [4990447](https://precinct.netpress.com/#54-4990447) | Rd 68, Ave 320 | 0 |
-| [4990451](https://precinct.netpress.com/#54-4990451) |  | 0 |
+| [4990451](https://precinct.netpress.com/#54-4990451) | Near E Naranjo Blvd | 0 |
 | [4990453](https://precinct.netpress.com/#54-4990453) | Ave 432 | 2 |
-| [4990454](https://precinct.netpress.com/#54-4990454) |  | 3 |
-| [4990455](https://precinct.netpress.com/#54-4990455) |  | 4 |
+| [4990454](https://precinct.netpress.com/#54-4990454) | Near Rd 104 | 3 |
+| [4990455](https://precinct.netpress.com/#54-4990455) | Along Rd 108 | 4 |
 | [4990456](https://precinct.netpress.com/#54-4990456) | Ave 416, Rd 108 | 3 |
 | [4990457](https://precinct.netpress.com/#54-4990457) | Ave 396, Ave 392, Rd 136 | 38 |
 | [4990458](https://precinct.netpress.com/#54-4990458) | Ave 404 | 0 |
@@ -1608,7 +1608,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990467](https://precinct.netpress.com/#54-4990467) | Ave 392, Highway 63, Highway 201 | 3 |
 | [4990468](https://precinct.netpress.com/#54-4990468) | Orosi; Ave 416 | 1 |
 | [4990469](https://precinct.netpress.com/#54-4990469) | Orosi; Ave 422, Highway 63 | 27 |
-| [4990470](https://precinct.netpress.com/#54-4990470) |  | 2 |
+| [4990470](https://precinct.netpress.com/#54-4990470) | Near Rd 136 | 2 |
 | [4990471](https://precinct.netpress.com/#54-4990471) | East Orosi; Rd 142, Illinois Dr | 25 |
 | [4990472](https://precinct.netpress.com/#54-4990472) | Ave 404, Highway 201 | 45 |
 | [4990473](https://precinct.netpress.com/#54-4990473) | Ave 308 | 1 |
@@ -1618,7 +1618,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990477](https://precinct.netpress.com/#54-4990477) | Rd 114 | 2 |
 | [4990478](https://precinct.netpress.com/#54-4990478) | Sultana; Rd 103 | 2 |
 | [4990479](https://precinct.netpress.com/#54-4990479) | Sultana; Ave 416, Rd 100 | 8 |
-| [4990480](https://precinct.netpress.com/#54-4990480) |  | 2 |
+| [4990480](https://precinct.netpress.com/#54-4990480) | Along E Nebraska Ave and Ave 424 | 2 |
 | [4990481](https://precinct.netpress.com/#54-4990481) | Rd 120, Ave 396 | 22 |
 | [4990482](https://precinct.netpress.com/#54-4990482) | Alta Ave, Ave 328, Co Rd J19 | 7 |
 | [4990483](https://precinct.netpress.com/#54-4990483) | Monson Ditch, Sequoia Home, Saint Johns River | 6 |
@@ -1632,14 +1632,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4990491](https://precinct.netpress.com/#54-4990491) | Elkhorn Ave, Dodge Ave, Co Rte J36 | 1 |
 | [4990492](https://precinct.netpress.com/#54-4990492) | Orosi; Rd 120, Ave 414 | 13 |
 | [4990494](https://precinct.netpress.com/#54-4990494) | S Hills Valley Rd, Co Hwy J19, Hill Valley Rd | 2 |
-| [4990495](https://precinct.netpress.com/#54-4990495) |  | 4 |
+| [4990495](https://precinct.netpress.com/#54-4990495) | Near State Hwy 63 | 4 |
 | [4990496](https://precinct.netpress.com/#54-4990496) | Wells St, Saint Johns St, Lakeview Ave | 35 |
 | [4990497](https://precinct.netpress.com/#54-4990497) | Rd 166 | 0 |
 | [4990498](https://precinct.netpress.com/#54-4990498) | Ave 325, Drive 168A, Rd 168 | 22 |
 | [5041001](https://precinct.netpress.com/#54-5041001) | Porterville; N Westwood Rd, Sycamore St | 77 |
 | [5041002](https://precinct.netpress.com/#54-5041002) | Porterville; N Dogwood St, Ave 154 | 198 |
 | [5041003](https://precinct.netpress.com/#54-5041003) | Porterville; S Elderwood St, S Dogwood St | 10 |
-| [5041004](https://precinct.netpress.com/#54-5041004) | Porterville | 9 |
+| [5041004](https://precinct.netpress.com/#54-5041004) | Porterville; along S Dogwood St | 9 |
 | [5041005](https://precinct.netpress.com/#54-5041005) | Porterville; S Dogwood St, S Jennifer Dr | 56 |
 | [5041006](https://precinct.netpress.com/#54-5041006) | Porterville; N Argyle St, Lombardi St | 444 |
 | [5041007](https://precinct.netpress.com/#54-5041007) | Porterville | 4 |
@@ -1652,7 +1652,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5041014](https://precinct.netpress.com/#54-5041014) | Porterville; W Della Ave, W Garden Ln | 170 |
 | [5041015](https://precinct.netpress.com/#54-5041015) | Porterville; Balmoral Dr, W Cleveland Ave | 36 |
 | [5041016](https://precinct.netpress.com/#54-5041016) | Porterville; Mathew St, W Aurora Ave | 205 |
-| [5041017](https://precinct.netpress.com/#54-5041017) | Porterville | 22 |
+| [5041017](https://precinct.netpress.com/#54-5041017) | Porterville; along N Walch St | 22 |
 | [5041018](https://precinct.netpress.com/#54-5041018) | Porterville; W Morton Ave, N Rose Ln | 453 |
 | [5041019](https://precinct.netpress.com/#54-5041019) | Porterville; W Cherry Ave, Mathew St | 151 |
 | [5041020](https://precinct.netpress.com/#54-5041020) | Porterville; W Tomah Ave, N Salisbury St | 143 |
@@ -1671,7 +1671,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5042001](https://precinct.netpress.com/#54-5042001) | Porterville; N Rose St, W Northgrand Ave | 88 |
 | [5042002](https://precinct.netpress.com/#54-5042002) | Porterville; W Chelsea Way, Shelly Ln | 191 |
 | [5042003](https://precinct.netpress.com/#54-5042003) | Porterville; N Boyles St, Westside St | 258 |
-| [5042004](https://precinct.netpress.com/#54-5042004) |  | 0 |
+| [5042004](https://precinct.netpress.com/#54-5042004) | Along W Merrill Ave | 0 |
 | [5042005](https://precinct.netpress.com/#54-5042005) | Porterville; W 174 Linda Vista Ave | 0 |
 | [5042006](https://precinct.netpress.com/#54-5042006) | Porterville; Linda Vista Ave, W Linda Vista Ave | 6 |
 | [5042007](https://precinct.netpress.com/#54-5042007) | Porterville; N Douglas St, W Linda Vista Ave | 0 |
@@ -1685,7 +1685,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5042015](https://precinct.netpress.com/#54-5042015) | Porterville; N Cobb St, N Prospect St | 58 |
 | [5042016](https://precinct.netpress.com/#54-5042016) | Porterville; W Jean Ave, San Lucia Ave | 1,095 |
 | [5042017](https://precinct.netpress.com/#54-5042017) | Porterville; N Milo St, W Pioneer Ave | 368 |
-| [5042018](https://precinct.netpress.com/#54-5042018) |  | 6 |
+| [5042018](https://precinct.netpress.com/#54-5042018) | Along W Westfield Ave | 6 |
 | [5042019](https://precinct.netpress.com/#54-5042019) | Porterville; Sandra Ln, W Gerry Ln | 325 |
 | [5042020](https://precinct.netpress.com/#54-5042020) | Porterville; W Westfield Ave | 3 |
 | [5042021](https://precinct.netpress.com/#54-5042021) | Porterville; W Westfield Ave, N Villa St | 25 |
@@ -1719,11 +1719,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5043025](https://precinct.netpress.com/#54-5043025) | Porterville; Hope Ave, Hope Dr | 3 |
 | [5043027](https://precinct.netpress.com/#54-5043027) | Porterville; Rd 232 | 0 |
 | [5043028](https://precinct.netpress.com/#54-5043028) | Porterville; W Scranton Ave, Ave 136 | 3 |
-| [5043029](https://precinct.netpress.com/#54-5043029) | Porterville | 0 |
-| [5043030](https://precinct.netpress.com/#54-5043030) | Porterville | 0 |
+| [5043029](https://precinct.netpress.com/#54-5043029) | Porterville; along Rd 216 and Teapot Dome Ave | 0 |
+| [5043030](https://precinct.netpress.com/#54-5043030) | Porterville; along Hesse Ave | 0 |
 | [5043031](https://precinct.netpress.com/#54-5043031) | Porterville; E College Ave, Mc Gee Ave | 0 |
-| [5043032](https://precinct.netpress.com/#54-5043032) | Porterville; E Yates Ave, E Yates, E Lincoln St | 137 |
-| [5043033](https://precinct.netpress.com/#54-5043033) | Porterville; E Yates Ave, E Yates, Co Hwy J29 | 0 |
+| [5043032](https://precinct.netpress.com/#54-5043032) | Porterville; E Yates Ave, E Yates | 137 |
+| [5043033](https://precinct.netpress.com/#54-5043033) | Porterville; E Yates Ave, E Yates | 0 |
 | [5043034](https://precinct.netpress.com/#54-5043034) | Porterville; S Kessing St, W Gibbons Ave | 48 |
 | [5043035](https://precinct.netpress.com/#54-5043035) | Porterville; Date Ave, River Springs Dr | 296 |
 | [5044001](https://precinct.netpress.com/#54-5044001) | Porterville; N Jennifer Way, W Porter Creek Ave | 1,104 |
@@ -1760,8 +1760,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5045011](https://precinct.netpress.com/#54-5045011) | Porterville; Tulsa St, E Olive Ave | 1 |
 | [5045012](https://precinct.netpress.com/#54-5045012) | Porterville; E Dixie Dr, S Doree St | 74 |
 | [5045013](https://precinct.netpress.com/#54-5045013) | Porterville; S Corona Dr, E Isham Ave | 77 |
-| [5045014](https://precinct.netpress.com/#54-5045014) | Porterville | 0 |
-| [5045015](https://precinct.netpress.com/#54-5045015) |  | 3 |
+| [5045014](https://precinct.netpress.com/#54-5045014) | Porterville; along E Date Ave | 0 |
+| [5045015](https://precinct.netpress.com/#54-5045015) | Porterville; near S Park St | 3 |
 | [5045016](https://precinct.netpress.com/#54-5045016) | Porterville; Presidio Ave, Rio Vista Ave | 284 |
 | [5045017](https://precinct.netpress.com/#54-5045017) | Porterville; S Plano Rd, E Date Ave | 28 |
 | [5045018](https://precinct.netpress.com/#54-5045018) | Porterville; E Vandalia Ave, Chase Ave | 261 |
@@ -1771,7 +1771,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5045022](https://precinct.netpress.com/#54-5045022) | Porterville; S Esther St, S Park Pl | 186 |
 | [5045023](https://precinct.netpress.com/#54-5045023) | Porterville; Frontage Rd, Poplar Ave | 1 |
 | [5045024](https://precinct.netpress.com/#54-5045024) | Porterville; Vandalia Ave, E Poplar Rd | 111 |
-| [5045025](https://precinct.netpress.com/#54-5045025) | Porterville | 199 |
+| [5045025](https://precinct.netpress.com/#54-5045025) | Porterville; along State Hwy 190 and E Poplar Ave | 199 |
 | [5045026](https://precinct.netpress.com/#54-5045026) | Porterville; S Ruth St, Pettis St | 23 |
 | [5045027](https://precinct.netpress.com/#54-5045027) | Porterville; Rd 265, Blue Heron Pkwy | 0 |
 | [5045028](https://precinct.netpress.com/#54-5045028) | Porterville; E Worth Ave, Ave 140 | 0 |
@@ -1799,7 +1799,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990009](https://precinct.netpress.com/#54-5990009) | Jovista; Ave 8, Ave 4 | 12 |
 | [5990010](https://precinct.netpress.com/#54-5990010) | Rodriguez Camp and Richgrove; Kyle Rd, Rd 192 | 47 |
 | [5990012](https://precinct.netpress.com/#54-5990012) | Richgrove; Dooley Dr, Wheatland Dr | 608 |
-| [5990013](https://precinct.netpress.com/#54-5990013) |  | 2 |
+| [5990013](https://precinct.netpress.com/#54-5990013) | Richgrove; near Richgrove Dr | 2 |
 | [5990014](https://precinct.netpress.com/#54-5990014) | Grove Dr, County Line Rd, Rd 212 | 8 |
 | [5990018](https://precinct.netpress.com/#54-5990018) | Ave 24, Ave 12, Rd 200 | 0 |
 | [5990019](https://precinct.netpress.com/#54-5990019) | 180 Rd, 42, Co Hwy J27 | 4 |
@@ -1807,15 +1807,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990022](https://precinct.netpress.com/#54-5990022) | 187, Rd 192, Ave 56 | 6 |
 | [5990023](https://precinct.netpress.com/#54-5990023) | Ave 74, Ave 80, E Terra Bella Ave | 11 |
 | [5990024](https://precinct.netpress.com/#54-5990024) | Rd 188, Ave 120, Ave 116 | 5 |
-| [5990025](https://precinct.netpress.com/#54-5990025) |  | 6 |
+| [5990025](https://precinct.netpress.com/#54-5990025) | Along Ave 112 and Rd 200 | 6 |
 | [5990026](https://precinct.netpress.com/#54-5990026) | Rd 200, Rd 204 | 13 |
 | [5990027](https://precinct.netpress.com/#54-5990027) | Ave 104 | 0 |
 | [5990028](https://precinct.netpress.com/#54-5990028) | Rd 192, E Terra Bella Ave, Ave 96 | 2 |
 | [5990029](https://precinct.netpress.com/#54-5990029) | Ave 88, Ave 96, Privet | 0 |
-| [5990030](https://precinct.netpress.com/#54-5990030) |  | 0 |
-| [5990031](https://precinct.netpress.com/#54-5990031) |  | 0 |
+| [5990030](https://precinct.netpress.com/#54-5990030) | Near Ave 80 | 0 |
+| [5990031](https://precinct.netpress.com/#54-5990031) | Near Ave 80 | 0 |
 | [5990032](https://precinct.netpress.com/#54-5990032) | Ave 80 | 2 |
-| [5990033](https://precinct.netpress.com/#54-5990033) |  | 0 |
+| [5990033](https://precinct.netpress.com/#54-5990033) | Along Rd 200 | 0 |
 | [5990035](https://precinct.netpress.com/#54-5990035) | Co Rd J22, Rd 208, Sierra Ave | 0 |
 | [5990036](https://precinct.netpress.com/#54-5990036) | Co Rte J35, Richgrove Dr, Ave 8 | 11 |
 | [5990037](https://precinct.netpress.com/#54-5990037) | Rd 240, Ave 2, Zimmerman Rd | 8 |
@@ -1830,19 +1830,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990050](https://precinct.netpress.com/#54-5990050) | Ave 74, Co Hwy 35, Ave 72 | 10 |
 | [5990051](https://precinct.netpress.com/#54-5990051) | Norwood Rd, Rd 236, Ave 64 | 0 |
 | [5990052](https://precinct.netpress.com/#54-5990052) | Rd 240, Pvt Ave 62, Torri Ln | 13 |
-| [5990054](https://precinct.netpress.com/#54-5990054) |  | 5 |
+| [5990054](https://precinct.netpress.com/#54-5990054) | Near Rd 248 | 5 |
 | [5990056](https://precinct.netpress.com/#54-5990056) | Ave 66, Ave 68 | 7 |
 | [5990058](https://precinct.netpress.com/#54-5990058) | Ave 70, Ave 68, Rd 260 | 21 |
-| [5990059](https://precinct.netpress.com/#54-5990059) |  | 4 |
-| [5990061](https://precinct.netpress.com/#54-5990061) |  | 2 |
+| [5990059](https://precinct.netpress.com/#54-5990059) | Near Ave 72 | 4 |
+| [5990061](https://precinct.netpress.com/#54-5990061) | Near Ave 80 | 2 |
 | [5990062](https://precinct.netpress.com/#54-5990062) | Rd 260, Ave 70, Ave 78 | 9 |
 | [5990063](https://precinct.netpress.com/#54-5990063) | Rd 260 | 0 |
 | [5990064](https://precinct.netpress.com/#54-5990064) | Ave 76, Rd 252 | 10 |
-| [5990066](https://precinct.netpress.com/#54-5990066) |  | 2 |
+| [5990066](https://precinct.netpress.com/#54-5990066) | Near Rd 248 | 2 |
 | [5990067](https://precinct.netpress.com/#54-5990067) | Rd 236, Rd 240, Ave 80 | 0 |
 | [5990068](https://precinct.netpress.com/#54-5990068) | Terra Bella; Ave 95, Co Rd J24 | 84 |
 | [5990069](https://precinct.netpress.com/#54-5990069) | Terra Bella; Rd 233, Ave 84 | 22 |
-| [5990070](https://precinct.netpress.com/#54-5990070) |  | 20 |
+| [5990070](https://precinct.netpress.com/#54-5990070) | Near Rd 234 | 20 |
 | [5990071](https://precinct.netpress.com/#54-5990071) | Rd 234 | 6 |
 | [5990072](https://precinct.netpress.com/#54-5990072) | Rd 238, 3rd St, Ave 88 | 41 |
 | [5990073](https://precinct.netpress.com/#54-5990073) | Ave 76, Ave 78, Rd 248 | 57 |
@@ -1850,7 +1850,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990075](https://precinct.netpress.com/#54-5990075) | Rd 252 | 1 |
 | [5990076](https://precinct.netpress.com/#54-5990076) | Ave 88 | 0 |
 | [5990082](https://precinct.netpress.com/#54-5990082) | Blu Trailer Ave, Rd 268, Rd 272 | 49 |
-| [5990083](https://precinct.netpress.com/#54-5990083) |  | 8 |
+| [5990083](https://precinct.netpress.com/#54-5990083) | Near Old Stage Coach Rd | 8 |
 | [5990085](https://precinct.netpress.com/#54-5990085) | M-109 | 2 |
 | [5990087](https://precinct.netpress.com/#54-5990087) | Rd 256, Cypress Ave, Ave 92 | 23 |
 | [5990088](https://precinct.netpress.com/#54-5990088) | Rd 252, Ave 84 | 6 |
@@ -1858,81 +1858,81 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990091](https://precinct.netpress.com/#54-5990091) | Terra Bella; Ave 86, Ave 82 | 227 |
 | [5990092](https://precinct.netpress.com/#54-5990092) | Terra Bella; Terrabella Ave, Rd 234 | 510 |
 | [5990093](https://precinct.netpress.com/#54-5990093) | Rd 240, Ave 93, Terra Bella Ave | 15 |
-| [5990094](https://precinct.netpress.com/#54-5990094) | Terra Bella; Terra Bella Ave, Ave 95, Ave 96 | 155 |
-| [5990095](https://precinct.netpress.com/#54-5990095) |  | 1 |
-| [5990096](https://precinct.netpress.com/#54-5990096) |  | 9 |
-| [5990097](https://precinct.netpress.com/#54-5990097) |  | 13 |
-| [5990103](https://precinct.netpress.com/#54-5990103) |  | 0 |
+| [5990094](https://precinct.netpress.com/#54-5990094) | Terra Bella; Terra Bella Ave, Ave 95 | 155 |
+| [5990095](https://precinct.netpress.com/#54-5990095) | Terra Bella; near Ave 92 | 1 |
+| [5990096](https://precinct.netpress.com/#54-5990096) | Along Rd 248 | 9 |
+| [5990097](https://precinct.netpress.com/#54-5990097) | Terra Bella; near Rd 248 | 13 |
+| [5990103](https://precinct.netpress.com/#54-5990103) | Near Ave 96 | 0 |
 | [5990104](https://precinct.netpress.com/#54-5990104) | Co Rd J24 | 2 |
 | [5990106](https://precinct.netpress.com/#54-5990106) | Old Stage Coach Rd, Old Stage Rd, Ave 100 | 11 |
 | [5990108](https://precinct.netpress.com/#54-5990108) | Rd 256, Ave 104 | 45 |
-| [5990109](https://precinct.netpress.com/#54-5990109) |  | 2 |
+| [5990109](https://precinct.netpress.com/#54-5990109) | Along M-109 and Ave 104 | 2 |
 | [5990111](https://precinct.netpress.com/#54-5990111) | Ave 100 | 23 |
 | [5990112](https://precinct.netpress.com/#54-5990112) | Ave 102 | 12 |
-| [5990113](https://precinct.netpress.com/#54-5990113) |  | 7 |
+| [5990113](https://precinct.netpress.com/#54-5990113) | Near Co Rd J24 | 7 |
 | [5990114](https://precinct.netpress.com/#54-5990114) | Terra Bella; Ave 100 | 2 |
 | [5990115](https://precinct.netpress.com/#54-5990115) | Ave 100 | 2 |
 | [5990116](https://precinct.netpress.com/#54-5990116) | Terra Bella; Ave 100, Orange Belt Dr | 40 |
-| [5990117](https://precinct.netpress.com/#54-5990117) |  | 0 |
+| [5990117](https://precinct.netpress.com/#54-5990117) | Along Co Rd J24 and Rd 240 | 0 |
 | [5990118](https://precinct.netpress.com/#54-5990118) | Terra Bella; Ave 96, Co Rd J24 | 93 |
 | [5990120](https://precinct.netpress.com/#54-5990120) | Terra Bella; Clemens Dr, Ave 96 | 25 |
 | [5990121](https://precinct.netpress.com/#54-5990121) | Terra Bella; Rd 208, Highway 65 | 64 |
-| [5990122](https://precinct.netpress.com/#54-5990122) |  | 7 |
+| [5990122](https://precinct.netpress.com/#54-5990122) | Near Rd 216 | 7 |
 | [5990125](https://precinct.netpress.com/#54-5990125) | Rd 216 | 7 |
-| [5990126](https://precinct.netpress.com/#54-5990126) |  | 0 |
-| [5990127](https://precinct.netpress.com/#54-5990127) |  | 0 |
+| [5990126](https://precinct.netpress.com/#54-5990126) | Along Rd 216 | 0 |
+| [5990127](https://precinct.netpress.com/#54-5990127) | Near Ave 104 | 0 |
 | [5990128](https://precinct.netpress.com/#54-5990128) | Rd 240 | 38 |
-| [5990129](https://precinct.netpress.com/#54-5990129) |  | 9 |
-| [5990130](https://precinct.netpress.com/#54-5990130) |  | 7 |
-| [5990131](https://precinct.netpress.com/#54-5990131) |  | 1 |
+| [5990129](https://precinct.netpress.com/#54-5990129) | Near Rd 248 | 9 |
+| [5990130](https://precinct.netpress.com/#54-5990130) | Along Ave 102 | 7 |
+| [5990131](https://precinct.netpress.com/#54-5990131) | Near Rd 248 | 1 |
 | [5990132](https://precinct.netpress.com/#54-5990132) | Ave 102 | 25 |
-| [5990133](https://precinct.netpress.com/#54-5990133) |  | 12 |
+| [5990133](https://precinct.netpress.com/#54-5990133) | Near Rd 256 | 12 |
 | [5990134](https://precinct.netpress.com/#54-5990134) | Ave 104 | 4 |
-| [5990135](https://precinct.netpress.com/#54-5990135) |  | 8 |
-| [5990136](https://precinct.netpress.com/#54-5990136) |  | 0 |
+| [5990135](https://precinct.netpress.com/#54-5990135) | Along Ave 106 | 8 |
+| [5990136](https://precinct.netpress.com/#54-5990136) | Along Ave 106 | 0 |
 | [5990137](https://precinct.netpress.com/#54-5990137) | Ave 106, Rd 236, Ave 104 | 62 |
 | [5990139](https://precinct.netpress.com/#54-5990139) | Ave 106, Ave 108 | 1 |
 | [5990140](https://precinct.netpress.com/#54-5990140) | Rd 248, Ave 108 | 3 |
 | [5990141](https://precinct.netpress.com/#54-5990141) | M-109, Ave 108, Rd 268 | 16 |
-| [5990142](https://precinct.netpress.com/#54-5990142) |  | 0 |
-| [5990143](https://precinct.netpress.com/#54-5990143) |  | 2 |
-| [5990144](https://precinct.netpress.com/#54-5990144) |  | 10 |
+| [5990142](https://precinct.netpress.com/#54-5990142) | Near Rd 256 | 0 |
+| [5990143](https://precinct.netpress.com/#54-5990143) | Near Rd 261 | 2 |
+| [5990144](https://precinct.netpress.com/#54-5990144) | Along Ave 108 and Rd 252 | 10 |
 | [5990145](https://precinct.netpress.com/#54-5990145) | Rd 252 | 8 |
-| [5990146](https://precinct.netpress.com/#54-5990146) |  | 0 |
-| [5990147](https://precinct.netpress.com/#54-5990147) |  | 2 |
+| [5990146](https://precinct.netpress.com/#54-5990146) | Along Ave 108 | 0 |
+| [5990147](https://precinct.netpress.com/#54-5990147) | Along Ave 108 | 2 |
 | [5990149](https://precinct.netpress.com/#54-5990149) | Ave 112, Rd 224, Highway 65 | 35 |
 | [5990150](https://precinct.netpress.com/#54-5990150) | Porterville; W Teapot Dome Ave, Drive 234 Svc Rd | 242 |
 | [5990151](https://precinct.netpress.com/#54-5990151) | Orange Belt Dr, Rd 244, W Teapot Dome Ave | 136 |
 | [5990153](https://precinct.netpress.com/#54-5990153) | Ave 116, 256 Rd, Rd 256 | 7 |
 | [5990155](https://precinct.netpress.com/#54-5990155) | Ave 124 | 4 |
-| [5990156](https://precinct.netpress.com/#54-5990156) |  | 4 |
+| [5990156](https://precinct.netpress.com/#54-5990156) | Along Rd 272 | 4 |
 | [5990159](https://precinct.netpress.com/#54-5990159) | Rd 264, Holcomb St, Rd 272 | 18 |
 | [5990161](https://precinct.netpress.com/#54-5990161) | Deer Creek Dr, Rd 296, Ave 120 | 4 |
-| [5990162](https://precinct.netpress.com/#54-5990162) |  | 0 |
-| [5990163](https://precinct.netpress.com/#54-5990163) |  | 0 |
+| [5990162](https://precinct.netpress.com/#54-5990162) | Along Rd 296 | 0 |
+| [5990163](https://precinct.netpress.com/#54-5990163) | Near Ave 120 | 0 |
 | [5990165](https://precinct.netpress.com/#54-5990165) | Indian Reservation Dr | 2 |
-| [5990166](https://precinct.netpress.com/#54-5990166) |  | 5 |
+| [5990166](https://precinct.netpress.com/#54-5990166) | Along Ave 138 | 5 |
 | [5990167](https://precinct.netpress.com/#54-5990167) | Ave 140 | 10 |
 | [5990168](https://precinct.netpress.com/#54-5990168) | Rd 284, Ave 138, Highway 190 | 76 |
-| [5990169](https://precinct.netpress.com/#54-5990169) |  | 0 |
+| [5990169](https://precinct.netpress.com/#54-5990169) | Along Rd 284 | 0 |
 | [5990170](https://precinct.netpress.com/#54-5990170) | Worth Dr, Ave 146, Success Dr | 7 |
 | [5990171](https://precinct.netpress.com/#54-5990171) | Highway 190 | 0 |
 | [5990172](https://precinct.netpress.com/#54-5990172) | 272 Rd, Indian Reservation Dr, Reservation Rd | 62 |
 | [5990173](https://precinct.netpress.com/#54-5990173) | Ave 138 | 0 |
 | [5990174](https://precinct.netpress.com/#54-5990174) | Success Dr, Highway 190 | 21 |
 | [5990175](https://precinct.netpress.com/#54-5990175) | East Porterville; Rd 284 | 0 |
-| [5990176](https://precinct.netpress.com/#54-5990176) |  | 1 |
-| [5990177](https://precinct.netpress.com/#54-5990177) | East Porterville | 0 |
-| [5990178](https://precinct.netpress.com/#54-5990178) |  | 13 |
-| [5990179](https://precinct.netpress.com/#54-5990179) |  | 0 |
+| [5990176](https://precinct.netpress.com/#54-5990176) | Near Worth Dr | 1 |
+| [5990177](https://precinct.netpress.com/#54-5990177) | East Porterville; along Worth Dr and Ave 146 | 0 |
+| [5990178](https://precinct.netpress.com/#54-5990178) | East Porterville; near Worth Dr | 13 |
+| [5990179](https://precinct.netpress.com/#54-5990179) | Near Worth Dr | 0 |
 | [5990181](https://precinct.netpress.com/#54-5990181) | East Porterville; Rd 274, Success Dr | 112 |
 | [5990183](https://precinct.netpress.com/#54-5990183) | East Porterville; S Doyle St, S Randy St | 219 |
 | [5990187](https://precinct.netpress.com/#54-5990187) | Rd 268 | 0 |
-| [5990188](https://precinct.netpress.com/#54-5990188) |  | 7 |
+| [5990188](https://precinct.netpress.com/#54-5990188) | Along E Teapot Dome Ave | 7 |
 | [5990189](https://precinct.netpress.com/#54-5990189) | Mentz Ave, E Teapot Dome Ave, S Leggett St | 23 |
-| [5990190](https://precinct.netpress.com/#54-5990190) |  | 0 |
+| [5990190](https://precinct.netpress.com/#54-5990190) | Near S Crestview St | 0 |
 | [5990191](https://precinct.netpress.com/#54-5990191) | Mentz Ave | 0 |
-| [5990192](https://precinct.netpress.com/#54-5990192) |  | 15 |
+| [5990192](https://precinct.netpress.com/#54-5990192) | Along E Scranton Ave and Ave 136 | 15 |
 | [5990194](https://precinct.netpress.com/#54-5990194) | Porterville; Martin St, Hill Dr | 50 |
 | [5990195](https://precinct.netpress.com/#54-5990195) | Porterville; E Poplar Rd | 11 |
 | [5990197](https://precinct.netpress.com/#54-5990197) | East Porterville and Porterville; S Conner St, E Springville Ave | 290 |
@@ -1944,11 +1944,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990204](https://precinct.netpress.com/#54-5990204) | East Porterville; S Holcomb St, E Olive Ave | 14 |
 | [5990205](https://precinct.netpress.com/#54-5990205) | East Porterville; S Tulsa Rd, S Tulsa St | 208 |
 | [5990206](https://precinct.netpress.com/#54-5990206) | East Porterville and Porterville; E River Ave, Cleo Ave | 350 |
-| [5990210](https://precinct.netpress.com/#54-5990210) |  | 3 |
+| [5990210](https://precinct.netpress.com/#54-5990210) | Along S 252 Plano Rd | 3 |
 | [5990211](https://precinct.netpress.com/#54-5990211) | Porterville; Rd 252, S 252 Plano Rd | 0 |
 | [5990212](https://precinct.netpress.com/#54-5990212) | S Crestview St, Rd 258, Scranton Ave | 97 |
 | [5990213](https://precinct.netpress.com/#54-5990213) | S Main St, E Gibbons Ave, S 4th St | 73 |
-| [5990214](https://precinct.netpress.com/#54-5990214) |  | 10 |
+| [5990214](https://precinct.netpress.com/#54-5990214) | Along S Main St and W 128 Teapot Dome Ave | 10 |
 | [5990215](https://precinct.netpress.com/#54-5990215) | S Indiana St | 35 |
 | [5990216](https://precinct.netpress.com/#54-5990216) | Porterville; Highway 65 | 0 |
 | [5990217](https://precinct.netpress.com/#54-5990217) | W Gibbons Ave, S F St | 6 |
@@ -1956,29 +1956,29 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990219](https://precinct.netpress.com/#54-5990219) | Porterville; S Newcomb St, S Westwood St | 103 |
 | [5990222](https://precinct.netpress.com/#54-5990222) | Teapot Dome Ave | 0 |
 | [5990224](https://precinct.netpress.com/#54-5990224) | Ave 128, Rockford Rd, Teapot Dome Ave | 2 |
-| [5990225](https://precinct.netpress.com/#54-5990225) |  | 0 |
-| [5990227](https://precinct.netpress.com/#54-5990227) |  | 16 |
+| [5990225](https://precinct.netpress.com/#54-5990225) | Along West St | 0 |
+| [5990227](https://precinct.netpress.com/#54-5990227) | Near Rd 208 | 16 |
 | [5990228](https://precinct.netpress.com/#54-5990228) | S Westwood St, S Westwood Rd, Rd 216 | 16 |
 | [5990230](https://precinct.netpress.com/#54-5990230) | Porterville; S Beverly St, Tule River | 0 |
 | [5990232](https://precinct.netpress.com/#54-5990232) | Porterville; S Newcomb St, 152 Ave | 0 |
-| [5990235](https://precinct.netpress.com/#54-5990235) |  | 8 |
+| [5990235](https://precinct.netpress.com/#54-5990235) | Along Ave 144 and Poplar Ave | 8 |
 | [5990236](https://precinct.netpress.com/#54-5990236) | Rd 216 | 23 |
 | [5990237](https://precinct.netpress.com/#54-5990237) | Tule River | 7 |
 | [5990238](https://precinct.netpress.com/#54-5990238) | 152 Ave | 6 |
-| [5990239](https://precinct.netpress.com/#54-5990239) |  | 1 |
+| [5990239](https://precinct.netpress.com/#54-5990239) | Along W Olive Ave | 1 |
 | [5990240](https://precinct.netpress.com/#54-5990240) | 216 Ave | 24 |
 | [5990241](https://precinct.netpress.com/#54-5990241) | Rockford Ave | 27 |
 | [5990243](https://precinct.netpress.com/#54-5990243) | 216 Ave | 0 |
 | [5990244](https://precinct.netpress.com/#54-5990244) | W Olive Ave, Tule River | 1 |
 | [5990245](https://precinct.netpress.com/#54-5990245) | W Henderson Ave | 1 |
 | [5990246](https://precinct.netpress.com/#54-5990246) | Porterville; Castle Way, Ave 160 | 49 |
-| [5990248](https://precinct.netpress.com/#54-5990248) |  | 0 |
+| [5990248](https://precinct.netpress.com/#54-5990248) | Porterville; near N Westwood St | 0 |
 | [5990250](https://precinct.netpress.com/#54-5990250) | N Mathew St | 1 |
-| [5990252](https://precinct.netpress.com/#54-5990252) |  | 1 |
-| [5990253](https://precinct.netpress.com/#54-5990253) |  | 8 |
+| [5990252](https://precinct.netpress.com/#54-5990252) | Near W Castle Ave | 1 |
+| [5990253](https://precinct.netpress.com/#54-5990253) | Along W Northgrand Ave and W Castle Ave | 8 |
 | [5990254](https://precinct.netpress.com/#54-5990254) | Walch Ct | 53 |
 | [5990255](https://precinct.netpress.com/#54-5990255) | N Cason Ln | 31 |
-| [5990256](https://precinct.netpress.com/#54-5990256) |  | 0 |
+| [5990256](https://precinct.netpress.com/#54-5990256) | Along W Northgrand Ave | 0 |
 | [5990257](https://precinct.netpress.com/#54-5990257) | Los Robles Ave, Castle Way, Porter Slough Ditch | 59 |
 | [5990258](https://precinct.netpress.com/#54-5990258) | Rockford Ave | 10 |
 | [5990259](https://precinct.netpress.com/#54-5990259) | Rd 208, Los Robles Ave, Rd 216 | 1 |
@@ -1986,24 +1986,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990261](https://precinct.netpress.com/#54-5990261) | N Westwood St, W Northgrand Ave | 14 |
 | [5990262](https://precinct.netpress.com/#54-5990262) | W Northgrand Ave | 29 |
 | [5990263](https://precinct.netpress.com/#54-5990263) | Rd 224 | 70 |
-| [5990264](https://precinct.netpress.com/#54-5990264) |  | 25 |
+| [5990264](https://precinct.netpress.com/#54-5990264) | Along W Linda Vista Ave and N Newcomb St | 25 |
 | [5990265](https://precinct.netpress.com/#54-5990265) | W Mountain View Ave, Ave 178, W Linda Vista Ave | 107 |
-| [5990266](https://precinct.netpress.com/#54-5990266) |  | 43 |
+| [5990266](https://precinct.netpress.com/#54-5990266) | Along W Mountain View Ave and Ave 178 | 43 |
 | [5990269](https://precinct.netpress.com/#54-5990269) | Rd 232 | 45 |
-| [5990270](https://precinct.netpress.com/#54-5990270) |  | 5 |
-| [5990271](https://precinct.netpress.com/#54-5990271) |  | 9 |
+| [5990270](https://precinct.netpress.com/#54-5990270) | Along Orange Belt Dr and N Main St | 5 |
+| [5990271](https://precinct.netpress.com/#54-5990271) | Near Orange Belt Dr | 9 |
 | [5990272](https://precinct.netpress.com/#54-5990272) | Porterville; W Mountain View Ave, Ave 178 | 249 |
 | [5990273](https://precinct.netpress.com/#54-5990273) | W Linda Vista Ave | 12 |
-| [5990274](https://precinct.netpress.com/#54-5990274) |  | 13 |
-| [5990275](https://precinct.netpress.com/#54-5990275) |  | 4 |
+| [5990274](https://precinct.netpress.com/#54-5990274) | Along Rd 238 and W Mountain View Ave | 13 |
+| [5990275](https://precinct.netpress.com/#54-5990275) | Near Johns Dr | 4 |
 | [5990279](https://precinct.netpress.com/#54-5990279) | W Northgrand Ave | 4 |
-| [5990281](https://precinct.netpress.com/#54-5990281) |  | 0 |
+| [5990281](https://precinct.netpress.com/#54-5990281) | Porterville; near N Main St | 0 |
 | [5990282](https://precinct.netpress.com/#54-5990282) | E Pioneer Ave | 0 |
-| [5990285](https://precinct.netpress.com/#54-5990285) |  | 3 |
-| [5990291](https://precinct.netpress.com/#54-5990291) |  | 7 |
+| [5990285](https://precinct.netpress.com/#54-5990285) | Along N G St | 3 |
+| [5990291](https://precinct.netpress.com/#54-5990291) | Along N Plano St and Ave 162 | 7 |
 | [5990292](https://precinct.netpress.com/#54-5990292) | W Reid Ave, N Scenic Dr, N G St | 58 |
 | [5990293](https://precinct.netpress.com/#54-5990293) | W Baker St, W Baker Ave, N Lime St | 49 |
-| [5990297](https://precinct.netpress.com/#54-5990297) |  | 0 |
+| [5990297](https://precinct.netpress.com/#54-5990297) | Near S Crestview St | 0 |
 | [5990300](https://precinct.netpress.com/#54-5990300) | East Porterville; E Success Dr, S Maurer St | 206 |
 | [5990302](https://precinct.netpress.com/#54-5990302) | East Porterville and Porterville; E Date Ave | 16 |
 | [5990303](https://precinct.netpress.com/#54-5990303) | Hillcrest Rd, E Putnam Ave, Ruth St | 12 |
@@ -2017,21 +2017,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990314](https://precinct.netpress.com/#54-5990314) | Lynch Dr, Rd 256, El Mirador Hwy | 2 |
 | [5990315](https://precinct.netpress.com/#54-5990315) | Rd 254, Ave 218, Rd 258 | 15 |
 | [5990316](https://precinct.netpress.com/#54-5990316) | Rd 276, Meadow Lark Ln, Co Rd J28 | 22 |
-| [5990319](https://precinct.netpress.com/#54-5990319) |  | 15 |
+| [5990319](https://precinct.netpress.com/#54-5990319) | Along Yokohl Dr and M-296 | 15 |
 | [5990323](https://precinct.netpress.com/#54-5990323) | Springville; Bear Creek Rd, Balch Park Rd | 604 |
 | [5990324](https://precinct.netpress.com/#54-5990324) | Mountain Road 189, Rio Vista Rd | 11 |
-| [5990325](https://precinct.netpress.com/#54-5990325) |  | 0 |
+| [5990325](https://precinct.netpress.com/#54-5990325) | Near Hwy 190 | 0 |
 | [5990326](https://precinct.netpress.com/#54-5990326) | Springville; Tule River Dr, Shingle Mill Rd N | 389 |
 | [5990327](https://precinct.netpress.com/#54-5990327) | Co Hwy J28, Ave 176 | 0 |
 | [5990328](https://precinct.netpress.com/#54-5990328) | Springville; Rd 320, Oak Hill Ln | 653 |
 | [5990329](https://precinct.netpress.com/#54-5990329) | Springville; Mount Road 172A, Mountain Road 172A | 32 |
-| [5990330](https://precinct.netpress.com/#54-5990330) |  | 17 |
-| [5990331](https://precinct.netpress.com/#54-5990331) |  | 23 |
+| [5990330](https://precinct.netpress.com/#54-5990330) | Along Co Rd J28 and Ave 176 | 17 |
+| [5990331](https://precinct.netpress.com/#54-5990331) | Along Ave 176 | 23 |
 | [5990333](https://precinct.netpress.com/#54-5990333) | Highway 190, Lake Success, Ave 160 | 9 |
-| [5990335](https://precinct.netpress.com/#54-5990335) |  | 2 |
+| [5990335](https://precinct.netpress.com/#54-5990335) | Along Pleasant Oak Dr and Pleasant Oaks Dr | 2 |
 | [5990336](https://precinct.netpress.com/#54-5990336) | Mountain Road 161 | 78 |
 | [5990337](https://precinct.netpress.com/#54-5990337) | Mustang Dr, Rabbit Hill Dr, Cattle Dr | 615 |
-| [5990342](https://precinct.netpress.com/#54-5990342) |  | 2 |
+| [5990342](https://precinct.netpress.com/#54-5990342) | Near Success Valley Dr | 2 |
 | [5990343](https://precinct.netpress.com/#54-5990343) | Globe Dr, Tule Oak Dr, Mountain Road 161 | 151 |
 | [5990345](https://precinct.netpress.com/#54-5990345) | Cow Mountain Rd, Mountain Road 172A, Globe Dr | 148 |
 | [5990347](https://precinct.netpress.com/#54-5990347) | Co Rte M127, Co Rd J42, Indian Svc Rd | 630 |
@@ -2045,7 +2045,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990360](https://precinct.netpress.com/#54-5990360) | Camp Nelson and Pierpoint; Redwood Dr, Wishon Dr | 63 |
 | [5990361](https://precinct.netpress.com/#54-5990361) | Camp Nelson; Linder Dr, Nelson Dr | 66 |
 | [5990362](https://precinct.netpress.com/#54-5990362) | Alpine Dr, Pine View Dr, Redwood Dr | 4 |
-| [5990363](https://precinct.netpress.com/#54-5990363) |  | 2 |
+| [5990363](https://precinct.netpress.com/#54-5990363) | Near Redwood Dr | 2 |
 | [5990364](https://precinct.netpress.com/#54-5990364) | Sequoia Crest; Alder Dr, Chinquapin Dr | 10 |
 | [5990366](https://precinct.netpress.com/#54-5990366) | Ponderosa; Peppermint Dr, Meadow Ln | 32 |
 | [5990367](https://precinct.netpress.com/#54-5990367) | Ponderosa; Lloyd Rd, Maggie Lakes | 0 |
@@ -2056,34 +2056,34 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990382](https://precinct.netpress.com/#54-5990382) | Rd 228 | 41 |
 | [5990383](https://precinct.netpress.com/#54-5990383) | Ave 182, Highway 65, Rd 232 | 39 |
 | [5990384](https://precinct.netpress.com/#54-5990384) | Rockford Ave, Tule River | 30 |
-| [5990385](https://precinct.netpress.com/#54-5990385) |  | 0 |
+| [5990385](https://precinct.netpress.com/#54-5990385) | Near Rockford Ave | 0 |
 | [5990386](https://precinct.netpress.com/#54-5990386) | Cedar Rd, Magnolia Rd, Daisy Ave | 206 |
 | [5990387](https://precinct.netpress.com/#54-5990387) | Ave 152, Rd 208, Rockford Rd | 14 |
 | [5990388](https://precinct.netpress.com/#54-5990388) | Rd 176, Rd 160, Ave 74 | 1 |
 | [5990389](https://precinct.netpress.com/#54-5990389) | M-109 | 2 |
-| [5990391](https://precinct.netpress.com/#54-5990391) |  | 2 |
+| [5990391](https://precinct.netpress.com/#54-5990391) | Along Reservation Rd and Indian Reservation Dr | 2 |
 | [5990392](https://precinct.netpress.com/#54-5990392) | Lake Success | 11 |
 | [5990393](https://precinct.netpress.com/#54-5990393) | Rd 248, Ave 184 | 19 |
 | [5990395](https://precinct.netpress.com/#54-5990395) | Rd M-1, Mount Road 33, Rd M-14 | 1 |
 | [5990396](https://precinct.netpress.com/#54-5990396) | Success Dr, Rd 284, Highway 190 | 0 |
 | [5990397](https://precinct.netpress.com/#54-5990397) | S Hillcrest St, E Teapot Dome Ave, Mentz Ave | 6 |
 | [5990398](https://precinct.netpress.com/#54-5990398) | S Plano St, E Teapot Dome Ave | 2 |
-| [5990399](https://precinct.netpress.com/#54-5990399) |  | 0 |
+| [5990399](https://precinct.netpress.com/#54-5990399) | Near Ave 120 | 0 |
 | [5990400](https://precinct.netpress.com/#54-5990400) | 124 Ave, Rd 252, S Plano St | 16 |
-| [5990401](https://precinct.netpress.com/#54-5990401) |  | 4 |
+| [5990401](https://precinct.netpress.com/#54-5990401) | Near Old Stage Coach Rd | 4 |
 | [5990402](https://precinct.netpress.com/#54-5990402) | Ave 100 | 17 |
-| [5990404](https://precinct.netpress.com/#54-5990404) |  | 0 |
+| [5990404](https://precinct.netpress.com/#54-5990404) | Near Ave 88 | 0 |
 | [5990405](https://precinct.netpress.com/#54-5990405) | Rd 264, Holcomb St, Rd 270 | 89 |
 | [5990406](https://precinct.netpress.com/#54-5990406) | Rd 267, Ave 72 | 1 |
 | [5990407](https://precinct.netpress.com/#54-5990407) | Ave 74 | 0 |
 | [5990408](https://precinct.netpress.com/#54-5990408) | Rd 252 | 6 |
 | [5990411](https://precinct.netpress.com/#54-5990411) | Rd 272, Co Rd J24 | 1 |
-| [5990412](https://precinct.netpress.com/#54-5990412) |  | 2 |
+| [5990412](https://precinct.netpress.com/#54-5990412) | Along Ave 120 and Deer Creek Dr | 2 |
 | [5990413](https://precinct.netpress.com/#54-5990413) | Ave 70 | 5 |
 | [5990414](https://precinct.netpress.com/#54-5990414) | Rd 267, Ave 70, Ave 72 | 10 |
 | [5990416](https://precinct.netpress.com/#54-5990416) | Yokohl Valley Dr | 7 |
 | [5990417](https://precinct.netpress.com/#54-5990417) | Co Rte 276, Mountain Rd 276, Upper Grouse Valley Rd | 104 |
-| [5990418](https://precinct.netpress.com/#54-5990418) | Porterville | 0 |
+| [5990418](https://precinct.netpress.com/#54-5990418) | Porterville; along State Hwy 190 | 0 |
 | [5990419](https://precinct.netpress.com/#54-5990419) | Ducor; Carlisle Rd | 0 |
 | [5990420](https://precinct.netpress.com/#54-5990420) | Rd 261, Ave 102, Rd 264 | 68 |
 | [5990421](https://precinct.netpress.com/#54-5990421) | Rd 262, Ave 98, Rd 260 | 21 |
@@ -2094,18 +2094,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5990426](https://precinct.netpress.com/#54-5990426) | Rd 216, Teapot Dome Ave, Rockford Rd | 6 |
 | [5990428](https://precinct.netpress.com/#54-5990428) | Co Hwy J27, Ave 104, Ave 112 | 10 |
 | [5990430](https://precinct.netpress.com/#54-5990430) | Ave 40, Co Rte J44, Ave 42 | 0 |
-| [5990431](https://precinct.netpress.com/#54-5990431) |  | 2 |
+| [5990431](https://precinct.netpress.com/#54-5990431) | East Porterville; near Worth Dr | 2 |
 | [5990432](https://precinct.netpress.com/#54-5990432) | Ave 112 | 0 |
 | [5990434](https://precinct.netpress.com/#54-5990434) | W Gibbons Ave | 4 |
 | [5990437](https://precinct.netpress.com/#54-5990437) | Ave 182 | 1 |
 | [5990438](https://precinct.netpress.com/#54-5990438) | Porter Slough Ditch | 0 |
-| [5990439](https://precinct.netpress.com/#54-5990439) |  | 5 |
+| [5990439](https://precinct.netpress.com/#54-5990439) | East Porterville; near Worth Dr | 5 |
 | [5990440](https://precinct.netpress.com/#54-5990440) | S Plano St, E Scranton Ave, E Worth Ave | 145 |
 | [5990442](https://precinct.netpress.com/#54-5990442) | Ave 128, Rd 248, W Teapot Dome Ave | 27 |
-| [5990443](https://precinct.netpress.com/#54-5990443) |  | 18 |
+| [5990443](https://precinct.netpress.com/#54-5990443) | Along Rd 256 | 18 |
 | [5990444](https://precinct.netpress.com/#54-5990444) | Ave 84 | 28 |
-| [5990446](https://precinct.netpress.com/#54-5990446) |  | 6 |
-| [5990447](https://precinct.netpress.com/#54-5990447) |  | 3 |
+| [5990446](https://precinct.netpress.com/#54-5990446) | Along Ave 58 | 6 |
+| [5990447](https://precinct.netpress.com/#54-5990447) | Ducor; near Rd 236 | 3 |
 | [5990448](https://precinct.netpress.com/#54-5990448) | Ave 60, Rd 256, Rd 248 | 2 |
 | [5990449](https://precinct.netpress.com/#54-5990449) | Co Rd J22, Rd 272, M-109 | 49 |
-| [5990450](https://precinct.netpress.com/#54-5990450) | Terra Bella; Terra Bella Ave, Ave 95, Co Rd J24 | 0 |
+| [5990450](https://precinct.netpress.com/#54-5990450) | Terra Bella; Terra Bella Ave, Ave 95 | 0 |

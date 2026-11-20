@@ -12,13 +12,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | No. | Description | Voters |
 | --- | --- | --- |
 | [10040](https://precinct.netpress.com/#11-10040) | Orland; Trinity St, W Monterey St | 346 |
-| [10051](https://precinct.netpress.com/#11-10051) |  | 2 |
+| [10051](https://precinct.netpress.com/#11-10051) | Along Roosevelt Ave and Hwy 99W | 2 |
 | [10061](https://precinct.netpress.com/#11-10061) | Co Rd Ff 1/2, Co Rd E, Newville Rd | 70 |
 | [10080](https://precinct.netpress.com/#11-10080) | Orland; Monterey St, Suisun St | 139 |
 | [10081](https://precinct.netpress.com/#11-10081) | Orland; Swift St, 4th St | 16 |
 | [10100](https://precinct.netpress.com/#11-10100) | Orland; Co Rd 12, Perez Dr | 118 |
 | [10121](https://precinct.netpress.com/#11-10121) | Orland; Co Rd 200, Stony Creek | 684 |
-| [10122](https://precinct.netpress.com/#11-10122) | Orland | 28 |
+| [10122](https://precinct.netpress.com/#11-10122) | Orland; along Commerce Ln and Co Rd 12 | 28 |
 | [12060](https://precinct.netpress.com/#11-12060) | Orland; Tehama St, Shasta St | 135 |
 | [12061](https://precinct.netpress.com/#11-12061) | Orland; Swift St, A St | 28 |
 | [12070](https://precinct.netpress.com/#11-12070) | Orland; Bonnie Ln, Byron Way | 506 |
@@ -50,26 +50,26 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30011](https://precinct.netpress.com/#11-30011) | Co Rd 35, White Cabin Creek, 33 Rd | 0 |
 | [30012](https://precinct.netpress.com/#11-30012) | Rd 302, Clarks Valley Rd | 5 |
 | [30013](https://precinct.netpress.com/#11-30013) | Elk Creek; Stony Gorge Reservoir, Co Rd 308 | 36 |
-| [30014](https://precinct.netpress.com/#11-30014) |  | 2 |
+| [30014](https://precinct.netpress.com/#11-30014) | Near Co Rd 306 | 2 |
 | [30015](https://precinct.netpress.com/#11-30015) | Elk Creek; Oak St, Church St | 90 |
-| [30016](https://precinct.netpress.com/#11-30016) |  | 20 |
+| [30016](https://precinct.netpress.com/#11-30016) | Elk Creek; near Oak St | 20 |
 | [30017](https://precinct.netpress.com/#11-30017) | Rd 302, Clarks Valley Rd, Rd 303 | 1 |
 | [30018](https://precinct.netpress.com/#11-30018) | Rd 308, Ponderosa Way, Ivory Mill Rd | 1 |
 | [30019](https://precinct.netpress.com/#11-30019) | Dunfield Rd, Ekl Creek Stonyford Rd, Co Rd 306 | 6 |
 | [30020](https://precinct.netpress.com/#11-30020) | Co Rd 22, Rd 21, Rd 24 | 325 |
 | [30021](https://precinct.netpress.com/#11-30021) | Co Rd P, Co Rd Tt, Rd Ss | 171 |
-| [30030](https://precinct.netpress.com/#11-30030) |  | 0 |
+| [30030](https://precinct.netpress.com/#11-30030) | Along Rd 300 | 0 |
 | [30031](https://precinct.netpress.com/#11-30031) | Co Rd 400, Co Rd 303, Clark Valley Road 303 | 5 |
 | [30032](https://precinct.netpress.com/#11-30032) | Co Rd 401, Co Rd 306, Rd 401 | 18 |
 | [30033](https://precinct.netpress.com/#11-30033) | Elk Creek; Co Rd 309, Sanhedrin Rd | 11 |
 | [30034](https://precinct.netpress.com/#11-30034) | Co Rd 309, Sanhedrin Rd | 0 |
-| [30037](https://precinct.netpress.com/#11-30037) |  | 0 |
+| [30037](https://precinct.netpress.com/#11-30037) | Near Co Rd 306 | 0 |
 | [30042](https://precinct.netpress.com/#11-30042) | Rd 400, Rd Bb, Co Rd 48 | 287 |
 | [30043](https://precinct.netpress.com/#11-30043) | Co Rd 57, Rd 68, Rd 60 | 47 |
 | [30050](https://precinct.netpress.com/#11-30050) | First Ave, 1st Ave, N Butte St | 305 |
 | [30060](https://precinct.netpress.com/#11-30060) | Co Rd Hh, Eucalyptus, Co Rd 20 | 142 |
 | [30062](https://precinct.netpress.com/#11-30062) | Black Butte Lake, Rd 8022, Co Rd 200A | 102 |
-| [30063](https://precinct.netpress.com/#11-30063) |  | 0 |
+| [30063](https://precinct.netpress.com/#11-30063) | Near Rd 306 | 0 |
 | [30070](https://precinct.netpress.com/#11-30070) | Artois; Front St, Saint John St | 59 |
 | [30071](https://precinct.netpress.com/#11-30071) | Artois; Co Rd 35, Rd 33 | 182 |
 | [30073](https://precinct.netpress.com/#11-30073) | Rd Tt, 34 Rd, Rd T | 10 |
@@ -77,7 +77,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30075](https://precinct.netpress.com/#11-30075) | Co Rd R, Bayliss Blue Gum Rd, Co Rd 39 | 16 |
 | [30083](https://precinct.netpress.com/#11-30083) | Co Rd 30, Co Rd S, Co Rd Qq | 7 |
 | [30084](https://precinct.netpress.com/#11-30084) | Co Rd 28, Co Rd C, Co Rd F | 45 |
-| [30085](https://precinct.netpress.com/#11-30085) |  | 13 |
+| [30085](https://precinct.netpress.com/#11-30085) | Along Co Rd 25 | 13 |
 | [30086](https://precinct.netpress.com/#11-30086) | Hambright Creek, Wilson Creek, Walker Creek | 0 |
 | [30087](https://precinct.netpress.com/#11-30087) | Co Rd 27, Co Rd Nn, Baileys Dirt Rd | 74 |
 | [30088](https://precinct.netpress.com/#11-30088) | Co Rd 24 | 1 |
@@ -89,7 +89,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [30132](https://precinct.netpress.com/#11-30132) | Glenn-Colusa Cnl, Co Rd 48, N Tehama St | 27 |
 | [31070](https://precinct.netpress.com/#11-31070) | Willows; El Dorado Ave, Donnie Ln | 266 |
 | [31080](https://precinct.netpress.com/#11-31080) | Willows; S Villa Ave | 14 |
-| [31090](https://precinct.netpress.com/#11-31090) |  | 18 |
+| [31090](https://precinct.netpress.com/#11-31090) | Along Birch St and S Villa Ave | 18 |
 | [41040](https://precinct.netpress.com/#11-41040) | Willows; W Willow St, N Tehama St | 82 |
 | [41050](https://precinct.netpress.com/#11-41050) | Willows; W Oak St, W Sycamore St | 52 |
 | [41060](https://precinct.netpress.com/#11-41060) | Willows; W Laurel St, S Butte St | 115 |

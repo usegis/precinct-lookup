@@ -37,10 +37,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10027](https://precinct.netpress.com/#04-10027) | Oroville East; Rusty Dusty Rd, Oro Dam Blvd E | 43 |
 | [10028](https://precinct.netpress.com/#04-10028) | Oroville East; Arbol Ave, Buehler Ave | 158 |
 | [10029](https://precinct.netpress.com/#04-10029) | Oroville East and Oroville; Inglewood Dr, Pinedale Ave | 507 |
-| [10030](https://precinct.netpress.com/#04-10030) |  | 3 |
+| [10030](https://precinct.netpress.com/#04-10030) | Along Greenbank Ave | 3 |
 | [10031](https://precinct.netpress.com/#04-10031) | Oroville East; Hildale Ave, Yellow Hammer Dr | 92 |
 | [10032](https://precinct.netpress.com/#04-10032) | Oroville East; Melrose Dr, Loma Vista Dr | 553 |
-| [10033](https://precinct.netpress.com/#04-10033) |  | 1 |
+| [10033](https://precinct.netpress.com/#04-10033) | Along Oro Quincy Hwy | 1 |
 | [10034](https://precinct.netpress.com/#04-10034) | Oroville East | 2 |
 | [10035](https://precinct.netpress.com/#04-10035) | Oroville East; Skyline Blvd, La Mirada Ave | 673 |
 | [10036](https://precinct.netpress.com/#04-10036) | Oroville East; Oakvale Ave, Gopher Rd | 178 |
@@ -51,9 +51,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10041](https://precinct.netpress.com/#04-10041) | Palermo and Oroville East; Foothill Blvd, Bryden Way | 197 |
 | [10042](https://precinct.netpress.com/#04-10042) | Oroville East; Grimont Rd, Arts Ln | 33 |
 | [10043](https://precinct.netpress.com/#04-10043) | Oroville East; Oro Bangor Hwy, Oroville Bangor Hwy | 25 |
-| [10044](https://precinct.netpress.com/#04-10044) | Oroville East | 2 |
+| [10044](https://precinct.netpress.com/#04-10044) | Oroville East; along Old Rd | 2 |
 | [10045](https://precinct.netpress.com/#04-10045) | Oroville East and South Oroville; Forestview Dr, Alverda Dr | 739 |
-| [10048](https://precinct.netpress.com/#04-10048) |  | 0 |
+| [10048](https://precinct.netpress.com/#04-10048) | Along Oroville Bangor Hwy and Oro Bangor Hwy | 0 |
 | [10049](https://precinct.netpress.com/#04-10049) | Oroville East; Edgemont Dr, Oroville Bangor Hwy | 30 |
 | [10050](https://precinct.netpress.com/#04-10050) | Fdr Ter, Seacrest Dr, Burmat Dr | 77 |
 | [10051](https://precinct.netpress.com/#04-10051) | Oroville East and South Oroville; V-6 Rd, Oak Knoll Way | 339 |
@@ -64,7 +64,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10058](https://precinct.netpress.com/#04-10058) | South Oroville; Virginia Ave, Lincoln Blvd | 248 |
 | [10061](https://precinct.netpress.com/#04-10061) | Palermo and South Oroville; Lincoln Blvd, Custer Ln | 231 |
 | [10062](https://precinct.netpress.com/#04-10062) | Oroville; Kusel Rd | 1 |
-| [10063](https://precinct.netpress.com/#04-10063) | South Oroville | 4 |
+| [10063](https://precinct.netpress.com/#04-10063) | South Oroville; along Lincoln Blvd | 4 |
 | [10064](https://precinct.netpress.com/#04-10064) | South Oroville; Vis del Cerro, Via Canela | 263 |
 | [10065](https://precinct.netpress.com/#04-10065) | Palermo and Oroville East; Palermo Marysville Rd, Wheeler Ave | 147 |
 | [10066](https://precinct.netpress.com/#04-10066) | Oroville East and Palermo; District Center Dr, Summit Ave | 168 |
@@ -78,7 +78,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10074](https://precinct.netpress.com/#04-10074) | Palermo; Mission Olive Rd, Alta Airosa Dr | 413 |
 | [10075](https://precinct.netpress.com/#04-10075) | Robinson Mill and Oroville East; Forbestown Rd, Mather Ln | 751 |
 | [10076](https://precinct.netpress.com/#04-10076) | Loafer Creek Rd, Miners Ranch Reservoir, Medley Ln | 22 |
-| [10077](https://precinct.netpress.com/#04-10077) |  | 9 |
+| [10077](https://precinct.netpress.com/#04-10077) | Along Forbestown Rd and Oro Quincy Hwy | 9 |
 | [10078](https://precinct.netpress.com/#04-10078) | Peak View Dr | 13 |
 | [10079](https://precinct.netpress.com/#04-10079) | Lake Wyandotte, Black Bart Rd, Hurleton Rd | 18 |
 | [10080](https://precinct.netpress.com/#04-10080) | Rackerby; Purple Rocks Ln, Purple Rock Rd | 69 |
@@ -86,7 +86,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10082](https://precinct.netpress.com/#04-10082) | La Porte Rd, Kimmie Ln, Milligan Ln | 9 |
 | [10083](https://precinct.netpress.com/#04-10083) | Bangor and Rackerby; Upham Rd, Darby Rd | 245 |
 | [10084](https://precinct.netpress.com/#04-10084) | Jan-Dar Rd, Oro Bangor Hwy, Oroville Bangor Hwy | 24 |
-| [10085](https://precinct.netpress.com/#04-10085) |  | 1 |
+| [10085](https://precinct.netpress.com/#04-10085) | Near Oro Bangor Hwy | 1 |
 | [10086](https://precinct.netpress.com/#04-10086) | Palermo and Bangor; Dunstone Dr, Alta Airosa Dr | 2 |
 | [10087](https://precinct.netpress.com/#04-10087) | Bangor and Palermo; Avacado Rd, Pleasant Grove Ln | 214 |
 | [10088](https://precinct.netpress.com/#04-10088) | Bangor; Bangor Park Rd, Sunrise Hill Rd | 94 |
@@ -96,7 +96,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [10092](https://precinct.netpress.com/#04-10092) | Watt Ln, Central House Rd, Middle Honcut Rd | 121 |
 | [10095](https://precinct.netpress.com/#04-10095) | Thermalito and Oroville; Reppe Rd, Harlan Ave | 195 |
 | [10096](https://precinct.netpress.com/#04-10096) | Thermalito and Oroville; Timothy Ave, Rabe Rd | 32 |
-| [10097](https://precinct.netpress.com/#04-10097) | Thermalito and Oroville | 90 |
+| [10097](https://precinct.netpress.com/#04-10097) | Thermalito and Oroville; along Oro Dam Blvd W and Oroville Dam Blvd W | 90 |
 | [10098](https://precinct.netpress.com/#04-10098) | Thermalito and Oroville; Stuart Ct, Pacific Heights Rd | 39 |
 | [10099](https://precinct.netpress.com/#04-10099) | Feather River Blvd, Merlo Ave | 0 |
 | [11001](https://precinct.netpress.com/#04-11001) | Oroville and Oroville East; Highlands Blvd, Acacia Ave | 370 |
@@ -113,10 +113,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11013](https://precinct.netpress.com/#04-11013) | Oroville; Washington Ave, Mitchell Ave | 613 |
 | [11014](https://precinct.netpress.com/#04-11014) | Oroville and Oroville East; Robinson St, Arlin Rhine Dr | 846 |
 | [11015](https://precinct.netpress.com/#04-11015) | Oroville; Cottonwood Cir, Veatch St | 401 |
-| [11016](https://precinct.netpress.com/#04-11016) | Oroville | 0 |
+| [11016](https://precinct.netpress.com/#04-11016) | Oroville; along State Hwy 70 | 0 |
 | [11017](https://precinct.netpress.com/#04-11017) | Oroville; Feather River | 0 |
 | [11018](https://precinct.netpress.com/#04-11018) | Oroville; S 5th Ave, S 7th Ave | 23 |
-| [11019](https://precinct.netpress.com/#04-11019) | Oroville | 0 |
+| [11019](https://precinct.netpress.com/#04-11019) | Oroville; along Baggett Marysville Rd | 0 |
 | [11020](https://precinct.netpress.com/#04-11020) | Oroville; Richter Ave, Greenville-Ft Wayne Aly | 163 |
 | [11021](https://precinct.netpress.com/#04-11021) | Oroville; Wyandotte Ave | 0 |
 | [11022](https://precinct.netpress.com/#04-11022) | Oroville; Lower Wyandotte Rd | 4 |
@@ -131,7 +131,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [11031](https://precinct.netpress.com/#04-11031) | Oroville and South Oroville; Myers St, Ithaca St | 1,110 |
 | [11032](https://precinct.netpress.com/#04-11032) | Oroville; Sue Ellen Ct, Afterbay Dr | 0 |
 | [11034](https://precinct.netpress.com/#04-11034) | Oroville; Vaquero Dr, Calle Vista Dr | 314 |
-| [11035](https://precinct.netpress.com/#04-11035) |  | 3 |
+| [11035](https://precinct.netpress.com/#04-11035) | Along V-C Ave and Vc Ave | 3 |
 | [11036](https://precinct.netpress.com/#04-11036) | Garden Ranch Ln, Oroville Garden Ranch Rd, Oro Garden Ranch Rd | 28 |
 | [11037](https://precinct.netpress.com/#04-11037) | Oroville; Boynton Ave, Hammon Ave | 344 |
 | [11038](https://precinct.netpress.com/#04-11038) | Oroville; Executive Pkwy, Rock Ridge Ln | 186 |
@@ -161,11 +161,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [22018](https://precinct.netpress.com/#04-22018) | Chico; Iroquois Ave | 18 |
 | [22019](https://precinct.netpress.com/#04-22019) | Chico; W 10th Ave, W 9th Ave | 142 |
 | [22020](https://precinct.netpress.com/#04-22020) | Chico; W 11th Ave, Dias Dr | 469 |
-| [22021](https://precinct.netpress.com/#04-22021) | Chico | 2 |
+| [22021](https://precinct.netpress.com/#04-22021) | Chico; along W East Ave | 2 |
 | [22022](https://precinct.netpress.com/#04-22022) | Chico; Windsor Way, Regency Dr | 114 |
 | [22023](https://precinct.netpress.com/#04-22023) | Chico; W Sacramento Ave, Carriage Ln | 1,094 |
 | [22024](https://precinct.netpress.com/#04-22024) | Chico; Henshaw Ave, W Lassen Ave | 1,224 |
-| [22025](https://precinct.netpress.com/#04-22025) | Chico | 0 |
+| [22025](https://precinct.netpress.com/#04-22025) | Chico; along Henshaw Ave and Guynn Ave | 0 |
 | [22026](https://precinct.netpress.com/#04-22026) | Chico; Almendia Dr, Wisteria Ln | 941 |
 | [22027](https://precinct.netpress.com/#04-22027) | Chico; Donalli Ln, Oak Lawn Ave | 44 |
 | [22028](https://precinct.netpress.com/#04-22028) | Chico; Grant Ave | 5 |
@@ -229,16 +229,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [40009](https://precinct.netpress.com/#04-40009) | Durham; Gold Run Cnl, Nelson Rd | 460 |
 | [40010](https://precinct.netpress.com/#04-40010) | Openshaw Rd, Highway 149, Falager Rd | 4 |
 | [40011](https://precinct.netpress.com/#04-40011) | Highway 149 | 2 |
-| [40012](https://precinct.netpress.com/#04-40012) |  | 0 |
+| [40012](https://precinct.netpress.com/#04-40012) | Along Highway 149 and State Hwy 70 | 0 |
 | [40013](https://precinct.netpress.com/#04-40013) | Little Cottonwood Creek, Cottonwood Rd, Nelson Ave | 17 |
 | [40014](https://precinct.netpress.com/#04-40014) | Oroville; Thermalito Forebay, Garden Dr | 0 |
 | [40016](https://precinct.netpress.com/#04-40016) | Richvale and Durham; Richvale Hwy, Highway 162 | 94 |
 | [40017](https://precinct.netpress.com/#04-40017) | Richvale; Rice Ave, Calrose Ave | 143 |
 | [40018](https://precinct.netpress.com/#04-40018) | Thermalito; Thermalito Afterbay, Wilbur Rd | 66 |
 | [40019](https://precinct.netpress.com/#04-40019) | Thermalito; Par Four Way | 26 |
-| [40020](https://precinct.netpress.com/#04-40020) |  | 0 |
+| [40020](https://precinct.netpress.com/#04-40020) | Near Larkin Rd | 0 |
 | [40021](https://precinct.netpress.com/#04-40021) | Tres Vias Rd | 2 |
-| [40022](https://precinct.netpress.com/#04-40022) |  | 5 |
+| [40022](https://precinct.netpress.com/#04-40022) | Along Tres Vias Rd | 5 |
 | [40023](https://precinct.netpress.com/#04-40023) | Thermalito; Thermalito Forebay, Gold Country Ln | 38 |
 | [40024](https://precinct.netpress.com/#04-40024) | Thermalito; Thermalito Forebay | 0 |
 | [40025](https://precinct.netpress.com/#04-40025) | Nelson Ave | 1 |
@@ -264,8 +264,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [42009](https://precinct.netpress.com/#04-42009) | Chico; Glenn Haven Dr, Arbor Dr | 250 |
 | [42010](https://precinct.netpress.com/#04-42010) | Chico; Victorian Park Dr, Hampshire Dr | 315 |
 | [42011](https://precinct.netpress.com/#04-42011) | Chico; Bidwell Dr, Bidwell Ave | 71 |
-| [42012](https://precinct.netpress.com/#04-42012) | Chico | 0 |
-| [42013](https://precinct.netpress.com/#04-42013) | Chico | 0 |
+| [42012](https://precinct.netpress.com/#04-42012) | Chico; along Southgate Ln | 0 |
+| [42013](https://precinct.netpress.com/#04-42013) | Chico; along N Lindo Ave | 0 |
 | [43001](https://precinct.netpress.com/#04-43001) | Gridley; Peach St, Heron Landing Way | 1,169 |
 | [43002](https://precinct.netpress.com/#04-43002) | Gridley; Haskell St, Washington St | 1,003 |
 | [43003](https://precinct.netpress.com/#04-43003) | Gridley; Oregon St, Maine St | 807 |
@@ -297,9 +297,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [50024](https://precinct.netpress.com/#04-50024) | Butte Creek Canyon; Skyway Rd, Spanish Garden Dr | 242 |
 | [50025](https://precinct.netpress.com/#04-50025) | Magalia and Butte Creek Canyon; Van Fossen Rd | 1 |
 | [50026](https://precinct.netpress.com/#04-50026) | Butte Creek Canyon and Paradise; Kunkle Reservoir, Skyway Rd | 505 |
-| [50027](https://precinct.netpress.com/#04-50027) |  | 2 |
+| [50027](https://precinct.netpress.com/#04-50027) | Near Round Valley Ranch Rd | 2 |
 | [50028](https://precinct.netpress.com/#04-50028) | Concow; Dean Rd, Merrill Rd | 9 |
-| [50029](https://precinct.netpress.com/#04-50029) |  | 3 |
+| [50029](https://precinct.netpress.com/#04-50029) | Along Mountain View Dr | 3 |
 | [50030](https://precinct.netpress.com/#04-50030) | Concow; Concow Reservoir, P Line | 159 |
 | [50031](https://precinct.netpress.com/#04-50031) | Camp Creek Rd, Pulga Rd, Lynch Rd | 2 |
 | [50032](https://precinct.netpress.com/#04-50032) | Concow and Yankee Hill; Nelson Bar Rd, Big Bend Rd | 393 |

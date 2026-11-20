@@ -24,8 +24,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4-A](https://precinct.netpress.com/#10-4-A) | Fresno; S Parkway Dr, S Cedar Ave | 1 |
 | [4-C](https://precinct.netpress.com/#10-4-C) | Fresno; Golden State Front Rd, Jensen Frontage Rd | 6 |
 | [4-D](https://precinct.netpress.com/#10-4-D) | Fresno; S East Ave, E North Ave | 1 |
-| [4-E](https://precinct.netpress.com/#10-4-E) |  | 0 |
-| [4-G](https://precinct.netpress.com/#10-4-G) | Fresno | 0 |
+| [4-E](https://precinct.netpress.com/#10-4-E) | Fresno; near S East Ave | 0 |
+| [4-G](https://precinct.netpress.com/#10-4-G) | Fresno; along E Central | 0 |
 | [5-A](https://precinct.netpress.com/#10-5-A) | Fresno; S Holly Ave, S Lotus Ave | 537 |
 | [5-B](https://precinct.netpress.com/#10-5-B) | Fresno; E Church Ave, S Clara Ave | 242 |
 | [6](https://precinct.netpress.com/#10-6) | Fresno; S Kirk Ave, S Poppy Ave | 447 |
@@ -34,7 +34,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [7-C](https://precinct.netpress.com/#10-7-C) | Fresno; S Knight Ave, S Banneker Ave | 172 |
 | [7-D](https://precinct.netpress.com/#10-7-D) | Fresno; S Knight Ave, S Harrison Ave | 214 |
 | [7-E](https://precinct.netpress.com/#10-7-E) | Fresno; W Florence Ave, E Florence Ave | 0 |
-| [7-F](https://precinct.netpress.com/#10-7-F) |  | 13 |
+| [7-F](https://precinct.netpress.com/#10-7-F) | Fresno; near S Walnut Ave | 13 |
 | [8-A](https://precinct.netpress.com/#10-8-A) | Fresno; S Eunice Ave, E Lorena Ave | 627 |
 | [8-B](https://precinct.netpress.com/#10-8-B) | Fresno; S Weller St, S Tupman St | 395 |
 | [8-C](https://precinct.netpress.com/#10-8-C) | Fresno; S Lee Ave, Martin Luther King Blvd | 212 |
@@ -68,7 +68,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [25-A](https://precinct.netpress.com/#10-25-A) | Fresno; E Bend Ave, E Ball Ave | 553 |
 | [25-B](https://precinct.netpress.com/#10-25-B) | Fresno; E Grant Ave, E Washington Ave | 526 |
 | [26-A](https://precinct.netpress.com/#10-26-A) | Fresno; Leyte Ave, E Westover Ave | 0 |
-| [26-B](https://precinct.netpress.com/#10-26-B) | Fresno; E Airways Blvd, Gap Dr, West Dakota Ave | 0 |
+| [26-B](https://precinct.netpress.com/#10-26-B) | Fresno; E Airways Blvd, Gap Dr | 0 |
 | [27](https://precinct.netpress.com/#10-27) | Fresno; N 11th St, E Mc Kenzie Ave | 822 |
 | [28-A](https://precinct.netpress.com/#10-28-A) | Fresno; E McKenzie Ave, E Iowa Ave | 688 |
 | [28-B](https://precinct.netpress.com/#10-28-B) | Fresno; E Madison Ave, N Recreation Ave | 380 |
@@ -76,7 +76,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [29](https://precinct.netpress.com/#10-29) | Fresno; E Huntington Ave, S Whitney Ave | 361 |
 | [30-A](https://precinct.netpress.com/#10-30-A) | Fresno; N Garden Ave, N Chestnut Ave | 157 |
 | [30-B](https://precinct.netpress.com/#10-30-B) | Fresno; E Tyler Ave, N Winery Ave | 71 |
-| [30-C](https://precinct.netpress.com/#10-30-C) | Fresno; E Olive Ave, E Tyler Ave, E Clay Ave, N Maple Ave | 196 |
+| [30-C](https://precinct.netpress.com/#10-30-C) | Fresno; E Olive Ave, E Tyler Ave | 196 |
 | [30-D](https://precinct.netpress.com/#10-30-D) | Fresno; E Turner Ave, E White Ave | 371 |
 | [31](https://precinct.netpress.com/#10-31) | Fresno; S Alpine St, E Tulare Ave | 494 |
 | [32](https://precinct.netpress.com/#10-32) | Fresno; E Verrue Ave, S 11th St | 462 |
@@ -133,7 +133,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [60](https://precinct.netpress.com/#10-60) | Fresno; Mayfair Dr S, Mayfair Dr W | 371 |
 | [61-A](https://precinct.netpress.com/#10-61-A) | Fresno; E Home Ave, N Calaveras St | 521 |
 | [61-B](https://precinct.netpress.com/#10-61-B) | Fresno; E Hedges Ave, E Floradora Ave | 576 |
-| [61-C](https://precinct.netpress.com/#10-61-C) | Fresno | 0 |
+| [61-C](https://precinct.netpress.com/#10-61-C) | Fresno; along E McKinley Ave | 0 |
 | [61-D](https://precinct.netpress.com/#10-61-D) | Fresno; N Wishon Ave, N Van Ness Ave | 270 |
 | [62](https://precinct.netpress.com/#10-62) | Fresno; N 7th St | 11 |
 | [63-A](https://precinct.netpress.com/#10-63-A) | Fresno; N Thesta St, N Abby St | 374 |
@@ -143,7 +143,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [65-A](https://precinct.netpress.com/#10-65-A) | Fresno; N Fisher St, E Pine Ave | 899 |
 | [65-B](https://precinct.netpress.com/#10-65-B) | Fresno; N Bond St, E Hammond Ave | 254 |
 | [65-C](https://precinct.netpress.com/#10-65-C) | Fresno; E Floradora Ave, E Hammond Ave | 117 |
-| [65-D](https://precinct.netpress.com/#10-65-D) | Fresno; E Olive Ave, E Tyler Ave, E Clay Ave, N Sherman Ct | 353 |
+| [65-D](https://precinct.netpress.com/#10-65-D) | Fresno; E Olive Ave, E Tyler Ave | 353 |
 | [65-E](https://precinct.netpress.com/#10-65-E) | Fresno; N Cedar Ave, E Clay Ave | 366 |
 | [66-A](https://precinct.netpress.com/#10-66-A) | Fresno; E Clinton Way, E Andersen Ave | 5 |
 | [66-B](https://precinct.netpress.com/#10-66-B) | Fresno; E Mc Kinley Ave, Munda | 0 |
@@ -178,7 +178,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [82-C](https://precinct.netpress.com/#10-82-C) | Fresno; N Rabe Ave, N Clovis | 1 |
 | [83](https://precinct.netpress.com/#10-83) | Fresno; E Hunter Ave, E Shields Ave | 30 |
 | [84-A](https://precinct.netpress.com/#10-84-A) | Fresno; N Maroa Ave, E Mc Kinley Ave | 448 |
-| [84-B](https://precinct.netpress.com/#10-84-B) | Fresno | 12 |
+| [84-B](https://precinct.netpress.com/#10-84-B) | Fresno; along N Maroa Ave and N Van Ness Ave | 12 |
 | [84-C](https://precinct.netpress.com/#10-84-C) | Fresno; E Vassar Ave, E Clinton Ave | 524 |
 | [84-D](https://precinct.netpress.com/#10-84-D) | Fresno; E Shields Ave, N Wilson Ave | 349 |
 | [85-A](https://precinct.netpress.com/#10-85-A) | Fresno; N Blackstone Ave, Open Aly | 527 |
@@ -194,9 +194,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [92](https://precinct.netpress.com/#10-92) | Fresno; N Lorna Ave, W Andrews Ave | 392 |
 | [93-A](https://precinct.netpress.com/#10-93-A) | Fresno; N Wolters Ave, E Clinton Ave | 721 |
 | [93-B](https://precinct.netpress.com/#10-93-B) | Fresno; N Boyd Ave, N Archie Ave | 93 |
-| [93-C](https://precinct.netpress.com/#10-93-C) | Fresno | 0 |
+| [93-C](https://precinct.netpress.com/#10-93-C) | Fresno; along E Union Ave | 0 |
 | [93-D](https://precinct.netpress.com/#10-93-D) | Fresno; E Union Ave, N Barton Ave | 76 |
-| [93-E](https://precinct.netpress.com/#10-93-E) | Fresno | 52 |
+| [93-E](https://precinct.netpress.com/#10-93-E) | Fresno; along N Millbrook Ave | 52 |
 | [93-F](https://precinct.netpress.com/#10-93-F) | Fresno; E Simpson Ave, N Fisher St | 324 |
 | [93-G](https://precinct.netpress.com/#10-93-G) | Fresno; N 2nd St, E Michigan Ave | 385 |
 | [93-H](https://precinct.netpress.com/#10-93-H) | Fresno | 0 |
@@ -212,7 +212,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [99-B](https://precinct.netpress.com/#10-99-B) | Fresno; N Delno Ave, W Cortland Ave | 555 |
 | [100-A](https://precinct.netpress.com/#10-100-A) | Fresno; S Laval Ave, S Price Ave | 687 |
 | [100-B](https://precinct.netpress.com/#10-100-B) | Fresno; E Lorena Ave, S Parallel Ave | 1 |
-| [100-C](https://precinct.netpress.com/#10-100-C) | Fresno | 0 |
+| [100-C](https://precinct.netpress.com/#10-100-C) | Fresno; along E Florence Ave | 0 |
 | [100-D](https://precinct.netpress.com/#10-100-D) | Fresno; S Meridian Ave, S Barton Ave | 422 |
 | [101](https://precinct.netpress.com/#10-101) | Fresno; W Fairmont Ave, N Crystal Ave | 0 |
 | [102-A](https://precinct.netpress.com/#10-102-A) | Fresno; N Fruit Ave, N Arthur Ave | 509 |
@@ -221,9 +221,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [104-A](https://precinct.netpress.com/#10-104-A) | Fresno; N Del Mar Ave, E Hampton Way | 328 |
 | [104-B](https://precinct.netpress.com/#10-104-B) | Fresno; E Dakota Ave, E Lansing Way | 441 |
 | [105-A](https://precinct.netpress.com/#10-105-A) | Fresno; N Maroa Ave, N James Ln | 581 |
-| [105-B](https://precinct.netpress.com/#10-105-B) | Fresno | 0 |
+| [105-B](https://precinct.netpress.com/#10-105-B) | Fresno; along N Van Ness Blvd | 0 |
 | [105-C](https://precinct.netpress.com/#10-105-C) | Fresno; N Wishon Ave, E Griffith Way | 127 |
-| [105-D](https://precinct.netpress.com/#10-105-D) | Fresno | 42 |
+| [105-D](https://precinct.netpress.com/#10-105-D) | Fresno; along E Dakota Ave and N College Ave | 42 |
 | [105-E](https://precinct.netpress.com/#10-105-E) | Fresno; E Beverly Way, E Ramona Way | 115 |
 | [106](https://precinct.netpress.com/#10-106) | Fresno; N Eklund Ave, N Park Way | 489 |
 | [107](https://precinct.netpress.com/#10-107) | Fresno; N Sherman St, E Joaquin Pl | 865 |
@@ -235,7 +235,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [111](https://precinct.netpress.com/#10-111) | Fresno; N Callisch St, E Dakota Ave | 804 |
 | [112](https://precinct.netpress.com/#10-112) | Fresno; E Redlands Ave, North Virginia Ln | 978 |
 | [113-A](https://precinct.netpress.com/#10-113-A) | Fresno; N Tollhouse Rd, N 1st St | 702 |
-| [113-B](https://precinct.netpress.com/#10-113-B) | Fresno; E Ashlan Ave, E Hampton Way, E Griffith Way | 290 |
+| [113-B](https://precinct.netpress.com/#10-113-B) | Fresno; E Ashlan Ave, E Hampton Way | 290 |
 | [114](https://precinct.netpress.com/#10-114) | Fresno; E Farrin Ave, N Millbrook Ave | 730 |
 | [115](https://precinct.netpress.com/#10-115) | Fresno; E Ashlan Ftrd S, E Bellaire Way | 590 |
 | [116-A](https://precinct.netpress.com/#10-116-A) | Fresno; E Fountain Way, N 11th St | 882 |
@@ -328,12 +328,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [165-B](https://precinct.netpress.com/#10-165-B) | Fresno; W Atchison Ave, W California Ct | 203 |
 | [165-C](https://precinct.netpress.com/#10-165-C) | Fresno; S Channing Ave, S West Ave | 53 |
 | [166](https://precinct.netpress.com/#10-166) | Fresno; N Emerson Ave, N Holt Ave | 961 |
-| [167](https://precinct.netpress.com/#10-167) | Fresno | 0 |
+| [167](https://precinct.netpress.com/#10-167) | Fresno; along E Andrews Ave | 0 |
 | [168](https://precinct.netpress.com/#10-168) | Fresno; E Simpson Ave | 0 |
 | [169-A](https://precinct.netpress.com/#10-169-A) | E Carmalee Ln, E Clinton Ave, E Cambridge Ave | 70 |
-| [169-B](https://precinct.netpress.com/#10-169-B) |  | 5 |
+| [169-B](https://precinct.netpress.com/#10-169-B) | Near N Temperance Ave | 5 |
 | [170](https://precinct.netpress.com/#10-170) | Fresno; E Harvey Ave | 0 |
-| [171](https://precinct.netpress.com/#10-171) |  | 2 |
+| [171](https://precinct.netpress.com/#10-171) | Along E Clinton Ave | 2 |
 | [172-A](https://precinct.netpress.com/#10-172-A) | Fresno; E Barstow Ftrd N, E Loftus Ln | 140 |
 | [172-B](https://precinct.netpress.com/#10-172-B) | Fresno; N 10th St, E Browning Ave | 743 |
 | [172-C](https://precinct.netpress.com/#10-172-C) | Fresno; N Flora Ave, E Bullard Ave | 473 |
@@ -356,7 +356,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [183-B](https://precinct.netpress.com/#10-183-B) | Fresno; S Baird Ct, E Dwight Way | 533 |
 | [184](https://precinct.netpress.com/#10-184) | Fresno; S Recreation Ave, E El Monte Way | 967 |
 | [185](https://precinct.netpress.com/#10-185) | Fresno; Campus Dr, E Barstow Ave | 316 |
-| [186](https://precinct.netpress.com/#10-186) |  | 0 |
+| [186](https://precinct.netpress.com/#10-186) | Along N Sunnyside Ave and E Harvey Ave | 0 |
 | [187-A](https://precinct.netpress.com/#10-187-A) | Fresno; W Dovewood Ave, W Robinwood Ave | 212 |
 | [187-B](https://precinct.netpress.com/#10-187-B) | Fresno; N Marty Ave, W Bullard Ave | 400 |
 | [188](https://precinct.netpress.com/#10-188) | Fresno; Hiawatha, Chippewa | 889 |
@@ -381,7 +381,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [200-C](https://precinct.netpress.com/#10-200-C) | Fresno; S 11th St, S 10th St | 125 |
 | [200-D](https://precinct.netpress.com/#10-200-D) | Fresno; S Page Ave, S Rowell Ave | 261 |
 | [201-A](https://precinct.netpress.com/#10-201-A) | Fresno | 0 |
-| [201-B](https://precinct.netpress.com/#10-201-B) | Fresno | 1 |
+| [201-B](https://precinct.netpress.com/#10-201-B) | Fresno; along E Annadale Ave | 1 |
 | [202](https://precinct.netpress.com/#10-202) | Fresno; S Laureen Ave, S Siega | 676 |
 | [203-A](https://precinct.netpress.com/#10-203-A) | Fresno; N Gates Ave, N Reese Ave | 797 |
 | [203-B](https://precinct.netpress.com/#10-203-B) | Fresno; N Salinas Ave, W Jacquelyn Ave | 975 |
@@ -403,10 +403,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [210-A](https://precinct.netpress.com/#10-210-A) | Fresno; E Erin, E California | 884 |
 | [210-B](https://precinct.netpress.com/#10-210-B) | Fresno; E Alexander Ave, E Rayburn Ave | 441 |
 | [211-A](https://precinct.netpress.com/#10-211-A) | Fresno; N Blackstone Ave, E Auto Center Dr | 0 |
-| [211-B](https://precinct.netpress.com/#10-211-B) | Fresno | 702 |
+| [211-B](https://precinct.netpress.com/#10-211-B) | Fresno; along Highway 41 and E Bullard Ave | 702 |
 | [212-A](https://precinct.netpress.com/#10-212-A) | Fresno; S Sunland Ave, E Jensen Ave Byp | 216 |
-| [212-B](https://precinct.netpress.com/#10-212-B) | Fresno; E Commerce Ave, E Edgar Ave, E Annadale Ave | 0 |
-| [212-C](https://precinct.netpress.com/#10-212-C) | Fresno; E Commerce Ave, E Edgar Ave, S Maple Ave | 0 |
+| [212-B](https://precinct.netpress.com/#10-212-B) | Fresno; E Commerce Ave, E Edgar Ave | 0 |
+| [212-C](https://precinct.netpress.com/#10-212-C) | Fresno; E Commerce Ave, E Edgar Ave | 0 |
 | [213](https://precinct.netpress.com/#10-213) | Fresno; S G St | 0 |
 | [214-A](https://precinct.netpress.com/#10-214-A) | Fresno; N Selland Ave, N Alva Ave | 548 |
 | [214-B](https://precinct.netpress.com/#10-214-B) | Fresno; N Gentry Ave, W Atwater Ave | 576 |
@@ -421,7 +421,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [218-C](https://precinct.netpress.com/#10-218-C) | Fresno; N Blackstone Ave, E Pinedale Ave | 1 |
 | [218-D](https://precinct.netpress.com/#10-218-D) | Fresno; N Abby St | 0 |
 | [218-E](https://precinct.netpress.com/#10-218-E) | Fresno; E El Paso Ave, Ness Ave | 0 |
-| [218-F](https://precinct.netpress.com/#10-218-F) |  | 0 |
+| [218-F](https://precinct.netpress.com/#10-218-F) | Along E Herndon Ave and W Herndon Ave | 0 |
 | [218-G](https://precinct.netpress.com/#10-218-G) | Fresno; N Abby St, E Alluvial Ave | 0 |
 | [218-H](https://precinct.netpress.com/#10-218-H) | Fresno; N Fresno St, El Paso | 0 |
 | [219](https://precinct.netpress.com/#10-219) | Fresno; N Fuller Ave, E Serena Ave | 709 |
@@ -443,7 +443,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [227](https://precinct.netpress.com/#10-227) | Fresno; Alluvial Ave, N Paula Ave | 55 |
 | [228](https://precinct.netpress.com/#10-228) | Fresno; N Adler Ave, E Sooner Dr | 612 |
 | [229](https://precinct.netpress.com/#10-229) | Fresno; N Helm Ave, N Peach Ave | 356 |
-| [230](https://precinct.netpress.com/#10-230) | Fresno | 104 |
+| [230](https://precinct.netpress.com/#10-230) | Fresno; along N Marks Ave and W Floradora Ave | 104 |
 | [231](https://precinct.netpress.com/#10-231) | Fresno; W Mc Kinley Ave, W Hedges Ave | 750 |
 | [232-A](https://precinct.netpress.com/#10-232-A) | Fresno; W Franklin Ave, W Harvey Ave | 196 |
 | [232-B](https://precinct.netpress.com/#10-232-B) | Fresno; N Crystal Ave, N Parkway Dr | 148 |
@@ -451,7 +451,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [233-B](https://precinct.netpress.com/#10-233-B) | Fresno; N Sabre Dr, N Larkin Ave | 261 |
 | [234-A](https://precinct.netpress.com/#10-234-A) | Fresno; E Kerckhoff, N Cypress | 929 |
 | [234-B](https://precinct.netpress.com/#10-234-B) | Fresno; S Burgan Ave | 0 |
-| [234-D](https://precinct.netpress.com/#10-234-D) | Fresno | 10 |
+| [234-D](https://precinct.netpress.com/#10-234-D) | Fresno; along N Sunnyside Ave | 10 |
 | [234-F](https://precinct.netpress.com/#10-234-F) | Fresno; E Laverne Ave, E Brick Dr | 857 |
 | [234-G](https://precinct.netpress.com/#10-234-G) | Fresno; E Fancher Creek Dr, N Laverne Ave | 676 |
 | [235](https://precinct.netpress.com/#10-235) | Fresno; N Valentine Ave, W San Jose Ave | 364 |
@@ -460,14 +460,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [240-A](https://precinct.netpress.com/#10-240-A) | Fresno; E Belmont Ave, N Jackson Ave | 183 |
 | [240-B](https://precinct.netpress.com/#10-240-B) | Fresno; Plaza Dr E, E Turner Ave | 618 |
 | [241-A](https://precinct.netpress.com/#10-241-A) | Fresno; S Evelyn Ave, E Butler Ave | 42 |
-| [241-B](https://precinct.netpress.com/#10-241-B) | Fresno | 20 |
+| [241-B](https://precinct.netpress.com/#10-241-B) | Fresno; along S Clovis Ave | 20 |
 | [242-A](https://precinct.netpress.com/#10-242-A) | Fresno; N Clark Ave, E Calimyrna Ave | 342 |
 | [242-B](https://precinct.netpress.com/#10-242-B) | Fresno; N Diana Ave, Effie St | 231 |
 | [242-C](https://precinct.netpress.com/#10-242-C) | Fresno; N Fresno St, E Bullard Ave | 196 |
 | [242-D](https://precinct.netpress.com/#10-242-D) | Fresno; E Herndon Ftrd S, E Warner Ave | 36 |
 | [242-E](https://precinct.netpress.com/#10-242-E) | Fresno; N Glenn Ave, N San Pablo Ave | 135 |
-| [243-A](https://precinct.netpress.com/#10-243-A) | Fresno | 3 |
-| [243-B](https://precinct.netpress.com/#10-243-B) |  | 0 |
+| [243-A](https://precinct.netpress.com/#10-243-A) | Fresno; along N Weber Ave | 3 |
+| [243-B](https://precinct.netpress.com/#10-243-B) | Along N Weber Ave and N Prospect Ave | 0 |
 | [244](https://precinct.netpress.com/#10-244) | Fresno; E Serena Ave, E Lester Ave | 989 |
 | [245](https://precinct.netpress.com/#10-245) | Fresno; N Weber Ave | 0 |
 | [246-A](https://precinct.netpress.com/#10-246-A) | Fresno; N Golden State Blvd, W Santa Ana Ave | 4 |
@@ -482,12 +482,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [247-E](https://precinct.netpress.com/#10-247-E) | Fresno | 0 |
 | [248](https://precinct.netpress.com/#10-248) | Fresno; E Nevada Ave, E Illinois Ave | 701 |
 | [249-A](https://precinct.netpress.com/#10-249-A) | Fresno; N Motel Dr, N Golden State Blvd | 0 |
-| [249-B](https://precinct.netpress.com/#10-249-B) | Fresno | 0 |
+| [249-B](https://precinct.netpress.com/#10-249-B) | Fresno; along N Motel Dr and N Golden State Blvd | 0 |
 | [249-C](https://precinct.netpress.com/#10-249-C) | Fresno; W Star Ln, W Western Ave | 228 |
 | [249-D](https://precinct.netpress.com/#10-249-D) | Fresno | 0 |
 | [250-A](https://precinct.netpress.com/#10-250-A) | Fresno; W Ashlan Ftrd N, W Austin Way | 633 |
 | [250-B](https://precinct.netpress.com/#10-250-B) | Fresno; W Ashlan Ave, N Gilroy Ave | 475 |
-| [250-C](https://precinct.netpress.com/#10-250-C) | Fresno; N Motel Dr, N Golden State Blvd, W Swift Ave | 0 |
+| [250-C](https://precinct.netpress.com/#10-250-C) | Fresno; N Motel Dr, N Golden State Blvd | 0 |
 | [250-D](https://precinct.netpress.com/#10-250-D) | Fresno; Mitre Ave, W Austin Ave | 340 |
 | [250-E](https://precinct.netpress.com/#10-250-E) | Fresno; W Flint Way, W Bellaire Way | 311 |
 | [251-A](https://precinct.netpress.com/#10-251-A) | Fresno; S Orangewood Dr, E Orleans | 882 |
@@ -498,7 +498,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [254](https://precinct.netpress.com/#10-254) | Fresno; N Maroa Ftrd E, Balboa Dr | 505 |
 | [255-A](https://precinct.netpress.com/#10-255-A) | Fresno; E Foxhill Dr, E La France Dr | 651 |
 | [255-B](https://precinct.netpress.com/#10-255-B) | Fresno; Hickory Hill Dr, E Champlain Dr | 472 |
-| [256-A](https://precinct.netpress.com/#10-256-A) | Fresno | 73 |
+| [256-A](https://precinct.netpress.com/#10-256-A) | Fresno; along W Bullard Ave | 73 |
 | [256-B](https://precinct.netpress.com/#10-256-B) | Fresno; N Palm Ave, W Browning Ave | 81 |
 | [257-A](https://precinct.netpress.com/#10-257-A) | Fresno; E Spruce Ave, E Minarets Ave | 698 |
 | [257-B](https://precinct.netpress.com/#10-257-B) | Fresno; E Beechwood Ave, E Fir Ave | 178 |
@@ -518,7 +518,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [262-B](https://precinct.netpress.com/#10-262-B) | Fresno; N Doolittle Dr, W Herndon Ave | 2 |
 | [263-A](https://precinct.netpress.com/#10-263-A) | Fresno; W Palo Alto Ave, W Fremont Ave | 564 |
 | [263-B](https://precinct.netpress.com/#10-263-B) | Fresno; N Santa Fe Ave, N Tracy Ave | 669 |
-| [263-C](https://precinct.netpress.com/#10-263-C) | Fresno | 0 |
+| [263-C](https://precinct.netpress.com/#10-263-C) | Fresno; along W Herndon Ave | 0 |
 | [264-A](https://precinct.netpress.com/#10-264-A) | Fresno; E Cole Ave, Fresno Sugar Pine Trl | 721 |
 | [264-B](https://precinct.netpress.com/#10-264-B) | Fresno; Ness Ave, Blackstone Ave | 0 |
 | [264-C](https://precinct.netpress.com/#10-264-C) | Fresno; E River Park Pl E, E Audubon Dr | 0 |
@@ -539,7 +539,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [272-A](https://precinct.netpress.com/#10-272-A) | Fresno; N Jimmy Ave, W Austin Way | 555 |
 | [272-B](https://precinct.netpress.com/#10-272-B) | Fresno; N Ellendale Ave, W Richert Ave | 552 |
 | [273-A](https://precinct.netpress.com/#10-273-A) | Fresno; S Clovis Ave, E Balch Ave | 0 |
-| [273-C](https://precinct.netpress.com/#10-273-C) | Fresno | 0 |
+| [273-C](https://precinct.netpress.com/#10-273-C) | Fresno; along E Park Circle Dr | 0 |
 | [273-D](https://precinct.netpress.com/#10-273-D) | Fresno; S Clovis Ave | 0 |
 | [274-A](https://precinct.netpress.com/#10-274-A) | Fresno; W Dan Ronquillo Dr, Wagon Wheel Rd | 78 |
 | [274-B](https://precinct.netpress.com/#10-274-B) | Fresno; W Kearney Blvd, W California Ave | 136 |
@@ -599,34 +599,34 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [303-C](https://precinct.netpress.com/#10-303-C) | Fresno; N Dolores Ave, W Sierra Ave | 140 |
 | [304](https://precinct.netpress.com/#10-304) | Fresno; 6 Th St, N Fifth St | 1,015 |
 | [305-A](https://precinct.netpress.com/#10-305-A) | Fresno; N Colfax Ave, E Loyola Ave | 544 |
-| [305-B](https://precinct.netpress.com/#10-305-B) | Fresno | 0 |
+| [305-B](https://precinct.netpress.com/#10-305-B) | Fresno; along E Audubon Dr | 0 |
 | [305-C](https://precinct.netpress.com/#10-305-C) | N 1st St | 12 |
 | [305-D](https://precinct.netpress.com/#10-305-D) | E Audubon Dr | 8 |
-| [305-E](https://precinct.netpress.com/#10-305-E) |  | 16 |
+| [305-E](https://precinct.netpress.com/#10-305-E) | Fresno; near E Cole Ave | 16 |
 | [306](https://precinct.netpress.com/#10-306) | Fresno; S Bush Ave, E Huntington Ave | 84 |
 | [307](https://precinct.netpress.com/#10-307) | Fresno; W Saginaw Way, E Dakota Ave | 495 |
 | [308](https://precinct.netpress.com/#10-308) | Fresno; Brown Ave, N Knoll Ave | 301 |
 | [309-A](https://precinct.netpress.com/#10-309-A) | Fresno; N Citrus Ln, W Persimmon Ln | 534 |
 | [309-B](https://precinct.netpress.com/#10-309-B) | Fresno; N Verba Ave, N Brawley Ave | 114 |
 | [310](https://precinct.netpress.com/#10-310) | Fresno; W Bellaire Way, N Santa Fe Ave | 46 |
-| [311-A](https://precinct.netpress.com/#10-311-A) | Fresno; E Ashlan Ave, E Hampton Way, E Buckingham Way | 107 |
+| [311-A](https://precinct.netpress.com/#10-311-A) | Fresno; E Ashlan Ave, E Hampton Way | 107 |
 | [311-B](https://precinct.netpress.com/#10-311-B) | Fresno; N Hayston Ave | 0 |
 | [312](https://precinct.netpress.com/#10-312) | Fresno; E Dakota Ave, E Garland Ave | 808 |
 | [313-A](https://precinct.netpress.com/#10-313-A) | Fresno; N Incline Ave, W Providence Ave | 464 |
 | [313-B](https://precinct.netpress.com/#10-313-B) | Fresno; W Hunter Ave, W Homan Ave | 914 |
-| [313-C](https://precinct.netpress.com/#10-313-C) | Fresno; W Terrace Ave, W Harvard Ave, W Providence Ave | 386 |
+| [313-C](https://precinct.netpress.com/#10-313-C) | Fresno; W Terrace Ave, W Harvard Ave | 386 |
 | [314](https://precinct.netpress.com/#10-314) | Fresno; N Adrian Ave, N Bush Ave | 223 |
 | [315](https://precinct.netpress.com/#10-315) | Fresno; N Rubert, W Atlanta Ave | 630 |
-| [316-A](https://precinct.netpress.com/#10-316-A) | Fresno | 0 |
-| [316-B](https://precinct.netpress.com/#10-316-B) | Fresno | 12 |
+| [316-A](https://precinct.netpress.com/#10-316-A) | Fresno; along N Marks Ave | 0 |
+| [316-B](https://precinct.netpress.com/#10-316-B) | Fresno; along N Marks Ave | 12 |
 | [317-A](https://precinct.netpress.com/#10-317-A) | W Moraga Ave, N Pacific Ave, W Alluvial | 22 |
 | [317-B](https://precinct.netpress.com/#10-317-B) | Fresno; River Bottom Ave, San Joaquin River | 8 |
 | [318](https://precinct.netpress.com/#10-318) | Fresno; E Frontage Rd N, E Everett Ave | 861 |
 | [319-A](https://precinct.netpress.com/#10-319-A) | Fresno; N Fruit Ave, W Warner Ave | 871 |
 | [319-B](https://precinct.netpress.com/#10-319-B) | Fresno; W Parr Ave, N Harrison Ave | 3 |
 | [320-A](https://precinct.netpress.com/#10-320-A) | Fresno; N Prospect Ave, W Weldon Ave | 46 |
-| [320-B](https://precinct.netpress.com/#10-320-B) | Fresno | 118 |
-| [320-C](https://precinct.netpress.com/#10-320-C) | Fresno | 0 |
+| [320-B](https://precinct.netpress.com/#10-320-B) | Fresno; along N Marks Ave and W Princeton Ave | 118 |
+| [320-C](https://precinct.netpress.com/#10-320-C) | Fresno; along N Marks Ave and W Weldon Ave | 0 |
 | [320-D](https://precinct.netpress.com/#10-320-D) | Fresno; N Carol Ave, N Hazel Ave | 161 |
 | [321](https://precinct.netpress.com/#10-321) | Fresno; W Yale Ave, W Cambridge Ave | 187 |
 | [322-A](https://precinct.netpress.com/#10-322-A) | Fresno; W Princeton Ave | 118 |
@@ -743,7 +743,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [378-C](https://precinct.netpress.com/#10-378-C) | Fresno; W River Bottom Ave, Wheeler | 144 |
 | [378-D](https://precinct.netpress.com/#10-378-D) | Fresno; W River Vista Dr, N Hanna Ave | 465 |
 | [379](https://precinct.netpress.com/#10-379) | Fresno; E Emerald Ave, N Granville Ave | 760 |
-| [380](https://precinct.netpress.com/#10-380) |  | 7 |
+| [380](https://precinct.netpress.com/#10-380) | Near N Fine Ave | 7 |
 | [381-A](https://precinct.netpress.com/#10-381-A) | Fresno; N Ivanhoe, W Oak Ave | 776 |
 | [381-B](https://precinct.netpress.com/#10-381-B) | N Michael Ave, N Moosoolian Ave, W Oak Ave | 177 |
 | [382](https://precinct.netpress.com/#10-382) | Fort Washington; N Mohawk Dr, E Brandywine Ln | 215 |
@@ -753,35 +753,35 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [400-A](https://precinct.netpress.com/#10-400-A) | Calwa; S Bisceglia Ave, E Church Ave | 25 |
 | [400-B](https://precinct.netpress.com/#10-400-B) | Calwa; S Pullman St, E Barton Sq | 565 |
 | [400-C](https://precinct.netpress.com/#10-400-C) | Calwa | 0 |
-| [400-D](https://precinct.netpress.com/#10-400-D) |  | 0 |
-| [401-A](https://precinct.netpress.com/#10-401-A) |  | 2 |
-| [401-B](https://precinct.netpress.com/#10-401-B) |  | 0 |
+| [400-D](https://precinct.netpress.com/#10-400-D) | Along E Calwa Ave | 0 |
+| [401-A](https://precinct.netpress.com/#10-401-A) | Near S Chestnut Ave | 2 |
+| [401-B](https://precinct.netpress.com/#10-401-B) | Along E Jensen Ave Byp | 0 |
 | [401-C](https://precinct.netpress.com/#10-401-C) | E Edgar Ave | 0 |
-| [401-D](https://precinct.netpress.com/#10-401-D) |  | 0 |
-| [401-E](https://precinct.netpress.com/#10-401-E) |  | 0 |
+| [401-D](https://precinct.netpress.com/#10-401-D) | Along S Golden State Blvd | 0 |
+| [401-E](https://precinct.netpress.com/#10-401-E) | Malaga; near S Chestnut Ave | 0 |
 | [401-F](https://precinct.netpress.com/#10-401-F) | S Cedar Ave | 0 |
 | [401-G](https://precinct.netpress.com/#10-401-G) | E Jensen Ave, E Date Ave, E Vine Ave | 0 |
 | [402-A](https://precinct.netpress.com/#10-402-A) | Fresno; W Lamona Ave, W Olive Ave | 329 |
 | [402-B](https://precinct.netpress.com/#10-402-B) | Fresno; W Mc Kinley Ave, W Peralta Way | 401 |
-| [402-C](https://precinct.netpress.com/#10-402-C) |  | 4 |
+| [402-C](https://precinct.netpress.com/#10-402-C) | Near N Polk Ave | 4 |
 | [402-D](https://precinct.netpress.com/#10-402-D) | W Olive Ave | 3 |
 | [402-E](https://precinct.netpress.com/#10-402-E) | Fresno; N Hayes Ave, N Carnegie Ave | 171 |
 | [402-F](https://precinct.netpress.com/#10-402-F) | W McKinley Ave | 13 |
 | [402-G](https://precinct.netpress.com/#10-402-G) | N Cornelia Ave, W Alhambra Ave, W Dennett Ave | 310 |
 | [403-A](https://precinct.netpress.com/#10-403-A) | W Floradora Ave Exd, W Olive Ave, W Floradora Ave | 156 |
 | [403-B](https://precinct.netpress.com/#10-403-B) | W Belmont Ave, N Valentine Ave, W Dudley Ave | 211 |
-| [403-C](https://precinct.netpress.com/#10-403-C) |  | 44 |
+| [403-C](https://precinct.netpress.com/#10-403-C) | Along W Olive Ave | 44 |
 | [404-A](https://precinct.netpress.com/#10-404-A) | E Church Ave | 39 |
 | [404-B](https://precinct.netpress.com/#10-404-B) | E Jensen Ave, S Armstrong Ave, E Church Ave | 54 |
 | [404-C](https://precinct.netpress.com/#10-404-C) | S Armstrong Ave | 6 |
-| [404-D](https://precinct.netpress.com/#10-404-D) |  | 8 |
+| [404-D](https://precinct.netpress.com/#10-404-D) | Along S Armstrong Ave | 8 |
 | [405](https://precinct.netpress.com/#10-405) | Sunnyside and Fresno; S Country Club Ln, E Parkside Dr | 520 |
 | [406](https://precinct.netpress.com/#10-406) | Sunnyside; E Park Circle Dr, E Kings Canyon Frontage | 819 |
 | [407-A](https://precinct.netpress.com/#10-407-A) | Sunnyside; S Fancher Dr, S Park Circle Dr | 614 |
 | [407-B](https://precinct.netpress.com/#10-407-B) | Sunnyside; E Nine Ave, S Walling Ave | 260 |
 | [408-A](https://precinct.netpress.com/#10-408-A) | N Valentine Ave, W Princeton Ave | 48 |
-| [408-B](https://precinct.netpress.com/#10-408-B) |  | 6 |
-| [408-C](https://precinct.netpress.com/#10-408-C) | Fresno | 12 |
+| [408-B](https://precinct.netpress.com/#10-408-B) | Along W Harvard Ave | 6 |
+| [408-C](https://precinct.netpress.com/#10-408-C) | Fresno; along N Valentine Ave | 12 |
 | [409](https://precinct.netpress.com/#10-409) | Fresno; E Olive Frontage, E Olive Ave | 636 |
 | [410](https://precinct.netpress.com/#10-410) | W Princeton Ave | 13 |
 | [411](https://precinct.netpress.com/#10-411) | Sunnyside | 34 |
@@ -792,20 +792,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [412-E](https://precinct.netpress.com/#10-412-E) | N Fine Ave, E Turner Ave, N Winery Ave | 196 |
 | [413](https://precinct.netpress.com/#10-413) | E Madison Ave, E Washington Ave, E Grant Ave | 493 |
 | [414-A](https://precinct.netpress.com/#10-414-A) | S Bailey Ave, S Helm Ave, E Laurel Ave | 246 |
-| [414-B](https://precinct.netpress.com/#10-414-B) |  | 14 |
-| [415](https://precinct.netpress.com/#10-415) |  | 3 |
-| [416](https://precinct.netpress.com/#10-416) |  | 0 |
-| [422](https://precinct.netpress.com/#10-422) | Fresno | 0 |
+| [414-B](https://precinct.netpress.com/#10-414-B) | Along E McKenzie Ave | 14 |
+| [415](https://precinct.netpress.com/#10-415) | Near S Adler Ave | 3 |
+| [416](https://precinct.netpress.com/#10-416) | Along E Annadale Ave | 0 |
+| [422](https://precinct.netpress.com/#10-422) | Fresno; along N Santa Fe Ave | 0 |
 | [423](https://precinct.netpress.com/#10-423) | N Grantland Ave | 2 |
-| [424-A](https://precinct.netpress.com/#10-424-A) |  | 0 |
+| [424-A](https://precinct.netpress.com/#10-424-A) | Along N Hughes Ave | 0 |
 | [424-B](https://precinct.netpress.com/#10-424-B) | W Dudley Ave, W Dennett Ave, N Monte Ave | 440 |
 | [425-A](https://precinct.netpress.com/#10-425-A) | N Cornelia Ave, N Blythe Ave, N Polk | 73 |
 | [425-B](https://precinct.netpress.com/#10-425-B) | Kearney Frontage S, W Madison Ave, W Kearney Blvd | 195 |
-| [425-C](https://precinct.netpress.com/#10-425-C) |  | 9 |
+| [425-C](https://precinct.netpress.com/#10-425-C) | Along W Madison Ave | 9 |
 | [425-D](https://precinct.netpress.com/#10-425-D) | W Whites Bridge Ave, N Brawley Ave, W Nielsen Ave | 33 |
-| [425-E](https://precinct.netpress.com/#10-425-E) |  | 0 |
-| [425-F](https://precinct.netpress.com/#10-425-F) |  | 38 |
-| [425-G](https://precinct.netpress.com/#10-425-G) |  | 11 |
+| [425-E](https://precinct.netpress.com/#10-425-E) | Near S Cornelia Ave | 0 |
+| [425-F](https://precinct.netpress.com/#10-425-F) | Near S Valentine Ave | 38 |
+| [425-G](https://precinct.netpress.com/#10-425-G) | Along Sequoia-Kings Canyon Fwy and Highway 180 | 11 |
 | [425-H](https://precinct.netpress.com/#10-425-H) | Kearney Frontage N, W Madison Ave, Kearney Frontage S | 203 |
 | [426](https://precinct.netpress.com/#10-426) | Eucalyptus, Cypress, Fair | 46 |
 | [427](https://precinct.netpress.com/#10-427) | West Park; S Valentine Ave, W Church Ave | 106 |
@@ -817,25 +817,25 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [430-B](https://precinct.netpress.com/#10-430-B) | Old Fig Garden; E Lansing Way | 46 |
 | [430-C](https://precinct.netpress.com/#10-430-C) | Old Fig Garden; Circle Dr N, Circle Dr S | 59 |
 | [433-A](https://precinct.netpress.com/#10-433-A) | Mayfair; N 6th St | 32 |
-| [433-B](https://precinct.netpress.com/#10-433-B) |  | 5 |
+| [433-B](https://precinct.netpress.com/#10-433-B) | Along E Union Ave | 5 |
 | [433-C](https://precinct.netpress.com/#10-433-C) | Mayfair | 17 |
 | [434-A](https://precinct.netpress.com/#10-434-A) | Mayfair and Fresno; Norris Dr W, Norris Dr E | 656 |
 | [434-B](https://precinct.netpress.com/#10-434-B) | Mayfair; N Bond St, E Terrace Ave | 250 |
-| [436](https://precinct.netpress.com/#10-436) |  | 11 |
+| [436](https://precinct.netpress.com/#10-436) | Along E Fountain Way | 11 |
 | [437-A](https://precinct.netpress.com/#10-437-A) | Mayfair; Kenmore Dr N, Arden Dr N | 856 |
 | [437-B](https://precinct.netpress.com/#10-437-B) | Mayfair; E Brentwood Ave, Kenmore Dr S | 396 |
 | [438](https://precinct.netpress.com/#10-438) | S Clovis Ave | 12 |
 | [439](https://precinct.netpress.com/#10-439) | N Barton Ave, Highway 168, E Union Ave | 83 |
-| [440](https://precinct.netpress.com/#10-440) |  | 5 |
+| [440](https://precinct.netpress.com/#10-440) | Near E Jensen Ave | 5 |
 | [441-A](https://precinct.netpress.com/#10-441-A) | N Sierra Vista Ave, E Shields Ave, N Chestnut Ave | 650 |
 | [441-B](https://precinct.netpress.com/#10-441-B) | N Chestnut Frontage, E Amherst Ave, E Brown Ave | 362 |
-| [442](https://precinct.netpress.com/#10-442) |  | 0 |
+| [442](https://precinct.netpress.com/#10-442) | Fresno; near E Clinton Ave | 0 |
 | [443-A](https://precinct.netpress.com/#10-443-A) | Fresno; N Jackson Ave, N Maple Ave | 701 |
 | [443-B](https://precinct.netpress.com/#10-443-B) | Fresno; N Rowell Ave, N Archie Ave | 367 |
 | [444-A](https://precinct.netpress.com/#10-444-A) | S Phillip Ave, E Garrett Ave, E Kaviland Ave | 142 |
 | [444-B](https://precinct.netpress.com/#10-444-B) | E Jensen Ave | 5 |
 | [446-A](https://precinct.netpress.com/#10-446-A) | E Vine Ave, E Drummond Ave, S Sylmar Ave | 113 |
-| [446-B](https://precinct.netpress.com/#10-446-B) |  | 21 |
+| [446-B](https://precinct.netpress.com/#10-446-B) | Along S Clovis Ave and E Jensen Ave | 21 |
 | [447-A](https://precinct.netpress.com/#10-447-A) | E North Ave, S Peach Ave, S Bliss Dr | 66 |
 | [447-B](https://precinct.netpress.com/#10-447-B) | E North Ave, S Sunnyside Ave, E Central Ave | 98 |
 | [448](https://precinct.netpress.com/#10-448) | Old Fig Garden; N College Ave, N Del Mar Ave | 905 |
@@ -843,26 +843,26 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [449-B](https://precinct.netpress.com/#10-449-B) | Fresno | 0 |
 | [450-A](https://precinct.netpress.com/#10-450-A) | Old Fig Garden; N Wishon Ave, N Wilson Ave | 856 |
 | [450-B](https://precinct.netpress.com/#10-450-B) | Old Fig Garden; N Arcade Ave, N Sunset Ave | 146 |
-| [451](https://precinct.netpress.com/#10-451) | Old Fig Garden | 2 |
+| [451](https://precinct.netpress.com/#10-451) | Old Fig Garden; along N Glenn Ave | 2 |
 | [452](https://precinct.netpress.com/#10-452) | W Stuart Ave, N Kavanagh Ave, N Lafayette Ave | 295 |
 | [453](https://precinct.netpress.com/#10-453) | N Briarwood Ave, W Roberts Ave | 13 |
 | [454](https://precinct.netpress.com/#10-454) | W San Carlos Ave, W San Ramon Ave, W San Madele Ave | 34 |
 | [455-A](https://precinct.netpress.com/#10-455-A) | Fresno; W Vandergrift Ave, N Doolittle Dr | 48 |
 | [455-B](https://precinct.netpress.com/#10-455-B) | N McCampbell Dr, W Kelly Ave, W Fallon Ave | 109 |
-| [455-C](https://precinct.netpress.com/#10-455-C) |  | 2 |
+| [455-C](https://precinct.netpress.com/#10-455-C) | Along N Blythe Ave | 2 |
 | [456](https://precinct.netpress.com/#10-456) | N Bryn Mawr Dr, N Marks Ave, W San Madele Ave | 547 |
 | [457](https://precinct.netpress.com/#10-457) | N Parrish Way, Dovewood Ln, N Van Ness Blvd | 334 |
 | [458](https://precinct.netpress.com/#10-458) | N St Catherine Ct, N Forkner Ave, N Van Ness Blvd | 412 |
 | [459-A](https://precinct.netpress.com/#10-459-A) | Fresno; Spy Glass Ave, N Laguna Vista Ave | 574 |
-| [459-C](https://precinct.netpress.com/#10-459-C) |  | 0 |
+| [459-C](https://precinct.netpress.com/#10-459-C) | Near N Valentine Ave | 0 |
 | [459-D](https://precinct.netpress.com/#10-459-D) | N Valentine Ave | 13 |
 | [460](https://precinct.netpress.com/#10-460) | N Carruth Ave, W Paul Ave, W Palo Alto Ave | 252 |
 | [461](https://precinct.netpress.com/#10-461) | N Dolores Ave, N Forkner Ave, W Vartikian Ave | 146 |
-| [462-A](https://precinct.netpress.com/#10-462-A) | W San Bruno Ave, W San Ramon Ave, W San Madele Ave, W Scott Ave | 477 |
+| [462-A](https://precinct.netpress.com/#10-462-A) | W San Bruno Ave, W San Ramon Ave, W San Madele Ave | 477 |
 | [462-B](https://precinct.netpress.com/#10-462-B) | W Wrenwood Ave, W Robinwood Ln, W Dovewood Ln | 349 |
 | [463](https://precinct.netpress.com/#10-463) | W Twain Ave, W Keats Ave, N Teilman Ave | 65 |
 | [464](https://precinct.netpress.com/#10-464) | W Twain Ave, N Harrison Ave | 62 |
-| [465](https://precinct.netpress.com/#10-465) | W San Bruno Ave, W San Ramon Ave, W San Madele Ave, W Keats Ave | 486 |
+| [465](https://precinct.netpress.com/#10-465) | W San Bruno Ave, W San Ramon Ave, W San Madele Ave | 486 |
 | [466](https://precinct.netpress.com/#10-466) | N Winchester Ave, N Colonial Ave, La Ville Barstow | 606 |
 | [467-A](https://precinct.netpress.com/#10-467-A) | W Tenaya Way, W Stuart Ave, W Escalon Ave | 514 |
 | [467-B](https://precinct.netpress.com/#10-467-B) | W Ellery Way, W Tenaya Way, N West Frontage Ave | 737 |
@@ -872,19 +872,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [472-A](https://precinct.netpress.com/#10-472-A) | W Vartikian Ave, N Bergeron Ave, W Sample Ave | 319 |
 | [472-B](https://precinct.netpress.com/#10-472-B) | W Vartikian Ave, N Colonial Ave, W Sample Ave | 130 |
 | [475-A](https://precinct.netpress.com/#10-475-A) | N Colonial Ave, N Nantucket Ave, N Roosevelt Ave | 570 |
-| [475-B](https://precinct.netpress.com/#10-475-B) |  | 4 |
+| [475-B](https://precinct.netpress.com/#10-475-B) | Near N Maroa Ave | 4 |
 | [475-C](https://precinct.netpress.com/#10-475-C) | N Maroa Ave, W San Carlos Ave, W Barstow Ave | 226 |
 | [475-D](https://precinct.netpress.com/#10-475-D) | N Bungalow Ln | 44 |
-| [476](https://precinct.netpress.com/#10-476) | Old Fig Garden | 3 |
+| [476](https://precinct.netpress.com/#10-476) | Old Fig Garden; along N Wishon Ct | 3 |
 | [480](https://precinct.netpress.com/#10-480) | S Lind Ave, S Bush Ave, S Caesar Ave | 148 |
 | [481](https://precinct.netpress.com/#10-481) | Easterby Dr N, N Orangewood Ave, N Walling Ave | 913 |
 | [482-A](https://precinct.netpress.com/#10-482-A) | Fresno; N Dewitt Ave, E McKenzie Ave | 257 |
 | [482-B](https://precinct.netpress.com/#10-482-B) | Fresno; Clovis Ave, N Minnewawa Ave | 174 |
 | [488](https://precinct.netpress.com/#10-488) | Fresno; N Denali, E Sussex Way | 767 |
-| [489-A](https://precinct.netpress.com/#10-489-A) | Clovis; Adler Dr, Pierce Dr, Almond Dr | 124 |
+| [489-A](https://precinct.netpress.com/#10-489-A) | Clovis; Adler Dr, Pierce Dr | 124 |
 | [489-B](https://precinct.netpress.com/#10-489-B) | Clovis; Willow Ave | 0 |
 | [490-A](https://precinct.netpress.com/#10-490-A) | Clovis; Sylmar Ave, W Barstow Ave | 287 |
-| [490-B](https://precinct.netpress.com/#10-490-B) | Clovis; Adler Dr, Pierce Dr, W Beverly Dr | 255 |
+| [490-B](https://precinct.netpress.com/#10-490-B) | Clovis; Adler Dr, Pierce Dr | 255 |
 | [491](https://precinct.netpress.com/#10-491) | N Ferger Ave, Palm Frontage Ave, W Palo Alto Ave | 338 |
 | [492](https://precinct.netpress.com/#10-492) | Clovis; Larkin Ave, Phillip Ave | 0 |
 | [493-A](https://precinct.netpress.com/#10-493-A) | S Crystal Ave | 27 |
@@ -1003,31 +1003,31 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [558](https://precinct.netpress.com/#10-558) | Tarpey Village; N Sunnyside Ave | 7 |
 | [559-A](https://precinct.netpress.com/#10-559-A) | Amber Ave, N Indianola Ave, San Juan Ave | 778 |
 | [559-B](https://precinct.netpress.com/#10-559-B) | Heather Ln, Greenwood Ave, Poinsetta Ave | 162 |
-| [559-C](https://precinct.netpress.com/#10-559-C) |  | 0 |
-| [559-D](https://precinct.netpress.com/#10-559-D) |  | 0 |
+| [559-C](https://precinct.netpress.com/#10-559-C) | Near E Shaw Ave | 0 |
+| [559-D](https://precinct.netpress.com/#10-559-D) | Near E Shaw Ave | 0 |
 | [560-A](https://precinct.netpress.com/#10-560-A) | N Fancher Rd, E Alluvial Ave, N Traverse Ave | 778 |
-| [560-B](https://precinct.netpress.com/#10-560-B) |  | 4 |
+| [560-B](https://precinct.netpress.com/#10-560-B) | Near E Herndon Ave | 4 |
 | [561-A](https://precinct.netpress.com/#10-561-A) | Silaxo, N Live Oak Dr, E Alder Dr | 62 |
 | [561-B](https://precinct.netpress.com/#10-561-B) | Fresno; N Portofina Dr, N Ocaso Dr | 548 |
 | [562-A](https://precinct.netpress.com/#10-562-A) | E Herndon Ave, N Sheridan Rd, N Leonard | 727 |
 | [562-B](https://precinct.netpress.com/#10-562-B) | N Mc Call Ave, N Marjan Ave, N Gaynor Ave | 287 |
 | [562-C](https://precinct.netpress.com/#10-562-C) | Herndon Ave | 5 |
 | [562-D](https://precinct.netpress.com/#10-562-D) | N Bataan Ave, N De Wolf Ave, E Paul Ave | 118 |
-| [562-E](https://precinct.netpress.com/#10-562-E) |  | 35 |
-| [562-F](https://precinct.netpress.com/#10-562-F) | Clovis | 4 |
+| [562-E](https://precinct.netpress.com/#10-562-E) | Clovis; near E Bullard Ave | 35 |
+| [562-F](https://precinct.netpress.com/#10-562-F) | Clovis; along E Bullard Ave | 4 |
 | [563-A](https://precinct.netpress.com/#10-563-A) | Clovis; Aqua Dulce Ave, Valor Ave | 801 |
 | [563-B](https://precinct.netpress.com/#10-563-B) | Clovis; Lindsay Ln, Skylar Ln | 180 |
 | [564-A](https://precinct.netpress.com/#10-564-A) | N Friant Rd, E Birkhead Ave, Moffatt Ln | 32 |
 | [565](https://precinct.netpress.com/#10-565) | Polson Ave | 20 |
 | [566](https://precinct.netpress.com/#10-566) | Perrin Rd | 5 |
 | [567-A](https://precinct.netpress.com/#10-567-A) | N Thompson, E Behymer Ave, N Leonard Ave | 6 |
-| [567-B](https://precinct.netpress.com/#10-567-B) |  | 3 |
+| [567-B](https://precinct.netpress.com/#10-567-B) | Along Tollhouse Rd | 3 |
 | [567-C](https://precinct.netpress.com/#10-567-C) | E Appaloosa Ave, Marietta Ave, Stetson Rd | 418 |
 | [567-D](https://precinct.netpress.com/#10-567-D) | Friant; Lost Lake, Biglione Dr | 876 |
 | [568-A](https://precinct.netpress.com/#10-568-A) | Sample Rd, Academy Oaks Ln, Granite Hills | 580 |
-| [568-B](https://precinct.netpress.com/#10-568-B) |  | 16 |
+| [568-B](https://precinct.netpress.com/#10-568-B) | Near Tollhouse Rd | 16 |
 | [568-C](https://precinct.netpress.com/#10-568-C) | Pittman Hill Rd, Towelling Rd, Sales Creek Rd | 401 |
-| [568-D](https://precinct.netpress.com/#10-568-D) |  | 0 |
+| [568-D](https://precinct.netpress.com/#10-568-D) | Along N Academy Ave Exd | 0 |
 | [568-G](https://precinct.netpress.com/#10-568-G) | N Madsen Ave, Dipper Ln | 11 |
 | [568-H](https://precinct.netpress.com/#10-568-H) | Pine Flat Reservoir, Trimmer Springs Rd, Hog Mtn Fire Rd | 576 |
 | [569-A](https://precinct.netpress.com/#10-569-A) | Clovis; Bloom Ave, Heirloom Ave | 1,064 |
@@ -1037,15 +1037,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [571](https://precinct.netpress.com/#10-571) | N Locan Ave, N Maine Ave, E Paul Ave | 199 |
 | [572-A](https://precinct.netpress.com/#10-572-A) | N Linda Ln, E Teague Ave, E Lebanon Ave | 486 |
 | [572-C](https://precinct.netpress.com/#10-572-C) | Ticonderoga Ave, Perrin Rd, Lexington Ave | 265 |
-| [572-D](https://precinct.netpress.com/#10-572-D) |  | 13 |
+| [572-D](https://precinct.netpress.com/#10-572-D) | Near E Shepherd Ave | 13 |
 | [572-E](https://precinct.netpress.com/#10-572-E) | E Copper Ave, E International Ave, N Carson Ave | 649 |
-| [573-A](https://precinct.netpress.com/#10-573-A) |  | 6 |
-| [573-B](https://precinct.netpress.com/#10-573-B) |  | 0 |
+| [573-A](https://precinct.netpress.com/#10-573-A) | Along E Behymer Ave and N Peach Ave | 6 |
+| [573-B](https://precinct.netpress.com/#10-573-B) | Near N Minnewawa Ave | 0 |
 | [574-A](https://precinct.netpress.com/#10-574-A) | E Trimmer Springs Rd, Pine Flat Rd, Watts Valley Rd | 279 |
 | [574-B](https://precinct.netpress.com/#10-574-B) | Lark Ln, E Nees Ave | 13 |
-| [574-C](https://precinct.netpress.com/#10-574-C) |  | 2 |
+| [574-C](https://precinct.netpress.com/#10-574-C) | Along N Chamise Ave and Chamise Ave | 2 |
 | [574-D](https://precinct.netpress.com/#10-574-D) | N Chamise Ave, Chamise Ave, Violet Ln | 32 |
-| [574-E](https://precinct.netpress.com/#10-574-E) |  | 2 |
+| [574-E](https://precinct.netpress.com/#10-574-E) | Near E Falcon Meadow Ln | 2 |
 | [575-A](https://precinct.netpress.com/#10-575-A) | Millerton and Friant; Friant Kern Cnl, Millerton Rd | 774 |
 | [575-B](https://precinct.netpress.com/#10-575-B) | Millerton; Sky Harbour Rd, Millerton Lake | 369 |
 | [576](https://precinct.netpress.com/#10-576) | Clovis; Riordan Ave, Prescott Ln | 648 |
@@ -1068,31 +1068,31 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [589-C](https://precinct.netpress.com/#10-589-C) | Auberry; Smalley Rd, Sweetwater Rd | 327 |
 | [589-D](https://precinct.netpress.com/#10-589-D) | Auberry; Little Sandy Rd, Blue Heron Ln | 749 |
 | [589-E](https://precinct.netpress.com/#10-589-E) | Mendocino, Newmark Rd, Deer Path Ln | 141 |
-| [589-F](https://precinct.netpress.com/#10-589-F) |  | 2 |
+| [589-F](https://precinct.netpress.com/#10-589-F) | Near Tollhouse Rd | 2 |
 | [590-A](https://precinct.netpress.com/#10-590-A) | S Highland Ave, E Butler Ave, S Thompson Ave | 36 |
 | [590-B](https://precinct.netpress.com/#10-590-B) | N Temperance Ave, N Emperor Ave, E Tulare Ave | 146 |
 | [590-C](https://precinct.netpress.com/#10-590-C) | E California Ave, S Dockery Ave, E Butler Ave | 120 |
 | [590-D](https://precinct.netpress.com/#10-590-D) | N Del Rey Ave, E Butler Ave | 10 |
 | [590-E](https://precinct.netpress.com/#10-590-E) | E Butler Ave, S Locan Ave | 52 |
 | [590-F](https://precinct.netpress.com/#10-590-F) | S Leonard Ave | 30 |
-| [591](https://precinct.netpress.com/#10-591) |  | 0 |
+| [591](https://precinct.netpress.com/#10-591) | Near E Shepherd Ave | 0 |
 | [592-A](https://precinct.netpress.com/#10-592-A) | Fresno; N Highland Ave, N De Wolf Ave | 153 |
 | [592-B](https://precinct.netpress.com/#10-592-B) | Fresno; N McCall Ave, N Dockery | 376 |
 | [593-A](https://precinct.netpress.com/#10-593-A) | Herndon Ave, N Thompson Ave | 11 |
-| [593-B](https://precinct.netpress.com/#10-593-B) |  | 6 |
+| [593-B](https://precinct.netpress.com/#10-593-B) | Near N Madsen Ave | 6 |
 | [593-C](https://precinct.netpress.com/#10-593-C) | N Blackhawk Ln, N Ranger Ave, N Autumn Ave | 685 |
-| [593-D](https://precinct.netpress.com/#10-593-D) |  | 3 |
+| [593-D](https://precinct.netpress.com/#10-593-D) | Near Tollhouse Rd | 3 |
 | [593-F](https://precinct.netpress.com/#10-593-F) | E Herndon Ave, N Academy Ave Exd | 2 |
 | [593-G](https://precinct.netpress.com/#10-593-G) | Cole, N Highland Ave, N Montana Ave | 126 |
 | [594](https://precinct.netpress.com/#10-594) | Clovis; Sussex Ave, Joaquin Ave | 701 |
 | [595](https://precinct.netpress.com/#10-595) | E McKenzie Ave | 45 |
 | [596-A](https://precinct.netpress.com/#10-596-A) | N Fancher Ave, E Mc Kinley Ave, E Hammond | 313 |
 | [596-B](https://precinct.netpress.com/#10-596-B) | E Mc Kinley Ave | 0 |
-| [596-C](https://precinct.netpress.com/#10-596-C) |  | 29 |
+| [596-C](https://precinct.netpress.com/#10-596-C) | Along N Temperance Ave and E Floradora Ave | 29 |
 | [597-A](https://precinct.netpress.com/#10-597-A) | E Belmont Ave, Valley Forge, N McCall Ave | 223 |
-| [597-B](https://precinct.netpress.com/#10-597-B) |  | 13 |
+| [597-B](https://precinct.netpress.com/#10-597-B) | Near E Belmont Ave | 13 |
 | [597-C](https://precinct.netpress.com/#10-597-C) | N Fancher Ave, Highland | 41 |
-| [598](https://precinct.netpress.com/#10-598) | Clovis | 0 |
+| [598](https://precinct.netpress.com/#10-598) | Clovis; along N Highland Ave and E Gettsburg Ave | 0 |
 | [599-A](https://precinct.netpress.com/#10-599-A) | Clovis; Loma Visa Pkwy, Las Rosa Ave | 970 |
 | [599-B](https://precinct.netpress.com/#10-599-B) | Clovis; Highland Ave, Almos Ave | 346 |
 | [599-C](https://precinct.netpress.com/#10-599-C) | Clovis; Highclere Way, Loma Vista Pkwy | 351 |
@@ -1107,29 +1107,29 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [601-B](https://precinct.netpress.com/#10-601-B) | Fowler; W Walter Ave, Valley Mobile Home Park | 694 |
 | [601-C](https://precinct.netpress.com/#10-601-C) | Fowler; E Stockton St, N Sixth | 110 |
 | [601-D](https://precinct.netpress.com/#10-601-D) | Fowler; N Gleason Ave, E Goble Ave | 930 |
-| [601-E](https://precinct.netpress.com/#10-601-E) | Fowler | 4 |
-| [601-F](https://precinct.netpress.com/#10-601-F) | Fowler | 57 |
-| [602-A](https://precinct.netpress.com/#10-602-A) |  | 27 |
+| [601-E](https://precinct.netpress.com/#10-601-E) | Fowler; along N Armstrong Ave | 4 |
+| [601-F](https://precinct.netpress.com/#10-601-F) | Fowler; along S Armstrong Ave | 57 |
+| [602-A](https://precinct.netpress.com/#10-602-A) | Along E Central Ave | 27 |
 | [602-B](https://precinct.netpress.com/#10-602-B) | S Fig Ave, W American Ave | 69 |
 | [602-C](https://precinct.netpress.com/#10-602-C) | S Walnut Ave, W Central Ave | 21 |
-| [602-D](https://precinct.netpress.com/#10-602-D) |  | 2 |
+| [602-D](https://precinct.netpress.com/#10-602-D) | Easton; near Highway 41 | 2 |
 | [602-E](https://precinct.netpress.com/#10-602-E) | Easton; E Jefferson Ave | 5 |
 | [602-F](https://precinct.netpress.com/#10-602-F) | Highway 41, E Central Ave | 24 |
 | [602-G](https://precinct.netpress.com/#10-602-G) | S Martin Luther King Jr Blvd, S Fig Ave | 8 |
 | [603-A](https://precinct.netpress.com/#10-603-A) | E American Ave, E Malaga Ave, S Orange Ave | 108 |
-| [603-B](https://precinct.netpress.com/#10-603-B) |  | 27 |
+| [603-B](https://precinct.netpress.com/#10-603-B) | Along E Malaga Ave | 27 |
 | [603-C](https://precinct.netpress.com/#10-603-C) | E Malaga Ave | 1 |
 | [603-E](https://precinct.netpress.com/#10-603-E) | S Orange Ave, E Central Ave | 34 |
-| [604-A](https://precinct.netpress.com/#10-604-A) |  | 10 |
+| [604-A](https://precinct.netpress.com/#10-604-A) | Along S Minnewawa Ave | 10 |
 | [604-B](https://precinct.netpress.com/#10-604-B) | Malaga; S Harding Ave, S Ward Ave | 412 |
 | [604-C](https://precinct.netpress.com/#10-604-C) | Malaga; E Wawona Ave, E Muscat Ave | 94 |
 | [604-D](https://precinct.netpress.com/#10-604-D) | S Willow Ave | 29 |
 | [604-E](https://precinct.netpress.com/#10-604-E) | E Cartwright Ave, S Bagley Ave, S Golden State Blvd | 11 |
 | [604-F](https://precinct.netpress.com/#10-604-F) | S Minnewawa Ave | 0 |
-| [604-G](https://precinct.netpress.com/#10-604-G) |  | 0 |
+| [604-G](https://precinct.netpress.com/#10-604-G) | Near S Willow Ave | 0 |
 | [604-H](https://precinct.netpress.com/#10-604-H) | S Willow Ave | 9 |
 | [604-I](https://precinct.netpress.com/#10-604-I) | S Chestnut Ave | 1 |
-| [604-J](https://precinct.netpress.com/#10-604-J) |  | 1 |
+| [604-J](https://precinct.netpress.com/#10-604-J) | Near Highway 99 | 1 |
 | [605-A](https://precinct.netpress.com/#10-605-A) | S Harris Ave, E Mott Ave, E South Ave | 31 |
 | [605-B](https://precinct.netpress.com/#10-605-B) | Highway 99, S Clovis Ave, S Burgan Ave | 49 |
 | [605-C](https://precinct.netpress.com/#10-605-C) | E Walter Ave, E Mott Ave, S Locan Ave | 15 |
@@ -1138,7 +1138,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [605-F](https://precinct.netpress.com/#10-605-F) | E Jefferson Ave | 36 |
 | [605-G](https://precinct.netpress.com/#10-605-G) | E Lincoln Ave, Fowler Ave, S Armstrong Ave | 37 |
 | [605-H](https://precinct.netpress.com/#10-605-H) | S Peach Ave, S Minnewawa Ave, E Clayton Ave | 43 |
-| [605-I](https://precinct.netpress.com/#10-605-I) |  | 8 |
+| [605-I](https://precinct.netpress.com/#10-605-I) | Along E Sumner Ave | 8 |
 | [605-J](https://precinct.netpress.com/#10-605-J) | S Kenneth Ave, S Villa Ave, S Willow Ave | 110 |
 | [605-K](https://precinct.netpress.com/#10-605-K) | Fowler; Golden State Frontage, E Clayton Ave | 17 |
 | [606-A](https://precinct.netpress.com/#10-606-A) | E Jefferson, E American Ave, S Armstrong Ave | 100 |
@@ -1147,12 +1147,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [606-D](https://precinct.netpress.com/#10-606-D) | S Clovis Ave, E American Ave, E Jefferson Ave | 107 |
 | [606-E](https://precinct.netpress.com/#10-606-E) | S Leonard Ave, S Thompson Ave | 36 |
 | [606-F](https://precinct.netpress.com/#10-606-F) | E Lincoln Ave, E Adams Ave, S Del Rey Ave | 34 |
-| [606-G](https://precinct.netpress.com/#10-606-G) |  | 1 |
+| [606-G](https://precinct.netpress.com/#10-606-G) | Del Rey; near E American Ave | 1 |
 | [607](https://precinct.netpress.com/#10-607) | Fresno | 0 |
 | [608-A](https://precinct.netpress.com/#10-608-A) | Burbon St, S Golden State Blvd, S Minnewawa Ave | 37 |
 | [608-B](https://precinct.netpress.com/#10-608-B) | S Temperance Ave | 16 |
 | [608-C](https://precinct.netpress.com/#10-608-C) | S Armstrong Ave | 5 |
-| [608-D](https://precinct.netpress.com/#10-608-D) |  | 2 |
+| [608-D](https://precinct.netpress.com/#10-608-D) | Near S Fowler Ave | 2 |
 | [608-E](https://precinct.netpress.com/#10-608-E) | S De Wolf Ave, E Central Ave, S Locan Ave | 66 |
 | [608-F](https://precinct.netpress.com/#10-608-F) | E Central Ave, Thompson Ave, Highland Ave | 50 |
 | [609](https://precinct.netpress.com/#10-609) | S Cherry Ave, E Britten Ave, E Daleville Ave | 190 |
@@ -1171,8 +1171,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [612-D](https://precinct.netpress.com/#10-612-D) | Selma; Gaither St, Logan St | 245 |
 | [612-E](https://precinct.netpress.com/#10-612-E) | Selma; Chandler St, Willow St | 244 |
 | [612-F](https://precinct.netpress.com/#10-612-F) | Selma; Whitson St, Chandler St | 70 |
-| [612-G](https://precinct.netpress.com/#10-612-G) | Selma | 0 |
-| [612-H](https://precinct.netpress.com/#10-612-H) | Selma | 1 |
+| [612-G](https://precinct.netpress.com/#10-612-G) | Selma; along Floral Ave and Thompson Ave | 0 |
+| [612-H](https://precinct.netpress.com/#10-612-H) | Selma; along Stillman St | 1 |
 | [612-I](https://precinct.netpress.com/#10-612-I) | Selma; Sherman St, Branch St | 205 |
 | [612-J](https://precinct.netpress.com/#10-612-J) | Selma; North St, Whitson St | 69 |
 | [612-K](https://precinct.netpress.com/#10-612-K) | Selma; E St | 13 |
@@ -1195,9 +1195,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [616-C](https://precinct.netpress.com/#10-616-C) | Selma; Highland Ave, Whitson St | 724 |
 | [617-A](https://precinct.netpress.com/#10-617-A) | S Amber Ave, E Rose Ave, E Floral Ave | 15 |
 | [617-B](https://precinct.netpress.com/#10-617-B) | Selma; S Bethel Ave, S Del Rey Ave | 40 |
-| [617-D](https://precinct.netpress.com/#10-617-D) |  | 5 |
+| [617-D](https://precinct.netpress.com/#10-617-D) | Near S Bethel Ave | 5 |
 | [617-E](https://precinct.netpress.com/#10-617-E) | S Bethel Ave, E Saginaw Ave | 16 |
-| [618](https://precinct.netpress.com/#10-618) |  | 18 |
+| [618](https://precinct.netpress.com/#10-618) | Near W Roy Ave | 18 |
 | [619-A](https://precinct.netpress.com/#10-619-A) | Selma; Sierra View St, Northview St | 317 |
 | [619-B](https://precinct.netpress.com/#10-619-B) | Selma; Claursen Dr, Blinkey Dr | 364 |
 | [619-C](https://precinct.netpress.com/#10-619-C) | Selma; Allan St, Hicks St | 198 |
@@ -1205,13 +1205,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [619-E](https://precinct.netpress.com/#10-619-E) | Selma | 0 |
 | [619-F](https://precinct.netpress.com/#10-619-F) | Selma; Goldridge St, Allan St | 78 |
 | [620-A](https://precinct.netpress.com/#10-620-A) | Fresno | 7 |
-| [620-B](https://precinct.netpress.com/#10-620-B) | Fresno | 0 |
+| [620-B](https://precinct.netpress.com/#10-620-B) | Fresno; along S Martin Luther King Jr Blvd | 0 |
 | [620-C](https://precinct.netpress.com/#10-620-C) | Fresno | 2 |
 | [621-A](https://precinct.netpress.com/#10-621-A) | Selma; S Mill Ditch Ave, Ditch Rd | 738 |
 | [621-B](https://precinct.netpress.com/#10-621-B) | Selma; Mulberry St, Nelson Blvd | 268 |
 | [621-C](https://precinct.netpress.com/#10-621-C) | Selma; Sarah, Garfield | 93 |
 | [621-D](https://precinct.netpress.com/#10-621-D) | Selma; Mulberry, Northview | 50 |
-| [622-A](https://precinct.netpress.com/#10-622-A) | Selma | 0 |
+| [622-A](https://precinct.netpress.com/#10-622-A) | Selma; along S Leonard Ave | 0 |
 | [622-B](https://precinct.netpress.com/#10-622-B) | Selma; Art Gonzales Pkwy, Golden State Blvd | 16 |
 | [623-A](https://precinct.netpress.com/#10-623-A) | Selma; Cinema Way, Whitson St | 244 |
 | [623-B](https://precinct.netpress.com/#10-623-B) | Selma; Fig, Mill | 562 |
@@ -1243,7 +1243,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [628-M](https://precinct.netpress.com/#10-628-M) | S Whitner Ave | 4 |
 | [628-N](https://precinct.netpress.com/#10-628-N) | S Lac Jac Ave, Walker Ct, S Lac Jac Ct | 53 |
 | [628-O](https://precinct.netpress.com/#10-628-O) | W Manning Ave | 9 |
-| [628-P](https://precinct.netpress.com/#10-628-P) |  | 6 |
+| [628-P](https://precinct.netpress.com/#10-628-P) | Near E Manning Ave | 6 |
 | [629-A](https://precinct.netpress.com/#10-629-A) | S Bethel Ave, S Indianola Ave, E Manning Ave | 115 |
 | [629-B](https://precinct.netpress.com/#10-629-B) | E Bowles, E Ostler St, E Khan St | 264 |
 | [629-C](https://precinct.netpress.com/#10-629-C) | S Del Rey Ave | 78 |
@@ -1259,9 +1259,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [630-D](https://precinct.netpress.com/#10-630-D) | S De Wolf Ave | 9 |
 | [630-E](https://precinct.netpress.com/#10-630-E) | E Clarkson Ave, S De Wolf Ave | 19 |
 | [630-H](https://precinct.netpress.com/#10-630-H) | Vineyard Way, S Fowler Ave | 0 |
-| [631](https://precinct.netpress.com/#10-631) |  | 1 |
+| [631](https://precinct.netpress.com/#10-631) | Near S Amber Ave | 1 |
 | [632](https://precinct.netpress.com/#10-632) | Fresno | 0 |
-| [633](https://precinct.netpress.com/#10-633) | Selma | 0 |
+| [633](https://precinct.netpress.com/#10-633) | Selma; along E Floral Ave and S Del Rey Ave | 0 |
 | [634](https://precinct.netpress.com/#10-634) | Kingsburg; Meadow Ln, Sierra St | 415 |
 | [635-A](https://precinct.netpress.com/#10-635-A) | Kingsburg; Solig Ave, Daffodil St | 417 |
 | [635-B](https://precinct.netpress.com/#10-635-B) | Kingsburg; Silverbrooke St, Howard St | 263 |
@@ -1279,7 +1279,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [639-H](https://precinct.netpress.com/#10-639-H) | Kingsburg | 4 |
 | [640-A](https://precinct.netpress.com/#10-640-A) | Kingsburg; Simpson St, S Bethel Ave | 51 |
 | [640-B](https://precinct.netpress.com/#10-640-B) | Kingsburg | 0 |
-| [640-E](https://precinct.netpress.com/#10-640-E) | Kingsburg | 0 |
+| [640-E](https://precinct.netpress.com/#10-640-E) | Kingsburg; along Golden State Blvd | 0 |
 | [640-F](https://precinct.netpress.com/#10-640-F) | Kingsburg; Golden State Blvd | 0 |
 | [641-A](https://precinct.netpress.com/#10-641-A) | Kingsburg; 1st Ave, A Ave | 456 |
 | [641-B](https://precinct.netpress.com/#10-641-B) | Kingsburg; Ave F, W Nevada | 492 |
@@ -1298,18 +1298,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [643-J](https://precinct.netpress.com/#10-643-J) | Kingsburg; 18th Ave, Union St | 37 |
 | [643-K](https://precinct.netpress.com/#10-643-K) | Kingsburg; 18th Ave, Washington St | 77 |
 | [643-L](https://precinct.netpress.com/#10-643-L) | Kingsburg; Earl St, Marion St | 78 |
-| [643-M](https://precinct.netpress.com/#10-643-M) | Kingsburg | 23 |
+| [643-M](https://precinct.netpress.com/#10-643-M) | Kingsburg; along Union St and Ventura St | 23 |
 | [643-N](https://precinct.netpress.com/#10-643-N) | Kingsburg; 16th Ave, Union St | 97 |
 | [644-A](https://precinct.netpress.com/#10-644-A) | Kingsburg; Erling Way, Harold St | 401 |
 | [644-B](https://precinct.netpress.com/#10-644-B) | Kingsburg; Winter St, Madsen Ave | 566 |
 | [644-C](https://precinct.netpress.com/#10-644-C) | Kingsburg; Sophia Ln, Skansen St | 309 |
-| [645-A](https://precinct.netpress.com/#10-645-A) |  | 1 |
+| [645-A](https://precinct.netpress.com/#10-645-A) | Near E Conejo Ave | 1 |
 | [645-B](https://precinct.netpress.com/#10-645-B) | E Caruthers Ave | 6 |
 | [645-C](https://precinct.netpress.com/#10-645-C) | E Stroud Ave | 14 |
 | [645-D](https://precinct.netpress.com/#10-645-D) | E Caruthers Ave, E Mountain View Ave, S Mendocino Ave | 195 |
 | [645-E](https://precinct.netpress.com/#10-645-E) | E Kamm Ave, E Stroud Ave | 20 |
 | [645-F](https://precinct.netpress.com/#10-645-F) | 10th Ave | 1 |
-| [645-H](https://precinct.netpress.com/#10-645-H) |  | 2 |
+| [645-H](https://precinct.netpress.com/#10-645-H) | Along E Kamm Ave | 2 |
 | [646-A](https://precinct.netpress.com/#10-646-A) | Kingsburg; E Conejo Ave, Nelson Ave | 170 |
 | [646-C](https://precinct.netpress.com/#10-646-C) | Co Hwy J40, Highway 43, Thompson Ave | 81 |
 | [646-D](https://precinct.netpress.com/#10-646-D) | Highway 43, E Clarkson Ave, E Clarkson | 7 |
@@ -1321,11 +1321,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [647-B](https://precinct.netpress.com/#10-647-B) | S Mendocino Ave, E Rose Ave, S Academy Ave | 30 |
 | [647-C](https://precinct.netpress.com/#10-647-C) | E Saginaw Ave, S Smith Ave | 42 |
 | [647-D](https://precinct.netpress.com/#10-647-D) | E Rorden Ave, Rorden Ave, E Nebraska Ave | 59 |
-| [647-E](https://precinct.netpress.com/#10-647-E) |  | 0 |
+| [647-E](https://precinct.netpress.com/#10-647-E) | Along E Rorden Ave and Rorden Ave | 0 |
 | [647-F](https://precinct.netpress.com/#10-647-F) | E Rose Ave, S Zediker Ave, E Nebraska Ave | 75 |
 | [647-G](https://precinct.netpress.com/#10-647-G) | Johnson Ave, Smith Ave | 20 |
 | [647-H](https://precinct.netpress.com/#10-647-H) | E Nebraska Ave | 26 |
-| [647-I](https://precinct.netpress.com/#10-647-I) |  | 29 |
+| [647-I](https://precinct.netpress.com/#10-647-I) | Along S Bethel Ave and E Nebraska Ave | 29 |
 | [647-J](https://precinct.netpress.com/#10-647-J) | E Nebraska Ave | 6 |
 | [647-K](https://precinct.netpress.com/#10-647-K) | S Mac Donough Ave | 8 |
 | [647-L](https://precinct.netpress.com/#10-647-L) | E Saginaw Ave, Golden State Blvd | 15 |
@@ -1335,13 +1335,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [650-A](https://precinct.netpress.com/#10-650-A) | Clovis; N Peach Ave, E E Field | 21 |
 | [650-B](https://precinct.netpress.com/#10-650-B) | Clovis; E International Ave | 3 |
 | [651](https://precinct.netpress.com/#10-651) | Kingsburg | 0 |
-| [652](https://precinct.netpress.com/#10-652) |  | 17 |
+| [652](https://precinct.netpress.com/#10-652) | Along N Locan Ave | 17 |
 | [653](https://precinct.netpress.com/#10-653) | S Clovis Ave, S Peach Ave, E Saginaw Ave | 0 |
-| [657](https://precinct.netpress.com/#10-657) | Fresno | 0 |
-| [658](https://precinct.netpress.com/#10-658) |  | 18 |
+| [657](https://precinct.netpress.com/#10-657) | Fresno; along E Butler Ave | 0 |
+| [658](https://precinct.netpress.com/#10-658) | Near S Rainbow Ave | 18 |
 | [659](https://precinct.netpress.com/#10-659) | S Quality Ave, Church Ave, E Church Ave | 8 |
 | [660-A](https://precinct.netpress.com/#10-660-A) | Sanger; Academy Ave, 5th St | 302 |
-| [660-B](https://precinct.netpress.com/#10-660-B) | Sanger | 0 |
+| [660-B](https://precinct.netpress.com/#10-660-B) | Sanger; along E California Ave and Geary Ave | 0 |
 | [660-C](https://precinct.netpress.com/#10-660-C) | Sanger; Morton Ave, Segura Ave | 633 |
 | [660-D](https://precinct.netpress.com/#10-660-D) | Sanger; Academy Exn, Academy Ave | 0 |
 | [660-E](https://precinct.netpress.com/#10-660-E) | Sanger; Pearl St, Geary Ave | 572 |
@@ -1381,42 +1381,42 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [672-C](https://precinct.netpress.com/#10-672-C) | S Quality Ave, E Butler | 5 |
 | [672-D](https://precinct.netpress.com/#10-672-D) | E Woods Ave, S Quality Ave, E California Ave | 18 |
 | [673](https://precinct.netpress.com/#10-673) | Sanger; Hawley Ave, Oatman Ave | 352 |
-| [674](https://precinct.netpress.com/#10-674) | Sanger | 32 |
+| [674](https://precinct.netpress.com/#10-674) | Sanger; along Quality Ave | 32 |
 | [675-A](https://precinct.netpress.com/#10-675-A) | E Ashland Ave, Ashland Ave, E Sussex Ave | 881 |
 | [675-B](https://precinct.netpress.com/#10-675-B) | E Shaw Ave | 0 |
 | [675-C](https://precinct.netpress.com/#10-675-C) | N Greenwood Ave, Sussex Way, N Bethel Ave | 786 |
 | [676-A](https://precinct.netpress.com/#10-676-A) | Sanger; S Del Rey Ave, S Indianola Ave | 29 |
-| [676-B](https://precinct.netpress.com/#10-676-B) |  | 0 |
+| [676-B](https://precinct.netpress.com/#10-676-B) | Sanger; near Atchison Ave | 0 |
 | [677](https://precinct.netpress.com/#10-677) | S McKelvey Ave, S Arroyo Ave, S Temperance Ave | 159 |
 | [678](https://precinct.netpress.com/#10-678) | Sunnyside; S Burgan Ave, S Linda Ln | 764 |
 | [679-A](https://precinct.netpress.com/#10-679-A) | S Highland Ave, S Thompson Ave, S Leonard Ave | 87 |
 | [679-B](https://precinct.netpress.com/#10-679-B) | S McCall Ave, S Del Rey Ave | 31 |
 | [679-C](https://precinct.netpress.com/#10-679-C) | E Jensen Ave, S Highland Ave, S Leonard Ave | 51 |
 | [679-D](https://precinct.netpress.com/#10-679-D) | S De Wolf Ave, E Church Ave, S Locan Ave | 64 |
-| [679-E](https://precinct.netpress.com/#10-679-E) |  | 11 |
+| [679-E](https://precinct.netpress.com/#10-679-E) | Near E Jensen Ave | 11 |
 | [679-F](https://precinct.netpress.com/#10-679-F) | S Leonard Ave | 10 |
 | [679-G](https://precinct.netpress.com/#10-679-G) | E Muscat Ave, S Locan Ave, S Temperance Ave | 121 |
 | [679-I](https://precinct.netpress.com/#10-679-I) | E Jensen Ave, S Dockery Ave, S Del Rey Ave | 34 |
 | [679-J](https://precinct.netpress.com/#10-679-J) | S McCall Ave, S Dockery Ave | 14 |
 | [679-K](https://precinct.netpress.com/#10-679-K) | E Annadale Ave, S Dockery Ave, E Annadale | 28 |
-| [679-L](https://precinct.netpress.com/#10-679-L) |  | 0 |
+| [679-L](https://precinct.netpress.com/#10-679-L) | Along S McCall Ave | 0 |
 | [679-M](https://precinct.netpress.com/#10-679-M) | E Muscat Ave, E North Ave, S Leonard Ave | 74 |
 | [680-A](https://precinct.netpress.com/#10-680-A) | S Indianola Ave, E North Ave, Academy Ave | 171 |
 | [680-B](https://precinct.netpress.com/#10-680-B) | Del Rey; S Portola Ave, S Wildwood Ave | 240 |
 | [680-C](https://precinct.netpress.com/#10-680-C) | Del Rey; S Oak Lane Ave, S San Juan Ave | 95 |
 | [680-E](https://precinct.netpress.com/#10-680-E) | Orchid Ave | 28 |
 | [680-F](https://precinct.netpress.com/#10-680-F) | Sanger; E Annadale Ave | 16 |
-| [680-G](https://precinct.netpress.com/#10-680-G) |  | 0 |
+| [680-G](https://precinct.netpress.com/#10-680-G) | Along E North Ave and E Annadale Ave | 0 |
 | [680-H](https://precinct.netpress.com/#10-680-H) | Del Rey; S Greenwood Ave, E Adams Ave | 127 |
 | [680-I](https://precinct.netpress.com/#10-680-I) | Del Rey | 0 |
 | [680-J](https://precinct.netpress.com/#10-680-J) | Del Rey; S Autumn, S Zelkovia | 167 |
 | [680-K](https://precinct.netpress.com/#10-680-K) | S Del Rey Ave, E Central Ave, E Central | 10 |
 | [680-L](https://precinct.netpress.com/#10-680-L) | Del Rey; S McCall Ave, E Jefferson Ave | 21 |
-| [680-O](https://precinct.netpress.com/#10-680-O) |  | 0 |
+| [680-O](https://precinct.netpress.com/#10-680-O) | Near S Indianola Ave | 0 |
 | [680-P](https://precinct.netpress.com/#10-680-P) | S Carmel Ave, E Pismo Ave | 1 |
 | [681-B](https://precinct.netpress.com/#10-681-B) | S Reed Ave | 6 |
 | [682-B](https://precinct.netpress.com/#10-682-B) | N Fairbanks Ave, S Indianola Ave, E Woods Ave | 27 |
-| [682-C](https://precinct.netpress.com/#10-682-C) |  | 0 |
+| [682-C](https://precinct.netpress.com/#10-682-C) | Sanger; near Atchison Ave | 0 |
 | [683-A](https://precinct.netpress.com/#10-683-A) | Centerville; N Oliver Ave, E Belmont Ave | 77 |
 | [683-B](https://precinct.netpress.com/#10-683-B) | Centerville; N Zediker Ave, N Newmark Ave | 735 |
 | [683-C](https://precinct.netpress.com/#10-683-C) | Centerville; S Smith | 35 |
@@ -1426,8 +1426,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [683-G](https://precinct.netpress.com/#10-683-G) | E California Ave | 6 |
 | [683-H](https://precinct.netpress.com/#10-683-H) | Centerville; Ventura Ave | 9 |
 | [683-I](https://precinct.netpress.com/#10-683-I) | N Viau Ave, E Flume Ave, N Lac Jac Ave | 27 |
-| [683-L](https://precinct.netpress.com/#10-683-L) |  | 9 |
-| [683-M](https://precinct.netpress.com/#10-683-M) |  | 5 |
+| [683-L](https://precinct.netpress.com/#10-683-L) | Along E Clinton Ave | 9 |
+| [683-M](https://precinct.netpress.com/#10-683-M) | Centerville; near S Rainbow Ave | 5 |
 | [683-N](https://precinct.netpress.com/#10-683-N) | E McKinley Ave, E Floradora Ave, N Lac Jac Ave | 20 |
 | [683-O](https://precinct.netpress.com/#10-683-O) | E McKinley Ave | 2 |
 | [683-P](https://precinct.netpress.com/#10-683-P) | Centerville; S Oliver Ave, S Rainbow Ave | 12 |
@@ -1445,18 +1445,18 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [686-E](https://precinct.netpress.com/#10-686-E) | S Riverbend Ave | 21 |
 | [686-F](https://precinct.netpress.com/#10-686-F) | E Annadale Ave, S Riverbend Ave | 26 |
 | [686-H](https://precinct.netpress.com/#10-686-H) | S Rainbow Ave, S Rainbow Rte | 15 |
-| [686-I](https://precinct.netpress.com/#10-686-I) |  | 2 |
+| [686-I](https://precinct.netpress.com/#10-686-I) | Centerville; near S Rainbow Ave | 2 |
 | [687-A](https://precinct.netpress.com/#10-687-A) | Sanger; N Quality Ave, Highway 180 | 21 |
 | [687-B](https://precinct.netpress.com/#10-687-B) | Sanger; Kings Canyon Rd N, N Del Rey Ave | 262 |
 | [687-C](https://precinct.netpress.com/#10-687-C) | N Highland Ave | 2 |
 | [689](https://precinct.netpress.com/#10-689) | Sanger; E Buck Way | 21 |
 | [690](https://precinct.netpress.com/#10-690) | Sanger; S Lewis Ln, E Buck Way | 78 |
 | [691](https://precinct.netpress.com/#10-691) | Kings River, Annadale | 1 |
-| [692-A](https://precinct.netpress.com/#10-692-A) |  | 2 |
-| [692-B](https://precinct.netpress.com/#10-692-B) |  | 0 |
+| [692-A](https://precinct.netpress.com/#10-692-A) | Near N Viau Ave | 2 |
+| [692-B](https://precinct.netpress.com/#10-692-B) | Near E Trimmer Springs Rd | 0 |
 | [692-C](https://precinct.netpress.com/#10-692-C) | Kings River | 6 |
 | [692-D](https://precinct.netpress.com/#10-692-D) | N Riverbend Ave, E Bullard | 7 |
-| [692-F](https://precinct.netpress.com/#10-692-F) |  | 1 |
+| [692-F](https://precinct.netpress.com/#10-692-F) | Near N Lac Jac Ave | 1 |
 | [693-A](https://precinct.netpress.com/#10-693-A) | N Orchid Ave, E Shaw Ave, N Academy Ave Exd | 128 |
 | [693-B](https://precinct.netpress.com/#10-693-B) | N Round Mountain Ln, E Bullard Ave, E Shaw Ave | 109 |
 | [693-C](https://precinct.netpress.com/#10-693-C) | N Kittyhawk Ave, N Malvern Ave, E Rialto Ave | 228 |
@@ -1475,7 +1475,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [701-A](https://precinct.netpress.com/#10-701-A) | Parlier; Fett St, Eva Donna St | 532 |
 | [701-B](https://precinct.netpress.com/#10-701-B) | Parlier; E Amigo Dr, E Amigo Ave | 236 |
 | [701-C](https://precinct.netpress.com/#10-701-C) | Parlier; E Tuolumne St | 138 |
-| [701-D](https://precinct.netpress.com/#10-701-D) | Parlier | 111 |
+| [701-D](https://precinct.netpress.com/#10-701-D) | Parlier; along S Whitner Ave | 111 |
 | [701-E](https://precinct.netpress.com/#10-701-E) | Parlier; Kelly Ave, Candice Ave | 160 |
 | [701-F](https://precinct.netpress.com/#10-701-F) | Parlier; Tuolumns St, Madsen Ave | 0 |
 | [702-A](https://precinct.netpress.com/#10-702-A) | Parlier; E Mulberry Ln, E Ann Ave | 376 |
@@ -1497,9 +1497,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [705-F](https://precinct.netpress.com/#10-705-F) | E Adams Ave, S Smith Ave | 9 |
 | [706-A](https://precinct.netpress.com/#10-706-A) | E Goodfellow Ave | 0 |
 | [706-B](https://precinct.netpress.com/#10-706-B) | S Newmark Ave, E Fantz Ave, E Lincoln Ave | 141 |
-| [706-C](https://precinct.netpress.com/#10-706-C) |  | 4 |
+| [706-C](https://precinct.netpress.com/#10-706-C) | Near E Goodfellow Ave | 4 |
 | [706-D](https://precinct.netpress.com/#10-706-D) | S Greenwood Ave, S Academy Ave, E American Ave | 277 |
-| [706-E](https://precinct.netpress.com/#10-706-E) |  | 2 |
+| [706-E](https://precinct.netpress.com/#10-706-E) | Near E American Ave | 2 |
 | [706-F](https://precinct.netpress.com/#10-706-F) | S Zediker Ave | 2 |
 | [707-A](https://precinct.netpress.com/#10-707-A) | Kings River | 0 |
 | [707-B](https://precinct.netpress.com/#10-707-B) | Reedley; Kings River | 6 |
@@ -1507,7 +1507,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [707-E](https://precinct.netpress.com/#10-707-E) | S Wallace Ave, Kings River, Kings River Ave | 46 |
 | [707-H](https://precinct.netpress.com/#10-707-H) | S Rio Vista Ave, S Kings River Rd | 4 |
 | [707-I](https://precinct.netpress.com/#10-707-I) | Reedley; Kings River | 6 |
-| [708](https://precinct.netpress.com/#10-708) |  | 29 |
+| [708](https://precinct.netpress.com/#10-708) | Along S Zediker Ave and S Newmark Ave | 29 |
 | [709-A](https://precinct.netpress.com/#10-709-A) | Holbrook, Holbrook Ave, Reed | 70 |
 | [709-B](https://precinct.netpress.com/#10-709-B) | S Reed Ave, N Reed Ave, Reed | 0 |
 | [709-C](https://precinct.netpress.com/#10-709-C) | Uknown, E Goodfellow Ave, Rio Vis | 25 |
@@ -1516,7 +1516,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [709-F](https://precinct.netpress.com/#10-709-F) | S Reed Ave, Reed, Goodfellow | 33 |
 | [710](https://precinct.netpress.com/#10-710) | Parlier; Acad, S Academy Ave | 6 |
 | [711-A](https://precinct.netpress.com/#10-711-A) | Reedley; W Eymann Ave, W Flora Ave | 880 |
-| [711-B](https://precinct.netpress.com/#10-711-B) | Reedley | 0 |
+| [711-B](https://precinct.netpress.com/#10-711-B) | Reedley; along W Manning Ave | 0 |
 | [712-A](https://precinct.netpress.com/#10-712-A) | Reedley; S Buttonwillow Ave, N Buttonwillow Ave | 429 |
 | [712-B](https://precinct.netpress.com/#10-712-B) | Reedley; N Hemlock Ave, E Ponderosa Ave | 124 |
 | [712-C](https://precinct.netpress.com/#10-712-C) | Reedley; E El Dorado Ave, N Haney Ave | 708 |
@@ -1527,7 +1527,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [712-H](https://precinct.netpress.com/#10-712-H) | Reedley; N Pecan Ave, Columbia Park Dr | 148 |
 | [712-I](https://precinct.netpress.com/#10-712-I) | Reedley; N Pecan Ave, N Fisher Ave | 120 |
 | [712-J](https://precinct.netpress.com/#10-712-J) | Reedley; Pecan Ave, E Red Beaut Ave | 26 |
-| [712-K](https://precinct.netpress.com/#10-712-K) | Reedley | 0 |
+| [712-K](https://precinct.netpress.com/#10-712-K) | Reedley; along Co Hwy J19 | 0 |
 | [712-L](https://precinct.netpress.com/#10-712-L) | Reedley; E Elm Ave, E Myrtle Ave | 104 |
 | [713-A](https://precinct.netpress.com/#10-713-A) | Reedley; G St, F St | 624 |
 | [713-C](https://precinct.netpress.com/#10-713-C) | Reedley; I St, K St | 304 |
@@ -1549,7 +1549,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [717-B](https://precinct.netpress.com/#10-717-B) | Reedley; Beech Ave, W Olson Ave | 51 |
 | [717-C](https://precinct.netpress.com/#10-717-C) | Reedley; W Stanley Ave, S Riverview Ave | 294 |
 | [717-D](https://precinct.netpress.com/#10-717-D) | Reedley; Olson, E Carpenter Ave | 256 |
-| [718](https://precinct.netpress.com/#10-718) | Reedley | 0 |
+| [718](https://precinct.netpress.com/#10-718) | Reedley; along S Frankwood Ave and Frankwood | 0 |
 | [719-A](https://precinct.netpress.com/#10-719-A) | Reedley; E Sycamore Ave, N Columbia Ave | 614 |
 | [719-B](https://precinct.netpress.com/#10-719-B) | Reedley; W Aspen Dr, W Evergreen Ave | 462 |
 | [719-C](https://precinct.netpress.com/#10-719-C) | Reedley; E Myrtle Ave, N Lourae Ave | 12 |
@@ -1563,7 +1563,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [722-A](https://precinct.netpress.com/#10-722-A) | Reedley; Peck Colony Rd, Justine Ave | 222 |
 | [722-B](https://precinct.netpress.com/#10-722-B) | Reedley; E Myrtle Ave, N Birch Ave | 82 |
 | [722-C](https://precinct.netpress.com/#10-722-C) | Reedley; Columbia Ave, E Myrtle Ave | 26 |
-| [722-D](https://precinct.netpress.com/#10-722-D) | Reedley | 9 |
+| [722-D](https://precinct.netpress.com/#10-722-D) | Reedley; along N Hollywood Dr and W Myrtle Ave | 9 |
 | [722-E](https://precinct.netpress.com/#10-722-E) | Reedley; E 11th St, N Columbia Ave | 11 |
 | [722-F](https://precinct.netpress.com/#10-722-F) | N Acacia Ave | 13 |
 | [723-A](https://precinct.netpress.com/#10-723-A) | Reedley; N Hope Ave, N Reed Ave | 385 |
@@ -1577,7 +1577,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [724-C](https://precinct.netpress.com/#10-724-C) | Reedley; Olson Ave, E Huntsman Ave | 30 |
 | [725-B](https://precinct.netpress.com/#10-725-B) | Reedley; Redwood Dr, Sequoia Dr | 219 |
 | [726-B](https://precinct.netpress.com/#10-726-B) | Reed | 0 |
-| [726-D](https://precinct.netpress.com/#10-726-D) |  | 9 |
+| [726-D](https://precinct.netpress.com/#10-726-D) | Near S Frankwood Ave | 9 |
 | [727](https://precinct.netpress.com/#10-727) | Kings River | 2 |
 | [728-A](https://precinct.netpress.com/#10-728-A) | E Lilac Ave, Lilac Ave, S East Ave | 9 |
 | [728-B](https://precinct.netpress.com/#10-728-B) | E Floral Ave, Floral Ave, S Reed Ave | 14 |
@@ -1589,9 +1589,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [729-F](https://precinct.netpress.com/#10-729-F) | Annadale | 0 |
 | [730-A](https://precinct.netpress.com/#10-730-A) | Cove Rd, Hill, Adams Ave | 49 |
 | [730-B](https://precinct.netpress.com/#10-730-B) | Rd 80, Ave 432, Alta Ave | 100 |
-| [730-C](https://precinct.netpress.com/#10-730-C) |  | 3 |
+| [730-C](https://precinct.netpress.com/#10-730-C) | Along Manning Ave and Dinuba Ave | 3 |
 | [730-D](https://precinct.netpress.com/#10-730-D) | S Jacobs Ave, Highway 63, Jacobs Ave | 1 |
-| [730-F](https://precinct.netpress.com/#10-730-F) |  | 6 |
+| [730-F](https://precinct.netpress.com/#10-730-F) | Along Porter Ave | 6 |
 | [730-G](https://precinct.netpress.com/#10-730-G) | S Jacobs Center St, Jacobs Ave | 0 |
 | [730-H](https://precinct.netpress.com/#10-730-H) | Manning Ave | 0 |
 | [730-I](https://precinct.netpress.com/#10-730-I) | Monson, Adams, Hill Ave | 47 |
@@ -1602,7 +1602,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [731-A](https://precinct.netpress.com/#10-731-A) | S Englehart Ave, E Parlier Ave, E Manning Ave | 32 |
 | [731-D](https://precinct.netpress.com/#10-731-D) | S Englehart Ave, Ave 432, E Huntsman Ave | 27 |
 | [731-E](https://precinct.netpress.com/#10-731-E) | Zumwalt Ave, S Tobu Ave, E Dinuba Ave | 69 |
-| [732-A](https://precinct.netpress.com/#10-732-A) |  | 20 |
+| [732-A](https://precinct.netpress.com/#10-732-A) | Near S Frankwood Ave | 20 |
 | [732-B](https://precinct.netpress.com/#10-732-B) | E Parlier Ave | 49 |
 | [732-C](https://precinct.netpress.com/#10-732-C) | N Buttonwillow Ave, Sumner Ave | 39 |
 | [732-D](https://precinct.netpress.com/#10-732-D) | N Reed Ave, Kings River | 0 |
@@ -1619,7 +1619,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [736-C](https://precinct.netpress.com/#10-736-C) | E Parlier Ave | 35 |
 | [736-D](https://precinct.netpress.com/#10-736-D) | Rio Ave, Co Hwy J19, Alta Ave | 73 |
 | [736-E](https://precinct.netpress.com/#10-736-E) | E Springfield Ave, S Crawford Ave, Alta Ave | 59 |
-| [736-F](https://precinct.netpress.com/#10-736-F) |  | 31 |
+| [736-F](https://precinct.netpress.com/#10-736-F) | Near S Pedersen Ave | 31 |
 | [736-G](https://precinct.netpress.com/#10-736-G) | Rd 80, S Pedersen Ave, Co Hwy J19 | 57 |
 | [736-H](https://precinct.netpress.com/#10-736-H) | Hill Ave | 5 |
 | [737-B](https://precinct.netpress.com/#10-737-B) | S Hill, Cove Ave, E Church Ave | 11 |
@@ -1627,7 +1627,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [737-E](https://precinct.netpress.com/#10-737-E) | E Church | 0 |
 | [737-G](https://precinct.netpress.com/#10-737-G) | Crawford Ave, Wakefield Ave | 0 |
 | [737-J](https://precinct.netpress.com/#10-737-J) | Crawford Ave, E Church | 7 |
-| [737-K](https://precinct.netpress.com/#10-737-K) |  | 3 |
+| [737-K](https://precinct.netpress.com/#10-737-K) | Along State Hwy 180 | 3 |
 | [738-A](https://precinct.netpress.com/#10-738-A) | Squaw Valley; N Elwood Rd, Elwood Rd | 600 |
 | [738-B](https://precinct.netpress.com/#10-738-B) | NFS Rd 12519, Millwood Rd, Hopewell Rd | 254 |
 | [738-C](https://precinct.netpress.com/#10-738-C) | NFS Rd 12501, NFS Rd 12S01, NFS Rd 12501 E | 3 |
@@ -1640,11 +1640,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [740-C](https://precinct.netpress.com/#10-740-C) | N Grove Trl, Panoramic Dr, Crystal Springs Rd | 0 |
 | [740-D](https://precinct.netpress.com/#10-740-D) | Highway 180 | 5 |
 | [741-A](https://precinct.netpress.com/#10-741-A) | American Ave, E American Ave | 0 |
-| [741-B](https://precinct.netpress.com/#10-741-B) |  | 29 |
+| [741-B](https://precinct.netpress.com/#10-741-B) | Along S Englehart Ave and E American Ave | 29 |
 | [741-C](https://precinct.netpress.com/#10-741-C) | Mount Campbell Ave, S Alta Ave, Navelencia Ave | 39 |
 | [741-D](https://precinct.netpress.com/#10-741-D) | S Lemon Ave, Hogan Ave, Cove Ave | 19 |
-| [741-E](https://precinct.netpress.com/#10-741-E) |  | 1 |
-| [741-F](https://precinct.netpress.com/#10-741-F) |  | 9 |
+| [741-E](https://precinct.netpress.com/#10-741-E) | Along Central Ave | 1 |
+| [741-F](https://precinct.netpress.com/#10-741-F) | Near E American Ave | 9 |
 | [741-G](https://precinct.netpress.com/#10-741-G) | Navelencia Ave, Muscat Ave, Olive Ave | 49 |
 | [741-H](https://precinct.netpress.com/#10-741-H) | Englehart, S Englehart Ave, Goodfellow Ave | 32 |
 | [742-A](https://precinct.netpress.com/#10-742-A) | Squaw Valley; Chuckwagon Rd, Sand Creek Rd | 625 |
@@ -1652,17 +1652,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [742-D](https://precinct.netpress.com/#10-742-D) | Porter Ave, Crawford Ave, Wakefield Ave | 19 |
 | [742-E](https://precinct.netpress.com/#10-742-E) | Squaw Valley; Ave 480, American Ave | 4 |
 | [742-F](https://precinct.netpress.com/#10-742-F) | Ave 480, American Ave, Highway 63 | 7 |
-| [742-G](https://precinct.netpress.com/#10-742-G) |  | 1 |
+| [742-G](https://precinct.netpress.com/#10-742-G) | Along Hills Valley | 1 |
 | [742-H](https://precinct.netpress.com/#10-742-H) | Ave 480, American Ave, E American Ave | 1 |
 | [742-I](https://precinct.netpress.com/#10-742-I) | Squaw Valley; Ruth Hill Rd, Indian Guide Rd | 261 |
 | [743-B](https://precinct.netpress.com/#10-743-B) | S Anchor Ave, American, Highway 63 | 8 |
 | [743-C](https://precinct.netpress.com/#10-743-C) | E N | 3 |
-| [743-D](https://precinct.netpress.com/#10-743-D) |  | 0 |
+| [743-D](https://precinct.netpress.com/#10-743-D) | Along S Anchor Ave | 0 |
 | [743-F](https://precinct.netpress.com/#10-743-F) | S Hill, Jensen Ave, E North Ave | 8 |
-| [743-G](https://precinct.netpress.com/#10-743-G) |  | 0 |
+| [743-G](https://precinct.netpress.com/#10-743-G) | Near E American Ave | 0 |
 | [743-H](https://precinct.netpress.com/#10-743-H) | Cove Ave, E N, Wakefield Ave | 25 |
-| [743-J](https://precinct.netpress.com/#10-743-J) |  | 0 |
-| [743-K](https://precinct.netpress.com/#10-743-K) |  | 1 |
+| [743-J](https://precinct.netpress.com/#10-743-J) | Along E Central Ave | 0 |
+| [743-K](https://precinct.netpress.com/#10-743-K) | Along State Hwy 180 and S Hill | 1 |
 | [743-L](https://precinct.netpress.com/#10-743-L) | Highway 63 | 6 |
 | [744-B](https://precinct.netpress.com/#10-744-B) | Stillwell Fire Rd | 3 |
 | [744-D](https://precinct.netpress.com/#10-744-D) | Squaw Valley; Ruth Hill Rd, Dunlap Rd | 414 |
@@ -1671,8 +1671,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [745-B](https://precinct.netpress.com/#10-745-B) | Orange Cove; Hope Ave, Serna Ave | 222 |
 | [745-C](https://precinct.netpress.com/#10-745-C) | Orange Cove; South Ave, Rodriguez St | 270 |
 | [745-D](https://precinct.netpress.com/#10-745-D) | Orange Cove; Monson Ave, S Monson Ave | 0 |
-| [745-E](https://precinct.netpress.com/#10-745-E) | Orange Cove | 61 |
-| [745-F](https://precinct.netpress.com/#10-745-F) | Orange Cove | 0 |
+| [745-E](https://precinct.netpress.com/#10-745-E) | Orange Cove; along Rodriguez St | 61 |
+| [745-F](https://precinct.netpress.com/#10-745-F) | Orange Cove; along S Anchor Ave | 0 |
 | [745-G](https://precinct.netpress.com/#10-745-G) | Orange Cove; Kime Ct | 71 |
 | [746-A](https://precinct.netpress.com/#10-746-A) | Squaw Valley; Squaw Valley Rd, Iris Rd | 466 |
 | [747](https://precinct.netpress.com/#10-747) | Jensen Ave | 2 |
@@ -1684,11 +1684,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [750-C](https://precinct.netpress.com/#10-750-C) | Fresno; N Garfield Ave, N Parkway Dr | 73 |
 | [750-D](https://precinct.netpress.com/#10-750-D) | N Garfield Ave | 16 |
 | [751-A](https://precinct.netpress.com/#10-751-A) | N Western Ave | 42 |
-| [751-B](https://precinct.netpress.com/#10-751-B) |  | 47 |
+| [751-B](https://precinct.netpress.com/#10-751-B) | Along W Clinton Ave | 47 |
 | [751-E](https://precinct.netpress.com/#10-751-E) | N Hayes Ave, N Vista Ave, N Polk Ave | 199 |
-| [751-F](https://precinct.netpress.com/#10-751-F) |  | 34 |
-| [751-H](https://precinct.netpress.com/#10-751-H) |  | 18 |
-| [751-I](https://precinct.netpress.com/#10-751-I) |  | 18 |
+| [751-F](https://precinct.netpress.com/#10-751-F) | Along W Shields Ave | 34 |
+| [751-H](https://precinct.netpress.com/#10-751-H) | Near W Clinton Ave | 18 |
+| [751-I](https://precinct.netpress.com/#10-751-I) | Near W Shields Ave | 18 |
 | [752-A](https://precinct.netpress.com/#10-752-A) | N Cornelia Ave, W Dayton Ave | 0 |
 | [752-B](https://precinct.netpress.com/#10-752-B) | W Cortland Ave | 35 |
 | [752-C](https://precinct.netpress.com/#10-752-C) | N Milburn Ave, W Andrews Ave | 99 |
@@ -1697,7 +1697,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [752-F](https://precinct.netpress.com/#10-752-F) | W Shields Ave, W Andrews Ave | 34 |
 | [753-A](https://precinct.netpress.com/#10-753-A) | Garfield Ave, N Garfield Ave, N Cleveland Ave | 102 |
 | [753-B](https://precinct.netpress.com/#10-753-B) | W Belmont Ave, N Garfield Ave | 32 |
-| [753-C](https://precinct.netpress.com/#10-753-C) |  | 5 |
+| [753-C](https://precinct.netpress.com/#10-753-C) | Along W Belmont Ave | 5 |
 | [753-D](https://precinct.netpress.com/#10-753-D) | N Chateau Fresno Ave, N Garfield Ave, W Olive Ave | 58 |
 | [753-E](https://precinct.netpress.com/#10-753-E) | N Garfield Ave, W McKinley Ave | 19 |
 | [755-A](https://precinct.netpress.com/#10-755-A) | S Buttonwillow Ave, Livermore Ave, S Frankwood Ave | 164 |
@@ -1705,13 +1705,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [756-A](https://precinct.netpress.com/#10-756-A) | W Floradora Ave | 2 |
 | [756-B](https://precinct.netpress.com/#10-756-B) | W McKinley Ave | 32 |
 | [757-A](https://precinct.netpress.com/#10-757-A) | N Ring Ave, N Grantland Ave, N Ensley Ln | 278 |
-| [757-B](https://precinct.netpress.com/#10-757-B) |  | 13 |
+| [757-B](https://precinct.netpress.com/#10-757-B) | Near W Belmont Ave | 13 |
 | [758-A](https://precinct.netpress.com/#10-758-A) | Biola; N Dower Ave, N Bishop Ave | 242 |
 | [758-B](https://precinct.netpress.com/#10-758-B) | N Sycamore Ave, N Goldenrod Ave, W Shields Ave | 79 |
 | [758-C](https://precinct.netpress.com/#10-758-C) | N Floyd Ave, W Clinton Ave | 4 |
 | [758-D](https://precinct.netpress.com/#10-758-D) | N Dower Ave, N Jameson Ave, W McKinley Ave | 28 |
 | [758-E](https://precinct.netpress.com/#10-758-E) | Biola; N Dickenson Ave, N Bishop Ave | 61 |
-| [758-F](https://precinct.netpress.com/#10-758-F) |  | 0 |
+| [758-F](https://precinct.netpress.com/#10-758-F) | Along W Shields Ave and N Biola Ave | 0 |
 | [758-G](https://precinct.netpress.com/#10-758-G) | N Madera Ave, N Vineland Ave, W Barstow Ave | 21 |
 | [759-B](https://precinct.netpress.com/#10-759-B) | N Howard Ave | 1 |
 | [759-C](https://precinct.netpress.com/#10-759-C) | Biola; N 5th Ave, N 4th Ave | 231 |
@@ -1720,8 +1720,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [760-A](https://precinct.netpress.com/#10-760-A) | N Grantland Ave, W Sussex Way | 166 |
 | [760-B](https://precinct.netpress.com/#10-760-B) | W Hampton Way | 73 |
 | [760-C](https://precinct.netpress.com/#10-760-C) | Fresno | 56 |
-| [760-D](https://precinct.netpress.com/#10-760-D) |  | 8 |
-| [760-E](https://precinct.netpress.com/#10-760-E) |  | 12 |
+| [760-D](https://precinct.netpress.com/#10-760-D) | Along W Willis Ave | 8 |
+| [760-E](https://precinct.netpress.com/#10-760-E) | Along N Polk Ave | 12 |
 | [761-A](https://precinct.netpress.com/#10-761-A) | N Rolinda Ave, N Dickenson Ave, W Barstow Ave | 61 |
 | [761-B](https://precinct.netpress.com/#10-761-B) | W Shaw Ave, N Rolinda Ave, N Dickenson Ave | 78 |
 | [761-C](https://precinct.netpress.com/#10-761-C) | N Monroe Ave, W Shields Ave, N Rolinda Ave | 70 |
@@ -1731,13 +1731,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [761-G](https://precinct.netpress.com/#10-761-G) | San Joaquin River, W Herndon Ave | 0 |
 | [762-A](https://precinct.netpress.com/#10-762-A) | S Floyd Ave, S Bishop Ave | 12 |
 | [762-B](https://precinct.netpress.com/#10-762-B) | N Floyd Ave, W Belmont Ave, N Dickenson Ave | 121 |
-| [762-C](https://precinct.netpress.com/#10-762-C) |  | 14 |
+| [762-C](https://precinct.netpress.com/#10-762-C) | Along N Dower Ave and W Olive Ave | 14 |
 | [762-D](https://precinct.netpress.com/#10-762-D) | W Jensen Ave, W California Ave, S Chateau Fresno Ave | 64 |
 | [762-E](https://precinct.netpress.com/#10-762-E) | W Muscat Ave | 8 |
 | [762-F](https://precinct.netpress.com/#10-762-F) | S Dickenson Ave | 0 |
 | [762-G](https://precinct.netpress.com/#10-762-G) | W Muscat Ave | 0 |
 | [762-H](https://precinct.netpress.com/#10-762-H) | W Kearney Blvd, S Monroe Ave, S Rolinda Ave | 79 |
-| [762-I](https://precinct.netpress.com/#10-762-I) |  | 15 |
+| [762-I](https://precinct.netpress.com/#10-762-I) | Along N Dickenson Ave and N Dower Ave | 15 |
 | [763-A](https://precinct.netpress.com/#10-763-A) | S Pedersen Ave, E Jefferson Ave, Alta Ave | 69 |
 | [763-B](https://precinct.netpress.com/#10-763-B) | E Jefferson Ave | 61 |
 | [763-C](https://precinct.netpress.com/#10-763-C) | Wakefield Ave, E Jefferson Ave, E Lincoln Ave | 21 |
@@ -1747,7 +1747,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [763-G](https://precinct.netpress.com/#10-763-G) | Cove Ave, E Lincoln Ave | 7 |
 | [764-A](https://precinct.netpress.com/#10-764-A) | N Chateau Fresno Ave, N Monroe Ave | 12 |
 | [764-B](https://precinct.netpress.com/#10-764-B) | N Westlawn Ave | 27 |
-| [764-C](https://precinct.netpress.com/#10-764-C) |  | 17 |
+| [764-C](https://precinct.netpress.com/#10-764-C) | Along W McKinley Ave | 17 |
 | [764-D](https://precinct.netpress.com/#10-764-D) | N Rolinda Ave | 14 |
 | [764-E](https://precinct.netpress.com/#10-764-E) | N Monroe Ave, W Olive Ave | 18 |
 | [764-F](https://precinct.netpress.com/#10-764-F) | N Westlawn Ave | 37 |
@@ -1759,7 +1759,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [775-D](https://precinct.netpress.com/#10-775-D) | S Green Ave, S Bell Ave, W Malaga Ave | 114 |
 | [775-E](https://precinct.netpress.com/#10-775-E) | West Dakota Ave, Ashland Dr | 3 |
 | [775-F](https://precinct.netpress.com/#10-775-F) | N Siskiyou Ave, W Nielsen Ave | 24 |
-| [775-G](https://precinct.netpress.com/#10-775-G) |  | 21 |
+| [775-G](https://precinct.netpress.com/#10-775-G) | Along W Shaw Ave | 21 |
 | [775-H](https://precinct.netpress.com/#10-775-H) | N Humboldt Ave | 6 |
 | [775-I](https://precinct.netpress.com/#10-775-I) | N Yuba Ave, N Butte Ave, Ashland Dr | 4 |
 | [775-J](https://precinct.netpress.com/#10-775-J) | N Lake Ave | 31 |
@@ -1788,9 +1788,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [781-B](https://precinct.netpress.com/#10-781-B) | Kerman; W D St | 6 |
 | [782-A](https://precinct.netpress.com/#10-782-A) | Kerman; Michelle Ave, Lum Ave | 993 |
 | [782-B](https://precinct.netpress.com/#10-782-B) | Kerman; S Manor Dr, W C St | 404 |
-| [782-C](https://precinct.netpress.com/#10-782-C) | Kerman; W A St, W B St, W C St | 125 |
+| [782-C](https://precinct.netpress.com/#10-782-C) | Kerman; W A St, W B St | 125 |
 | [782-D](https://precinct.netpress.com/#10-782-D) | Kerman; W A St, W B St | 9 |
-| [782-E](https://precinct.netpress.com/#10-782-E) | Kerman | 21 |
+| [782-E](https://precinct.netpress.com/#10-782-E) | Kerman; along S Madera Ave and W A St | 21 |
 | [782-F](https://precinct.netpress.com/#10-782-F) | Kerman; S Park, S Del Norte Ave | 144 |
 | [782-G](https://precinct.netpress.com/#10-782-G) | Kerman; S Modoc Ave | 3 |
 | [783-A](https://precinct.netpress.com/#10-783-A) | Kerman; Gurdwara Ave, Burgandy Ave | 309 |
@@ -1813,7 +1813,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [797-B](https://precinct.netpress.com/#10-797-B) | S Levee Rd, S Contra Costa Rd, S Solano Ave | 0 |
 | [798-A](https://precinct.netpress.com/#10-798-A) | W South Rd, S Henderson Rd, S Bryan Ave | 9 |
 | [798-B](https://precinct.netpress.com/#10-798-B) | S McMullin Grade, Adam Ave, S Bishop | 69 |
-| [798-C](https://precinct.netpress.com/#10-798-C) |  | 7 |
+| [798-C](https://precinct.netpress.com/#10-798-C) | Along W Sumner Ave | 7 |
 | [799-A](https://precinct.netpress.com/#10-799-A) | Cantua Creek and Three Rocks; S Stanislaus Ave, W Nebraska Ave | 213 |
 | [799-B](https://precinct.netpress.com/#10-799-B) | S San Mateo Ave, W Jefferson Ave, W American Ave | 2 |
 | [800-A](https://precinct.netpress.com/#10-800-A) | W Manning Ave, El Dorado Ave, W Cherry Ln | 3 |
@@ -1829,8 +1829,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [800-K](https://precinct.netpress.com/#10-800-K) | W Cherry Ln, S El Dorado Ave | 0 |
 | [801-A](https://precinct.netpress.com/#10-801-A) | San Joaquin; Railroad St, W Colorado Ave | 439 |
 | [801-B](https://precinct.netpress.com/#10-801-B) | S Colusa Ave | 1 |
-| [801-C](https://precinct.netpress.com/#10-801-C) |  | 0 |
-| [801-D](https://precinct.netpress.com/#10-801-D) | San Joaquin | 0 |
+| [801-C](https://precinct.netpress.com/#10-801-C) | Along Railroad St | 0 |
+| [801-D](https://precinct.netpress.com/#10-801-D) | San Joaquin; along S Colorado Ave | 0 |
 | [801-E](https://precinct.netpress.com/#10-801-E) | San Joaquin; Bryant Dr, Banker Dr | 88 |
 | [801-G](https://precinct.netpress.com/#10-801-G) | San Joaquin; Annabella St, Annabella Ave | 300 |
 | [801-H](https://precinct.netpress.com/#10-801-H) | San Joaquin; Arizona Ave, S 12th St | 305 |
@@ -1849,7 +1849,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [804-A](https://precinct.netpress.com/#10-804-A) | S Derrick | 0 |
 | [805-A](https://precinct.netpress.com/#10-805-A) | S Monterey Ave, Highway 33, Manning | 0 |
 | [805-C](https://precinct.netpress.com/#10-805-C) | S San Diego Ave, S Ohio Ave, S Douglas Ave | 37 |
-| [805-G](https://precinct.netpress.com/#10-805-G) |  | 0 |
+| [805-G](https://precinct.netpress.com/#10-805-G) | Along W Adams Ave | 0 |
 | [806-A](https://precinct.netpress.com/#10-806-A) | Helm Canal Rd, Bass Ave, W Sierra Ave | 5 |
 | [806-B](https://precinct.netpress.com/#10-806-B) | Bass Ave | 7 |
 | [806-C](https://precinct.netpress.com/#10-806-C) | Mendota; H St | 0 |
@@ -1860,23 +1860,23 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [807-B](https://precinct.netpress.com/#10-807-B) | Mendota; Amador Ave, Gonzalez St | 588 |
 | [807-C](https://precinct.netpress.com/#10-807-C) | Mendota | 1 |
 | [808-A](https://precinct.netpress.com/#10-808-A) | Mendota; Naples St, Pucheu St | 778 |
-| [808-B](https://precinct.netpress.com/#10-808-B) | Mendota | 0 |
+| [808-B](https://precinct.netpress.com/#10-808-B) | Mendota; along Belmont Ave | 0 |
 | [808-C](https://precinct.netpress.com/#10-808-C) | Mendota; Stamoules St, Rio Frio St | 206 |
 | [809-A](https://precinct.netpress.com/#10-809-A) | Mendota; Perez St, Garcia St | 543 |
 | [809-B](https://precinct.netpress.com/#10-809-B) | Mendota; N Kate St, Lua Ave | 808 |
-| [810-A](https://precinct.netpress.com/#10-810-A) | Mendota | 0 |
+| [810-A](https://precinct.netpress.com/#10-810-A) | Mendota; along W Panoche Rd and Belmont Ave | 0 |
 | [814-A](https://precinct.netpress.com/#10-814-A) | Little Panoche Rd, Little Panoche Reservoir, Panoche Access Rd | 10 |
 | [814-B](https://precinct.netpress.com/#10-814-B) | Panoche Access Rd, Prince Ave, W American Ave | 0 |
 | [814-C](https://precinct.netpress.com/#10-814-C) | S Russell Ave, W California Ave | 2 |
 | [814-D](https://precinct.netpress.com/#10-814-D) | W Panoche Rd, W North Ave, W American Ave | 2 |
 | [814-F](https://precinct.netpress.com/#10-814-F) | Panoche Rd, S Brannan Ave, W Mountain View Ave | 0 |
-| [814-G](https://precinct.netpress.com/#10-814-G) |  | 0 |
-| [814-H](https://precinct.netpress.com/#10-814-H) |  | 0 |
+| [814-G](https://precinct.netpress.com/#10-814-G) | Near W Panoche Rd | 0 |
+| [814-H](https://precinct.netpress.com/#10-814-H) | Along I- 5 and Westside Fwy | 0 |
 | [815-A](https://precinct.netpress.com/#10-815-A) | Jensen Ave, W Brannon Ave, S Fairfax Ave | 20 |
 | [815-B](https://precinct.netpress.com/#10-815-B) | N Millux Rd, W California, Jenson Ave | 4 |
 | [815-C](https://precinct.netpress.com/#10-815-C) | Mendota; Olive, Co Hwy J1 | 45 |
 | [816](https://precinct.netpress.com/#10-816) | Santa Fe County Rd, Fresno Slough, N San Mateo Rd | 66 |
-| [820-A](https://precinct.netpress.com/#10-820-A) |  | 2 |
+| [820-A](https://precinct.netpress.com/#10-820-A) | Near W Behymer Ave | 2 |
 | [820-B](https://precinct.netpress.com/#10-820-B) | Firebaugh; W Silaxo Ave, W Behymer Ave | 19 |
 | [820-D](https://precinct.netpress.com/#10-820-D) | Firebaugh; Santa Fe Grade, N Jerrold Ave | 127 |
 | [820-E](https://precinct.netpress.com/#10-820-E) | N Helm Canal Rd, Sierra Ave, Helm Canal Rd | 0 |
@@ -1886,17 +1886,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [820-O](https://precinct.netpress.com/#10-820-O) | Main Canal, Main St | 1 |
 | [820-P](https://precinct.netpress.com/#10-820-P) | Main St, N Fairfax Ave | 0 |
 | [820-Q](https://precinct.netpress.com/#10-820-Q) | Highway 33 | 0 |
-| [820-R](https://precinct.netpress.com/#10-820-R) |  | 1 |
+| [820-R](https://precinct.netpress.com/#10-820-R) | Along State Hwy 33 and N Dos Palos Rd | 1 |
 | [821-A](https://precinct.netpress.com/#10-821-A) | N Russell Ave, W Nees Ave, N Oxford Ave | 87 |
 | [821-C](https://precinct.netpress.com/#10-821-C) | W Belmont Ave, Buick, California Aqueduct | 2 |
-| [821-E](https://precinct.netpress.com/#10-821-E) |  | 6 |
-| [821-F](https://precinct.netpress.com/#10-821-F) |  | 39 |
+| [821-E](https://precinct.netpress.com/#10-821-E) | Along Davidson Ave | 6 |
+| [821-F](https://precinct.netpress.com/#10-821-F) | Along Main St | 39 |
 | [821-G](https://precinct.netpress.com/#10-821-G) | N Brannon Ave | 0 |
 | [821-H](https://precinct.netpress.com/#10-821-H) | N Fairfax Ave, Davidson Ave | 0 |
 | [821-I](https://precinct.netpress.com/#10-821-I) | Main St, Highway 33 | 0 |
 | [821-J](https://precinct.netpress.com/#10-821-J) | N Brannon Ave | 0 |
 | [822-A](https://precinct.netpress.com/#10-822-A) | Fairfax Ave, Merrill Ave, Valeria Ave | 225 |
-| [822-B](https://precinct.netpress.com/#10-822-B) |  | 0 |
+| [822-B](https://precinct.netpress.com/#10-822-B) | Near Merrill Ave | 0 |
 | [822-C](https://precinct.netpress.com/#10-822-C) | Brannon Ave, Highway 33, W Dos Palos | 6 |
 | [822-E](https://precinct.netpress.com/#10-822-E) | Mint Rd, Island Rd, Temple Ave | 4 |
 | [822-F](https://precinct.netpress.com/#10-822-F) | Shain Ave, Merrill Ave | 12 |
@@ -1913,9 +1913,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [824-D](https://precinct.netpress.com/#10-824-D) | Firebaugh; Sablan Ave, Valle de Paz Ave | 415 |
 | [824-E](https://precinct.netpress.com/#10-824-E) | Firebaugh; Dodderer St, Rabe St | 434 |
 | [824-F](https://precinct.netpress.com/#10-824-F) | Firebaugh | 0 |
-| [824-G](https://precinct.netpress.com/#10-824-G) | Firebaugh | 3 |
+| [824-G](https://precinct.netpress.com/#10-824-G) | Firebaugh; along N Dos Palos Rd | 3 |
 | [824-H](https://precinct.netpress.com/#10-824-H) | Firebaugh; Main Canal, J St | 0 |
-| [824-I](https://precinct.netpress.com/#10-824-I) |  | 0 |
+| [824-I](https://precinct.netpress.com/#10-824-I) | Along N St | 0 |
 | [824-K](https://precinct.netpress.com/#10-824-K) | Firebaugh; 16th St, 15th St | 48 |
 | [824-L](https://precinct.netpress.com/#10-824-L) | Firebaugh; Tri Circle Dr, Corregidor Ave | 104 |
 | [829](https://precinct.netpress.com/#10-829) | W Central Ave, S Chateau Fresno Ave | 0 |
@@ -1937,14 +1937,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [833-G](https://precinct.netpress.com/#10-833-G) | Easton; E Clayton Ave, S Lily Ave | 12 |
 | [833-H](https://precinct.netpress.com/#10-833-H) | Easton; E Joy Ave, Willamette Ave | 213 |
 | [833-I](https://precinct.netpress.com/#10-833-I) | S East Ave, E Adams Ave | 62 |
-| [833-J](https://precinct.netpress.com/#10-833-J) |  | 3 |
+| [833-J](https://precinct.netpress.com/#10-833-J) | Near Highway 41 | 3 |
 | [833-K](https://precinct.netpress.com/#10-833-K) | S Walnut Ave | 18 |
 | [833-L](https://precinct.netpress.com/#10-833-L) | S Fig Ave, W Adams Ave | 33 |
-| [833-M](https://precinct.netpress.com/#10-833-M) |  | 63 |
+| [833-M](https://precinct.netpress.com/#10-833-M) | Along E Clayton Ave | 63 |
 | [833-N](https://precinct.netpress.com/#10-833-N) | Easton; S Clara Ave, W Willamette Ave | 20 |
 | [833-O](https://precinct.netpress.com/#10-833-O) | Easton; S Lily Ave | 6 |
 | [834-A](https://precinct.netpress.com/#10-834-A) | West Park; W Annadale Ave, S Valentine Ave | 234 |
-| [834-B](https://precinct.netpress.com/#10-834-B) |  | 7 |
+| [834-B](https://precinct.netpress.com/#10-834-B) | Along W Jensen Ave | 7 |
 | [835-A](https://precinct.netpress.com/#10-835-A) | W North Ave, W Jensen Ave, W Annadale Ave | 73 |
 | [835-B](https://precinct.netpress.com/#10-835-B) | S Marks Ave, W Jensen Ave | 99 |
 | [835-C](https://precinct.netpress.com/#10-835-C) | West Park; S Prospect Ave, W Grove Ave | 232 |
@@ -1954,24 +1954,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [836-C](https://precinct.netpress.com/#10-836-C) | S Fruit Ave, W American Ave | 107 |
 | [836-D](https://precinct.netpress.com/#10-836-D) | S West Ave | 11 |
 | [836-E](https://precinct.netpress.com/#10-836-E) | W Muscat Ave, S Hughes Ave | 20 |
-| [837-A](https://precinct.netpress.com/#10-837-A) |  | 6 |
-| [837-C](https://precinct.netpress.com/#10-837-C) |  | 2 |
+| [837-A](https://precinct.netpress.com/#10-837-A) | Along S Valentine Ave and W Clayton Ave | 6 |
+| [837-C](https://precinct.netpress.com/#10-837-C) | Along W Adams Ave | 2 |
 | [837-D](https://precinct.netpress.com/#10-837-D) | S Fruit Ave, W Adams Ave, W Sumner Ave | 64 |
-| [837-E](https://precinct.netpress.com/#10-837-E) |  | 9 |
+| [837-E](https://precinct.netpress.com/#10-837-E) | Near W Adams Ave | 9 |
 | [837-F](https://precinct.netpress.com/#10-837-F) | W Sumner Ave, W South Ave | 27 |
 | [837-G](https://precinct.netpress.com/#10-837-G) | S Brawley Ave, S Marks Ave, S Hughes Ave | 78 |
-| [837-H](https://precinct.netpress.com/#10-837-H) |  | 5 |
+| [837-H](https://precinct.netpress.com/#10-837-H) | Along W Clayton Ave | 5 |
 | [837-I](https://precinct.netpress.com/#10-837-I) | S West Ave, W Clayton Ave | 12 |
 | [838-A](https://precinct.netpress.com/#10-838-A) | Bowles; S Chestnut Ave, S Peach Ave | 237 |
 | [838-C](https://precinct.netpress.com/#10-838-C) | E Floral Ave, S Peach Ave, S Willow Ave | 79 |
 | [838-D](https://precinct.netpress.com/#10-838-D) | Bowles; E Manning Ave, S Rowell Ave | 37 |
-| [838-F](https://precinct.netpress.com/#10-838-F) |  | 0 |
+| [838-F](https://precinct.netpress.com/#10-838-F) | Along E Floral Ave | 0 |
 | [838-J](https://precinct.netpress.com/#10-838-J) | E Huntsman Ave, S Willow Ave | 51 |
 | [838-K](https://precinct.netpress.com/#10-838-K) | Bowles; E Springfield Ave, S Cedar Ave | 168 |
 | [839-A](https://precinct.netpress.com/#10-839-A) | Easton; W Fantz Ave, W Hopkins Ave | 188 |
 | [839-B](https://precinct.netpress.com/#10-839-B) | Easton; W Jefferson Ave | 43 |
 | [839-C](https://precinct.netpress.com/#10-839-C) | Easton; E Lincoln Ave, E Fantz Ave | 47 |
-| [839-D](https://precinct.netpress.com/#10-839-D) |  | 2 |
+| [839-D](https://precinct.netpress.com/#10-839-D) | Easton; near E Jefferson Ave | 2 |
 | [839-E](https://precinct.netpress.com/#10-839-E) | Easton; E Jefferson Ave | 46 |
 | [839-F](https://precinct.netpress.com/#10-839-F) | Easton; S Elm Ave, E Larsen Ave | 223 |
 | [839-G](https://precinct.netpress.com/#10-839-G) | Easton | 2 |
@@ -1984,8 +1984,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [842-C](https://precinct.netpress.com/#10-842-C) | S Valentine Ave, W Adams Ave, W Sumner Ave | 6 |
 | [843](https://precinct.netpress.com/#10-843) | W Lincoln Ave, S Fruit Ave, W Jefferson Ave | 43 |
 | [847-A](https://precinct.netpress.com/#10-847-A) | E Manning Ave | 20 |
-| [847-B](https://precinct.netpress.com/#10-847-B) |  | 15 |
-| [847-C](https://precinct.netpress.com/#10-847-C) |  | 0 |
+| [847-B](https://precinct.netpress.com/#10-847-B) | Near E South Ave | 15 |
+| [847-C](https://precinct.netpress.com/#10-847-C) | Along E South Ave | 0 |
 | [848-A](https://precinct.netpress.com/#10-848-A) | E Mountain View Ave, S Orange Ave | 22 |
 | [848-B](https://precinct.netpress.com/#10-848-B) | S East Ave | 3 |
 | [848-C](https://precinct.netpress.com/#10-848-C) | E Rose Ave | 19 |
@@ -1994,38 +1994,38 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [850-A](https://precinct.netpress.com/#10-850-A) | Raisin City; W Nebraska Ave, W Manning Ave | 502 |
 | [850-B](https://precinct.netpress.com/#10-850-B) | S Valentine Ave, W Huntsman Ave, W Dinuba Ave | 67 |
 | [850-C](https://precinct.netpress.com/#10-850-C) | S Brawley Ave | 15 |
-| [850-D](https://precinct.netpress.com/#10-850-D) |  | 6 |
+| [850-D](https://precinct.netpress.com/#10-850-D) | Near S Blythe Ave | 6 |
 | [850-E](https://precinct.netpress.com/#10-850-E) | Raisin City; S Henderson Rd, W Bowles Ave | 104 |
 | [850-F](https://precinct.netpress.com/#10-850-F) | S Cornelia Ave | 1 |
 | [851-A](https://precinct.netpress.com/#10-851-A) | Caruthers; S Quince Ave, S Raider Ave | 295 |
-| [851-B](https://precinct.netpress.com/#10-851-B) |  | 0 |
+| [851-B](https://precinct.netpress.com/#10-851-B) | Along Henderson Rd | 0 |
 | [851-C](https://precinct.netpress.com/#10-851-C) | Caruthers; S Vanderburgh St, W Freeland St | 172 |
 | [851-D](https://precinct.netpress.com/#10-851-D) | Caruthers; S Oak Ave, Henderson Rd | 181 |
 | [851-E](https://precinct.netpress.com/#10-851-E) | S March Ave, S Marsh Ave, W Superior Ave | 18 |
 | [851-F](https://precinct.netpress.com/#10-851-F) | W Caruthers Ave | 106 |
-| [851-G](https://precinct.netpress.com/#10-851-G) |  | 23 |
+| [851-G](https://precinct.netpress.com/#10-851-G) | Caruthers; near S Henderson Rd | 23 |
 | [851-H](https://precinct.netpress.com/#10-851-H) | W Ontario Ave, Henderson Rd | 4 |
 | [851-I](https://precinct.netpress.com/#10-851-I) | W Clemenceau Ave, W Sandy Ave | 1 |
 | [851-J](https://precinct.netpress.com/#10-851-J) | Caruthers; W Stark St, W Kofoid Ave | 79 |
-| [851-L](https://precinct.netpress.com/#10-851-L) |  | 2 |
+| [851-L](https://precinct.netpress.com/#10-851-L) | Caruthers; near S West Ave | 2 |
 | [851-M](https://precinct.netpress.com/#10-851-M) | Caruthers; W Missouri Ave, W Indiana Ave | 124 |
-| [851-N](https://precinct.netpress.com/#10-851-N) |  | 3 |
-| [851-O](https://precinct.netpress.com/#10-851-O) |  | 15 |
-| [851-P](https://precinct.netpress.com/#10-851-P) |  | 49 |
+| [851-N](https://precinct.netpress.com/#10-851-N) | Caruthers; near W Caruthers Ave | 3 |
+| [851-O](https://precinct.netpress.com/#10-851-O) | Along S Hughes Ave | 15 |
+| [851-P](https://precinct.netpress.com/#10-851-P) | Along W Clemenceau Ave | 49 |
 | [851-Q](https://precinct.netpress.com/#10-851-Q) | Caruthers; S Hughes Ave | 0 |
 | [852-A](https://precinct.netpress.com/#10-852-A) | S Cornelia Ave, S Brawley Ave, W Swanson Ave | 86 |
 | [852-C](https://precinct.netpress.com/#10-852-C) | W Elkhorn Ave, W Swanson Ave, S Chateau Fresno Ave | 11 |
 | [853-A](https://precinct.netpress.com/#10-853-A) | S Elm Ave, S Walnut Ave, W Springfield Ave | 81 |
 | [853-B](https://precinct.netpress.com/#10-853-B) | S Fruit Ave, W Springfield Ave, W Dinuba Ave | 95 |
-| [853-C](https://precinct.netpress.com/#10-853-C) |  | 5 |
+| [853-C](https://precinct.netpress.com/#10-853-C) | Near S Cherry Ave | 5 |
 | [853-D](https://precinct.netpress.com/#10-853-D) | S Cherry Ave, Glow Ave, Highway 41 | 139 |
-| [853-E](https://precinct.netpress.com/#10-853-E) |  | 11 |
+| [853-E](https://precinct.netpress.com/#10-853-E) | Near W South Ave | 11 |
 | [853-F](https://precinct.netpress.com/#10-853-F) | W Parlier Ave | 58 |
 | [853-G](https://precinct.netpress.com/#10-853-G) | W Parlier Ave | 46 |
-| [853-H](https://precinct.netpress.com/#10-853-H) |  | 10 |
-| [853-I](https://precinct.netpress.com/#10-853-I) |  | 0 |
+| [853-H](https://precinct.netpress.com/#10-853-H) | Near E Manning Ave | 10 |
+| [853-I](https://precinct.netpress.com/#10-853-I) | Near W Manning Ave | 0 |
 | [853-J](https://precinct.netpress.com/#10-853-J) | S Hughes Ave, W Manning Ave, S West Ave | 124 |
-| [853-K](https://precinct.netpress.com/#10-853-K) |  | 0 |
+| [853-K](https://precinct.netpress.com/#10-853-K) | Near S Elm Ave | 0 |
 | [854-B](https://precinct.netpress.com/#10-854-B) | Monmouth; Willow Lake, Prather Pond | 155 |
 | [854-C](https://precinct.netpress.com/#10-854-C) | S Temperance, E Floral Ave, S Temperance Ave | 94 |
 | [854-D](https://precinct.netpress.com/#10-854-D) | Monmouth; E Avenell Ave, Xenia St | 57 |
@@ -2035,7 +2035,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [855-B](https://precinct.netpress.com/#10-855-B) | W Noble Ave, W Verde Ave, S Woodson Ave | 77 |
 | [855-C](https://precinct.netpress.com/#10-855-C) | Caruthers; W Tahoe St, W Superior Ave | 7 |
 | [855-D](https://precinct.netpress.com/#10-855-D) | Caruthers; W Granger St, S Kincaid Ave | 6 |
-| [855-E](https://precinct.netpress.com/#10-855-E) | Caruthers | 0 |
+| [855-E](https://precinct.netpress.com/#10-855-E) | Caruthers; along W Clemenceau Ave | 0 |
 | [856-A](https://precinct.netpress.com/#10-856-A) | S Hughes Ave, W Conejo Ave | 43 |
 | [856-B](https://precinct.netpress.com/#10-856-B) | S West Ave, S Cedar Ave, E Elkhorn Ave | 75 |
 | [856-C](https://precinct.netpress.com/#10-856-C) | E Klepper Ave, S Chestnut Ave, S East Ave | 281 |
@@ -2048,22 +2048,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [858-A](https://precinct.netpress.com/#10-858-A) | S McMullin Grade, S Goldenrod Ave | 9 |
 | [858-B](https://precinct.netpress.com/#10-858-B) | S Madera Ave | 0 |
 | [858-C](https://precinct.netpress.com/#10-858-C) | W Floral Ave | 0 |
-| [859-A](https://precinct.netpress.com/#10-859-A) |  | 0 |
-| [859-B](https://precinct.netpress.com/#10-859-B) |  | 2 |
-| [859-C](https://precinct.netpress.com/#10-859-C) |  | 1 |
+| [859-A](https://precinct.netpress.com/#10-859-A) | Near W South Ave | 0 |
+| [859-B](https://precinct.netpress.com/#10-859-B) | Near E South Ave | 2 |
+| [859-C](https://precinct.netpress.com/#10-859-C) | Near E South Ave | 1 |
 | [860-A](https://precinct.netpress.com/#10-860-A) | S Cherry Ave, S Elm Ave, S Walnut Ave | 275 |
 | [860-B](https://precinct.netpress.com/#10-860-B) | E Kamm Ave, S Willow Ave | 90 |
-| [860-C](https://precinct.netpress.com/#10-860-C) |  | 0 |
+| [860-C](https://precinct.netpress.com/#10-860-C) | Near S Walnut Ave | 0 |
 | [860-D](https://precinct.netpress.com/#10-860-D) | S West Ave, W Nebraska Ave, W Caruthers Ave | 144 |
-| [860-E](https://precinct.netpress.com/#10-860-E) |  | 0 |
+| [860-E](https://precinct.netpress.com/#10-860-E) | Caruthers; near W Mountain View Ave | 0 |
 | [861](https://precinct.netpress.com/#10-861) | E Mountain View Ave, E Clemenceau Ave, E Kamm Ave | 29 |
 | [862-A](https://precinct.netpress.com/#10-862-A) | S Peach Ave, E Stroud Ave, S Willow Ave | 80 |
 | [862-B](https://precinct.netpress.com/#10-862-B) | E Elkhorn Ave, E Clarkson Ave | 15 |
 | [862-C](https://precinct.netpress.com/#10-862-C) | S Clovis Ave, E Conejo Ave, E Elkhorn Ave | 73 |
 | [862-D](https://precinct.netpress.com/#10-862-D) | Laton; E Davis St, Davis Ave | 77 |
-| [862-E](https://precinct.netpress.com/#10-862-E) |  | 10 |
+| [862-E](https://precinct.netpress.com/#10-862-E) | Near E Barrett Ave | 10 |
 | [862-F](https://precinct.netpress.com/#10-862-F) | Laton; E Mount Whitney Ave, E Riverdale Ave | 40 |
-| [862-G](https://precinct.netpress.com/#10-862-G) |  | 0 |
+| [862-G](https://precinct.netpress.com/#10-862-G) | Along Highland Ave | 0 |
 | [863-A](https://precinct.netpress.com/#10-863-A) | E Davis St, E Elkhorn Ave, Davis Ave | 29 |
 | [863-B](https://precinct.netpress.com/#10-863-B) | Indianola Ave, Elkhorn Ave, S Del Rey Ave | 37 |
 | [863-C](https://precinct.netpress.com/#10-863-C) | Bethel Ave, Elkhorn Ave | 1 |
@@ -2073,21 +2073,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [865-C](https://precinct.netpress.com/#10-865-C) | Laton; E Latonia St, Murphy Ave | 552 |
 | [865-D](https://precinct.netpress.com/#10-865-D) | Laton; De Woody St | 1 |
 | [865-F](https://precinct.netpress.com/#10-865-F) | E Simerly Ave, E Harlan | 6 |
-| [865-G](https://precinct.netpress.com/#10-865-G) |  | 4 |
+| [865-G](https://precinct.netpress.com/#10-865-G) | Along De Woody St | 4 |
 | [866-A](https://precinct.netpress.com/#10-866-A) | Maple St, Cedar St, E Riverdale Ave | 119 |
 | [866-B](https://precinct.netpress.com/#10-866-B) | Cerini Ave, E Harlan Ave, East St | 33 |
 | [866-C](https://precinct.netpress.com/#10-866-C) | E Davis St, Davis Ave, Coleman Ave | 9 |
 | [866-D](https://precinct.netpress.com/#10-866-D) | S Camden, Coleman Ave, E Kingston Ave | 83 |
 | [866-E](https://precinct.netpress.com/#10-866-E) | Lewiston Ave, E Laguna Ave, East St | 127 |
 | [866-F](https://precinct.netpress.com/#10-866-F) | W Lewiston Ave, S Elm Ave, W Wood Ave | 64 |
-| [866-G](https://precinct.netpress.com/#10-866-G) |  | 7 |
-| [866-H](https://precinct.netpress.com/#10-866-H) |  | 0 |
+| [866-G](https://precinct.netpress.com/#10-866-G) | Along Coleman Ave | 7 |
+| [866-H](https://precinct.netpress.com/#10-866-H) | Along Coleman Ave | 0 |
 | [870-A](https://precinct.netpress.com/#10-870-A) | W Lewiston Ave, S West Ave | 3 |
 | [870-B](https://precinct.netpress.com/#10-870-B) | W Wood Ave, W Riverdale Ave, W Mount Whitney Ave | 104 |
 | [870-C](https://precinct.netpress.com/#10-870-C) | W Wood Ave, W Lewiston Ave, S West Ave | 47 |
-| [870-D](https://precinct.netpress.com/#10-870-D) |  | 11 |
-| [870-E](https://precinct.netpress.com/#10-870-E) |  | 0 |
-| [870-F](https://precinct.netpress.com/#10-870-F) | Riverdale | 7 |
+| [870-D](https://precinct.netpress.com/#10-870-D) | Near W Harlan Ave | 11 |
+| [870-E](https://precinct.netpress.com/#10-870-E) | Near S Walnut Ave | 0 |
+| [870-F](https://precinct.netpress.com/#10-870-F) | Riverdale; along Excelsior Ave and S Marks Ave | 7 |
 | [870-G](https://precinct.netpress.com/#10-870-G) | S Elm Ave, W Riverdale Ave | 0 |
 | [870-H](https://precinct.netpress.com/#10-870-H) | W Riverdale Ave | 6 |
 | [870-I](https://precinct.netpress.com/#10-870-I) | S Elm Ave, W Harlan Ave | 16 |
@@ -2095,41 +2095,41 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [870-K](https://precinct.netpress.com/#10-870-K) | S Fruit Ave | 5 |
 | [870-L](https://precinct.netpress.com/#10-870-L) | W Lewiston Ave, S Marks Ave, S Hughes Ave | 21 |
 | [871-A](https://precinct.netpress.com/#10-871-A) | Riverdale; Malsbary St, W Henson Ave | 1 |
-| [871-B](https://precinct.netpress.com/#10-871-B) |  | 1 |
+| [871-B](https://precinct.netpress.com/#10-871-B) | Along W Harlan Ave | 1 |
 | [871-C](https://precinct.netpress.com/#10-871-C) | Riverdale; W Stathem St, N Pendleton St | 97 |
 | [871-D](https://precinct.netpress.com/#10-871-D) | Riverdale; W Wilda St, Bradley Ave | 164 |
 | [871-E](https://precinct.netpress.com/#10-871-E) | Valley Oak Ln, Sherrill St, Dairy View Ln | 61 |
-| [871-F](https://precinct.netpress.com/#10-871-F) |  | 1 |
-| [871-G](https://precinct.netpress.com/#10-871-G) |  | 0 |
+| [871-F](https://precinct.netpress.com/#10-871-F) | Riverdale; near W Mount Whitney Ave | 1 |
+| [871-G](https://precinct.netpress.com/#10-871-G) | Riverdale; near S Hazel Ave | 0 |
 | [871-H](https://precinct.netpress.com/#10-871-H) | Riverdale; W Mendes Dr, S Feland Ave | 50 |
-| [871-I](https://precinct.netpress.com/#10-871-I) |  | 0 |
+| [871-I](https://precinct.netpress.com/#10-871-I) | Riverdale; near S Feland Ave | 0 |
 | [871-J](https://precinct.netpress.com/#10-871-J) | Riverdale; Summit Way, Earl St | 92 |
 | [871-K](https://precinct.netpress.com/#10-871-K) | Riverdale; W Kruger Ave, W Tiger Ave | 145 |
-| [871-L](https://precinct.netpress.com/#10-871-L) | Riverdale | 0 |
+| [871-L](https://precinct.netpress.com/#10-871-L) | Riverdale; along W Harlan Ave | 0 |
 | [871-M](https://precinct.netpress.com/#10-871-M) | Riverdale; S Gentry St | 3 |
-| [871-N](https://precinct.netpress.com/#10-871-N) |  | 0 |
-| [871-O](https://precinct.netpress.com/#10-871-O) | Riverdale | 5 |
+| [871-N](https://precinct.netpress.com/#10-871-N) | Along S Marks Ave | 0 |
+| [871-O](https://precinct.netpress.com/#10-871-O) | Riverdale; along S Blythe Ave | 5 |
 | [872-A](https://precinct.netpress.com/#10-872-A) | Lanare; S Grantland Ave, S Bryan Ave | 0 |
-| [872-B](https://precinct.netpress.com/#10-872-B) |  | 100 |
+| [872-B](https://precinct.netpress.com/#10-872-B) | Lanare; near S Grantland Ave | 100 |
 | [872-C](https://precinct.netpress.com/#10-872-C) | W Harlan Ave, S Rolinda Ave, S Monroe Ave | 19 |
 | [872-D](https://precinct.netpress.com/#10-872-D) | Lanare; S Chateau Fresno Ave | 33 |
-| [872-E](https://precinct.netpress.com/#10-872-E) |  | 3 |
+| [872-E](https://precinct.netpress.com/#10-872-E) | Lanare; near S Garfield Ave | 3 |
 | [872-F](https://precinct.netpress.com/#10-872-F) | 27th Ave, Westlawn Ave, S Westlawn Ave | 3 |
-| [872-G](https://precinct.netpress.com/#10-872-G) |  | 0 |
+| [872-G](https://precinct.netpress.com/#10-872-G) | Along W Excelsior Ave | 0 |
 | [872-H](https://precinct.netpress.com/#10-872-H) | S Garfield Ave, S Grantland Ave, S B St | 72 |
-| [872-I](https://precinct.netpress.com/#10-872-I) |  | 1 |
-| [872-J](https://precinct.netpress.com/#10-872-J) |  | 41 |
-| [872-K](https://precinct.netpress.com/#10-872-K) |  | 0 |
+| [872-I](https://precinct.netpress.com/#10-872-I) | Lanare; near S B St | 1 |
+| [872-J](https://precinct.netpress.com/#10-872-J) | Lanare; near S Chateau Fresno Ave | 41 |
+| [872-K](https://precinct.netpress.com/#10-872-K) | Lanare; near S Grantland Ave | 0 |
 | [872-L](https://precinct.netpress.com/#10-872-L) | W Mount Whitney Ave, S Dickenson Ave | 0 |
 | [872-M](https://precinct.netpress.com/#10-872-M) | S Bryan Ave, W Harlan Ave, S Grantland Ave | 13 |
 | [872-N](https://precinct.netpress.com/#10-872-N) | Lanare; S Monroe Ave, W Mount Whitney Ave | 23 |
 | [872-O](https://precinct.netpress.com/#10-872-O) | S Dower Ave, W Cerini Ave | 6 |
 | [872-P](https://precinct.netpress.com/#10-872-P) | Lanare | 14 |
-| [872-R](https://precinct.netpress.com/#10-872-R) |  | 0 |
-| [872-U](https://precinct.netpress.com/#10-872-U) |  | 0 |
+| [872-R](https://precinct.netpress.com/#10-872-R) | Lanare; near S Garfield Ave | 0 |
+| [872-U](https://precinct.netpress.com/#10-872-U) | Near W Excelsior Ave | 0 |
 | [873-A](https://precinct.netpress.com/#10-873-A) | W Kamm Ave, W Conejo Ave, W Swanson Ave | 100 |
 | [873-B](https://precinct.netpress.com/#10-873-B) | S Jameson Ave, W Mountain View Ave | 5 |
-| [873-C](https://precinct.netpress.com/#10-873-C) |  | 6 |
+| [873-C](https://precinct.netpress.com/#10-873-C) | Along S Westlawn Ave | 6 |
 | [874-A](https://precinct.netpress.com/#10-874-A) | W Cerini Ave, S Howard Ave, W Elkhorn Ave | 11 |
 | [874-B](https://precinct.netpress.com/#10-874-B) | S Goldenrod Ave, S Madera Ave, W Harlan Ave | 0 |
 | [874-C](https://precinct.netpress.com/#10-874-C) | W Mount Whitney Ave, S Trinity Ave, W Cerini Ave | 10 |
@@ -2140,11 +2140,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [875-D](https://precinct.netpress.com/#10-875-D) | W Paige Ave, Pereida St, S Bishop Ave | 0 |
 | [875-F](https://precinct.netpress.com/#10-875-F) | Highway 145, S Siskiyou Ave, S Trinity Ave | 3 |
 | [875-G](https://precinct.netpress.com/#10-875-G) | W Laguna Ave, W Mount Whitney Ave, S Madera Ave | 6 |
-| [875-I](https://precinct.netpress.com/#10-875-I) |  | 0 |
+| [875-I](https://precinct.netpress.com/#10-875-I) | Near S Bishop Ave | 0 |
 | [875-J](https://precinct.netpress.com/#10-875-J) | W Laguna Ave, S Dickenson Ave | 0 |
 | [875-K](https://precinct.netpress.com/#10-875-K) | Cantua Creek, S Oil City Ave, W Laguna Ave | 1 |
 | [876-A](https://precinct.netpress.com/#10-876-A) | S Hayes Ave, W Mountain View Ave, S Grantland Ave | 88 |
-| [876-B](https://precinct.netpress.com/#10-876-B) |  | 0 |
+| [876-B](https://precinct.netpress.com/#10-876-B) | Near S Hayes Ave | 0 |
 | [876-C](https://precinct.netpress.com/#10-876-C) | W Stroud Ave, W Conejo Ave, S Blythe Ave | 56 |
 | [877-A](https://precinct.netpress.com/#10-877-A) | Coalinga; W Firestone Ave | 432 |
 | [877-B](https://precinct.netpress.com/#10-877-B) | Coalinga; Firestone Rd, Lost Hills Rd | 0 |
@@ -2170,7 +2170,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [880-N](https://precinct.netpress.com/#10-880-N) | W Tractor Ave, S Lake Ave, W Jayne Ave | 0 |
 | [880-O](https://precinct.netpress.com/#10-880-O) | Modoc Ave, Republic, Highway 269 | 1 |
 | [880-P](https://precinct.netpress.com/#10-880-P) | S Amador Ave, S Amador Rd, W Packard Ave | 0 |
-| [881-A](https://precinct.netpress.com/#10-881-A) |  | 7 |
+| [881-A](https://precinct.netpress.com/#10-881-A) | Along Twelfth St | 7 |
 | [881-C](https://precinct.netpress.com/#10-881-C) | Huron; Pecan Dr, 9th St | 485 |
 | [881-D](https://precinct.netpress.com/#10-881-D) | Huron; Granada St, Corte Way | 206 |
 | [881-E](https://precinct.netpress.com/#10-881-E) | Huron; Sixteenth, M St | 242 |
@@ -2182,16 +2182,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [881-K](https://precinct.netpress.com/#10-881-K) | Huron; Mouren Dr, P St | 13 |
 | [881-L](https://precinct.netpress.com/#10-881-L) | Huron; Cherry St, Orange St | 20 |
 | [882-A](https://precinct.netpress.com/#10-882-A) | Coalinga-Mendota Rd, Highway 33, S Derrick | 0 |
-| [882-C](https://precinct.netpress.com/#10-882-C) |  | 2 |
+| [882-C](https://precinct.netpress.com/#10-882-C) | Along Jayne Ave and W Jayne Ave | 2 |
 | [882-D](https://precinct.netpress.com/#10-882-D) | Oil City Rd, Shell Rd, Lipe Dr | 46 |
 | [882-E](https://precinct.netpress.com/#10-882-E) | Coalinga; S Calavaras Ave, Phelps Ave | 15 |
 | [882-F](https://precinct.netpress.com/#10-882-F) | W Jayne Ave, W Phelps Ave, S El Dorado Ave | 11 |
 | [882-G](https://precinct.netpress.com/#10-882-G) | Sutter Ave, W Lost Hills Rd, S Sutter Ave | 6 |
-| [882-H](https://precinct.netpress.com/#10-882-H) |  | 0 |
+| [882-H](https://precinct.netpress.com/#10-882-H) | Along Jayne Ave and W Jayne Ave | 0 |
 | [882-J](https://precinct.netpress.com/#10-882-J) | Coalinga; W Tornado Ave, S Monterey Ave | 0 |
 | [882-L](https://precinct.netpress.com/#10-882-L) | Skyline Rd, Sutter Ave, S Sutter Ave | 31 |
-| [882-N](https://precinct.netpress.com/#10-882-N) |  | 0 |
-| [882-O](https://precinct.netpress.com/#10-882-O) |  | 0 |
+| [882-N](https://precinct.netpress.com/#10-882-N) | Along Cambridge Ave | 0 |
+| [882-O](https://precinct.netpress.com/#10-882-O) | Coalinga; near W Jayne Ave | 0 |
 | [882-P](https://precinct.netpress.com/#10-882-P) | Coalinga-Mendota Rd, S Derrick Ave, S Monterey Ave | 0 |
 | [882-Q](https://precinct.netpress.com/#10-882-Q) | S Merced Ave | 4 |
 | [882-R](https://precinct.netpress.com/#10-882-R) | S San Joaquin Ave, Quail Creek Rd, Lost Hills Rd | 20 |
@@ -2296,13 +2296,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [919-C](https://precinct.netpress.com/#10-919-C) | Elkhorn Grade, S Bishop Ave, S Dower Ave | 13 |
 | [919-D](https://precinct.netpress.com/#10-919-D) | W Davis Ave | 9 |
 | [919-E](https://precinct.netpress.com/#10-919-E) | S Garfield Ave, S Chateau Fresno Ave, W Cerini Ave | 7 |
-| [920-A](https://precinct.netpress.com/#10-920-A) |  | 5 |
-| [920-B](https://precinct.netpress.com/#10-920-B) |  | 16 |
-| [920-C](https://precinct.netpress.com/#10-920-C) | Riverdale | 5 |
+| [920-A](https://precinct.netpress.com/#10-920-A) | Riverdale; near W Mount Whitney Ave | 5 |
+| [920-B](https://precinct.netpress.com/#10-920-B) | Riverdale; near Troutdale Ln | 16 |
+| [920-C](https://precinct.netpress.com/#10-920-C) | Riverdale; along S Hazel Ave and W Henson Ave | 5 |
 | [920-D](https://precinct.netpress.com/#10-920-D) | Riverdale; S Lafayette Ave, S Pleasant Ave | 201 |
 | [920-E](https://precinct.netpress.com/#10-920-E) | Riverdale; S Hughes Ave, W Wood Ave | 17 |
 | [920-F](https://precinct.netpress.com/#10-920-F) | S Marks Ave | 11 |
-| [920-G](https://precinct.netpress.com/#10-920-G) |  | 1 |
+| [920-G](https://precinct.netpress.com/#10-920-G) | Riverdale; near W Kruger Ave | 1 |
 | [920-H](https://precinct.netpress.com/#10-920-H) | Riverdale; Alva Ave, S Dewey Ave | 120 |
 | [920-I](https://precinct.netpress.com/#10-920-I) | Riverdale; S Hazel Ave, Haslam Ave | 95 |
 | [920-J](https://precinct.netpress.com/#10-920-J) | Riverdale; Wilda Way, Malsbary St | 42 |

@@ -47,7 +47,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2001](https://precinct.netpress.com/#51-2001) | 2nd St, Feather River, Levee Rd | 3 |
 | [2002](https://precinct.netpress.com/#51-2002) | S Barrett Rd, S Lawrence Ave, S Palora Ave | 332 |
 | [2003](https://precinct.netpress.com/#51-2003) | Yuba City; Alemar Way, Grant Way | 210 |
-| [2004](https://precinct.netpress.com/#51-2004) | Yuba City | 0 |
+| [2004](https://precinct.netpress.com/#51-2004) | Yuba City; along S Palora Ave | 0 |
 | [2005](https://precinct.netpress.com/#51-2005) | Yuba City; C St, Woodcrest Way | 159 |
 | [2006](https://precinct.netpress.com/#51-2006) | Yuba City; Teegarden Ave, Aylor Ave | 242 |
 | [2007](https://precinct.netpress.com/#51-2007) | Yuba City | 0 |
@@ -69,7 +69,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2023](https://precinct.netpress.com/#51-2023) | Yuba City; Kimball Ave, Spiva Ave | 389 |
 | [2025](https://precinct.netpress.com/#51-2025) | Yuba City; Maple Ave, Lewis Ave | 182 |
 | [2026](https://precinct.netpress.com/#51-2026) | Yuba City; Jewell Ave, Taber Ave | 147 |
-| [2028](https://precinct.netpress.com/#51-2028) | Yuba City | 18 |
+| [2028](https://precinct.netpress.com/#51-2028) | Yuba City; along Franklin Ave and S Lawrence Ave | 18 |
 | [2030](https://precinct.netpress.com/#51-2030) | Yuba City; Madrone Dr, Orchard St | 190 |
 | [2034](https://precinct.netpress.com/#51-2034) | Yuba City; E Hillcrest Ave, Windsor Dr | 199 |
 | [2035](https://precinct.netpress.com/#51-2035) | Yuba City; Helen Ave, Marcia Ave | 143 |
@@ -116,7 +116,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3064](https://precinct.netpress.com/#51-3064) | Markley Rd, Howlett Ave | 39 |
 | [3065](https://precinct.netpress.com/#51-3065) | Ahlf Rd, E Butte Rd | 5 |
 | [3066](https://precinct.netpress.com/#51-3066) | Mallott Rd, Pass Rd, Kellogg Rd | 89 |
-| [3067](https://precinct.netpress.com/#51-3067) |  | 0 |
+| [3067](https://precinct.netpress.com/#51-3067) | Near S Butte Rd | 0 |
 | [3068](https://precinct.netpress.com/#51-3068) | S Butte Rd | 4 |
 | [3069](https://precinct.netpress.com/#51-3069) | Garmire Rd, Progress Rd, S Meridian Rd | 37 |
 | [3071](https://precinct.netpress.com/#51-3071) | Meridian; Butte Slough, Farmlan Rd | 290 |
@@ -135,7 +135,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4003](https://precinct.netpress.com/#51-4003) | Cam Cortez, Frontage Rd, Bancroft Ave | 315 |
 | [4004](https://precinct.netpress.com/#51-4004) | Ohleyer Rd, Harding Rd, Holly Ave | 138 |
 | [4005](https://precinct.netpress.com/#51-4005) | Yuba City; Sunsweet Blvd, N Walton Ave | 235 |
-| [4006](https://precinct.netpress.com/#51-4006) |  | 27 |
+| [4006](https://precinct.netpress.com/#51-4006) | Near Lincoln Rd | 27 |
 | [4007](https://precinct.netpress.com/#51-4007) | Yuba City; Josephene Way, Allen Way | 414 |
 | [4008](https://precinct.netpress.com/#51-4008) | Clements Rd, Humphrey Rd, S Humphrey Rd | 90 |
 | [4009](https://precinct.netpress.com/#51-4009) | Sutter Extension Canel, Bogue Rd, Lincoln Rd | 123 |
@@ -145,15 +145,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4016](https://precinct.netpress.com/#51-4016) | Yuba City; Lyndsey Ln, Gabriel Ave | 353 |
 | [4021](https://precinct.netpress.com/#51-4021) | Yuba City; Neil Dr, Anneka Ln | 272 |
 | [4029](https://precinct.netpress.com/#51-4029) | Yuba City; Lassen Blvd, Andross Ave | 367 |
-| [4034](https://precinct.netpress.com/#51-4034) |  | 27 |
+| [4034](https://precinct.netpress.com/#51-4034) | Along Bogue Rd | 27 |
 | [4035](https://precinct.netpress.com/#51-4035) | Yuba City; Sanborn Rd, Lincoln Rd | 41 |
 | [4036](https://precinct.netpress.com/#51-4036) | Yuba City; Colusa Rd, Miller Rd | 134 |
 | [4037](https://precinct.netpress.com/#51-4037) | Yuba City; Redhaven Ave, Harter Pkwy | 60 |
 | [4041](https://precinct.netpress.com/#51-4041) | Yuba City; Whyler Rd, Kean Ave | 114 |
 | [4049](https://precinct.netpress.com/#51-4049) | Smith Rd | 17 |
-| [4050](https://precinct.netpress.com/#51-4050) |  | 0 |
+| [4050](https://precinct.netpress.com/#51-4050) | Along Smith Rd | 0 |
 | [4052](https://precinct.netpress.com/#51-4052) | Yuba City; Hardial Dr, Hunji Dr | 473 |
-| [4053](https://precinct.netpress.com/#51-4053) |  | 2 |
+| [4053](https://precinct.netpress.com/#51-4053) | Yuba City; near Bridge St | 2 |
 | [4058](https://precinct.netpress.com/#51-4058) | Yuba City; Vernon Ave | 0 |
 | [4061](https://precinct.netpress.com/#51-4061) | Colusa Rd | 4 |
 | [4067](https://precinct.netpress.com/#51-4067) | Yuba City; Michelle Dr, Rameriz Dr | 793 |
@@ -177,9 +177,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4092](https://precinct.netpress.com/#51-4092) | Yuba City; Littlejohn Rd, Parkview Ave | 553 |
 | [4093](https://precinct.netpress.com/#51-4093) | Yuba City; Gidda Loop, Sanborn Rd | 319 |
 | [4094](https://precinct.netpress.com/#51-4094) | Yuba City; El Margarita Rd, Imperial Way | 243 |
-| [4095](https://precinct.netpress.com/#51-4095) | Yuba City | 0 |
+| [4095](https://precinct.netpress.com/#51-4095) | Yuba City; along S Industrial Dr | 0 |
 | [4096](https://precinct.netpress.com/#51-4096) | Franklin Rd, Glidden Ln, N Township Rd | 77 |
-| [4097](https://precinct.netpress.com/#51-4097) |  | 38 |
+| [4097](https://precinct.netpress.com/#51-4097) | Along Lincoln Rd | 38 |
 | [4098](https://precinct.netpress.com/#51-4098) | Pershing Ave, Salem Dr, Sunset Ave | 161 |
 | [5001](https://precinct.netpress.com/#51-5001) | Levee Rd, Feather River | 0 |
 | [5002](https://precinct.netpress.com/#51-5002) | East Nicolaus and Trowbridge; El Centro Blvd, Nicolaus Ave | 201 |
@@ -190,7 +190,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5008](https://precinct.netpress.com/#51-5008) | Daphne Ln, Sutter Extension Canel | 2 |
 | [5010](https://precinct.netpress.com/#51-5010) | S Township Rd, Bogue Rd, Daphne Ln | 33 |
 | [5012](https://precinct.netpress.com/#51-5012) | Schlag Rd, Hughes Rd, Daphne Ln | 3 |
-| [5013](https://precinct.netpress.com/#51-5013) |  | 5 |
+| [5013](https://precinct.netpress.com/#51-5013) | Near Levee Rd | 5 |
 | [5014](https://precinct.netpress.com/#51-5014) | Levee Rd, Feather River | 0 |
 | [5015](https://precinct.netpress.com/#51-5015) | Yuba City; Gilliland Dr, Mariposa Dr | 340 |
 | [5016](https://precinct.netpress.com/#51-5016) | Creswell Dr, Phillips Rd, Galaxy Dr | 500 |
@@ -207,8 +207,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5027](https://precinct.netpress.com/#51-5027) | Southland Dr, Canterbury Dr, Lois Ln | 308 |
 | [5028](https://precinct.netpress.com/#51-5028) | Yuba City | 4 |
 | [5029](https://precinct.netpress.com/#51-5029) | Robbins; Mystic Lake, Subacco Rd | 187 |
-| [5030](https://precinct.netpress.com/#51-5030) |  | 14 |
-| [5031](https://precinct.netpress.com/#51-5031) |  | 0 |
+| [5030](https://precinct.netpress.com/#51-5030) | Near Bogue Rd | 14 |
+| [5031](https://precinct.netpress.com/#51-5031) | Along Bogue Rd | 0 |
 | [5032](https://precinct.netpress.com/#51-5032) | E Canal, Sutter Bypass, Highway 113 | 0 |
 | [5033](https://precinct.netpress.com/#51-5033) | Yuba City; Delone Dr, Geneva Ave | 227 |
 | [5037](https://precinct.netpress.com/#51-5037) | Westwood Dr | 25 |

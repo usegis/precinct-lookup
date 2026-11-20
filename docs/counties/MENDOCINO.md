@@ -18,8 +18,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110014](https://precinct.netpress.com/#23-110014) | Agnes Ln | 0 |
 | [110020](https://precinct.netpress.com/#23-110020) | Rancho Grande Dr, Carousel Ln, 2nd St | 517 |
 | [110030](https://precinct.netpress.com/#23-110030) | Hollow Tree Rd, N State St, Kunzler Ranch Rd | 187 |
-| [110030.01](https://precinct.netpress.com/#23-110030.01) |  | 0 |
-| [110031](https://precinct.netpress.com/#23-110031) |  | 0 |
+| [110030.01](https://precinct.netpress.com/#23-110030.01) | Near Kunzler Ranch Rd | 0 |
+| [110031](https://precinct.netpress.com/#23-110031) | Along N State St | 0 |
 | [110032](https://precinct.netpress.com/#23-110032) | Kennwood Dr, Briarwood Dr, Beltrami Dr | 251 |
 | [110040](https://precinct.netpress.com/#23-110040) | Ukiah; Recreation Rd, Babcock Ln | 402 |
 | [110050](https://precinct.netpress.com/#23-110050) | E Calpella Rd, E Side Calpella Rd, Deghi Ln | 522 |
@@ -30,7 +30,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110080.01](https://precinct.netpress.com/#23-110080.01) | Ukiah; El Roble Rd, Taylor Dr | 0 |
 | [110081](https://precinct.netpress.com/#23-110081) | Ukiah; Plant Rd | 0 |
 | [110082](https://precinct.netpress.com/#23-110082) | Ukiah; Cox Schroeder Rd, El Roble Rd | 13 |
-| [110083](https://precinct.netpress.com/#23-110083) | Ukiah | 5 |
+| [110083](https://precinct.netpress.com/#23-110083) | Ukiah; along Hastings Rd and Hastings Frontage Rd | 5 |
 | [110083.01](https://precinct.netpress.com/#23-110083.01) | Ukiah; Norgard Ln | 0 |
 | [110110](https://precinct.netpress.com/#23-110110) | Potter Valley; W Side Potter Valley Rd, Co Rd 240 | 269 |
 | [110111](https://precinct.netpress.com/#23-110111) | Pine Ave, Burris Ln, Midmountain Rd | 118 |
@@ -49,7 +49,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110190](https://precinct.netpress.com/#23-110190) | Laughlin Way, Uva Dr, Road N | 484 |
 | [110200](https://precinct.netpress.com/#23-110200) | East Rd, Mohawk Trl, Inez Way | 308 |
 | [110201](https://precinct.netpress.com/#23-110201) | N E, Bakers Creek Rd, Bakers Creek | 127 |
-| [110202](https://precinct.netpress.com/#23-110202) |  | 0 |
+| [110202](https://precinct.netpress.com/#23-110202) | Near Mariposa Creek Rd | 0 |
 | [110203](https://precinct.netpress.com/#23-110203) | Lake Lee, N E, Gibson Ln | 0 |
 | [110204](https://precinct.netpress.com/#23-110204) | Mariposa Creek Rd, Ridgewood Rd | 0 |
 | [110210](https://precinct.netpress.com/#23-110210) | F Rd, E Rd, Black Bart Trl | 6 |
@@ -64,20 +64,20 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110250](https://precinct.netpress.com/#23-110250) | Watson Rd, Vichy Hills Dr, Quail Dr | 496 |
 | [110250.01](https://precinct.netpress.com/#23-110250.01) | Appolinaris Dr, Tehuacan Rd, Saint Yorre Ct | 0 |
 | [110251](https://precinct.netpress.com/#23-110251) | Blm Acess Rd, Vichy Springs Rd | 8 |
-| [110252](https://precinct.netpress.com/#23-110252) |  | 1 |
+| [110252](https://precinct.netpress.com/#23-110252) | Along Ridge Rd | 1 |
 | [110260](https://precinct.netpress.com/#23-110260) | Ridgeway Hwy, Oat Gap Rd, Co Rd M6 | 106 |
 | [110270](https://precinct.netpress.com/#23-110270) | Ridgeway, Foster Mountain Rd, Ridgeway Hwy | 1 |
 | [110290](https://precinct.netpress.com/#23-110290) | Talmage; Sanford Ranch Rd, Twining Rd | 572 |
 | [110300](https://precinct.netpress.com/#23-110300) | Vichy Springs Rd | 5 |
-| [110310](https://precinct.netpress.com/#23-110310) |  | 10 |
+| [110310](https://precinct.netpress.com/#23-110310) | Along Babcock Ln and River Rd | 10 |
 | [110321](https://precinct.netpress.com/#23-110321) | E Side Calpella Rd, Eastside Calpella Rd, E Calpella Rd | 31 |
 | [110322](https://precinct.netpress.com/#23-110322) | King Ranch Rd, Lake Mendocino | 11 |
 | [110323](https://precinct.netpress.com/#23-110323) | Calpella; Marina Dr, Lake Mendocino | 4 |
 | [110324](https://precinct.netpress.com/#23-110324) | Calpella; Black Oak Dr, Lake Ridge Rd | 67 |
-| [110325](https://precinct.netpress.com/#23-110325) |  | 0 |
+| [110325](https://precinct.netpress.com/#23-110325) | Near E Side Calpella Rd | 0 |
 | [110330](https://precinct.netpress.com/#23-110330) | Deerwood Dr, Wildwood Rd, Hulda Dr | 384 |
 | [110330.01](https://precinct.netpress.com/#23-110330.01) | River View Dr, Twin Rivers Dr | 0 |
-| [110331](https://precinct.netpress.com/#23-110331) |  | 8 |
+| [110331](https://precinct.netpress.com/#23-110331) | Near Rafello Dr | 8 |
 | [110332](https://precinct.netpress.com/#23-110332) | Rafello Dr, Service Rd, Hulda | 19 |
 | [110340](https://precinct.netpress.com/#23-110340) | Redwood Valley; Colony Dr, Road E | 382 |
 | [110350](https://precinct.netpress.com/#23-110350) | East Fork Russian River, Black Bart Trl, N Rd | 158 |
@@ -86,17 +86,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110363](https://precinct.netpress.com/#23-110363) | Rosemary Hill Ranch Rd, Vokayo Tribe Ranch Rd, Yokayo Ranch Rd | 178 |
 | [110400](https://precinct.netpress.com/#23-110400) | Uva Dr, Forsythe Dr, Bel Arbres Dr | 280 |
 | [110402](https://precinct.netpress.com/#23-110402) | Central Ave, Frontage Rd, Uva Dr | 20 |
-| [110406](https://precinct.netpress.com/#23-110406) |  | 0 |
+| [110406](https://precinct.netpress.com/#23-110406) | Near Westerly Pl | 0 |
 | [110407](https://precinct.netpress.com/#23-110407) | Carter Ln, Hollowtree Rd | 0 |
 | [110410](https://precinct.netpress.com/#23-110410) | Lorene Rd, Finne Rd, Oman Rd | 82 |
 | [110500](https://precinct.netpress.com/#23-110500) | Hopland; Macmillan Dr, Ralph Bettcher Dr | 229 |
 | [110501](https://precinct.netpress.com/#23-110501) | Hopland; Harrison St, McDowell St | 149 |
-| [110502](https://precinct.netpress.com/#23-110502) |  | 5 |
+| [110502](https://precinct.netpress.com/#23-110502) | Near Redwood Hwy | 5 |
 | [110503](https://precinct.netpress.com/#23-110503) | Nokomis Rd, Highway 175, Younce Rd | 247 |
 | [110504](https://precinct.netpress.com/#23-110504) | Henry Station Rd, Sanel Dr, Blue Oak Dr | 170 |
 | [110505](https://precinct.netpress.com/#23-110505) | Hagan Lake, Pratt Ranch, Pratt Ranch Rd | 4 |
 | [110506](https://precinct.netpress.com/#23-110506) | Pine Mountain Rd, Adobe Creek Rd, Old Toll Rd | 20 |
-| [110507](https://precinct.netpress.com/#23-110507) |  | 0 |
+| [110507](https://precinct.netpress.com/#23-110507) | Near Nelson Ranch Rd | 0 |
 | [110508](https://precinct.netpress.com/#23-110508) | Hopland; Old River Rd, Nelson Ranch Rd | 200 |
 | [110510](https://precinct.netpress.com/#23-110510) | Romers Dairy Rd, Burke Hill Rd, Burke Hill Dr | 4 |
 | [110511](https://precinct.netpress.com/#23-110511) | Butler Ranch Rd, Nelson Ranch Rd, Burke Hill Rd | 8 |
@@ -104,9 +104,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [110513](https://precinct.netpress.com/#23-110513) | Heart Arrow Trl, Highway 20, Bakers Creek Rd | 2 |
 | [110514](https://precinct.netpress.com/#23-110514) | Ridgewood Rd, Mariposa Creek Rd | 0 |
 | [110515](https://precinct.netpress.com/#23-110515) | McNab Ranch Rd, Blue Ridge Rock Products Rd, Geysers Rd | 88 |
-| [110516](https://precinct.netpress.com/#23-110516) |  | 0 |
+| [110516](https://precinct.netpress.com/#23-110516) | Near Forest Rte 19N53 | 0 |
 | [110517](https://precinct.netpress.com/#23-110517) | Hearst Post Office Rd, Foster Mountain Rd, Old Wagon Rd | 12 |
-| [111001](https://precinct.netpress.com/#23-111001) |  | 4 |
+| [111001](https://precinct.netpress.com/#23-111001) | Near N Bush St | 4 |
 | [210010](https://precinct.netpress.com/#23-210010) | Faull Ave, Laws Ave, Rosemary Ln | 262 |
 | [210011](https://precinct.netpress.com/#23-210011) | Doolan Canyon Dr | 6 |
 | [210012](https://precinct.netpress.com/#23-210012) | Helen Ave | 0 |
@@ -118,7 +118,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [210501](https://precinct.netpress.com/#23-210501) | Ukiah; Plant Rd, Norgard Ln | 232 |
 | [210502](https://precinct.netpress.com/#23-210502) | Ukiah; Stanley Ave | 0 |
 | [210503](https://precinct.netpress.com/#23-210503) | Briggs St | 0 |
-| [210504](https://precinct.netpress.com/#23-210504) |  | 0 |
+| [210504](https://precinct.netpress.com/#23-210504) | Near Low Gap Rd | 0 |
 | [210505](https://precinct.netpress.com/#23-210505) | Ukiah; Beacon Way, Ranee Ln | 120 |
 | [210506](https://precinct.netpress.com/#23-210506) | Ukiah; Cresta Dr, Wabash Ave | 107 |
 | [211010](https://precinct.netpress.com/#23-211010) | Ukiah; Village Cir, Cherry St | 331 |
@@ -127,7 +127,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [211030](https://precinct.netpress.com/#23-211030) | Ukiah; Waugh Ln, Betty St | 274 |
 | [211040](https://precinct.netpress.com/#23-211040) | Ukiah; Freeway Dr, Manor Dr | 231 |
 | [211050](https://precinct.netpress.com/#23-211050) | Ukiah; Irvington Dr, Lockwood Dr | 184 |
-| [211050.01](https://precinct.netpress.com/#23-211050.01) |  | 0 |
+| [211050.01](https://precinct.netpress.com/#23-211050.01) | Near N State St | 0 |
 | [211051](https://precinct.netpress.com/#23-211051) | Ukiah; Burlington Dr, Carleton Dr | 197 |
 | [211060](https://precinct.netpress.com/#23-211060) | Ukiah; Court St, Freitas Ave | 308 |
 | [211070](https://precinct.netpress.com/#23-211070) | Ukiah; W Henry St, Scott St | 191 |
@@ -152,7 +152,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [211200](https://precinct.netpress.com/#23-211200) | Ukiah; Park Blvd, Clubhouse Dr | 151 |
 | [211201](https://precinct.netpress.com/#23-211201) | Ukiah; W Perkins St, S Highland Ave | 151 |
 | [211202](https://precinct.netpress.com/#23-211202) | Ukiah; W Standley St, Stanley Ave | 176 |
-| [211210](https://precinct.netpress.com/#23-211210) | Ukiah; San Jacinto Dr, San Jacinta Dr, Redwood Ave | 200 |
+| [211210](https://precinct.netpress.com/#23-211210) | Ukiah; San Jacinto Dr, San Jacinta Dr | 200 |
 | [211211](https://precinct.netpress.com/#23-211211) | Ukiah; San Jacinto Dr, San Jacinta Dr | 6 |
 | [211220](https://precinct.netpress.com/#23-211220) | Ukiah; Gibson St, N School St | 289 |
 | [211221](https://precinct.netpress.com/#23-211221) | Ukiah; Snuffin St, N Pine St | 103 |
@@ -165,8 +165,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [211261](https://precinct.netpress.com/#23-211261) | Ukiah; S State St, Airport Rd | 0 |
 | [211270](https://precinct.netpress.com/#23-211270) | Ukiah; S Orchard Ave, Robinson Ln | 141 |
 | [211271](https://precinct.netpress.com/#23-211271) | Ukiah; Cindee Dr, Munson Frontage Rd | 243 |
-| [211280](https://precinct.netpress.com/#23-211280) | Ukiah; Hastings Rd, Hastings Frontage Rd, Old County Rd | 18 |
-| [211280.01](https://precinct.netpress.com/#23-211280.01) | Ukiah; Hastings Rd, Hastings Frontage Rd, Highway 101 | 0 |
+| [211280](https://precinct.netpress.com/#23-211280) | Ukiah; Hastings Rd, Hastings Frontage Rd | 18 |
+| [211280.01](https://precinct.netpress.com/#23-211280.01) | Ukiah; Hastings Rd, Hastings Frontage Rd | 0 |
 | [310010](https://precinct.netpress.com/#23-310010) | Timberline Rd, Blue Lake Rd, Crystal Ln | 116 |
 | [310013](https://precinct.netpress.com/#23-310013) | Iron Peak Rd, Spy Rock Rd, Fitzhugh Rd | 51 |
 | [310020](https://precinct.netpress.com/#23-310020) | Brooktrails; Bear Dr, Ridge Rd | 570 |
@@ -174,7 +174,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [310040](https://precinct.netpress.com/#23-310040) | Brooktrails; Lake Emily, Poppy Dr | 220 |
 | [310041](https://precinct.netpress.com/#23-310041) | Brooktrails; Hawk Dr, Hawk Rd | 203 |
 | [310050](https://precinct.netpress.com/#23-310050) | Brooktrails; Summer Lake, Primrose Dr | 355 |
-| [310051](https://precinct.netpress.com/#23-310051) |  | 0 |
+| [310051](https://precinct.netpress.com/#23-310051) | Brooktrails; near Sherwood Rd | 0 |
 | [310060](https://precinct.netpress.com/#23-310060) | Brooktrails; Buckeye Rd, Tulip Dr | 347 |
 | [310070](https://precinct.netpress.com/#23-310070) | Brooktrails; Lake Ada Rose, Lilac Rd | 349 |
 | [310090](https://precinct.netpress.com/#23-310090) | String Creek Rd, Tartar Canyon Rd, Ryan Creek Rd | 262 |
@@ -210,9 +210,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [320032](https://precinct.netpress.com/#23-320032) | Covelo; Bigger Ln, Barnes Ln | 215 |
 | [320040](https://precinct.netpress.com/#23-320040) | Covelo; Greely St, Grange St | 127 |
 | [320041](https://precinct.netpress.com/#23-320041) | Foothill, Poonkinney Rd, Cemetery Ln | 0 |
-| [320042](https://precinct.netpress.com/#23-320042) |  | 2 |
+| [320042](https://precinct.netpress.com/#23-320042) | Near Covelo Rd | 2 |
 | [320043](https://precinct.netpress.com/#23-320043) | Covelo; S Airport Rd, Concow Blvd | 191 |
-| [320044](https://precinct.netpress.com/#23-320044) |  | 0 |
+| [320044](https://precinct.netpress.com/#23-320044) | Near East Ln | 0 |
 | [320050](https://precinct.netpress.com/#23-320050) | Co Rte M1, Howard Lake, Mendocino Pass Rd | 138 |
 | [320051](https://precinct.netpress.com/#23-320051) | Covelo; Hill Rd, East Ln | 168 |
 | [320052](https://precinct.netpress.com/#23-320052) | Hinman Ln, Eel River Ranch Rd | 1 |
@@ -244,15 +244,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [430011](https://precinct.netpress.com/#23-430011) | Bear Pen Rd, Combs Rd, Mal Combs Rd | 4 |
 | [430012](https://precinct.netpress.com/#23-430012) | Pepperwood Springs Rd, Ebert Ln, Mal Combs Rd | 23 |
 | [430013](https://precinct.netpress.com/#23-430013) | Moody Rd, Usal Rd, Dimmick Rd | 0 |
-| [430014](https://precinct.netpress.com/#23-430014) |  | 0 |
-| [430016](https://precinct.netpress.com/#23-430016) |  | 1 |
+| [430014](https://precinct.netpress.com/#23-430014) | Near Bear Pen Rd | 0 |
+| [430016](https://precinct.netpress.com/#23-430016) | Near Bear Pen Rd | 1 |
 | [430020](https://precinct.netpress.com/#23-430020) | Briceland Thorn Rd, Usal Rd, Yellow Rd | 57 |
 | [430030](https://precinct.netpress.com/#23-430030) | Leggett; Green Rd, Big Bend Lodge Rd | 154 |
 | [430031](https://precinct.netpress.com/#23-430031) | Hansen Ranch Rd, Arnette Dr, Combs Rd | 7 |
-| [430032](https://precinct.netpress.com/#23-430032) |  | 1 |
+| [430032](https://precinct.netpress.com/#23-430032) | Near Highway 101 | 1 |
 | [430034](https://precinct.netpress.com/#23-430034) | Timber Haul Rd, Usal Rd, Wheeler Trl | 1 |
 | [430035](https://precinct.netpress.com/#23-430035) | Hollow Tree Creek Rd, Westside Rd, Eastside Rd | 4 |
-| [430040](https://precinct.netpress.com/#23-430040) |  | 1 |
+| [430040](https://precinct.netpress.com/#23-430040) | Near Jack of Hearts Rd | 1 |
 | [430050](https://precinct.netpress.com/#23-430050) | Foster Creek Rd, Little Dan Creek Rd, Red Mountain Rd | 2 |
 | [430051](https://precinct.netpress.com/#23-430051) | Dann Cr Rd, Little Dan Creek Rd, Arnette Dr | 63 |
 | [430052](https://precinct.netpress.com/#23-430052) | Hermitage Rd | 5 |
@@ -286,7 +286,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [440130](https://precinct.netpress.com/#23-440130) | Boice Ln, Mitchell Way, Pearl Dr | 224 |
 | [440140](https://precinct.netpress.com/#23-440140) | N Harbor Dr, Noyo River | 22 |
 | [440150](https://precinct.netpress.com/#23-440150) | Fort Bragg; Pudding Creek Rd, John Hyman Rd | 463 |
-| [440151](https://precinct.netpress.com/#23-440151) |  | 13 |
+| [440151](https://precinct.netpress.com/#23-440151) | Along Bald Hill Rd and Tamborini Ln | 13 |
 | [440160](https://precinct.netpress.com/#23-440160) | Bruhel Point Rd, Old Cahto Rd, Lower Rd | 34 |
 | [440165](https://precinct.netpress.com/#23-440165) | Camp Two Ten Mile Rd, Ten Mile River, Ocean Meadows Cir | 43 |
 | [440170](https://precinct.netpress.com/#23-440170) | Westside Rd, Wilderness Ridge Rd, Rockport St | 1 |
@@ -307,14 +307,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [444081](https://precinct.netpress.com/#23-444081) | Fort Bragg; E Oak St, Livingston St | 203 |
 | [444082](https://precinct.netpress.com/#23-444082) | Fort Bragg; Acorn Dr, Hocker Ln | 172 |
 | [444083](https://precinct.netpress.com/#23-444083) | Fort Bragg; Cedar St, Dennison Ln | 31 |
-| [444084](https://precinct.netpress.com/#23-444084) | Fort Bragg | 0 |
+| [444084](https://precinct.netpress.com/#23-444084) | Fort Bragg; along Cedar St and Monsen Way | 0 |
 | [444085](https://precinct.netpress.com/#23-444085) | Taubold Ct, E Oak St, Fort Bragg - Sherwood Rd | 50 |
 | [444090](https://precinct.netpress.com/#23-444090) | Fort Bragg; Park St, S Harold | 332 |
 | [444100](https://precinct.netpress.com/#23-444100) | Fort Bragg; S McPherson St, Maple St | 213 |
 | [444110](https://precinct.netpress.com/#23-444110) | Fort Bragg; E Chestnut St, S Whipple St | 425 |
 | [444120](https://precinct.netpress.com/#23-444120) | Fort Bragg; S Sanderson Way, Ebbing Way | 329 |
 | [444121](https://precinct.netpress.com/#23-444121) | Lonne Way, Anderson St S | 13 |
-| [444122](https://precinct.netpress.com/#23-444122) |  | 6 |
+| [444122](https://precinct.netpress.com/#23-444122) | Near Georgia-Pacific ---Haul Rd | 6 |
 | [444130](https://precinct.netpress.com/#23-444130) | Fort Bragg; South St, Casa del Noyo | 159 |
 | [444131](https://precinct.netpress.com/#23-444131) | Fort Bragg; Boat Yard Dr, S Franklin St | 30 |
 | [444132](https://precinct.netpress.com/#23-444132) | Fort Bragg; Harbor Ave, Del Mar Dr | 31 |
@@ -325,28 +325,28 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [510030](https://precinct.netpress.com/#23-510030) | Walker Lake, Walker Lake Rd, Lakeview Dr | 218 |
 | [510040](https://precinct.netpress.com/#23-510040) | Masonite Industrial Rd, Low Gap Rd, Running Springs Ranch Rd | 93 |
 | [510040.01](https://precinct.netpress.com/#23-510040.01) | Ukiah | 0 |
-| [510041](https://precinct.netpress.com/#23-510041) |  | 35 |
+| [510041](https://precinct.netpress.com/#23-510041) | Along Pinoleville Rd and Pinoleville Dr | 35 |
 | [510042](https://precinct.netpress.com/#23-510042) | Orr Springs Rd, Lovers Ln, Parducci Rd | 10 |
-| [510043](https://precinct.netpress.com/#23-510043) |  | 2 |
+| [510043](https://precinct.netpress.com/#23-510043) | Near Orr Springs Rd | 2 |
 | [510044](https://precinct.netpress.com/#23-510044) | Parducci Rd | 1 |
 | [510046](https://precinct.netpress.com/#23-510046) | Hensley Creek Rd, Pinoleville Rd, Pinoleville Dr | 152 |
 | [510046.01](https://precinct.netpress.com/#23-510046.01) | Lovers Ln | 0 |
-| [510046.02](https://precinct.netpress.com/#23-510046.02) |  | 0 |
+| [510046.02](https://precinct.netpress.com/#23-510046.02) | Near Hensley Creek Rd | 0 |
 | [510050](https://precinct.netpress.com/#23-510050) | Gobalet Ln, Toyon Rd, Meadowbrook Ln | 290 |
 | [510051](https://precinct.netpress.com/#23-510051) | Oak Knoll Rd | 14 |
 | [510051.01](https://precinct.netpress.com/#23-510051.01) | Oak Knoll Rd, Crestview Dr | 0 |
 | [510052](https://precinct.netpress.com/#23-510052) | Crestview Dr, Fircrest Dr | 37 |
 | [510053](https://precinct.netpress.com/#23-510053) | Spanish Canyon Dr, Canyon Ct, Canyon Court Rd | 38 |
 | [510060](https://precinct.netpress.com/#23-510060) | Ukiah; Pine Ridge Rd, Low Gap Ranch | 73 |
-| [510070](https://precinct.netpress.com/#23-510070) |  | 0 |
+| [510070](https://precinct.netpress.com/#23-510070) | Near Hoe Rd | 0 |
 | [510071](https://precinct.netpress.com/#23-510071) | Comptche Rd | 4 |
 | [510084](https://precinct.netpress.com/#23-510084) | Mountain House Rd, Duncan Springs Rd, Echo Station Rd | 30 |
 | [510090](https://precinct.netpress.com/#23-510090) | Old Hopland Yorkville Rd, Co Rd 110, Mc Nab Creek | 176 |
-| [510091](https://precinct.netpress.com/#23-510091) |  | 5 |
-| [510092](https://precinct.netpress.com/#23-510092) |  | 0 |
+| [510091](https://precinct.netpress.com/#23-510091) | Near Yorkville Ranch Rd | 5 |
+| [510092](https://precinct.netpress.com/#23-510092) | Near Old Hopland Yorkville Rd | 0 |
 | [510094](https://precinct.netpress.com/#23-510094) | Hulbert Rd | 13 |
 | [510095](https://precinct.netpress.com/#23-510095) | Mountain House Rd | 4 |
-| [510096](https://precinct.netpress.com/#23-510096) |  | 0 |
+| [510096](https://precinct.netpress.com/#23-510096) | Near Highway 128 | 0 |
 | [510097](https://precinct.netpress.com/#23-510097) | McNab Ranch Rd | 0 |
 | [510100](https://precinct.netpress.com/#23-510100) | Frontage Road D, Burke Hill Rd, Bisby Ave | 263 |
 | [510101](https://precinct.netpress.com/#23-510101) | Robinson Creek Rd, Knoxville Rd | 15 |
@@ -366,7 +366,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [510507](https://precinct.netpress.com/#23-510507) | Ukiah | 0 |
 | [510509](https://precinct.netpress.com/#23-510509) | Lennix Dr, Oman Rd, Bel Arbres Dr | 26 |
 | [510510](https://precinct.netpress.com/#23-510510) | Doolan Canyon Dr | 8 |
-| [510511](https://precinct.netpress.com/#23-510511) |  | 7 |
+| [510511](https://precinct.netpress.com/#23-510511) | Along Beacon Ln and Beacon Dr | 7 |
 | [510514](https://precinct.netpress.com/#23-510514) | Blue Bonnet Dr, S Dora St, Fircrest Dr | 70 |
 | [510515](https://precinct.netpress.com/#23-510515) | Fircrest Dr | 33 |
 | [510516](https://precinct.netpress.com/#23-510516) | Fred Macmurray Ln, Radical Ridge Rd, Main Ranch Rd | 50 |
@@ -397,9 +397,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [550011](https://precinct.netpress.com/#23-550011) | Alta Mesa Rd, Hillcrest Dr, Forest View Rd | 95 |
 | [550012](https://precinct.netpress.com/#23-550012) | Cliff Ridge Rd, Alta Mesa | 0 |
 | [550020](https://precinct.netpress.com/#23-550020) | Cameron Rd, Philo Greenwood Rd, Navarro River | 234 |
-| [550021](https://precinct.netpress.com/#23-550021) |  | 0 |
-| [550022](https://precinct.netpress.com/#23-550022) |  | 2 |
-| [550023](https://precinct.netpress.com/#23-550023) |  | 56 |
+| [550021](https://precinct.netpress.com/#23-550021) | Near Highway 128 | 0 |
+| [550022](https://precinct.netpress.com/#23-550022) | Near Greenwood Rd | 2 |
+| [550023](https://precinct.netpress.com/#23-550023) | Along S Hwy 1 and Elk Meadow Rd | 56 |
 | [550024](https://precinct.netpress.com/#23-550024) | Adams Ridge Rd, Cold Springs Rd | 2 |
 | [550030](https://precinct.netpress.com/#23-550030) | Gualala and Anchor Bay; Old Stage Rd, Seaside School Rd | 432 |
 | [550031](https://precinct.netpress.com/#23-550031) | Anchor Bay; Ocean View Ave, Ocean View St | 39 |
@@ -423,11 +423,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [560012](https://precinct.netpress.com/#23-560012) | Page Rd, Yorkville Ranch Rd, Highway 253 | 18 |
 | [560020](https://precinct.netpress.com/#23-560020) | Tumbling McD Rd, Claw Ridge Rd, Clow Ridge Rd | 296 |
 | [560030](https://precinct.netpress.com/#23-560030) | Holmes Ranch Rd, Nash Mill Rd, Smith Hills Rd | 261 |
-| [560032](https://precinct.netpress.com/#23-560032) |  | 0 |
+| [560032](https://precinct.netpress.com/#23-560032) | Near Navarro Ridge Rd | 0 |
 | [560034](https://precinct.netpress.com/#23-560034) | Bailey Ridge Rd, Masonite Industrial Rd, Nash Mill Rd | 0 |
 | [560040](https://precinct.netpress.com/#23-560040) | Greenwood Rd, Panorama Way, Cold Springs Rd | 78 |
 | [560041](https://precinct.netpress.com/#23-560041) | Philo Greenwood Rd, Greenwood Rd | 12 |
-| [560051](https://precinct.netpress.com/#23-560051) |  | 2 |
+| [560051](https://precinct.netpress.com/#23-560051) | Near Whipple Ridge Rd | 2 |
 | [560061](https://precinct.netpress.com/#23-560061) | Cold Springs Rd, Signal Ridge Rd, Philo Greenwood Rd | 0 |
 | [560070](https://precinct.netpress.com/#23-560070) | Rickard Ranch Rd, Yorkville Ranch Rd, Highway 128 | 171 |
 | [560071](https://precinct.netpress.com/#23-560071) | Monahan, Elkhorn Rd, N Branch Rd | 8 |

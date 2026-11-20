@@ -63,7 +63,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [1414112](https://precinct.netpress.com/#28-1414112) | Napa; N Newport Dr, S Newport Dr | 777 |
 | [1415220](https://precinct.netpress.com/#28-1415220) | Napa; Jackson St, Hayes St | 613 |
 | [1415221](https://precinct.netpress.com/#28-1415221) | Napa; F St, G St | 501 |
-| [1415240](https://precinct.netpress.com/#28-1415240) | Napa | 26 |
+| [1415240](https://precinct.netpress.com/#28-1415240) | Napa; along Yajome St and Vallejo St | 26 |
 | [2011770](https://precinct.netpress.com/#28-2011770) | Napanook Rd | 19 |
 | [2011771](https://precinct.netpress.com/#28-2011771) | Vineyard View Dr, Oak Knoll Ave W, Orchard Ave | 331 |
 | [2016550](https://precinct.netpress.com/#28-2016550) | Ethel Porter Dr, Sandra Dr, Carol Dr | 555 |
@@ -71,7 +71,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2016552](https://precinct.netpress.com/#28-2016552) | Rancho Dr, W Park Ave | 45 |
 | [2016553](https://precinct.netpress.com/#28-2016553) | Napa; Browns Valley Rd | 38 |
 | [2016770](https://precinct.netpress.com/#28-2016770) | Lynn Dr, Forest Dr | 96 |
-| [2017770](https://precinct.netpress.com/#28-2017770) |  | 2 |
+| [2017770](https://precinct.netpress.com/#28-2017770) | Near Buhman Ave | 2 |
 | [2017771](https://precinct.netpress.com/#28-2017771) | Napa; Mount Veeder Rd, Redwood Rd | 275 |
 | [2017772](https://precinct.netpress.com/#28-2017772) | Buhman Ave | 4 |
 | [2017773](https://precinct.netpress.com/#28-2017773) | Dry Creek Rd, Linda Vista Ave | 142 |
@@ -117,7 +117,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3020775](https://precinct.netpress.com/#28-3020775) | Spring Mountain Rd, S Fork Diamond Mountain Rd, Kenyon Ranch Rd | 226 |
 | [3020776](https://precinct.netpress.com/#28-3020776) | Deer Park; Crystal Springs Rd, Silverado Trl N | 218 |
 | [3020777](https://precinct.netpress.com/#28-3020777) | Deer Park; Deer Park Rd, Sanitarium Rd | 290 |
-| [3020778](https://precinct.netpress.com/#28-3020778) |  | 7 |
+| [3020778](https://precinct.netpress.com/#28-3020778) | Along Capell Valley Rd | 7 |
 | [3030770](https://precinct.netpress.com/#28-3030770) | Livermore Rd, Old Lawley Toll Rd, Aetna Mine Rd | 442 |
 | [3030771](https://precinct.netpress.com/#28-3030771) | Deer Park; Dutch Henry Canyon Rd, N Fork Crystal Springs Rd | 258 |
 | [3040770](https://precinct.netpress.com/#28-3040770) | Angwin; Friesen Dr, Newton Lake | 701 |
@@ -192,11 +192,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5013440](https://precinct.netpress.com/#28-5013440) | Tejas Ave | 31 |
 | [5014110](https://precinct.netpress.com/#28-5014110) | Green Island Rd, Napa River, Wetlands Edge Rd | 10 |
 | [5014140](https://precinct.netpress.com/#28-5014140) | Airport Rd, Steamboat Slough, Airport Blvd | 9 |
-| [5014330](https://precinct.netpress.com/#28-5014330) |  | 0 |
+| [5014330](https://precinct.netpress.com/#28-5014330) | Along S Kelly Rd | 0 |
 | [5014440](https://precinct.netpress.com/#28-5014440) | Basalt Rd | 0 |
 | [5312440](https://precinct.netpress.com/#28-5312440) | Napa; Los Robles Dr, Quarry Dr | 246 |
 | [5312441](https://precinct.netpress.com/#28-5312441) | Napa; Patton Ave, Granada St | 177 |
-| [5312442](https://precinct.netpress.com/#28-5312442) | Napa | 0 |
+| [5312442](https://precinct.netpress.com/#28-5312442) | Napa; along Polson Rd | 0 |
 | [5313410](https://precinct.netpress.com/#28-5313410) | Napa; Coronado Ave, Marshall Ave | 140 |
 | [5313411](https://precinct.netpress.com/#28-5313411) | Napa; Schoolhouse Ct, Republic Ave | 236 |
 | [5313440](https://precinct.netpress.com/#28-5313440) | Napa; Cayetano Dr, Capstone Ct | 92 |
@@ -216,7 +216,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5612339](https://precinct.netpress.com/#28-5612339) | American Canyon; Folland Dr, Brophy St | 437 |
 | [5612440](https://precinct.netpress.com/#28-5612440) | American Canyon; Cartier St, Rolling Hills Dr | 997 |
 | [5612441](https://precinct.netpress.com/#28-5612441) | American Canyon; Summerwood Dr, Tapestry Ln | 866 |
-| [5612442](https://precinct.netpress.com/#28-5612442) | American Canyon | 0 |
+| [5612442](https://precinct.netpress.com/#28-5612442) | American Canyon; along Kirkland Ranch Rd's Private Driveway and Lynch Rd | 0 |
 | [5614330](https://precinct.netpress.com/#28-5614330) | American Canyon; Hess Rd, Commerce Blvd | 93 |
 | [5614331](https://precinct.netpress.com/#28-5614331) | American Canyon; Gadwall St, Ringneck St | 755 |
 | [5614332](https://precinct.netpress.com/#28-5614332) | American Canyon; Los Altos Dr, Gisela Dr | 993 |

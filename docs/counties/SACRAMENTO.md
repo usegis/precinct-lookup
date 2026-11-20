@@ -12,15 +12,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | No. | Description | Voters |
 | --- | --- | --- |
 | [11267](https://precinct.netpress.com/#34-11267) | Garden Hwy, Pritchard Ave, Pritchard Lake Rd | 126 |
-| [11332](https://precinct.netpress.com/#34-11332) |  | 0 |
-| [11648](https://precinct.netpress.com/#34-11648) |  | 0 |
+| [11332](https://precinct.netpress.com/#34-11332) | Along State Hwy 70 and State Hwy 99 | 0 |
+| [11648](https://precinct.netpress.com/#34-11648) | Along State Hwy 99 and State Hwy 70 | 0 |
 | [11902](https://precinct.netpress.com/#34-11902) | Sacramento; Stanwick Ave, Drifton Way | 694 |
 | [11925](https://precinct.netpress.com/#34-11925) | Sacramento; Watermist Way, Azul Way | 699 |
 | [11940](https://precinct.netpress.com/#34-11940) | Sacramento; Littlestone St, Harveston Way | 544 |
 | [11974](https://precinct.netpress.com/#34-11974) | Sacramento; Oyster Point Way, Oceanside Dr | 365 |
 | [12170](https://precinct.netpress.com/#34-12170) | W Elverta Rd, East Drainage Cnl, E Levee Rd | 13 |
-| [12323](https://precinct.netpress.com/#34-12323) |  | 6 |
-| [12356](https://precinct.netpress.com/#34-12356) |  | 5 |
+| [12323](https://precinct.netpress.com/#34-12323) | Along E Levee Rd | 6 |
+| [12356](https://precinct.netpress.com/#34-12356) | Along Straugh Rd | 5 |
 | [12468](https://precinct.netpress.com/#34-12468) | East Drainage Cnl, E Levee Rd | 7 |
 | [12578](https://precinct.netpress.com/#34-12578) | Blacktop Rd, Sorento Rd, Cement Way | 5 |
 | [12600](https://precinct.netpress.com/#34-12600) | Sacramento; Allaire Cir, La Cadena Way | 854 |
@@ -29,7 +29,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [12681](https://precinct.netpress.com/#34-12681) | Sacramento; Mill Valley Cir N, Hidden Trail Ln | 993 |
 | [12702](https://precinct.netpress.com/#34-12702) | Sacramento; Shennecock Way, Elderdown Way | 755 |
 | [12714](https://precinct.netpress.com/#34-12714) | Sacramento; Portage Way, Bowden Square Way Club Center Dr Aly | 898 |
-| [12728](https://precinct.netpress.com/#34-12728) | Sacramento | 361 |
+| [12728](https://precinct.netpress.com/#34-12728) | Sacramento; along State Hwy 99 and Runaway Bay Pl | 361 |
 | [12733](https://precinct.netpress.com/#34-12733) | Sacramento; Kalamer Way, Uccello Way | 851 |
 | [12747](https://precinct.netpress.com/#34-12747) | Sacramento; Rockmont Cir, Dalhart Way | 756 |
 | [12765](https://precinct.netpress.com/#34-12765) | Sacramento; Macon Dr, Autumn Meadow Ave | 788 |
@@ -87,7 +87,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [15355](https://precinct.netpress.com/#34-15355) | Sacramento; Connor Cir, Riggs Ave | 867 |
 | [15368](https://precinct.netpress.com/#34-15368) | Sacramento; Aviator Cir, Itasca Ave | 854 |
 | [15384](https://precinct.netpress.com/#34-15384) | Sacramento; Baines Ave, Edgemore Ave | 904 |
-| [15445](https://precinct.netpress.com/#34-15445) | Sacramento | 47 |
+| [15445](https://precinct.netpress.com/#34-15445) | Sacramento; along Del Paso Rd | 47 |
 | [15492](https://precinct.netpress.com/#34-15492) | Sacramento; Carey Rd, Tunis Rd | 352 |
 | [15530](https://precinct.netpress.com/#34-15530) | Sacramento; Sports Pkwy, Relentless Dr | 714 |
 | [15571](https://precinct.netpress.com/#34-15571) | Sacramento; Red Alder Ave, Acacia Ridge St | 800 |
@@ -210,8 +210,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [21340](https://precinct.netpress.com/#34-21340) | Antelope; Sun Maiden Way, Hiawatha Way | 408 |
 | [21362](https://precinct.netpress.com/#34-21362) | Antelope; N Country Dr, Little Rock Dr | 813 |
 | [21384](https://precinct.netpress.com/#34-21384) | Antelope; Comanche Way, Lily Mar Ln | 468 |
-| [21405](https://precinct.netpress.com/#34-21405) | Antelope | 0 |
-| [21422](https://precinct.netpress.com/#34-21422) | Antelope | 0 |
+| [21405](https://precinct.netpress.com/#34-21405) | Antelope; along Deer Spring Cir | 0 |
+| [21422](https://precinct.netpress.com/#34-21422) | Antelope; along Old Walerga Rd and Big Cloud Way | 0 |
 | [21447](https://precinct.netpress.com/#34-21447) | Antelope; Sierra Gold Dr, Golden Ring Way | 467 |
 | [21473](https://precinct.netpress.com/#34-21473) | Antelope; Ivy Hill Way, Antelope Hills Dr | 616 |
 | [21516](https://precinct.netpress.com/#34-21516) | North Highlands; 30th St, Elkhorn Blvd | 57 |
@@ -221,7 +221,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [21679](https://precinct.netpress.com/#34-21679) | North Highlands; Plumber Way, Blackfield Dr | 869 |
 | [21712](https://precinct.netpress.com/#34-21712) | North Highlands; Grattan Way, Clara Way | 820 |
 | [21774](https://precinct.netpress.com/#34-21774) | North Highlands; Watt Ave, 34th St | 585 |
-| [21783](https://precinct.netpress.com/#34-21783) | McClellan Park | 81 |
+| [21783](https://precinct.netpress.com/#34-21783) | McClellan Park; along Dudley Blvd and Skyarla Ave | 81 |
 | [21817](https://precinct.netpress.com/#34-21817) | North Highlands; Centinella Dr, Milton Way | 969 |
 | [21838](https://precinct.netpress.com/#34-21838) | North Highlands; Schofield Way, Whitsett Dr | 868 |
 | [21869](https://precinct.netpress.com/#34-21869) | North Highlands; La Cienega Dr, Juneau Way | 941 |
@@ -327,8 +327,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [24352](https://precinct.netpress.com/#34-24352) | North Highlands; Jenny Lind Ave, Palomino Ln | 922 |
 | [24373](https://precinct.netpress.com/#34-24373) | North Highlands; Longview Dr, Bridge Rd | 15 |
 | [24385](https://precinct.netpress.com/#34-24385) | Sacramento and McClellan Park; Arcade Creek, Longview Dr | 25 |
-| [24407](https://precinct.netpress.com/#34-24407) | Sacramento | 0 |
-| [24438](https://precinct.netpress.com/#34-24438) |  | 0 |
+| [24407](https://precinct.netpress.com/#34-24407) | Sacramento; along Sacramento Fwy and I- 80 Bus | 0 |
+| [24438](https://precinct.netpress.com/#34-24438) | Sacramento; near Watt Ave | 0 |
 | [24461](https://precinct.netpress.com/#34-24461) | Sacramento; Park Rd, Bridge Rd | 2 |
 | [24500](https://precinct.netpress.com/#34-24500) | Arden-Arcade; Annadale Ln, Merrily Way | 483 |
 | [24526](https://precinct.netpress.com/#34-24526) | Arden-Arcade; Woodpoint Cir, Woodpointe Cir | 608 |
@@ -442,7 +442,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [27834](https://precinct.netpress.com/#34-27834) | Arden-Arcade; Carro Dr, Carta Ct | 450 |
 | [27863](https://precinct.netpress.com/#34-27863) | Arden-Arcade; Woodside Oaks, Sierra Blvd | 863 |
 | [27915](https://precinct.netpress.com/#34-27915) | Arden-Arcade; Laurel Dr, Barberry Ln | 606 |
-| [27944](https://precinct.netpress.com/#34-27944) | Arden-Arcade | 15 |
+| [27944](https://precinct.netpress.com/#34-27944) | Arden-Arcade; along Fair Oaks Blvd and Cosmos Ave | 15 |
 | [27971](https://precinct.netpress.com/#34-27971) | Arden-Arcade; Sierra Oaks Dr, Hopkins Rd | 429 |
 | [27980](https://precinct.netpress.com/#34-27980) | Arden-Arcade; Kadema Dr, Huntington Rd | 906 |
 | [28014](https://precinct.netpress.com/#34-28014) | Arden-Arcade; Duran Cir, Carrisa Way | 301 |
@@ -478,7 +478,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [29205](https://precinct.netpress.com/#34-29205) | Carmichael; Clark Ave, Compton Parc Ln | 368 |
 | [29220](https://precinct.netpress.com/#34-29220) | Carmichael; Frontier Way, El Vita Way | 773 |
 | [29311](https://precinct.netpress.com/#34-29311) | Carmichael; Fallwater Ln, Gunn Rd | 882 |
-| [29400](https://precinct.netpress.com/#34-29400) | Carmichael | 127 |
+| [29400](https://precinct.netpress.com/#34-29400) | Carmichael; along Stanley Ave and Panama Ave | 127 |
 | [29434](https://precinct.netpress.com/#34-29434) | Carmichael; Marlynn St, Chiquita Way | 831 |
 | [29449](https://precinct.netpress.com/#34-29449) | Carmichael; Panama Ave, Homesweet Way | 647 |
 | [29462](https://precinct.netpress.com/#34-29462) | Carmichael; Palm Dr, California Ave | 756 |
@@ -523,7 +523,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [31744](https://precinct.netpress.com/#34-31744) | Citrus Heights; Poulson St, Stone Canyon Cir | 826 |
 | [31765](https://precinct.netpress.com/#34-31765) | Citrus Heights; Larwin Dr, Sugar Maple Way | 809 |
 | [31792](https://precinct.netpress.com/#34-31792) | Citrus Heights; Arcadia Dr, Coldani St | 877 |
-| [31808](https://precinct.netpress.com/#34-31808) |  | 5 |
+| [31808](https://precinct.netpress.com/#34-31808) | Orangevale; near Cross Dr | 5 |
 | [31839](https://precinct.netpress.com/#34-31839) | Orangevale; Highwood Way, Crossoak Way | 822 |
 | [31843](https://precinct.netpress.com/#34-31843) | Orangevale; Cerromar Cir, Mondon Way | 416 |
 | [31900](https://precinct.netpress.com/#34-31900) | Orangevale; Woodlake Hills Dr, Thunderhead Cir | 720 |
@@ -577,7 +577,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [34548](https://precinct.netpress.com/#34-34548) | Fair Oaks; Lumina Way, High Hill Way | 665 |
 | [34572](https://precinct.netpress.com/#34-34572) | Fair Oaks; Manana Way | 19 |
 | [34600](https://precinct.netpress.com/#34-34600) | Fair Oaks; Madison Ave, Divot Cir | 27 |
-| [34623](https://precinct.netpress.com/#34-34623) | Fair Oaks | 0 |
+| [34623](https://precinct.netpress.com/#34-34623) | Fair Oaks; along San Juan Ave | 0 |
 | [34639](https://precinct.netpress.com/#34-34639) | Fair Oaks; Pineridge Rd, Pineridge Ln | 685 |
 | [34657](https://precinct.netpress.com/#34-34657) | Fair Oaks; Lake Knoll Ln, Wedge Cir | 696 |
 | [34692](https://precinct.netpress.com/#34-34692) | Fair Oaks; Greenridge Way, Romero Way | 694 |
@@ -595,7 +595,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [35402](https://precinct.netpress.com/#34-35402) | Orangevale; Almaz Ave, Monica Ave | 224 |
 | [35413](https://precinct.netpress.com/#34-35413) | Orangevale; Fairvale Way, Pershing Ave | 413 |
 | [35437](https://precinct.netpress.com/#34-35437) | Orangevale; Skyridge Dr, Custer Ave | 510 |
-| [35449](https://precinct.netpress.com/#34-35449) |  | 119 |
+| [35449](https://precinct.netpress.com/#34-35449) | Along Pershing Ave | 119 |
 | [35474](https://precinct.netpress.com/#34-35474) | Orangevale; Castlemont Cir, Norway Dr | 659 |
 | [35500](https://precinct.netpress.com/#34-35500) | Fair Oaks | 46 |
 | [35532](https://precinct.netpress.com/#34-35532) | Orangevale; Blue Oak Dr, Butterwood Cir | 890 |
@@ -690,7 +690,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [41560](https://precinct.netpress.com/#34-41560) | Sacramento; P St Q St Aly, Quill Aly | 726 |
 | [41588](https://precinct.netpress.com/#34-41588) | Sacramento; Matsui Aly, P St | 799 |
 | [41607](https://precinct.netpress.com/#34-41607) | Sacramento; American River | 0 |
-| [41630](https://precinct.netpress.com/#34-41630) | Sacramento | 0 |
+| [41630](https://precinct.netpress.com/#34-41630) | Sacramento; along Elvas Fwy and Capitol City Fwy | 0 |
 | [41654](https://precinct.netpress.com/#34-41654) | Sacramento; McKinley Village Way | 0 |
 | [41661](https://precinct.netpress.com/#34-41661) | Sacramento; Chinatown Aly, Eggplant Aly | 845 |
 | [41686](https://precinct.netpress.com/#34-41686) | Sacramento; Government Aly, G St H St Aly | 818 |
@@ -729,7 +729,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [42790](https://precinct.netpress.com/#34-42790) | Sacramento; 69th St | 0 |
 | [42808](https://precinct.netpress.com/#34-42808) | Sacramento; Alhambra Blvd, S St | 52 |
 | [42817](https://precinct.netpress.com/#34-42817) | Sacramento; Serra Way, S St Serra Way Aly | 444 |
-| [42842](https://precinct.netpress.com/#34-42842) | Sacramento | 0 |
+| [42842](https://precinct.netpress.com/#34-42842) | Sacramento; along R St and 39th St | 0 |
 | [42854](https://precinct.netpress.com/#34-42854) | Sacramento; Highway 50, X St Broadway Aly | 14 |
 | [42883](https://precinct.netpress.com/#34-42883) | Sacramento; Sherman Way, 36th St Gerber Ave Aly | 937 |
 | [42911](https://precinct.netpress.com/#34-42911) | Sacramento; S St T St Aly, T St | 689 |
@@ -976,7 +976,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [49923](https://precinct.netpress.com/#34-49923) | Sacramento; Jacinto Rd, Charente Way | 702 |
 | [49959](https://precinct.netpress.com/#34-49959) | Sacramento; W Wing Dr, Whitehouse Rd | 911 |
 | [49975](https://precinct.netpress.com/#34-49975) | Sacramento; Jocelyn Way, Butterscotch Way | 798 |
-| [49981](https://precinct.netpress.com/#34-49981) | Elk Grove and Sacramento | 0 |
+| [49981](https://precinct.netpress.com/#34-49981) | Elk Grove and Sacramento; along S Sacramento Fwy and W Stockton Blvd | 0 |
 | [51085](https://precinct.netpress.com/#34-51085) | Sacramento; Glenville Cir, Mossglen Cir | 770 |
 | [51127](https://precinct.netpress.com/#34-51127) | La Riviera; Woodman Way, Sawtelle Way | 874 |
 | [51180](https://precinct.netpress.com/#34-51180) | La Riviera and Rosemont; Salmon Falls Dr, Grayling Way | 838 |
@@ -1063,7 +1063,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [55299](https://precinct.netpress.com/#34-55299) | Rosemont; Castlebar Way, Ashgrove Way | 920 |
 | [55322](https://precinct.netpress.com/#34-55322) | Rosemont; Oxwood Dr, Roseport Way | 822 |
 | [55410](https://precinct.netpress.com/#34-55410) | Hedge Ave, Newton Dr, Ballantine St | 34 |
-| [55473](https://precinct.netpress.com/#34-55473) |  | 1 |
+| [55473](https://precinct.netpress.com/#34-55473) | Near Bradshaw Rd | 1 |
 | [55936](https://precinct.netpress.com/#34-55936) | Osage Ave, Fruitridge Rd, Turner Rd | 106 |
 | [55968](https://precinct.netpress.com/#34-55968) | Elder Creek Rd, Tokay Ln, Mattos Ln | 145 |
 | [56009](https://precinct.netpress.com/#34-56009) | Mather; Missile Way, Kiefer Blvd | 0 |
@@ -1155,7 +1155,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [62136](https://precinct.netpress.com/#34-62136) | Fair Oaks and Folsom; Alder Creek, American River Bike Trl | 4 |
 | [62192](https://precinct.netpress.com/#34-62192) | Folsom; Aerojet Rd, Louisiana Rd | 285 |
 | [62643](https://precinct.netpress.com/#34-62643) | White Rock Rd | 0 |
-| [62755](https://precinct.netpress.com/#34-62755) |  | 3 |
+| [62755](https://precinct.netpress.com/#34-62755) | Along White Rock Rd and Grant Line Rd | 3 |
 | [63106](https://precinct.netpress.com/#34-63106) | Folsom; Prairie City Rd, Innovation Dr | 582 |
 | [63195](https://precinct.netpress.com/#34-63195) | Folsom; Brookview Rd, Regency Pkwy | 772 |
 | [63224](https://precinct.netpress.com/#34-63224) | Folsom; Auburn Leaf Loop, Needlegrass Dr | 652 |
@@ -1207,13 +1207,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [68321](https://precinct.netpress.com/#34-68321) | Rancho Murieta; Meiss Rd, Ione Rd | 501 |
 | [71126](https://precinct.netpress.com/#34-71126) | Freeport | 0 |
 | [71158](https://precinct.netpress.com/#34-71158) | Freeport | 16 |
-| [71192](https://precinct.netpress.com/#34-71192) | Freeport | 19 |
+| [71192](https://precinct.netpress.com/#34-71192) | Freeport; along Stonecrest Ave | 19 |
 | [71205](https://precinct.netpress.com/#34-71205) | Freeport Brg | 10 |
 | [71316](https://precinct.netpress.com/#34-71316) | Sacramento River | 67 |
-| [71383](https://precinct.netpress.com/#34-71383) |  | 2 |
+| [71383](https://precinct.netpress.com/#34-71383) | Along State Hwy 160 and Victory Hwy | 2 |
 | [71620](https://precinct.netpress.com/#34-71620) | Hood; Scribner Rd, Hood Franklin Rd | 22 |
 | [71731](https://precinct.netpress.com/#34-71731) | Stone Lake, Stone Lake Rd, Sprock Rd | 5 |
-| [72165](https://precinct.netpress.com/#34-72165) |  | 2 |
+| [72165](https://precinct.netpress.com/#34-72165) | Sacramento; near Co Rd J8 | 2 |
 | [72234](https://precinct.netpress.com/#34-72234) | Sacramento; Laguna Station Rd, Sims Rd | 0 |
 | [72310](https://precinct.netpress.com/#34-72310) | Elk Grove; Freitag Way, Testerman Way | 389 |
 | [72329](https://precinct.netpress.com/#34-72329) | Elk Grove; Bramblewood Way, Boreal Way | 814 |
@@ -1302,7 +1302,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [77853](https://precinct.netpress.com/#34-77853) | Sherman Island East Levee Rd, Mayberry Slough, Sherman Island East Le Rd | 138 |
 | [78116](https://precinct.netpress.com/#34-78116) | Sutter Island Rd, Sutter Slough, W Sutter Island Cross Rd | 53 |
 | [78230](https://precinct.netpress.com/#34-78230) | Sutter Slough, Grand Island Rd, Richards Ave | 47 |
-| [78274](https://precinct.netpress.com/#34-78274) |  | 0 |
+| [78274](https://precinct.netpress.com/#34-78274) | Along Leary Rd | 0 |
 | [78315](https://precinct.netpress.com/#34-78315) | Leary Rd | 13 |
 | [78342](https://precinct.netpress.com/#34-78342) | Walnut Grove; Islandview Way, Hannum Ct | 382 |
 | [78428](https://precinct.netpress.com/#34-78428) | Beaver Lake, Grand Island Rd, Sutter Slough | 30 |
@@ -1399,17 +1399,17 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [83589](https://precinct.netpress.com/#34-83589) | Elk Grove; Waterman Rd, Mosher Rd | 330 |
 | [83627](https://precinct.netpress.com/#34-83627) | Elk Grove; Kapalua Ln, Secretariat Ln | 776 |
 | [83714](https://precinct.netpress.com/#34-83714) | Elk Grove; Sheldon Woods Way, Beitzel Rd | 539 |
-| [83900](https://precinct.netpress.com/#34-83900) | Elk Grove | 1 |
+| [83900](https://precinct.netpress.com/#34-83900) | Elk Grove; along Grant Line Rd | 1 |
 | [83951](https://precinct.netpress.com/#34-83951) | Co Rd E2, Freeman Rd, Bradley Ranch Rd | 101 |
 | [84143](https://precinct.netpress.com/#34-84143) | Rau Rd, Bruceville Rd, Kammerer Rd | 41 |
 | [84250](https://precinct.netpress.com/#34-84250) | Eschinger Rd, Bruceville Rd, Carroll Rd | 185 |
-| [84996](https://precinct.netpress.com/#34-84996) |  | 0 |
+| [84996](https://precinct.netpress.com/#34-84996) | Near Co Rd E13 | 0 |
 | [85145](https://precinct.netpress.com/#34-85145) | Cosumnes River | 0 |
 | [85261](https://precinct.netpress.com/#34-85261) | Badger Creek, W Stockton Blvd, Cosumnes River | 0 |
-| [85426](https://precinct.netpress.com/#34-85426) |  | 0 |
+| [85426](https://precinct.netpress.com/#34-85426) | Near Co Rd E13 | 0 |
 | [85705](https://precinct.netpress.com/#34-85705) | W Stockton Blvd | 0 |
-| [85875](https://precinct.netpress.com/#34-85875) |  | 6 |
-| [86311](https://precinct.netpress.com/#34-86311) |  | 2 |
+| [85875](https://precinct.netpress.com/#34-85875) | Along Co Rd E13 and Twin Cities Rd | 6 |
+| [86311](https://precinct.netpress.com/#34-86311) | Along State Hwy 99 | 2 |
 | [86648](https://precinct.netpress.com/#34-86648) | McKenzie Rd, Kerry Ln, Valensin Rd | 128 |
 | [86839](https://precinct.netpress.com/#34-86839) | Bergeron Rd, Casity Ln, E Stockton Blvd | 45 |
 | [86853](https://precinct.netpress.com/#34-86853) | Pratton Ln, Hauschildt Rd, Esada Ct | 181 |
@@ -1453,11 +1453,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [89521](https://precinct.netpress.com/#34-89521) | Galt; Marengo Rd | 131 |
 | [89600](https://precinct.netpress.com/#34-89600) | Galt; Vauxhall Ave, Carillion Blvd | 677 |
 | [89637](https://precinct.netpress.com/#34-89637) | Galt; Maugham Dr, Chelsham Ave | 188 |
-| [89702](https://precinct.netpress.com/#34-89702) |  | 3 |
+| [89702](https://precinct.netpress.com/#34-89702) | Near Marengo Rd | 3 |
 | [89735](https://precinct.netpress.com/#34-89735) | Marengo Rd, Boessow Rd | 76 |
 | [89810](https://precinct.netpress.com/#34-89810) | Galt; Crystal Way, Hogan Rd | 167 |
 | [89960](https://precinct.netpress.com/#34-89960) | Boessow Rd | 25 |
-| [89974](https://precinct.netpress.com/#34-89974) |  | 13 |
+| [89974](https://precinct.netpress.com/#34-89974) | Along Boessow Rd | 13 |
 | [91244](https://precinct.netpress.com/#34-91244) | Wilton; Lee School Rd, Peach Ln | 902 |
 | [91330](https://precinct.netpress.com/#34-91330) | Wilton; Dillard Rd, Tavernor Rd | 64 |
 | [91534](https://precinct.netpress.com/#34-91534) | Wilton; Green Rd, Randolph Rd | 903 |

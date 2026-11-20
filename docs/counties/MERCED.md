@@ -23,12 +23,12 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [13109](https://precinct.netpress.com/#24-13109) | Livingston; Olds Ave, Grapevine Dr | 829 |
 | [13110](https://precinct.netpress.com/#24-13110) | Livingston; Hammatt Ave, Walnut Ave | 265 |
 | [13111](https://precinct.netpress.com/#24-13111) | Livingston; Aldrich Ave, Trigger Ln | 897 |
-| [13112](https://precinct.netpress.com/#24-13112) | Livingston | 23 |
+| [13112](https://precinct.netpress.com/#24-13112) | Livingston; along Rogers Ave | 23 |
 | [13113](https://precinct.netpress.com/#24-13113) | Dwight Way | 30 |
-| [13114](https://precinct.netpress.com/#24-13114) |  | 2 |
+| [13114](https://precinct.netpress.com/#24-13114) | Livingston; near Cedar Ln N | 2 |
 | [15003](https://precinct.netpress.com/#24-15003) | Merced | 0 |
 | [15004](https://precinct.netpress.com/#24-15004) | Merced; W 13th St | 0 |
-| [15005](https://precinct.netpress.com/#24-15005) | Merced | 0 |
+| [15005](https://precinct.netpress.com/#24-15005) | Merced; along W 13th St and Highway 59 | 0 |
 | [15006](https://precinct.netpress.com/#24-15006) | Merced; E 16th St, Yosemite Pkwy | 0 |
 | [15007](https://precinct.netpress.com/#24-15007) | Merced | 0 |
 | [15008](https://precinct.netpress.com/#24-15008) | Merced; Frontage Rd | 0 |
@@ -60,19 +60,19 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [17010](https://precinct.netpress.com/#24-17010) | Old Santa Fe Grade, Santa Fe Grade, Duck Ponds | 0 |
 | [17011](https://precinct.netpress.com/#24-17011) | Santa Fe Canal, Duck Ponds, Bee Ess Ct | 0 |
 | [17012](https://precinct.netpress.com/#24-17012) | Kesterson Ditch, Old Santa Fe Grade, Corral Rd | 1 |
-| [17013](https://precinct.netpress.com/#24-17013) |  | 0 |
+| [17013](https://precinct.netpress.com/#24-17013) | Near Highway 140 | 0 |
 | [17017](https://precinct.netpress.com/#24-17017) | Riverside Canal | 0 |
 | [17018](https://precinct.netpress.com/#24-17018) | Oak Ave | 5 |
 | [17019](https://precinct.netpress.com/#24-17019) | S Quinley Ave | 0 |
 | [17020](https://precinct.netpress.com/#24-17020) | Highway 59 | 0 |
-| [17021](https://precinct.netpress.com/#24-17021) |  | 0 |
-| [17022](https://precinct.netpress.com/#24-17022) |  | 0 |
+| [17021](https://precinct.netpress.com/#24-17021) | Along Healy Rd | 0 |
+| [17022](https://precinct.netpress.com/#24-17022) | Along S State Hwy 59 and Los Banos Hwy | 0 |
 | [17023](https://precinct.netpress.com/#24-17023) | Brantley St | 0 |
 | [17025](https://precinct.netpress.com/#24-17025) | S Waltz Rd, Bonner Rd, Doug Rd | 9 |
 | [17027](https://precinct.netpress.com/#24-17027) | California Aqueduct, Highway 33 | 0 |
 | [17029](https://precinct.netpress.com/#24-17029) | California Aqueduct | 0 |
 | [17101](https://precinct.netpress.com/#24-17101) | McCabe Rd, Delta-Mendota Cnl, Red Mountain Rd | 56 |
-| [17102](https://precinct.netpress.com/#24-17102) |  | 2 |
+| [17102](https://precinct.netpress.com/#24-17102) | Along Orchard Rd | 2 |
 | [17103](https://precinct.netpress.com/#24-17103) | Snyder Rd, Cottonwood Rd, Haley Rd | 144 |
 | [17104](https://precinct.netpress.com/#24-17104) | Taglio Rd | 4 |
 | [17105](https://precinct.netpress.com/#24-17105) | Santa Nella; Bayview Rd, Plaza Dr | 312 |
@@ -80,13 +80,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [17107](https://precinct.netpress.com/#24-17107) | Santa Nella; Vera Cruz Dr, Santa Domingo Dr | 209 |
 | [17108](https://precinct.netpress.com/#24-17108) | Moraga Rd | 14 |
 | [17109](https://precinct.netpress.com/#24-17109) | Cherokee Rd, Moraga Rd | 11 |
-| [17110](https://precinct.netpress.com/#24-17110) |  | 4 |
+| [17110](https://precinct.netpress.com/#24-17110) | Along Cherokee Rd | 4 |
 | [17111](https://precinct.netpress.com/#24-17111) | Santa Nella; Newsom Rd, Hulen Rd | 83 |
 | [17112](https://precinct.netpress.com/#24-17112) | Santa Nella; Leota Rd, Leota St | 8 |
 | [17113](https://precinct.netpress.com/#24-17113) | Bunker Rd, Ingomar Rd | 6 |
-| [17114](https://precinct.netpress.com/#24-17114) |  | 0 |
-| [17115](https://precinct.netpress.com/#24-17115) |  | 2 |
-| [17116](https://precinct.netpress.com/#24-17116) |  | 6 |
+| [17114](https://precinct.netpress.com/#24-17114) | Near Husman Rd | 0 |
+| [17115](https://precinct.netpress.com/#24-17115) | Near S Hunt Rd | 2 |
+| [17116](https://precinct.netpress.com/#24-17116) | Near S Hunt Rd | 6 |
 | [17117](https://precinct.netpress.com/#24-17117) | Ingomar Rd, Azevedo Rd, Gun Club Rd | 6 |
 | [17118](https://precinct.netpress.com/#24-17118) | Moffatt Rd, Moffatt Rd S, Duck Ponds | 5 |
 | [17119](https://precinct.netpress.com/#24-17119) | Ingomar Grade | 2 |
@@ -95,14 +95,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [17122](https://precinct.netpress.com/#24-17122) | Ingomar Grade, Malta Rd | 5 |
 | [17123](https://precinct.netpress.com/#24-17123) | San Luis Spillway Ditch, Volta Waterfowl Mgt Area, W Henry Miller Ave | 32 |
 | [17124](https://precinct.netpress.com/#24-17124) | Henry Miller Rd, Cherokee Rd, W Henry Miller Ave | 15 |
-| [17125](https://precinct.netpress.com/#24-17125) |  | 2 |
+| [17125](https://precinct.netpress.com/#24-17125) | Volta; near Henry Miller Rd | 2 |
 | [17126](https://precinct.netpress.com/#24-17126) | China Camp Rd, Sarbo Rd, Monroe Ave | 60 |
 | [17127](https://precinct.netpress.com/#24-17127) | Wilson Rd | 32 |
 | [17128](https://precinct.netpress.com/#24-17128) | Nantes Ave, Santa Fe Grade | 43 |
 | [17129](https://precinct.netpress.com/#24-17129) | Wolfsen Rd, Sand Slough Rd, Salt Slough Rd | 1 |
 | [17130A](https://precinct.netpress.com/#24-17130A) | Green House Rd, Dan McNamara Rd, S Bert Crane Rd | 0 |
 | [17131](https://precinct.netpress.com/#24-17131) | E Side Canal, Snowbird Ln | 13 |
-| [17132](https://precinct.netpress.com/#24-17132) |  | 4 |
+| [17132](https://precinct.netpress.com/#24-17132) | Along Washington Blvd | 4 |
 | [17133](https://precinct.netpress.com/#24-17133) | W Sunset Dr, Lincoln Blvd, Sunset Dr | 317 |
 | [17134](https://precinct.netpress.com/#24-17134) | Lincoln Blvd | 0 |
 | [17135](https://precinct.netpress.com/#24-17135) | Robin Ave, Lincoln Blvd | 21 |
@@ -120,13 +120,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [17147](https://precinct.netpress.com/#24-17147) | Highway 140 | 2 |
 | [17148](https://precinct.netpress.com/#24-17148) | Headquarters Rd, Merced National Wldlife Refuge, W Sandy Mush Rd | 3 |
 | [17149](https://precinct.netpress.com/#24-17149) | Riverside Canal, Dairy Field Lift Ditch, Indiana Rd | 1 |
-| [17150](https://precinct.netpress.com/#24-17150) |  | 8 |
-| [17151](https://precinct.netpress.com/#24-17151) |  | 4 |
+| [17150](https://precinct.netpress.com/#24-17150) | Along McSwain Rd and Applegate Rd | 8 |
+| [17151](https://precinct.netpress.com/#24-17151) | Along Oak Ave | 4 |
 | [17152A](https://precinct.netpress.com/#24-17152A) | Merced; S El Capitan School Rd, Jerry Collins Ave | 0 |
 | [17152B](https://precinct.netpress.com/#24-17152B) | Hartley Rd, Harley Rd, S West Ave | 0 |
 | [17153](https://precinct.netpress.com/#24-17153) | S Quinley Ave | 1 |
 | [17154A](https://precinct.netpress.com/#24-17154A) | Ventura Rd, S Gurr Rd, Shippee Rd | 0 |
-| [17154B](https://precinct.netpress.com/#24-17154B) |  | 0 |
+| [17154B](https://precinct.netpress.com/#24-17154B) | Near Rahilly Rd | 0 |
 | [17155](https://precinct.netpress.com/#24-17155) | Lone Tree Rd, Gurr Rd, S Gurr Rd | 4 |
 | [17156](https://precinct.netpress.com/#24-17156) | W Sandy Mush Rd, Sandy Mush Rd, Lone Tree Rd | 26 |
 | [17157A](https://precinct.netpress.com/#24-17157A) | Fresno River, W Chamberlain Rd, W El Nido Rd | 0 |
@@ -137,38 +137,38 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [17161](https://precinct.netpress.com/#24-17161) | El Nido; E Washington Rd, S Orchard Way | 144 |
 | [17162](https://precinct.netpress.com/#24-17162) | S Knowles Rd, E Furtado Rd, El Nido Reservoir | 40 |
 | [17163A](https://precinct.netpress.com/#24-17163A) | E Sandy Mush Rd, Highway 59 | 0 |
-| [17163B](https://precinct.netpress.com/#24-17163B) |  | 0 |
+| [17163B](https://precinct.netpress.com/#24-17163B) | Near E Sandy Mush Rd | 0 |
 | [17164](https://precinct.netpress.com/#24-17164) | Rahilly Rd, Michael Rd, Highway 59 | 49 |
 | [17165A](https://precinct.netpress.com/#24-17165A) | Whitegate Dr, Canton Rd, Ranch Rd | 0 |
 | [17166](https://precinct.netpress.com/#24-17166) | Givens Lustre Rd, Thrift Rd, B V D Ave | 40 |
 | [17167](https://precinct.netpress.com/#24-17167) | Merced; Reilly Rd, Vassar Ave | 255 |
 | [17168](https://precinct.netpress.com/#24-17168) | McNamara Rd, Healy Rd | 4 |
 | [17169](https://precinct.netpress.com/#24-17169) | W Reilly Rd, Highway 59 | 26 |
-| [17170](https://precinct.netpress.com/#24-17170) | Merced | 13 |
+| [17170](https://precinct.netpress.com/#24-17170) | Merced; along Thornton Rd | 13 |
 | [17171](https://precinct.netpress.com/#24-17171) | S P St, W Gerard Ave, Joyce Ave | 101 |
 | [17172](https://precinct.netpress.com/#24-17172) | Highway 59 | 0 |
 | [17173](https://precinct.netpress.com/#24-17173) | W Cone Ave, Hoffman Ave, Emde Ln | 71 |
-| [17174](https://precinct.netpress.com/#24-17174) |  | 5 |
-| [17175](https://precinct.netpress.com/#24-17175) |  | 33 |
+| [17174](https://precinct.netpress.com/#24-17174) | Along W Childs Ave | 5 |
+| [17175](https://precinct.netpress.com/#24-17175) | Near E Childs Ave | 33 |
 | [17176](https://precinct.netpress.com/#24-17176) | Merced; E Childs Ave, Childs Ave | 103 |
 | [17177](https://precinct.netpress.com/#24-17177) | Merced | 2 |
 | [17178](https://precinct.netpress.com/#24-17178) | Merced; E Mission Ave E, E Gerard Ave | 39 |
 | [17179A](https://precinct.netpress.com/#24-17179A) | S Arboleda Dr, McHenry Rd, Marino Way | 0 |
-| [17179B](https://precinct.netpress.com/#24-17179B) |  | 0 |
+| [17179B](https://precinct.netpress.com/#24-17179B) | Along Athlone Rd | 0 |
 | [17179C](https://precinct.netpress.com/#24-17179C) | E Gerard Ave | 0 |
 | [17179D](https://precinct.netpress.com/#24-17179D) | Huffman Ln, E Olive Ave, E South Bear Creek Dr | 0 |
-| [17180A](https://precinct.netpress.com/#24-17180A) |  | 0 |
+| [17180A](https://precinct.netpress.com/#24-17180A) | Near Mariposa Way | 0 |
 | [17181A](https://precinct.netpress.com/#24-17181A) | Worden Ave | 0 |
 | [17181B](https://precinct.netpress.com/#24-17181B) | Athlone Rd | 0 |
 | [17182](https://precinct.netpress.com/#24-17182) | Plainsburg Rd, S Athlone Rd, Silveira Way | 129 |
 | [17183](https://precinct.netpress.com/#24-17183) | S Bliss Rd, Faust Rd, Harvey Pettit Rd | 70 |
-| [17184](https://precinct.netpress.com/#24-17184) |  | 4 |
+| [17184](https://precinct.netpress.com/#24-17184) | Along N Arboleda Dr and Huffman Ln | 4 |
 | [17185](https://precinct.netpress.com/#24-17185) | Arboleda, N Arboleda Dr | 6 |
 | [17186](https://precinct.netpress.com/#24-17186) | Bonner Rd, Reese Rd, Doug Rd | 5 |
 | [17187](https://precinct.netpress.com/#24-17187) | Planada; Kraft Rd, S Whealan Rd | 53 |
 | [17188](https://precinct.netpress.com/#24-17188) | Planada; E Stanford Ave, Broadway Ave | 826 |
 | [17189](https://precinct.netpress.com/#24-17189) | Planada; Krafft Rd, Plainsburg Rd | 650 |
-| [17190](https://precinct.netpress.com/#24-17190) |  | 32 |
+| [17190](https://precinct.netpress.com/#24-17190) | Along Plainsburg Rd | 32 |
 | [17191](https://precinct.netpress.com/#24-17191) | Planada; E Childs Ave, S Hyde St | 125 |
 | [17192](https://precinct.netpress.com/#24-17192) | E Kadota Ave, Whealan Rd, E Mission Ave | 21 |
 | [17193](https://precinct.netpress.com/#24-17193) | N Cunningham Rd, E South Bear Creek Dr, E Childs Ave | 47 |
@@ -186,10 +186,10 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [17205](https://precinct.netpress.com/#24-17205) | Le Grand; S Fresno Rd, Marshall St | 171 |
 | [17206](https://precinct.netpress.com/#24-17206) | Le Grand; Railroad Ave | 1 |
 | [17207](https://precinct.netpress.com/#24-17207) | Le Grand; E Mc Dowell St | 3 |
-| [17208](https://precinct.netpress.com/#24-17208) |  | 2 |
+| [17208](https://precinct.netpress.com/#24-17208) | Near E Savana Rd | 2 |
 | [17209](https://precinct.netpress.com/#24-17209) | Le Grand; E Hainline Rd, Cunningham Rd | 26 |
 | [17210](https://precinct.netpress.com/#24-17210) | S Ipsen Ave, S Santa Fe Ave | 16 |
-| [17211](https://precinct.netpress.com/#24-17211) |  | 2 |
+| [17211](https://precinct.netpress.com/#24-17211) | Le Grand; near S Fresno Rd | 2 |
 | [17212](https://precinct.netpress.com/#24-17212) | Marguerite Rd, Buchanan Hollow Rd, S Santa Fe Ave | 17 |
 | [17213](https://precinct.netpress.com/#24-17213) | Le Grand Rd, E Le Grand Rd, Gillette Ave | 0 |
 | [25001](https://precinct.netpress.com/#24-25001) | Merced | 0 |
@@ -243,13 +243,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [25145](https://precinct.netpress.com/#24-25145) | Merced; E 20th St, E Main St | 692 |
 | [25146](https://precinct.netpress.com/#24-25146) | Merced; W 19th St, W 18th St | 285 |
 | [25147](https://precinct.netpress.com/#24-25147) | Merced; W 21st St, W 23rd St | 321 |
-| [25148](https://precinct.netpress.com/#24-25148) | Merced; W Santa Fe Ave, W 25th St, Q St | 131 |
+| [25148](https://precinct.netpress.com/#24-25148) | Merced; W Santa Fe Ave, W 25th St | 131 |
 | [25149](https://precinct.netpress.com/#24-25149) | Merced; W 16th St, Highway 59 | 5 |
 | [25150](https://precinct.netpress.com/#24-25150) | Merced; W Main St, V St | 159 |
 | [25151](https://precinct.netpress.com/#24-25151) | Merced; W 23rd St, W 20th St | 394 |
 | [25152](https://precinct.netpress.com/#24-25152) | Merced; W St, Patricia Ln | 32 |
 | [25153](https://precinct.netpress.com/#24-25153) | Merced; W North Bear Creek Dr, Willowbrook Dr | 1,024 |
-| [25154](https://precinct.netpress.com/#24-25154) | Merced; W Santa Fe Ave, W 25th St, S St | 116 |
+| [25154](https://precinct.netpress.com/#24-25154) | Merced; W Santa Fe Ave, W 25th St | 116 |
 | [25155](https://precinct.netpress.com/#24-25155) | Merced; W Olive Ave | 58 |
 | [25156](https://precinct.netpress.com/#24-25156) | Merced; Ansel Adams Rd, Little Lake | 245 |
 | [27102](https://precinct.netpress.com/#24-27102) | E Yosemite Ave, N Arboleda Dr, Kibby Rd | 34 |
@@ -267,7 +267,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [27114](https://precinct.netpress.com/#24-27114) | Lakeside Dr, Westwood Dr | 74 |
 | [27115](https://precinct.netpress.com/#24-27115) | Madroan Ave, Thorn Ave, Alder Ave | 194 |
 | [27116](https://precinct.netpress.com/#24-27116) | Flying Circle Ct, Rascal Ct | 32 |
-| [27117](https://precinct.netpress.com/#24-27117) |  | 16 |
+| [27117](https://precinct.netpress.com/#24-27117) | Along Cameron Ln | 16 |
 | [27118](https://precinct.netpress.com/#24-27118) | Merced; Montana Ave, El Camino Real | 603 |
 | [27119](https://precinct.netpress.com/#24-27119) | Merced; Lake Rd, Hatch Rd | 523 |
 | [27120](https://precinct.netpress.com/#24-27120) | Pira Dr, Lynn Pl, Arbor Pl | 62 |
@@ -297,7 +297,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [31122](https://precinct.netpress.com/#24-31122) | Atwater; Heather Glen Ln, Fruitland Ave | 680 |
 | [31123](https://precinct.netpress.com/#24-31123) | Atwater; Shaffer Lake W, Manzanita Dr | 701 |
 | [35001](https://precinct.netpress.com/#24-35001) | Merced | 0 |
-| [35002](https://precinct.netpress.com/#24-35002) | Merced | 0 |
+| [35002](https://precinct.netpress.com/#24-35002) | Merced; along Thornton Rd | 0 |
 | [35003](https://precinct.netpress.com/#24-35003) | Merced; Cooper Ave, Miles Ct | 0 |
 | [35004](https://precinct.netpress.com/#24-35004) | Merced; Santa Fe Rd | 0 |
 | [35101](https://precinct.netpress.com/#24-35101) | Merced; Monaco Dr, El Redondo Dr | 775 |
@@ -318,7 +318,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [37101](https://precinct.netpress.com/#24-37101) | Lacava Rd, Pettinotti Rd, W Bellevue Rd | 70 |
 | [37102A](https://precinct.netpress.com/#24-37102A) | Tahoe St, Belcher Ave, W Cardella Rd | 0 |
 | [37102B](https://precinct.netpress.com/#24-37102B) | Thornton Rd N, Tahoe St, W Cardella Rd | 0 |
-| [37103A](https://precinct.netpress.com/#24-37103A) | Franklin | 0 |
+| [37103A](https://precinct.netpress.com/#24-37103A) | Franklin; along Belcher Ave | 0 |
 | [37103B](https://precinct.netpress.com/#24-37103B) | Franklin; Bus Park Way, Belcher Ave | 0 |
 | [37104A](https://precinct.netpress.com/#24-37104A) | Franklin; Meadowbrook Ave, N Drake Ave | 0 |
 | [37105](https://precinct.netpress.com/#24-37105) | Franklin; Pinedale Ave, Big Sandy Ave | 1,400 |
@@ -327,7 +327,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [37108](https://precinct.netpress.com/#24-37108) | Franklin; Lucich Ct, Bea Dr | 91 |
 | [37109](https://precinct.netpress.com/#24-37109) | Franklin; Poplar Dr, Tupelo Dr | 135 |
 | [37110](https://precinct.netpress.com/#24-37110) | Franklin; Lucich Dr, Bea Dr | 186 |
-| [37111](https://precinct.netpress.com/#24-37111) |  | 5 |
+| [37111](https://precinct.netpress.com/#24-37111) | Along Franklin Rd and Ashby Rd | 5 |
 | [37112](https://precinct.netpress.com/#24-37112) | McSwain; N Southern Pacific Ave, N Gurr Rd | 204 |
 | [37113](https://precinct.netpress.com/#24-37113) | Ashby Rd, W 16th St, N Southern Pacific Ave | 38 |
 | [37114](https://precinct.netpress.com/#24-37114) | Bryant Ct, Massasso St | 74 |
@@ -338,7 +338,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [37119](https://precinct.netpress.com/#24-37119) | Thunderbird Ave, A St, Convoy Rd | 4 |
 | [37120](https://precinct.netpress.com/#24-37120) | Castle Airforce Base, W Perimeter Ave, Ladino Ave | 6 |
 | [37121](https://precinct.netpress.com/#24-37121) | Hailey Rd, Shaffer Rd, W Perimeter Ave | 8 |
-| [37122](https://precinct.netpress.com/#24-37122) |  | 11 |
+| [37122](https://precinct.netpress.com/#24-37122) | Along Wallace Rd and Hospital Rd | 11 |
 | [37123](https://precinct.netpress.com/#24-37123) | E Broadway Ave, Atwater Blvd | 6 |
 | [37124](https://precinct.netpress.com/#24-37124) | McSwain; Monarch Ave, Rene Ct | 87 |
 | [37125](https://precinct.netpress.com/#24-37125) | McSwain; Fleming Rd, Herrod Ave | 864 |
@@ -347,32 +347,32 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [37128](https://precinct.netpress.com/#24-37128) | McSwain; Moran Rd, N Stratford Ave | 992 |
 | [37129](https://precinct.netpress.com/#24-37129) | McSwain; Joeys Ave, Taylor Jean Ave | 186 |
 | [37130](https://precinct.netpress.com/#24-37130) | Applegate Rd, Dorothy Dr, James Ln | 93 |
-| [37131](https://precinct.netpress.com/#24-37131) |  | 4 |
+| [37131](https://precinct.netpress.com/#24-37131) | Along Aviator Dr | 4 |
 | [37132](https://precinct.netpress.com/#24-37132) | McSwain; W Brooks Rd, Bailey Ave | 42 |
 | [37133](https://precinct.netpress.com/#24-37133) | McSwain; Stockton Ave, Applegate Rd | 50 |
 | [37134](https://precinct.netpress.com/#24-37134) | Castle St | 40 |
 | [37135](https://precinct.netpress.com/#24-37135) | Shuttle Dr, Bradshaw Rd, Sports Dr | 56 |
 | [37136](https://precinct.netpress.com/#24-37136) | Franklin; Trindade Rd, W Belcher Ave | 130 |
 | [37137](https://precinct.netpress.com/#24-37137) | Franklin Rd | 4 |
-| [37138](https://precinct.netpress.com/#24-37138) | Franklin | 3 |
+| [37138](https://precinct.netpress.com/#24-37138) | Franklin; along Highway 99 | 3 |
 | [41001](https://precinct.netpress.com/#24-41001) | Atwater; Wedel Ave, Wedel St | 0 |
-| [42001](https://precinct.netpress.com/#24-42001) |  | 0 |
-| [42101](https://precinct.netpress.com/#24-42101) |  | 10 |
+| [42001](https://precinct.netpress.com/#24-42001) | Gustine; near 8th St | 0 |
+| [42101](https://precinct.netpress.com/#24-42101) | Along North Ave | 10 |
 | [42102](https://precinct.netpress.com/#24-42102) | Gustine; West Ave | 17 |
 | [42103](https://precinct.netpress.com/#24-42103) | Gustine; Linden Ave, 5th Ave | 881 |
 | [42104](https://precinct.netpress.com/#24-42104) | Laurel Ave | 9 |
 | [42105](https://precinct.netpress.com/#24-42105) | Gustine; Via Milano, Fentem Rd | 153 |
 | [42106](https://precinct.netpress.com/#24-42106) | Gustine; Via Palermo, Via Basilicata | 252 |
 | [42107](https://precinct.netpress.com/#24-42107) | Gustine; Sullivan Rd, Bonta Ave | 735 |
-| [42108](https://precinct.netpress.com/#24-42108) |  | 1 |
+| [42108](https://precinct.netpress.com/#24-42108) | Gustine; near Jensen Rd | 1 |
 | [42109](https://precinct.netpress.com/#24-42109) | Gustine; Wallis Ave, Meredith Ave | 630 |
-| [42110](https://precinct.netpress.com/#24-42110) | Gustine | 28 |
-| [42111](https://precinct.netpress.com/#24-42111) |  | 2 |
-| [42112](https://precinct.netpress.com/#24-42112) |  | 7 |
-| [42113](https://precinct.netpress.com/#24-42113) |  | 2 |
+| [42110](https://precinct.netpress.com/#24-42110) | Gustine; along Grove Ave and Ash Ave | 28 |
+| [42111](https://precinct.netpress.com/#24-42111) | Gustine; near Sycamore Ave | 2 |
+| [42112](https://precinct.netpress.com/#24-42112) | Along Grove Ave | 7 |
+| [42113](https://precinct.netpress.com/#24-42113) | Gustine; near Merideth Ave | 2 |
 | [42114](https://precinct.netpress.com/#24-42114) | Gustine; E Wallis Ave, Fairview Ave | 138 |
 | [42115](https://precinct.netpress.com/#24-42115) | Gustine; Carnation Rd, Kniebes Rd | 25 |
-| [42116](https://precinct.netpress.com/#24-42116) | Gustine | 1 |
+| [42116](https://precinct.netpress.com/#24-42116) | Gustine; along S Hunt Rd | 1 |
 | [42117](https://precinct.netpress.com/#24-42117) | Gustine; Sullivan Rd, S Hunt Rd | 3 |
 | [42118](https://precinct.netpress.com/#24-42118) | Gustine; 6th Ave, East Ave | 6 |
 | [45101](https://precinct.netpress.com/#24-45101) | Merced; Nevada St | 0 |
@@ -381,24 +381,24 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [45104](https://precinct.netpress.com/#24-45104) | Merced; Bancroft Dr, Strathmore Pl | 898 |
 | [45105](https://precinct.netpress.com/#24-45105) | Merced; Freemark Ave, Andrea Dr | 1,341 |
 | [47001A](https://precinct.netpress.com/#24-47001A) | Dry Creek | 0 |
-| [47001B](https://precinct.netpress.com/#24-47001B) |  | 0 |
+| [47001B](https://precinct.netpress.com/#24-47001B) | Near Co Rd J16 | 0 |
 | [47001C](https://precinct.netpress.com/#24-47001C) | Cox Ferry Rd | 0 |
-| [47002](https://precinct.netpress.com/#24-47002) |  | 0 |
+| [47002](https://precinct.netpress.com/#24-47002) | Near N Santa Fe Ave | 0 |
 | [47004](https://precinct.netpress.com/#24-47004) | La Paloma Rd, G St, Snelling Rd | 0 |
 | [47006](https://precinct.netpress.com/#24-47006) | W Bellevue Rd, Franklin Rd | 0 |
-| [47007](https://precinct.netpress.com/#24-47007) |  | 0 |
+| [47007](https://precinct.netpress.com/#24-47007) | Winton; near Gertrude Ave | 0 |
 | [47009](https://precinct.netpress.com/#24-47009) | Central Ave | 0 |
 | [47010](https://precinct.netpress.com/#24-47010) | Arena Way | 0 |
-| [47014](https://precinct.netpress.com/#24-47014) |  | 0 |
-| [47018](https://precinct.netpress.com/#24-47018) |  | 0 |
+| [47014](https://precinct.netpress.com/#24-47014) | Along Pinewood St | 0 |
+| [47018](https://precinct.netpress.com/#24-47018) | Near Williams Ave | 0 |
 | [47019](https://precinct.netpress.com/#24-47019) | San Joaquin River, Salt Slough | 0 |
-| [47021](https://precinct.netpress.com/#24-47021) |  | 0 |
-| [47024](https://precinct.netpress.com/#24-47024) |  | 0 |
-| [47025](https://precinct.netpress.com/#24-47025) |  | 0 |
+| [47021](https://precinct.netpress.com/#24-47021) | Near Canal School Rd | 0 |
+| [47024](https://precinct.netpress.com/#24-47024) | Along Nobel Rd | 0 |
+| [47025](https://precinct.netpress.com/#24-47025) | Near Ingomar Rd | 0 |
 | [47026](https://precinct.netpress.com/#24-47026) | Co Rd J14, Westside Blvd, Griffith Ave | 0 |
 | [47101A](https://precinct.netpress.com/#24-47101A) | Snelling; Fields Rd, Robinson Rd | 0 |
 | [47101B](https://precinct.netpress.com/#24-47101B) | E Monte Vista Ave, Dry Creek | 0 |
-| [47101C](https://precinct.netpress.com/#24-47101C) |  | 0 |
+| [47101C](https://precinct.netpress.com/#24-47101C) | Along Cox Ferry Rd | 0 |
 | [47102](https://precinct.netpress.com/#24-47102) | Keyes Rd, Figmond Ave, Co Rd J16 | 22 |
 | [47103](https://precinct.netpress.com/#24-47103) | Snelling; E Merced Falls Rd, Co Rd J16 | 195 |
 | [47104A](https://precinct.netpress.com/#24-47104A) | Turlock Rd, Ingalsbe Slough, N Dry Creek Rd | 0 |
@@ -412,13 +412,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47109](https://precinct.netpress.com/#24-47109) | Ballico; N Broadway, Gregg St | 72 |
 | [47110](https://precinct.netpress.com/#24-47110) | Ballico; Ballico Ave, El Capitan Way | 217 |
 | [47111](https://precinct.netpress.com/#24-47111) | Ballico; Park St W | 17 |
-| [47114](https://precinct.netpress.com/#24-47114) |  | 18 |
+| [47114](https://precinct.netpress.com/#24-47114) | Along N Santa Fe Ave and Co Rd 37 | 18 |
 | [47115](https://precinct.netpress.com/#24-47115) | La Paloma Rd, Lake Yosemite, Lake Rd | 0 |
 | [47116](https://precinct.netpress.com/#24-47116) | Merced; Old Lake Rd, Lake Yosemite | 432 |
 | [47117](https://precinct.netpress.com/#24-47117) | Merced; E Bellevue Rd, Ranchers Rd | 49 |
 | [47118A](https://precinct.netpress.com/#24-47118A) | Utah St, Old Railroad Grade, Breeze St | 0 |
 | [47119](https://precinct.netpress.com/#24-47119) | Old Railroad Grade | 2 |
-| [47120](https://precinct.netpress.com/#24-47120) |  | 13 |
+| [47120](https://precinct.netpress.com/#24-47120) | Along E Bellevue Rd | 13 |
 | [47121](https://precinct.netpress.com/#24-47121) | N Perimeter Dr, Federal Way, Fox Rd | 25 |
 | [47122](https://precinct.netpress.com/#24-47122) | Fox Rd, Ladino Ave | 27 |
 | [47123](https://precinct.netpress.com/#24-47123) | Bronson Ln, Buhach Rd, Hailey Rd | 85 |
@@ -435,7 +435,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47134](https://precinct.netpress.com/#24-47134) | Camellia Dr, Cherub Ln, N Krotik Ct | 90 |
 | [47135](https://precinct.netpress.com/#24-47135) | Rainbow Ln, Rainbow Dr, Celestial Dr | 129 |
 | [47136](https://precinct.netpress.com/#24-47136) | Winton; N Winton Way, Gertrude Ave | 22 |
-| [47137](https://precinct.netpress.com/#24-47137) |  | 20 |
+| [47137](https://precinct.netpress.com/#24-47137) | Along Gertrude Ave and Camellia Dr | 20 |
 | [47138](https://precinct.netpress.com/#24-47138) | Winton; Cypress Ave, N Winton Way | 1,164 |
 | [47139](https://precinct.netpress.com/#24-47139) | Winton; Tokay Cir, Myrtle Ave | 1,031 |
 | [47140](https://precinct.netpress.com/#24-47140) | Winton; N Santa Fe Ave, Co Rd 37 | 136 |
@@ -443,21 +443,21 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47142](https://precinct.netpress.com/#24-47142) | Winton; Carlen Ave, Lea Ct | 187 |
 | [47143](https://precinct.netpress.com/#24-47143) | W Bellevue Rd, Orchard Park Ave, Orchard Park | 11 |
 | [47144](https://precinct.netpress.com/#24-47144) | Atwater; Bert Crane Rd, Hull Rd | 182 |
-| [47145](https://precinct.netpress.com/#24-47145) |  | 8 |
+| [47145](https://precinct.netpress.com/#24-47145) | Along Applegate Rd and White Crane Rd | 8 |
 | [47146](https://precinct.netpress.com/#24-47146) | Hull Rd, Bert Crane Rd, White Crane Rd | 70 |
 | [47147](https://precinct.netpress.com/#24-47147) | Moran Rd, White Crane Rd | 20 |
 | [47148](https://precinct.netpress.com/#24-47148) | McSwain Rd, Central Ave | 7 |
-| [47149](https://precinct.netpress.com/#24-47149) |  | 2 |
+| [47149](https://precinct.netpress.com/#24-47149) | Along McSwain Rd | 2 |
 | [47150](https://precinct.netpress.com/#24-47150) | Sunset Dr, Steinberg Rd, Cressey Way | 284 |
 | [47151](https://precinct.netpress.com/#24-47151) | Sultana Ave, N Sultana Dr, White Crane Rd | 55 |
 | [47152](https://precinct.netpress.com/#24-47152) | Bell Dr, Sultana Ave, N Sultana Dr | 21 |
 | [47153](https://precinct.netpress.com/#24-47153) | Longview Rd, Longview Ave, Arena Way | 28 |
 | [47154A](https://precinct.netpress.com/#24-47154A) | Elk Rd, Longview Rd, Steinberg Rd | 0 |
-| [47154B](https://precinct.netpress.com/#24-47154B) |  | 0 |
+| [47154B](https://precinct.netpress.com/#24-47154B) | Near Longview Ave | 0 |
 | [47155](https://precinct.netpress.com/#24-47155) | Magnolia Rd, Liberty Ave, Westside Blvd | 27 |
 | [47156](https://precinct.netpress.com/#24-47156) | Arena Way | 2 |
 | [47157A](https://precinct.netpress.com/#24-47157A) | Campbell Blvd, Highway 99, Co Rd J18 | 0 |
-| [47157B](https://precinct.netpress.com/#24-47157B) |  | 0 |
+| [47157B](https://precinct.netpress.com/#24-47157B) | Near Westside Blvd | 0 |
 | [47158](https://precinct.netpress.com/#24-47158) | Arena Way | 19 |
 | [47159A](https://precinct.netpress.com/#24-47159A) | Cressey Way, Arena Way | 0 |
 | [47159B](https://precinct.netpress.com/#24-47159B) | Arena Way | 0 |
@@ -469,29 +469,29 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47165](https://precinct.netpress.com/#24-47165) | Walnut Ave, Olive Ave, Arena Way | 17 |
 | [47166](https://precinct.netpress.com/#24-47166) | Winton Way, Jones Rd, Mercedes Ave | 64 |
 | [47167A](https://precinct.netpress.com/#24-47167A) | West Ln, Mercedes Ave | 0 |
-| [47167B](https://precinct.netpress.com/#24-47167B) |  | 0 |
+| [47167B](https://precinct.netpress.com/#24-47167B) | Near Mercedes Ave | 0 |
 | [47168A](https://precinct.netpress.com/#24-47168A) | Jones Rd | 0 |
-| [47168B](https://precinct.netpress.com/#24-47168B) |  | 0 |
+| [47168B](https://precinct.netpress.com/#24-47168B) | Near Jones Rd | 0 |
 | [47169](https://precinct.netpress.com/#24-47169) | Ward Canal | 11 |
 | [47170](https://precinct.netpress.com/#24-47170) | Cressey; Meadow Dr, West Ln | 173 |
 | [47171](https://precinct.netpress.com/#24-47171) | Cressey; Eucalyptus Ave, Livingston Cressey Rd | 100 |
-| [47172](https://precinct.netpress.com/#24-47172) |  | 3 |
+| [47172](https://precinct.netpress.com/#24-47172) | Cressey; near Meadow Dr | 3 |
 | [47173](https://precinct.netpress.com/#24-47173) | Cressey; McConnell Rd, El Capitan Way | 26 |
 | [47174](https://precinct.netpress.com/#24-47174) | Livingston Cressey Rd | 11 |
 | [47175](https://precinct.netpress.com/#24-47175) | Livingston; Eucalyptus Ave | 13 |
-| [47176](https://precinct.netpress.com/#24-47176) |  | 5 |
+| [47176](https://precinct.netpress.com/#24-47176) | Along El Capitan Way and Ballico Ave | 5 |
 | [47177](https://precinct.netpress.com/#24-47177) | 2nd Ave S, Pepper St, McConnell Rd | 10 |
 | [47178A](https://precinct.netpress.com/#24-47178A) | Ballico; N Santa Fe Ave, Co Rd 37 | 0 |
-| [47178B](https://precinct.netpress.com/#24-47178B) |  | 0 |
+| [47178B](https://precinct.netpress.com/#24-47178B) | Near W Harding Rd | 0 |
 | [47179A](https://precinct.netpress.com/#24-47179A) | North Ave, Vincent Rd, Sycamore St | 0 |
 | [47180](https://precinct.netpress.com/#24-47180) | Lombardy St, Lombardy Ave, Sycamore St | 2 |
-| [47181](https://precinct.netpress.com/#24-47181) |  | 13 |
+| [47181](https://precinct.netpress.com/#24-47181) | Along Lombardy St and Lombardy Ave | 13 |
 | [47182](https://precinct.netpress.com/#24-47182) | Sunny Acres Ave, Sycamore St | 15 |
 | [47183](https://precinct.netpress.com/#24-47183) | N Vincent Rd, W Harding Rd, Linwood Rd | 58 |
 | [47184](https://precinct.netpress.com/#24-47184) | W Harding Rd, Lombardy St, Lombardy Ave | 68 |
-| [47185](https://precinct.netpress.com/#24-47185) |  | 11 |
+| [47185](https://precinct.netpress.com/#24-47185) | Near W Bradbury Rd | 11 |
 | [47186](https://precinct.netpress.com/#24-47186) | Delhi; Bradbury Rd | 3 |
-| [47187](https://precinct.netpress.com/#24-47187) |  | 4 |
+| [47187](https://precinct.netpress.com/#24-47187) | Delhi; near North Ave | 4 |
 | [47188](https://precinct.netpress.com/#24-47188) | Delhi; 2nd Ave S, South Ave | 367 |
 | [47189](https://precinct.netpress.com/#24-47189) | Bloss Ct, Campground Rd | 17 |
 | [47190A](https://precinct.netpress.com/#24-47190A) | Hoskins St, Parallel Rd, Riverview Dr | 0 |
@@ -514,13 +514,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47205](https://precinct.netpress.com/#24-47205) | Atwater Jordan Rd, Washington Blvd, Howard Rd | 0 |
 | [47206](https://precinct.netpress.com/#24-47206) | Bear Creek, E Side Canal, Weir Ave | 11 |
 | [47207](https://precinct.netpress.com/#24-47207) | Great Valley Grasslands Shopping Plz, Duck Pond, Mc Coy Rd | 18 |
-| [47208](https://precinct.netpress.com/#24-47208) |  | 6 |
+| [47208](https://precinct.netpress.com/#24-47208) | Along S Van Clief Rd and Van Clief Rd | 6 |
 | [47209](https://precinct.netpress.com/#24-47209) | W Bose Rd, Nelander Ave W, S Van Clief Rd | 50 |
 | [47210](https://precinct.netpress.com/#24-47210) | Lake Honda | 4 |
 | [47211](https://precinct.netpress.com/#24-47211) | First Ave, 1st Ave, S Van Clief Rd | 13 |
-| [47212](https://precinct.netpress.com/#24-47212) |  | 2 |
+| [47212](https://precinct.netpress.com/#24-47212) | Along Griffith Ave | 2 |
 | [47213](https://precinct.netpress.com/#24-47213) | Longview Ave | 4 |
-| [47214](https://precinct.netpress.com/#24-47214) |  | 3 |
+| [47214](https://precinct.netpress.com/#24-47214) | Along Co Rd J14 and Westside Blvd | 3 |
 | [47215](https://precinct.netpress.com/#24-47215) | Randolf Rd, Williams Ave, Bloss Ave | 21 |
 | [47216](https://precinct.netpress.com/#24-47216) | Merced Ave, Letteau Ave, Schendel Ave | 116 |
 | [47217](https://precinct.netpress.com/#24-47217) | Clausen Rd, Golden State Blvd, S Golden State Blvd | 251 |
@@ -538,7 +538,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47229](https://precinct.netpress.com/#24-47229) | River Rd, Co Rd J14, S Van Clief Rd | 12 |
 | [47230](https://precinct.netpress.com/#24-47230) | Longview Ave | 11 |
 | [47231](https://precinct.netpress.com/#24-47231) | Stevinson; Nelander Rd, Nealander Rd | 484 |
-| [47232](https://precinct.netpress.com/#24-47232) |  | 6 |
+| [47232](https://precinct.netpress.com/#24-47232) | Near 1st Ave | 6 |
 | [47233](https://precinct.netpress.com/#24-47233) | Great Valley Grasslands Shopping Plz, San Joaquin River | 14 |
 | [47234](https://precinct.netpress.com/#24-47234) | Keaton Rd, Wainwright Rd, McCullagh Rd | 247 |
 | [47235](https://precinct.netpress.com/#24-47235) | Duck Pond, Old Santa Fe Grade, Canal School Rd | 9 |
@@ -547,22 +547,22 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [47238](https://precinct.netpress.com/#24-47238) | Worthington Rd, Schmidt Rd, Jensen Rd | 82 |
 | [47239](https://precinct.netpress.com/#24-47239) | Gay Ave, Fentem Rd, Schmidt Rd | 54 |
 | [47240](https://precinct.netpress.com/#24-47240) | Gustine; Prince Rd | 7 |
-| [47241](https://precinct.netpress.com/#24-47241) |  | 1 |
+| [47241](https://precinct.netpress.com/#24-47241) | Near Jensen Rd | 1 |
 | [47242](https://precinct.netpress.com/#24-47242) | S Hunt Rd, Kniebes Rd, Andersen Rd | 71 |
 | [47243](https://precinct.netpress.com/#24-47243) | Kniebes Rd | 24 |
-| [47244](https://precinct.netpress.com/#24-47244) |  | 4 |
+| [47244](https://precinct.netpress.com/#24-47244) | Near Highway 140 | 4 |
 | [47245](https://precinct.netpress.com/#24-47245) | Carnation Rd, Gun Club Rd, S Hunt Rd | 38 |
-| [47246](https://precinct.netpress.com/#24-47246) |  | 2 |
-| [47247](https://precinct.netpress.com/#24-47247) |  | 2 |
+| [47246](https://precinct.netpress.com/#24-47246) | Along S Hunt Rd | 2 |
+| [47247](https://precinct.netpress.com/#24-47247) | Along S Mills Rd and Mills Rd | 2 |
 | [47248](https://precinct.netpress.com/#24-47248) | Rose Garden Rd, Schmidt Rd, Orchard Rd | 24 |
 | [47249](https://precinct.netpress.com/#24-47249) | Jorgensen Rd | 1 |
 | [47250](https://precinct.netpress.com/#24-47250) | Borba Rd, Whitworth Rd, Jorgensen Rd | 55 |
 | [47251](https://precinct.netpress.com/#24-47251) | Pfitzer Rd, Highway 33 | 26 |
-| [47252](https://precinct.netpress.com/#24-47252) |  | 2 |
-| [54002](https://precinct.netpress.com/#24-54002) | Los Banos | 1 |
+| [47252](https://precinct.netpress.com/#24-47252) | Along Ward Canal | 2 |
+| [54002](https://precinct.netpress.com/#24-54002) | Los Banos; along E Pacheco Blvd | 1 |
 | [54003](https://precinct.netpress.com/#24-54003) | Los Banos | 90 |
-| [54004](https://precinct.netpress.com/#24-54004) |  | 0 |
-| [54005](https://precinct.netpress.com/#24-54005) |  | 4 |
+| [54004](https://precinct.netpress.com/#24-54004) | Los Banos; near Badger Flat Rd | 0 |
+| [54005](https://precinct.netpress.com/#24-54005) | Los Banos; near Center Ave | 4 |
 | [54006](https://precinct.netpress.com/#24-54006) | Highway 33 | 0 |
 | [54101](https://precinct.netpress.com/#24-54101) | Los Banos; Quail St, Saint Francis Dr | 615 |
 | [54102](https://precinct.netpress.com/#24-54102) | Los Banos; Castellana St, Palermo Dr | 695 |
@@ -581,7 +581,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [54115](https://precinct.netpress.com/#24-54115) | Los Banos; Citrus Ave, Lime Ave | 782 |
 | [54116](https://precinct.netpress.com/#24-54116) | Los Banos; Louie Ave, Friguglietti Ave | 581 |
 | [54117](https://precinct.netpress.com/#24-54117) | Los Banos; N Santa Rosa St, N Santa Ana St | 741 |
-| [54118](https://precinct.netpress.com/#24-54118) |  | 1 |
+| [54118](https://precinct.netpress.com/#24-54118) | Along E B St | 1 |
 | [54119](https://precinct.netpress.com/#24-54119) | Los Banos; Mission Dr, San Lorenzo St | 798 |
 | [54120](https://precinct.netpress.com/#24-54120) | Los Banos; Bella St, Ancona St | 474 |
 | [54121](https://precinct.netpress.com/#24-54121) | Los Banos; Colorado Ave, W J St | 1,146 |
@@ -604,46 +604,46 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [54138](https://precinct.netpress.com/#24-54138) | Los Banos; S 7th St | 13 |
 | [54139](https://precinct.netpress.com/#24-54139) | Los Banos; Gus Villalta Dr, Bluff Dr | 1,191 |
 | [54140](https://precinct.netpress.com/#24-54140) | Los Banos; Scripps Dr, Pitzer Way | 668 |
-| [54141](https://precinct.netpress.com/#24-54141) |  | 4 |
+| [54141](https://precinct.netpress.com/#24-54141) | Los Banos; near Radcliffe Ave | 4 |
 | [54142](https://precinct.netpress.com/#24-54142) | Los Banos; Berkeley Dr, College Greens Dr | 699 |
-| [54143](https://precinct.netpress.com/#24-54143) |  | 4 |
-| [54144](https://precinct.netpress.com/#24-54144) |  | 4 |
-| [54145](https://precinct.netpress.com/#24-54145) |  | 11 |
+| [54143](https://precinct.netpress.com/#24-54143) | Los Banos; near Stanford Dr | 4 |
+| [54144](https://precinct.netpress.com/#24-54144) | Los Banos; near Santa Barbara St | 4 |
+| [54145](https://precinct.netpress.com/#24-54145) | Along Riesling St and Muscat St | 11 |
 | [56002](https://precinct.netpress.com/#24-56002) | Dos Palos | 0 |
-| [56003](https://precinct.netpress.com/#24-56003) |  | 0 |
-| [56004](https://precinct.netpress.com/#24-56004) |  | 0 |
-| [56005](https://precinct.netpress.com/#24-56005) | Dos Palos | 1 |
+| [56003](https://precinct.netpress.com/#24-56003) | Along Swift Ave | 0 |
+| [56004](https://precinct.netpress.com/#24-56004) | Along Norton Ave | 0 |
+| [56005](https://precinct.netpress.com/#24-56005) | Dos Palos; along Palo Alto St and E Blossom St | 1 |
 | [56101](https://precinct.netpress.com/#24-56101) | Dos Palos; Golden Gate Ave, Frank Ave | 694 |
-| [56102](https://precinct.netpress.com/#24-56102) |  | 3 |
-| [56103](https://precinct.netpress.com/#24-56103) |  | 9 |
+| [56102](https://precinct.netpress.com/#24-56102) | Along Golden Gate Ave | 3 |
+| [56103](https://precinct.netpress.com/#24-56103) | Along Frank Ave and Merced St | 9 |
 | [56104](https://precinct.netpress.com/#24-56104) | Linden St | 9 |
-| [56105](https://precinct.netpress.com/#24-56105) |  | 0 |
+| [56105](https://precinct.netpress.com/#24-56105) | Along Olive St | 0 |
 | [56106](https://precinct.netpress.com/#24-56106) | Dos Palos; Olive St | 6 |
 | [56107](https://precinct.netpress.com/#24-56107) | Dos Palos; Redfern Ave, General Ave | 270 |
 | [56108](https://precinct.netpress.com/#24-56108) | Dos Palos; Blossom St, Erskine Ave | 27 |
 | [56109](https://precinct.netpress.com/#24-56109) | Dos Palos; Madera Ave, W McKenzie St | 680 |
 | [56110](https://precinct.netpress.com/#24-56110) | Dos Palos; Stearman St, Aviator Ave | 201 |
 | [56111](https://precinct.netpress.com/#24-56111) | Dos Palos; E Blossom St, Leonard Ave | 557 |
-| [56112](https://precinct.netpress.com/#24-56112) |  | 1 |
-| [56113](https://precinct.netpress.com/#24-56113) |  | 1 |
+| [56112](https://precinct.netpress.com/#24-56112) | Dos Palos; near Center Ave | 1 |
+| [56113](https://precinct.netpress.com/#24-56113) | Dos Palos; near Merced St | 1 |
 | [56114](https://precinct.netpress.com/#24-56114) | Dos Palos; Thomas St, Oliver St | 39 |
-| [56115](https://precinct.netpress.com/#24-56115) |  | 0 |
-| [56116](https://precinct.netpress.com/#24-56116) | Dos Palos | 3 |
+| [56115](https://precinct.netpress.com/#24-56115) | Near Leonard Ave | 0 |
+| [56116](https://precinct.netpress.com/#24-56116) | Dos Palos; along Harris Ave | 3 |
 | [56117](https://precinct.netpress.com/#24-56117) | Dos Palos; Mumby Ave, Jones St | 79 |
 | [56118](https://precinct.netpress.com/#24-56118) | Dos Palos; Plum St, Plum St W | 27 |
 | [57002](https://precinct.netpress.com/#24-57002) | Volta; Ingomar Grade | 0 |
 | [57003](https://precinct.netpress.com/#24-57003) | Frontier St, 2nd St | 0 |
-| [57004](https://precinct.netpress.com/#24-57004) |  | 0 |
-| [57006](https://precinct.netpress.com/#24-57006) |  | 1 |
-| [57012](https://precinct.netpress.com/#24-57012) |  | 1 |
-| [57013](https://precinct.netpress.com/#24-57013) |  | 6 |
+| [57004](https://precinct.netpress.com/#24-57004) | Volta; near Frontier St | 0 |
+| [57006](https://precinct.netpress.com/#24-57006) | Along Highway 33 | 1 |
+| [57012](https://precinct.netpress.com/#24-57012) | Near Middle Rd | 1 |
+| [57013](https://precinct.netpress.com/#24-57013) | Along Place Rd | 6 |
 | [57016](https://precinct.netpress.com/#24-57016) | W Dos Palos | 0 |
 | [57018](https://precinct.netpress.com/#24-57018) | W Dos Palos | 0 |
-| [57019](https://precinct.netpress.com/#24-57019) |  | 0 |
+| [57019](https://precinct.netpress.com/#24-57019) | Along Folsom Ave | 0 |
 | [57022](https://precinct.netpress.com/#24-57022) | Venice St, Center Ave | 0 |
 | [57023](https://precinct.netpress.com/#24-57023) | Carmellia Ave, W Carmellia Ave | 0 |
-| [57024](https://precinct.netpress.com/#24-57024) |  | 0 |
-| [57030](https://precinct.netpress.com/#24-57030) |  | 0 |
+| [57024](https://precinct.netpress.com/#24-57024) | Dos Palos; near Highway 33 | 0 |
+| [57030](https://precinct.netpress.com/#24-57030) | Dos Palos; near Highway 33 | 0 |
 | [57101](https://precinct.netpress.com/#24-57101) | Billy Wright Rd, Sweeny Rd, Langdon Rd | 122 |
 | [57102](https://precinct.netpress.com/#24-57102) | Los Banos Reservoir, Pole Line Rd, Delta Mendota Canal | 177 |
 | [57103](https://precinct.netpress.com/#24-57103) | Moraga Rd | 6 |
@@ -656,29 +656,29 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [57110](https://precinct.netpress.com/#24-57110) | Volta; Grand Ave, Frontier St | 3 |
 | [57111](https://precinct.netpress.com/#24-57111) | Volta; W Ramos Rd, Ramos Rd | 67 |
 | [57112](https://precinct.netpress.com/#24-57112) | Ramos Rd | 2 |
-| [57113](https://precinct.netpress.com/#24-57113) |  | 0 |
-| [57114](https://precinct.netpress.com/#24-57114) |  | 3 |
+| [57113](https://precinct.netpress.com/#24-57113) | Along Sylvester Rd | 0 |
+| [57114](https://precinct.netpress.com/#24-57114) | Along Volta Rd | 3 |
 | [57115](https://precinct.netpress.com/#24-57115) | Madera Rd, Charleston Rd, Holstein Rd | 236 |
-| [57116](https://precinct.netpress.com/#24-57116) |  | 1 |
+| [57116](https://precinct.netpress.com/#24-57116) | Near W Ramos Rd | 1 |
 | [57117](https://precinct.netpress.com/#24-57117) | Johnson Rd, Capri Ave, Henry Miller Rd | 162 |
-| [57118](https://precinct.netpress.com/#24-57118) |  | 10 |
+| [57118](https://precinct.netpress.com/#24-57118) | Near Henry Miller Rd | 10 |
 | [57119](https://precinct.netpress.com/#24-57119) | Overland Rd, Overland Ave W | 7 |
 | [57120](https://precinct.netpress.com/#24-57120) | Badger Flat Rd | 3 |
 | [57121](https://precinct.netpress.com/#24-57121) | Badger Flat Rd | 8 |
 | [57122](https://precinct.netpress.com/#24-57122) | Hillyer Ave | 7 |
-| [57123](https://precinct.netpress.com/#24-57123) |  | 1 |
+| [57123](https://precinct.netpress.com/#24-57123) | Along Mercey Springs Rd and S Mercey Springs Rd | 1 |
 | [57124](https://precinct.netpress.com/#24-57124) | Mud Slough, Henry Miller Ave, Henry Miller Rd | 179 |
 | [57125](https://precinct.netpress.com/#24-57125) | Flat Pond, Big Water Lake, Well Pond | 20 |
 | [57126](https://precinct.netpress.com/#24-57126) | Cardoza Rd | 27 |
-| [57127](https://precinct.netpress.com/#24-57127) |  | 3 |
+| [57127](https://precinct.netpress.com/#24-57127) | Near Mahogany Dr | 3 |
 | [57128](https://precinct.netpress.com/#24-57128) | Pioneer Rd | 1 |
 | [57129](https://precinct.netpress.com/#24-57129) | Los Banos; Diana Rd, Plow Camp Rd | 118 |
-| [57130](https://precinct.netpress.com/#24-57130) |  | 3 |
+| [57130](https://precinct.netpress.com/#24-57130) | Los Banos; near Ortigalita Rd | 3 |
 | [57131](https://precinct.netpress.com/#24-57131) | S Holland Ave | 3 |
 | [57132](https://precinct.netpress.com/#24-57132) | Middle Rd | 4 |
-| [57133](https://precinct.netpress.com/#24-57133) |  | 3 |
-| [57134](https://precinct.netpress.com/#24-57134) |  | 8 |
-| [57135](https://precinct.netpress.com/#24-57135) |  | 10 |
+| [57133](https://precinct.netpress.com/#24-57133) | Along Highway 165 and Mercey Springs Rd | 3 |
+| [57134](https://precinct.netpress.com/#24-57134) | Los Banos; near Hoover Ct | 8 |
+| [57135](https://precinct.netpress.com/#24-57135) | Along Place Rd | 10 |
 | [57136](https://precinct.netpress.com/#24-57136) | S Pick Anderson Lift Ditch, Pick Anderson Rd, Middle Ditch | 8 |
 | [57137](https://precinct.netpress.com/#24-57137) | Dos Palos Y; Santa Rita Grade, Hutchins Rd | 110 |
 | [57138](https://precinct.netpress.com/#24-57138) | Willis Rd, W Catrina Rd, Catrina Rd | 30 |
@@ -691,13 +691,13 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [57145](https://precinct.netpress.com/#24-57145) | South Dos Palos and Dos Palos; San Luis Drain, Aqua Vista St | 2 |
 | [57146](https://precinct.netpress.com/#24-57146) | South Dos Palos; L St, Globe Ave | 233 |
 | [57147](https://precinct.netpress.com/#24-57147) | Brannon Ave, Shain Ave, Custer Ave | 197 |
-| [57148](https://precinct.netpress.com/#24-57148) | South Dos Palos | 9 |
-| [57149](https://precinct.netpress.com/#24-57149) |  | 23 |
+| [57148](https://precinct.netpress.com/#24-57148) | South Dos Palos; along Shain Ave and S Reynolds Ave | 9 |
+| [57149](https://precinct.netpress.com/#24-57149) | Along S Reynolds Ave | 23 |
 | [57150](https://precinct.netpress.com/#24-57150) | South Dos Palos; S Reynolds Ave | 4 |
-| [57151](https://precinct.netpress.com/#24-57151) |  | 8 |
+| [57151](https://precinct.netpress.com/#24-57151) | Near Shain Ave | 8 |
 | [57152](https://precinct.netpress.com/#24-57152) | South Dos Palos; Forecast Dr, Christian Ave | 279 |
 | [57153](https://precinct.netpress.com/#24-57153) | South Dos Palos; Reynolds Ave, Christian Ave | 67 |
-| [57154](https://precinct.netpress.com/#24-57154) |  | 1 |
+| [57154](https://precinct.netpress.com/#24-57154) | Near Reynolds Ave | 1 |
 | [57155](https://precinct.netpress.com/#24-57155) | South Dos Palos and Dos Palos; Valeria St, Christian Ave | 37 |
 | [57156](https://precinct.netpress.com/#24-57156) | W Almond St, Almond St, Nero Ave | 76 |
 | [57157](https://precinct.netpress.com/#24-57157) | Blossom Ave | 5 |
@@ -705,14 +705,14 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [57159](https://precinct.netpress.com/#24-57159) | Reynolds Ave, Lexington Ave | 7 |
 | [57160](https://precinct.netpress.com/#24-57160) | Carmellia Ave, W Carmellia Ave, Nidever Ave | 37 |
 | [57161](https://precinct.netpress.com/#24-57161) | W Carmellia Ave, Ione St, Palm Ave | 16 |
-| [57162](https://precinct.netpress.com/#24-57162) |  | 3 |
+| [57162](https://precinct.netpress.com/#24-57162) | Dos Palos; near Plum St | 3 |
 | [57163](https://precinct.netpress.com/#24-57163) | N Bryant Ave | 4 |
 | [57164](https://precinct.netpress.com/#24-57164) | Valeria Ave, Ida St | 15 |
 | [57165](https://precinct.netpress.com/#24-57165) | Bryant Ave, Valeria Ave, Sorg Dr | 17 |
-| [57166](https://precinct.netpress.com/#24-57166) |  | 5 |
-| [57167](https://precinct.netpress.com/#24-57167) |  | 2 |
-| [57168](https://precinct.netpress.com/#24-57168) |  | 23 |
+| [57166](https://precinct.netpress.com/#24-57166) | Near Valeria Ave | 5 |
+| [57167](https://precinct.netpress.com/#24-57167) | Along Folsom Ave and Christian Ave | 2 |
+| [57168](https://precinct.netpress.com/#24-57168) | Along Highway 33 and State Hwy 33 | 23 |
 | [57169](https://precinct.netpress.com/#24-57169) | Highway 33 | 3 |
-| [57170](https://precinct.netpress.com/#24-57170) |  | 1 |
-| [57171](https://precinct.netpress.com/#24-57171) |  | 3 |
-| [57172](https://precinct.netpress.com/#24-57172) |  | 2 |
+| [57170](https://precinct.netpress.com/#24-57170) | Dos Palos; near Highway 33 | 1 |
+| [57171](https://precinct.netpress.com/#24-57171) | Dos Palos; near Stearman St | 3 |
+| [57172](https://precinct.netpress.com/#24-57172) | Near Carol Ave | 2 |

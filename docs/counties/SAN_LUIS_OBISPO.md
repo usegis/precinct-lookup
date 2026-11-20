@@ -122,7 +122,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [2090012](https://precinct.netpress.com/#40-2090012) | Cambria; Bradford Rd, Spencer St | 577 |
 | [2090013](https://precinct.netpress.com/#40-2090013) | Cambria; Santa Rosa Creek Rd, Harmony Ranch Rd | 228 |
 | [2090014](https://precinct.netpress.com/#40-2090014) | Cambria; Randall Dr, Benson Ave | 425 |
-| [2090015](https://precinct.netpress.com/#40-2090015) |  | 0 |
+| [2090015](https://precinct.netpress.com/#40-2090015) | Near Highway 46 | 0 |
 | [2090016](https://precinct.netpress.com/#40-2090016) | Villa Creek Rd, Alapay Way, Sea West Rd | 23 |
 | [2090017](https://precinct.netpress.com/#40-2090017) | Cayucos; Cayucos Creek Rd, Picachio Rd | 68 |
 | [2090018](https://precinct.netpress.com/#40-2090018) | Fuentes Rd, San Marcos Rd | 0 |
@@ -244,7 +244,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3090028](https://precinct.netpress.com/#40-3090028) | Corralitos Rd, Hischier Ln, Oak Way | 519 |
 | [3090029](https://precinct.netpress.com/#40-3090029) | N Oak Park Blvd, Ormond Rd, Oak Park Rd | 10 |
 | [3090030](https://precinct.netpress.com/#40-3090030) | Oak Park Rd, Old Oak Park Rd, Noyes Rd | 4 |
-| [3090031](https://precinct.netpress.com/#40-3090031) | Oceano | 34 |
+| [3090031](https://precinct.netpress.com/#40-3090031) | Oceano; along Highway 1 and Cabrillo Hwy | 34 |
 | [4011001](https://precinct.netpress.com/#40-4011001) | Arroyo Grande; Canyon Way, Oro Dr | 628 |
 | [4011002](https://precinct.netpress.com/#40-4011002) | Arroyo Grande; Rodeo Dr, Miller Way | 769 |
 | [4011003](https://precinct.netpress.com/#40-4011003) | Arroyo Grande; La Cresta Dr, Pearwood Ave | 645 |
@@ -276,7 +276,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4090009](https://precinct.netpress.com/#40-4090009) | La Teena Pl, Red Rock Rd, Cll Vista del Asta | 71 |
 | [4090010](https://precinct.netpress.com/#40-4090010) | Branch Mill Rd, Cecchetti Rd, Excel Way | 490 |
 | [4090011](https://precinct.netpress.com/#40-4090011) | Printz Rd, Sylvan Rd, High View Dr | 357 |
-| [4090012](https://precinct.netpress.com/#40-4090012) |  | 0 |
+| [4090012](https://precinct.netpress.com/#40-4090012) | Along Soda Lake Rd | 0 |
 | [4090013](https://precinct.netpress.com/#40-4090013) | Upper Los Berros Rd, Litahni Rd, Blue Fox Rd | 261 |
 | [4090014](https://precinct.netpress.com/#40-4090014) | E El Campo Rd, Falcon Crest Dr, Century Ln | 211 |
 | [4090015](https://precinct.netpress.com/#40-4090015) | Oceano; Tierra Nueva Ln, S Halcyon Rd | 463 |
@@ -284,7 +284,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [4090017](https://precinct.netpress.com/#40-4090017) | Oceano; Scott Lee Dr, Tamera Dr | 673 |
 | [4090018](https://precinct.netpress.com/#40-4090018) | Oceano; 25th St, S Elm St | 698 |
 | [4090019](https://precinct.netpress.com/#40-4090019) | Oceano; Wilmar Ave, Warner St | 384 |
-| [4090020](https://precinct.netpress.com/#40-4090020) | Oceano | 1 |
+| [4090020](https://precinct.netpress.com/#40-4090020) | Oceano; along S Halcyon Rd | 1 |
 | [4090021](https://precinct.netpress.com/#40-4090021) | Cable Corral Rd, Twin Rocks Rd, Alamo Creek Rd | 134 |
 | [4090022](https://precinct.netpress.com/#40-4090022) | Oceano; 22nd St, 21st St | 544 |
 | [4090023](https://precinct.netpress.com/#40-4090023) | Oceano; Fern St, Martinique Dr | 481 |

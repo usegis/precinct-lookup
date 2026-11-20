@@ -60,11 +60,11 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [140061](https://precinct.netpress.com/#57-140061) | West Sacramento; Shasta Way, Rubicon Way | 622 |
 | [140062](https://precinct.netpress.com/#57-140062) | West Sacramento; Greenbrier Rd, Key Largo St | 826 |
 | [140063](https://precinct.netpress.com/#57-140063) | West Sacramento; Stable Dr, Rivermont St | 423 |
-| [140065](https://precinct.netpress.com/#57-140065) | West Sacramento | 210 |
+| [140065](https://precinct.netpress.com/#57-140065) | West Sacramento; along W Capitol Ave and Highway 84 | 210 |
 | [140068](https://precinct.netpress.com/#57-140068) | West Sacramento | 0 |
 | [140069](https://precinct.netpress.com/#57-140069) | West Sacramento; E St, Harriet Ln | 122 |
 | [140071](https://precinct.netpress.com/#57-140071) | West Sacramento; Evergreen Ave, Oakmont Way | 445 |
-| [191401](https://precinct.netpress.com/#57-191401) |  | 0 |
+| [191401](https://precinct.netpress.com/#57-191401) | Along Highway 84 | 0 |
 | [191402](https://precinct.netpress.com/#57-191402) | West Sacramento; Highway 84, Sacramento River | 1 |
 | [191403](https://precinct.netpress.com/#57-191403) | Elk Slough, Duck Slough, N Courtland Rd | 131 |
 | [191404](https://precinct.netpress.com/#57-191404) | Babel Slough Rd, S River Rd, Rd 140 | 106 |
@@ -125,9 +125,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [280006](https://precinct.netpress.com/#57-280006) | Winters; Railroad Ave, Walnut Ln | 766 |
 | [280007](https://precinct.netpress.com/#57-280007) | Winters; Taylor St, Wyatt Ln | 981 |
 | [280008](https://precinct.netpress.com/#57-280008) | Winters; Moody Slough Rd, Thomas St | 2 |
-| [280010](https://precinct.netpress.com/#57-280010) | Winters | 0 |
+| [280010](https://precinct.netpress.com/#57-280010) | Winters; along Co Rd 88 and Moody Slough Rd | 0 |
 | [280011](https://precinct.netpress.com/#57-280011) | Winters; Creekside Way, Red Bud | 457 |
-| [290301](https://precinct.netpress.com/#57-290301) |  | 0 |
+| [290301](https://precinct.netpress.com/#57-290301) | Near Co Rd 29 | 0 |
 | [292501](https://precinct.netpress.com/#57-292501) | Winters; Russell Blvd, Co Rd 32 | 102 |
 | [292502](https://precinct.netpress.com/#57-292502) | Co Rd 29A, Co Rd 92E, Rd 90A | 59 |
 | [292503](https://precinct.netpress.com/#57-292503) | Myrtle Dr, Myrtle Cir, Fredericks Cir | 145 |
@@ -145,7 +145,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [298202](https://precinct.netpress.com/#57-298202) | Winters; Co Rd 89, Castle View Ln | 15 |
 | [298203](https://precinct.netpress.com/#57-298203) | Co Rd 87 E, Putah Creek | 7 |
 | [298204](https://precinct.netpress.com/#57-298204) | Co Rd 89, Co Rd 29, Co Rd 88 | 16 |
-| [298206](https://precinct.netpress.com/#57-298206) |  | 3 |
+| [298206](https://precinct.netpress.com/#57-298206) | Near Co Rd 89 | 3 |
 | [298207](https://precinct.netpress.com/#57-298207) | Rd 87A, The Horseshoe, Co Rd 87 E | 5 |
 | [340001](https://precinct.netpress.com/#57-340001) | West Sacramento; Riverpoint Cir, Riverside Pkwy | 10 |
 | [340002](https://precinct.netpress.com/#57-340002) | West Sacramento; Solano St, Riverbank Rd | 869 |
@@ -198,7 +198,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [360063](https://precinct.netpress.com/#57-360063) | Woodland; Wendell Pl, California St | 82 |
 | [360064](https://precinct.netpress.com/#57-360064) | Woodland; Elizabeth Way, Cottonwood St | 142 |
 | [360065](https://precinct.netpress.com/#57-360065) | Woodland; Marshall Ave, Eunice Ct | 189 |
-| [360067](https://precinct.netpress.com/#57-360067) | Woodland | 64 |
+| [360067](https://precinct.netpress.com/#57-360067) | Woodland; along W Lincoln Ave and W Main St | 64 |
 | [360068](https://precinct.netpress.com/#57-360068) | Woodland; Campos Ave, Mack Way | 640 |
 | [360076](https://precinct.netpress.com/#57-360076) | Woodland; Sherman St, East St | 183 |
 | [360077](https://precinct.netpress.com/#57-360077) | Woodland; W Lincoln Ave, Cottonwood St | 169 |
@@ -222,16 +222,16 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [390204](https://precinct.netpress.com/#57-390204) | Monument Hills; Gadwall St, Mallard St | 294 |
 | [390601](https://precinct.netpress.com/#57-390601) | Woodland; Co Rd 25, Maxwell Dr | 0 |
 | [390604](https://precinct.netpress.com/#57-390604) | West Sacramento; Rd 127, Tule Jake Rd | 0 |
-| [390606](https://precinct.netpress.com/#57-390606) |  | 0 |
-| [390804](https://precinct.netpress.com/#57-390804) |  | 3 |
-| [391602](https://precinct.netpress.com/#57-391602) |  | 10 |
+| [390606](https://precinct.netpress.com/#57-390606) | Along Tule Lake Rd | 0 |
+| [390804](https://precinct.netpress.com/#57-390804) | Along Co Rd 18 | 3 |
+| [391602](https://precinct.netpress.com/#57-391602) | Along Co Rd 20 | 10 |
 | [391603](https://precinct.netpress.com/#57-391603) | Co Rd 94B | 6 |
-| [391604](https://precinct.netpress.com/#57-391604) |  | 8 |
+| [391604](https://precinct.netpress.com/#57-391604) | Near Wood Duck St | 8 |
 | [392602](https://precinct.netpress.com/#57-392602) | Co Rd 28H, Co Rd 100A, Co Rd 103 | 57 |
 | [392603](https://precinct.netpress.com/#57-392603) | East St, Co Rd 101, Co Rd 24C | 7 |
 | [392605](https://precinct.netpress.com/#57-392605) | Greens Lake, Co Rd 103, Rd 102B | 2 |
-| [392611](https://precinct.netpress.com/#57-392611) |  | 4 |
-| [392612](https://precinct.netpress.com/#57-392612) |  | 0 |
+| [392611](https://precinct.netpress.com/#57-392611) | Near Co Rd 103 | 4 |
+| [392612](https://precinct.netpress.com/#57-392612) | Along Co Hwy E8 and Co Rd 102 | 0 |
 | [392701](https://precinct.netpress.com/#57-392701) | Old River Rd, Co Rd 124, Co Rd 126 | 56 |
 | [393701](https://precinct.netpress.com/#57-393701) | Co Rd 117, Rd 107A, Tule Cnl | 15 |
 | [394211](https://precinct.netpress.com/#57-394211) | Co Rd 24, Gibson Rd | 7 |
@@ -240,7 +240,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [394704](https://precinct.netpress.com/#57-394704) | Co Rd 99, Moeller Ln, Goodner Ln | 42 |
 | [394705](https://precinct.netpress.com/#57-394705) | Myrtle Ln, Rd 99D, Frontage Rd | 25 |
 | [394706](https://precinct.netpress.com/#57-394706) | Co Hwy E7, Harlan Ln, Co Rd 98 | 42 |
-| [394707](https://precinct.netpress.com/#57-394707) |  | 4 |
+| [394707](https://precinct.netpress.com/#57-394707) | Along Co Rd 93 | 4 |
 | [398401](https://precinct.netpress.com/#57-398401) | Co Rd 97A, Co Rd 20, Co Rd 19B | 271 |
 | [398403](https://precinct.netpress.com/#57-398403) | Co Rd 95A, Co Rd 27, Co Rd 95 | 61 |
 | [398404](https://precinct.netpress.com/#57-398404) | Fricke Ln, Co Rd 96A, Co Rd 25A | 31 |
@@ -280,7 +280,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [420050](https://precinct.netpress.com/#57-420050) | Davis; Valencia Ave, Malaga Ave | 359 |
 | [420062](https://precinct.netpress.com/#57-420062) | Davis; Alvarado Ave | 129 |
 | [420063](https://precinct.netpress.com/#57-420063) | Davis; Cannery Loop, Pierce Ln | 765 |
-| [420064](https://precinct.netpress.com/#57-420064) |  | 72 |
+| [420064](https://precinct.netpress.com/#57-420064) | Along J St | 72 |
 | [420065](https://precinct.netpress.com/#57-420065) | Davis; Concord Ave, Arnold St | 583 |
 | [420066](https://precinct.netpress.com/#57-420066) | Davis; Koso St, Mono Pl | 705 |
 | [420067](https://precinct.netpress.com/#57-420067) | Davis; Torrey St, Rosario St | 747 |
@@ -289,7 +289,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [420070](https://precinct.netpress.com/#57-420070) | Davis; Bidwell Ave, Bidwell St | 260 |
 | [420071](https://precinct.netpress.com/#57-420071) | Davis; Moore Blvd, Audubon Cir | 878 |
 | [420072](https://precinct.netpress.com/#57-420072) | Davis; N Davis Farms Rd, Southfield Ct | 95 |
-| [420073](https://precinct.netpress.com/#57-420073) | Davis | 195 |
+| [420073](https://precinct.netpress.com/#57-420073) | Davis; along Co Rd 100A and Sycamore Ln | 195 |
 | [420075](https://precinct.netpress.com/#57-420075) | Davis; Avocet Ave, Grosbeak Ct | 146 |
 | [420076](https://precinct.netpress.com/#57-420076) | Davis; Ohlone St, Pomo Pl | 345 |
 | [420077](https://precinct.netpress.com/#57-420077) | Davis; Hamel St, El Cemonte Ave | 474 |
@@ -300,7 +300,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [420083](https://precinct.netpress.com/#57-420083) | Davis; Falcon Ave, Kestrel Pl | 154 |
 | [420084](https://precinct.netpress.com/#57-420084) | Davis; Mallorca Ln, Prado Ln | 609 |
 | [420085](https://precinct.netpress.com/#57-420085) | Davis; Quail St, Antelope Ave | 328 |
-| [420086](https://precinct.netpress.com/#57-420086) | Davis | 137 |
+| [420086](https://precinct.netpress.com/#57-420086) | Davis; along Covell Blvd and W Covell Blvd | 137 |
 | [420087](https://precinct.netpress.com/#57-420087) | Davis; Lillard Dr, S Drummond | 141 |
 | [420088](https://precinct.netpress.com/#57-420088) | Davis; Monarch Ln, Grinnel Dr | 437 |
 | [420090](https://precinct.netpress.com/#57-420090) | Davis; Arroyo Ave, Alegre Way | 806 |
@@ -321,7 +321,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [420108](https://precinct.netpress.com/#57-420108) | Davis; Co Hwy E6 | 0 |
 | [420109](https://precinct.netpress.com/#57-420109) | Davis; Drew Ave, Research Park Dr | 41 |
 | [420112](https://precinct.netpress.com/#57-420112) | Davis; Albany Ave, Halsey Cir | 559 |
-| [490006](https://precinct.netpress.com/#57-490006) |  | 0 |
+| [490006](https://precinct.netpress.com/#57-490006) | Along W Chiles Rd | 0 |
 | [490602](https://precinct.netpress.com/#57-490602) | Tule Lake Rd | 0 |
 | [491801](https://precinct.netpress.com/#57-491801) | Co Rd 100A, Co Rd 101A, Highway 113 | 20 |
 | [492401](https://precinct.netpress.com/#57-492401) | Meadowbrook Dr, Willowbank Rd, Oakside Dr | 244 |
@@ -337,7 +337,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [560002](https://precinct.netpress.com/#57-560002) | Woodland; Palm Ave, Hollister Rd | 595 |
 | [560003](https://precinct.netpress.com/#57-560003) | Woodland; N Cleveland St, Kentucky Ave | 487 |
 | [560005](https://precinct.netpress.com/#57-560005) | Woodland; Beamer St, Clover St | 663 |
-| [560006](https://precinct.netpress.com/#57-560006) | Woodland | 4 |
+| [560006](https://precinct.netpress.com/#57-560006) | Woodland; along Aspen St | 4 |
 | [560007](https://precinct.netpress.com/#57-560007) | Woodland; Imperial St, Riverside Dr | 420 |
 | [560008](https://precinct.netpress.com/#57-560008) | Woodland; W North St, Coral Dr | 645 |
 | [560009](https://precinct.netpress.com/#57-560009) | Woodland; Saipan Dr, Maui Dr | 224 |
@@ -356,7 +356,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [560048](https://precinct.netpress.com/#57-560048) | Woodland; Crystal Springs Dr, Springdale Dr | 734 |
 | [560049](https://precinct.netpress.com/#57-560049) | Woodland; Towse Dr, Stetson St | 850 |
 | [560050](https://precinct.netpress.com/#57-560050) | Woodland; Muir Cir, Mariposa St | 402 |
-| [560051](https://precinct.netpress.com/#57-560051) | Woodland | 0 |
+| [560051](https://precinct.netpress.com/#57-560051) | Woodland; along N East St | 0 |
 | [560052](https://precinct.netpress.com/#57-560052) | Woodland; Olive Way, Clover St | 245 |
 | [560055](https://precinct.netpress.com/#57-560055) | Woodland; Porter St, Kern Ave | 670 |
 | [560056](https://precinct.netpress.com/#57-560056) | Woodland; Quail Dr, Redwing Dr | 363 |
@@ -392,7 +392,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [590803](https://precinct.netpress.com/#57-590803) | Co Rd 98A, Co Rd 16A, Co Rd 98 | 67 |
 | [590805](https://precinct.netpress.com/#57-590805) | Yolo; Co Rd 18A, Co Rd 97B | 161 |
 | [590806](https://precinct.netpress.com/#57-590806) | Co Rd 18, Co Rd 94B, Co Rd 95 | 13 |
-| [590807](https://precinct.netpress.com/#57-590807) |  | 3 |
+| [590807](https://precinct.netpress.com/#57-590807) | Along Co Rd 17 | 3 |
 | [590901](https://precinct.netpress.com/#57-590901) | Brooks and Esparto; Rd 8053, Co Rd 85 | 252 |
 | [590902](https://precinct.netpress.com/#57-590902) | Co Hwy E4, Co Rd 85, Co Rd 86 | 18 |
 | [590903](https://precinct.netpress.com/#57-590903) | Esparto; Co Rd 23, Co Rd 21A | 264 |
@@ -403,7 +403,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [592201](https://precinct.netpress.com/#57-592201) | Dunnigan; Sycamore Slough, Co Rd 2 | 714 |
 | [592202](https://precinct.netpress.com/#57-592202) | Rd 6, Co Hwy E4, Rd 86 | 0 |
 | [592601](https://precinct.netpress.com/#57-592601) | Co Rd 98B, N Ashley Ave, Aspen St | 98 |
-| [592604](https://precinct.netpress.com/#57-592604) |  | 2 |
+| [592604](https://precinct.netpress.com/#57-592604) | Along E Gibson Rd | 2 |
 | [592607](https://precinct.netpress.com/#57-592607) | Barnard St, Barnard Ct, West St | 0 |
 | [592801](https://precinct.netpress.com/#57-592801) | Esparto; Duncan Dr, Craig St | 674 |
 | [592802](https://precinct.netpress.com/#57-592802) | Esparto; Capay St, Mattie St | 544 |
@@ -416,7 +416,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [593604](https://precinct.netpress.com/#57-593604) | Knights Landing; Co Rd 116B, Tule Cnl | 21 |
 | [593605](https://precinct.netpress.com/#57-593605) | Co Rd 102, Co Rd 17, Cache Creek | 6 |
 | [593606](https://precinct.netpress.com/#57-593606) | Co Rd 14 | 1 |
-| [593607](https://precinct.netpress.com/#57-593607) |  | 2 |
+| [593607](https://precinct.netpress.com/#57-593607) | Along Co Rd 102 and Co Hwy E8 | 2 |
 | [594201](https://precinct.netpress.com/#57-594201) | Madison; Scott St, Quincy St | 201 |
 | [594202](https://precinct.netpress.com/#57-594202) | Madison; Unnamed Farm Svc Rd, Rd 90 | 19 |
 | [594203](https://precinct.netpress.com/#57-594203) | Co Rd 25, Co Rd 26, Cottonwood Canyon | 21 |
@@ -429,5 +429,5 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [595101](https://precinct.netpress.com/#57-595101) | Knights Landing Ridge Cut, Co Rd 17, Levee | 22 |
 | [595105](https://precinct.netpress.com/#57-595105) | Co Rd 18C, E Main St, Best Ranch Rd | 32 |
 | [595501](https://precinct.netpress.com/#57-595501) | Co Rd 27, Co Rd 88 | 12 |
-| [595502](https://precinct.netpress.com/#57-595502) |  | 2 |
+| [595502](https://precinct.netpress.com/#57-595502) | Along I- 505 and Co Rd 26 | 2 |
 | [599401](https://precinct.netpress.com/#57-599401) | Co Rd 20 | 5 |
