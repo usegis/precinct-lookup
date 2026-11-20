@@ -1,11 +1,10 @@
-:root { color-scheme: light dark; --text: #1c1c1e; --muted: #6c6c70; --line: #c7c7cc; --bg: #fff; --link: #0a5bc4; }
-@media (prefers-color-scheme: dark) { :root { --text: #f2f2f7; --muted: #a0a0a6; --line: #48484a; --bg: #1c1c1e; --link: #6cb0ff; } }
+:root { color-scheme: light dark; --text: #1c1c1e; --muted: #6c6c70; --line: #c7c7cc; --bg: #fff; --canvas: #f4f4f4; --link: #0a5bc4; }
+@media (prefers-color-scheme: dark) { :root { --text: #f2f2f7; --muted: #a0a0a6; --line: #48484a; --bg: #1c1c1e; --canvas: #2c2c2e; --link: #6cb0ff; } }
 body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 main, footer { max-width: 560px; margin: 0 auto; padding: 0 16px; }
 main { padding-top: 40px; }
 h1 { font-size: 26px; line-height: 1.25; margin: 0 0 8px; }
-main > h1 + p { margin: 0 0 24px; }
-label { display: block; margin-bottom: 6px; }
+.panel > h1 + p { margin: 0 0 24px; }
 .row { display: flex; gap: 8px; }
 input { flex: 1; min-width: 0; font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: inherit; }
 button { font: inherit; padding: 8px 14px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: inherit; cursor: pointer; }
@@ -25,17 +24,19 @@ button:disabled { opacity: .45; cursor: default; }
 #map .leaflet-bottom.leaflet-right { left: 0; }
 #map .leaflet-control-attribution { max-width: 100%; box-sizing: border-box; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 #map .leaflet-control-attribution:hover { white-space: normal; }
-.pill[aria-pressed="true"] { background: var(--line); }
-/* Full map: the map fills the window, the search floats over it, and the links stay along the bottom; printing uses the page layout. */
+/* On screen the map fills the window, the search floats over it, and the links stay along the bottom; printing uses the page layout above. */
 @media screen {
-  .full-map:not(.printing) body { display: flex; flex-direction: column; height: 100dvh; }
-  .full-map:not(.printing) main { position: relative; display: flex; flex-direction: column; flex: 1; min-height: 0; width: 100%; max-width: none; margin: 0; padding: 0; }
-  .full-map:not(.printing) main > h1, .full-map:not(.printing) main > h1 + p { display: none; }
-  .full-map:not(.printing) #map { flex: 1; aspect-ratio: auto; margin: 0; border-radius: 0; }
-  .full-map:not(.printing) .panel { position: absolute; z-index: 1001; top: 12px; left: 12px; width: min(440px, calc(100% - 24px)); box-sizing: border-box; padding: 12px 14px; border-radius: 16px; background: var(--bg); box-shadow: 0 2px 8px rgb(0 0 0 / 30%); }
-  .full-map:not(.printing) .answer, .full-map:not(.printing) .answer:has(.pill:not([hidden])) { min-height: 0; margin: 10px 0 0; }
-  .full-map:not(.printing) footer { box-sizing: border-box; width: 100%; margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0 16px; max-width: none; padding: 8px 16px; }
-  .full-map:not(.printing) footer p { margin: 0; }
+  html:not(.printing) body { display: flex; flex-direction: column; height: 100dvh; }
+  html:not(.printing) main { position: relative; display: flex; flex-direction: column; flex: 1; min-height: 0; width: 100%; max-width: none; margin: 0; padding: 0; background: var(--canvas); }
+  html:not(.printing) #map { flex: 1; aspect-ratio: auto; margin: 0; border-radius: 0; }
+  html:not(.printing) .panel { position: absolute; z-index: 1001; top: 12px; left: 50%; transform: translateX(-50%); width: min(560px, calc(100% - 24px)); box-sizing: border-box; padding: 10px 12px; border-radius: 14px; background: var(--bg); box-shadow: 0 2px 8px rgb(0 0 0 / 30%); }
+  html:not(.printing) .panel > h1 { font-size: 20px; margin: 0; }
+  html:not(.printing) .panel > h1 + p { margin: 0 0 8px; color: var(--muted); font-size: 15px; }
+  html:not(.printing) main:has(#map:not([hidden])) .panel > :is(h1, h1 + p) { display: none; }
+  html:not(.printing) .answer, html:not(.printing) .answer:has(.pill:not([hidden])) { min-height: 0; margin: 8px 0 0; }
+  html:not(.printing) .answer:has(#result:empty) { display: none; }
+  html:not(.printing) footer { box-sizing: border-box; width: 100%; max-width: none; margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0 16px; padding: 8px 16px; }
+  html:not(.printing) footer p { margin: 0; }
 }
 a { color: var(--link); }
 footer { color: var(--muted); font-size: 15px; padding-top: 16px; padding-bottom: 32px; }
@@ -52,7 +53,7 @@ footer p { margin: 8px 0 0; font-size: 13px; }
 @media print {
   :root { --text: #1c1c1e; --muted: #6c6c70; --line: #c7c7cc; --bg: #fff; --link: #1c1c1e; }
   main, footer { padding: 0; }
-  main > h1, main > h1 + p, label, button, footer nav, #print, #map .leaflet-control-zoom, #copy svg, #copy span { display: none; }
+  .panel > h1, .panel > h1 + p, button, footer nav, #print, #map .leaflet-control-zoom, #copy svg, #copy span { display: none; }
   #copy { border: 0; padding: 0; font-size: 15px; color: var(--muted); }
   #copy::after { content: "precinct.netpress.com" attr(href); }
   #map { break-inside: avoid; }

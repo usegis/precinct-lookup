@@ -20,13 +20,13 @@ const PRECINCT = { color: '#000', weight: 1, fill: false, interactive: false }
 const VEIL = { stroke: false, fillColor: '#808080', fillOpacity: 1, interactive: false }
 const FADE = { stroke: false, fillColor: '#fff', fillOpacity: 0.4, interactive: false }
 const BOOST = { stroke: false, fillColor: '#f00', fillOpacity: 0.5, interactive: false }
-const VIEW = 'mapView'
 const WIDE = 1// screens past each edge that the shapes are drawn, so a drag doesn't uncover the map
 const WORLD: Position[] = [[-180, -85], [180, -85], [180, 85], [-180, 85], [-180, -85]]
 
 // Esri's street map, with the veil, the fade, the boost and the outline over it.
 function precinctMap (element: HTMLElement): [L.Map, L.TileLayer] {
-  const map = L.map(element, { scrollWheelZoom: false, maxZoom: DEEPEST })
+  const map = L.map(element, { maxZoom: DEEPEST })
+  map.zoomControl.setPosition('bottomright')
   map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a> | Powered by <a href="https://www.esri.com">Esri</a>')
   const tiles = L.tileLayer(TILES, { maxZoom: DEEPEST, attribution: ATTRIBUTION }).addTo(map)
   map.createPane('veil').style.zIndex = '390'
@@ -45,7 +45,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
   const copy = document.querySelector<HTMLAnchorElement>('#copy')!
   const copyLabel = copy.querySelector('span')!
   const print = document.querySelector<HTMLAnchorElement>('#print')!
-  const expand = document.querySelector<HTMLButtonElement>('#expand')!
   const map = document.querySelector<HTMLElement>('#map')!
   const countyData = document.querySelector<HTMLElement>('#county-data')!
   const disclaimer = document.querySelector<HTMLAnchorElement>('#disclaimer')!
@@ -77,24 +76,11 @@ export function start ({ document, fetch }: Env = globalThis): void {
     maps: (county, zip) => getShapes(`${county}/shapes/${zip}`, NO_SHAPES).catch(() => NO_SHAPES)
   }
   const clearHash = () => history.replaceState(null, '', location.pathname + location.search)
-  // The visitor's choice of the full map is kept, like the voter guides' view.
-  let full = false
-  try { full = window.localStorage.getItem(VIEW) === 'full' } catch { /* no storage */ }
-  const showView = () => {
-    const on = full && !map.hidden
-    document.documentElement.classList.toggle('full-map', on)
-    expand.ariaPressed = String(full)
-    if (!leaflet) return
-    leaflet.zoomControl.setPosition(on ? 'bottomright' : 'topleft')
-    if (on) leaflet.scrollWheelZoom.enable()
-    else leaflet.scrollWheelZoom.disable()
-  }
   const hideMap = () => {
     map.hidden = true
     countyData.hidden = true
     copy.hidden = true
     print.hidden = true
-    expand.hidden = true
   }
   const showCountyData = (county: string) => {
     disclaimer.href = `counties/${county}/DISCLAIMER.txt`
@@ -110,7 +96,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
     map.hidden = false
     map.ariaLabel = `Map of precinct ${number}`
     if (!leaflet) [leaflet, tiles] = precinctMap(map)
-    showView()
     outline?.remove()
     veil?.remove()
     fade?.remove()
@@ -126,7 +111,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
     copyLabel.textContent = 'Copy link'
     copy.hidden = false
     print.hidden = false
-    expand.hidden = false
   }
   form.addEventListener('submit', async (event) => {
     event.preventDefault()
@@ -153,7 +137,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
       result.textContent = "Sorry, the street ranges couldn't be loaded. Please try again."
     }
     reset.hidden = false
-    showView()
   })
   input.addEventListener('input', () => {
     const typed = input.value.trim()
@@ -168,7 +151,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
     result.textContent = ''
     reset.hidden = true
     hideMap()
-    showView()
     clearHash()
     input.focus()
   })
@@ -180,12 +162,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
     } catch {
       copyLabel.textContent = 'Press and hold to copy'
     }
-  })
-  expand.addEventListener('click', () => {
-    full = !full
-    try { window.localStorage.setItem(VIEW, full ? 'full' : 'page') } catch { /* no storage */ }
-    showView()
-    fit()
   })
   // The map draws for the size it has, so Print sizes it to the page, waits for its tiles, then prints.
   print.addEventListener('click', async (event) => {

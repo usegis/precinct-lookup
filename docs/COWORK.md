@@ -80,14 +80,15 @@ check first. Woodie publishes, or says yes first.
   precinct or nothing.
 - Copy link gives `#41-44007`, county and precinct; it never names an address and clears when
   the box changes.
-- The map is Esri's World Street Map under Leaflet (bundled into `main.js`): 4:3, north up,
+- On screen the map fills the window: the search floats over it in a centered panel (the title shows until a precinct does), the
+  links stay along the bottom, and an empty page is #f4f4f4. Printing keeps the page layout.
+- The map is Esri's World Street Map under Leaflet (bundled into `main.js`): north up, zoom buttons bottom right,
   opening at the zoom that fits the precinct, no deeper than 18. Four panes from the one
   outline gray and lighten the world outside, brighten the inside, and draw a 1px border.
 
 ## Known gaps
 
 - 39 Santa Clara precincts have ranges but no outline, so they answer without a map.
-- On a phone, one finger drags the map rather than scrolling the page.
 - `spec/civic/addresses.txt` has courthouses and jails only for the eight largest counties.
 
 ## Showing pages

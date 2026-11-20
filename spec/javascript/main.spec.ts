@@ -5,7 +5,7 @@ import { justBeforeEach } from 'penultimate'
 import { lookup, lookupLink, normalizeStreet, parseAddress, start } from '../../src/main.ts'
 import type { Address, Answer, Index, Shapes, Source, Streets } from '../../src/main.ts'
 
-const drawn = vi.hoisted(() => ({ maps: 0, outlines: [] as unknown[], removed: 0, fitted: 0, loading: false, zoom: '', wheel: false }))
+const drawn = vi.hoisted(() => ({ maps: 0, outlines: [] as unknown[], removed: 0, fitted: 0, loading: false, zoom: '' }))
 vi.mock('leaflet', () => {
   const layer = { addTo: () => layer, isLoading: () => drawn.loading, once: (_event: string, loaded: () => void) => { setTimeout(loaded) } }
   return {
@@ -14,7 +14,6 @@ vi.mock('leaflet', () => {
       return {
         attributionControl: { setPrefix: () => {} },
         zoomControl: { setPosition: (corner: string) => { drawn.zoom = corner } },
-        scrollWheelZoom: { enable: () => { drawn.wheel = true }, disable: () => { drawn.wheel = false } },
         createPane: () => ({ style: {} }),
         invalidateSize: () => {},
         fitBounds: () => { drawn.fitted++ }
@@ -483,8 +482,6 @@ describe('start', () => {
   const countyData = () => document.querySelector<HTMLElement>('#county-data')!
   const copy = () => document.querySelector<HTMLAnchorElement>('#copy')!
   const box = () => document.querySelector('input')!
-  const expand = () => document.querySelector<HTMLButtonElement>('#expand')!
-  const fullMap = () => document.documentElement.classList.contains('full-map')
   const retype = (text: string) => {
     document.querySelector('input')!.value = text
     document.querySelector('input')!.dispatchEvent(new Event('input'))
@@ -492,8 +489,7 @@ describe('start', () => {
 
   beforeEach(() => {
     document.documentElement.innerHTML = readFileSync('public/index.html', 'utf8')
-    Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '', wheel: false })
-    localStorage.clear()
+    Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '' })
     document.documentElement.className = ''
     fetchFile = vi.fn(async (url: string) => reply(
       ({
@@ -717,85 +713,8 @@ describe('start', () => {
       })
     })
 
-    it('offers the full map, not yet chosen', () => {
-      expect(expand().hidden).toBe(false)
-      expect(expand().ariaPressed).toBe('false')
-      expect(fullMap()).toBe(false)
-    })
-
-    context('when the visitor chooses the full map', () => {
-      justBeforeEach(() => { expand().click() })
-
-      it('fills the window with the map and refits it', () => {
-        expect(fullMap()).toBe(true)
-        expect(expand().ariaPressed).toBe('true')
-        expect(drawn.fitted).toBe(2)
-      })
-
-      it('moves the zoom buttons out from under the search and lets the wheel zoom', () => {
-        expect(drawn.zoom).toBe('bottomright')
-        expect(drawn.wheel).toBe(true)
-      })
-
-      it('remembers the choice', () => {
-        expect(localStorage.getItem('mapView')).toBe('full')
-      })
-
-      context('and turns it off', () => {
-        justBeforeEach(() => { expand().click() })
-
-        it('puts the page back and remembers that', () => {
-          expect(fullMap()).toBe(false)
-          expect(drawn.zoom).toBe('topleft')
-          expect(drawn.wheel).toBe(false)
-          expect(localStorage.getItem('mapView')).toBe('page')
-        })
-      })
-
-      context('and resets', () => {
-        justBeforeEach(() => { resetButton().click() })
-
-        it('shows the page until the next map', () => {
-          expect(fullMap()).toBe(false)
-        })
-      })
-
-      context('and prints', () => {
-        beforeEach(() => { window.print = vi.fn() as typeof window.print })
-
-        justBeforeEach(async () => {
-          document.querySelector<HTMLAnchorElement>('#print')!.click()
-          await settled()
-        })
-
-        it('prints the page layout, keeping the choice for after', () => {
-          expect(document.documentElement.classList.contains('printing')).toBe(true)
-          expect(fullMap()).toBe(true)
-        })
-      })
-    })
-
-    context('when the visitor chose the full map before', () => {
-      beforeEach(() => { localStorage.setItem('mapView', 'full') })
-
-      it('opens with it', () => {
-        expect(fullMap()).toBe(true)
-        expect(expand().ariaPressed).toBe('true')
-      })
-    })
-
-    context('when the browser keeps no storage', () => {
-      beforeEach(() => {
-        vi.spyOn(Storage.prototype, 'getItem').mockImplementation(() => { throw new Error('denied') })
-        vi.spyOn(Storage.prototype, 'setItem').mockImplementation(() => { throw new Error('denied') })
-      })
-
-      justBeforeEach(() => { expand().click() })
-
-      it('still shows the full map', () => {
-        expect(fullMap()).toBe(true)
-        vi.restoreAllMocks()
-      })
+    it('puts the zoom buttons in the corner away from the search', () => {
+      expect(drawn.zoom).toBe('bottomright')
     })
 
     context('when the page is printed from the browser menu', () => {
