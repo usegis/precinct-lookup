@@ -11,4 +11,4 @@ SOURCES
 Precinct map is an October 2026 snapshot provided by Tulare County. Address file
 is a live layer published by Tulare County, last edited September 2026. Census
 TIGER address ranges and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

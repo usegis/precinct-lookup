@@ -4,7 +4,7 @@
 
 ## Files
 
-Everything in `counties/` is published under `https://precinct.netpress.com/counties/`.
+Everything in `counties/` is published under `https://lookup.usegis.org/counties/`.
 
 | File | What it holds |
 | --- | --- |

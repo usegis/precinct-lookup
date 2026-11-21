@@ -11,4 +11,4 @@ SOURCES
 Precinct map is a live layer published by Glenn County, last edited February
 2026. Address file is a 2023 snapshot of parcels published by Glenn County.
 Census TIGER address ranges and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

@@ -24,4 +24,4 @@ SOURCES
 
 Precinct map is a live layer published by San Benito County, last edited August
 2026. Street file is a live layer published by San Benito County.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

@@ -11,15 +11,15 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 
 | No. | Description | Voters |
 | --- | --- | --- |
-| [1](https://precinct.netpress.com/#26-1) | Coleville and Topaz; Mill Canyon Rd, Topaz Lake | 605 |
-| [3](https://precinct.netpress.com/#26-3) | Bridgeport and Twin Lakes; Twin Lakes Rd, Twin Lakes | 427 |
-| [4](https://precinct.netpress.com/#26-4) | Benton and Chalfant; Highway 6, Fish Slough Rd | 810 |
-| [5](https://precinct.netpress.com/#26-5) | June Lake; 2S10, Waugh Lake | 450 |
-| [6](https://precinct.netpress.com/#26-6) | Mono City and Lee Vining; Mc Pherson Grade, Conness Lakes | 317 |
-| [7](https://precinct.netpress.com/#26-7) | McGee Creek and Aspen Springs; Hilton Creek Lakes, Owens Gorge Rd | 962 |
-| [8](https://precinct.netpress.com/#26-8) | Mammoth Lakes; 1517, Adobe Lake | 197 |
-| [9](https://precinct.netpress.com/#26-9) | Mammoth Lakes; 3S89 Rd, Canyon Blvd | 951 |
-| [10](https://precinct.netpress.com/#26-10) | Mammoth Lakes; Old Mammoth Rd, Meridian Blvd | 904 |
-| [11](https://precinct.netpress.com/#26-11) | Paradise and Swall Meadows; Lower Rock Creek Rd, Gorge Rd | 314 |
-| [12](https://precinct.netpress.com/#26-12) | Mammoth Lakes; Dry Creek Rd, Forest Trl | 1,373 |
-| [13](https://precinct.netpress.com/#26-13) | Mammoth Lakes; Hot Creek Hatchery Rd, Sherwin Lakes | 651 |
+| [1](https://lookup.usegis.org/#26-1) | Coleville and Topaz; Mill Canyon Rd, Topaz Lake | 605 |
+| [3](https://lookup.usegis.org/#26-3) | Bridgeport and Twin Lakes; Twin Lakes Rd, Twin Lakes | 427 |
+| [4](https://lookup.usegis.org/#26-4) | Benton and Chalfant; Highway 6, Fish Slough Rd | 810 |
+| [5](https://lookup.usegis.org/#26-5) | June Lake; 2S10, Waugh Lake | 450 |
+| [6](https://lookup.usegis.org/#26-6) | Mono City and Lee Vining; Mc Pherson Grade, Conness Lakes | 317 |
+| [7](https://lookup.usegis.org/#26-7) | McGee Creek and Aspen Springs; Hilton Creek Lakes, Owens Gorge Rd | 962 |
+| [8](https://lookup.usegis.org/#26-8) | Mammoth Lakes; 1517, Adobe Lake | 197 |
+| [9](https://lookup.usegis.org/#26-9) | Mammoth Lakes; 3S89 Rd, Canyon Blvd | 951 |
+| [10](https://lookup.usegis.org/#26-10) | Mammoth Lakes; Old Mammoth Rd, Meridian Blvd | 904 |
+| [11](https://lookup.usegis.org/#26-11) | Paradise and Swall Meadows; Lower Rock Creek Rd, Gorge Rd | 314 |
+| [12](https://lookup.usegis.org/#26-12) | Mammoth Lakes; Dry Creek Rd, Forest Trl | 1,373 |
+| [13](https://lookup.usegis.org/#26-13) | Mammoth Lakes; Hot Creek Hatchery Rd, Sherwin Lakes | 651 |

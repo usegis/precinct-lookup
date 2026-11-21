@@ -18,7 +18,7 @@ On whatever GIS system the county already uses:
   [Attributed Addresses](https://gis.inyo.gov/server/rest/services/AttributedAddresses/FeatureServer/0)
   layer has.
 
-Tell us where they are (a [feedback issue](https://github.com/woodie/street-ranges/issues/new)
+Tell us where they are (a [feedback issue](https://github.com/usegis/precinct-lookup/issues/new)
 is fine), and the street ranges for your county will be built from them.
 
 ## 2. Copy the sample
@@ -51,9 +51,9 @@ your districts for it:
 </form>
 <p id="answer" role="status"></p>
 <ul id="districts"></ul>
-<script src="https://precinct.netpress.com/main.js"></script>
+<script src="https://lookup.usegis.org/main.js"></script>
 <script>
-  const DATA = 'https://precinct.netpress.com/counties/'
+  const DATA = 'https://lookup.usegis.org/counties/'
   const get = (path) => fetch(`${DATA}${path}.json`).then((reply) => reply.ok ? reply.json() : {})
   const source = {
     index: () => get('index'),

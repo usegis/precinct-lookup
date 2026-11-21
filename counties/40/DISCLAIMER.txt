@@ -11,4 +11,4 @@ SOURCES
 Precinct map is a live layer published by San Luis Obispo County. Address file
 is a live layer published by San Luis Obispo County. Census TIGER address ranges
 and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

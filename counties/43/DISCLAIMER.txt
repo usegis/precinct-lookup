@@ -19,4 +19,4 @@ SOURCES
 Precinct map is a November 2026 snapshot provided by Santa Clara County. Address
 file is a 2020 layer and current parcels published by Santa Clara County. Census
 TIGER address ranges and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

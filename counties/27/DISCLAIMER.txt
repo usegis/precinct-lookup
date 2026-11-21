@@ -10,4 +10,4 @@ SOURCES
 
 Precinct map is an August 2026 snapshot provided by Monterey County. Street file
 is an August 2026 snapshot provided by Monterey County.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

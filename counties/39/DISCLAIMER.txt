@@ -11,4 +11,4 @@ SOURCES
 Precinct map is a live layer published by San Joaquin County, last edited
 September 2026. Address file is pieced together from public layers in San
 Joaquin County. Census TIGER address ranges and Statewide Database voters by
-block. https://github.com/woodie/street-ranges#sources
+block. https://github.com/usegis/precinct-lookup#sources

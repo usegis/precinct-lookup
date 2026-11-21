@@ -12,7 +12,7 @@ we strive to maintain accurate and up-to-date information.
 SOURCES
 
 Precinct map is a live layer published by San Mateo County.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources
 `
 
 describe('showDisclaimer', () => {
@@ -45,9 +45,9 @@ describe('showDisclaimer', () => {
     })
 
     it('links web addresses', () => {
-      expect(text().querySelector('a')!.getAttribute('href')).toBe('https://github.com/woodie/street-ranges#sources')
+      expect(text().querySelector('a')!.getAttribute('href')).toBe('https://github.com/usegis/precinct-lookup#sources')
       expect(text().querySelectorAll('p')[1].textContent).toBe(
-        'Precinct map is a live layer published by San Mateo County. https://github.com/woodie/street-ranges#sources')
+        'Precinct map is a live layer published by San Mateo County. https://github.com/usegis/precinct-lookup#sources')
     })
 
     it('returns to the precinct', () => {

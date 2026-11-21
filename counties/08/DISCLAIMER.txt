@@ -11,4 +11,4 @@ SOURCES
 Precinct map is a live layer published by Del Norte County, last edited May
 2022. Address file is a 2026 snapshot of parcels published by Del Norte County.
 Census TIGER address ranges and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

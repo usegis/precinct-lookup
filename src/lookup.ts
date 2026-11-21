@@ -176,8 +176,8 @@ export async function lookupLink (county: string, number: string, source: Source
   return { text: `${number}: ${name}`, found: { county, number, zip } }
 }
 
-// The files published at precinct.netpress.com, which allow any site to fetch them.
-export const DATA = 'https://precinct.netpress.com/counties/'
+// The files published at lookup.usegis.org, which allow any site to fetch them.
+export const DATA = 'https://lookup.usegis.org/counties/'
 const NO_SHAPES: Shapes = { type: 'FeatureCollection', features: [] }
 
 // The published files, or a copy at another address; a file that isn't there reads as empty.

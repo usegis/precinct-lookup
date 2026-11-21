@@ -10,4 +10,4 @@ SOURCES
 
 Precinct map is a November 2026 snapshot provided by El Dorado County. Street
 file is a November 2026 snapshot provided by El Dorado County.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

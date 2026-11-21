@@ -11,7 +11,7 @@ SOURCES
 Precinct map is a live layer published by Sacramento County, last edited August
 2026. Address file is a live layer published by Sacramento County, last edited
 November 2026. Census TIGER address ranges and Statewide Database voters by
-block. https://github.com/woodie/street-ranges#sources
+block. https://github.com/usegis/precinct-lookup#sources
 
 LICENSE
 

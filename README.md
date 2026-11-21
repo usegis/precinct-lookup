@@ -1,15 +1,15 @@
 # Precinct lookup
 
 [![npm](https://img.shields.io/npm/v/precinct-lookup.svg)](https://www.npmjs.com/package/precinct-lookup)
-[![CI](https://github.com/woodie/street-ranges/actions/workflows/ci.yml/badge.svg)](https://github.com/woodie/street-ranges/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/woodie/street-ranges.svg)](LICENSE)
+[![CI](https://github.com/usegis/precinct-lookup/actions/workflows/ci.yml/badge.svg)](https://github.com/usegis/precinct-lookup/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/usegis/precinct-lookup.svg)](LICENSE)
 
 Finding a voter's precinct from an address usually means sending the address to an API.
 Counties already publish the required information.
 
 `precinct-lookup` turns a street address into a precinct, and the precinct's shape for a map, right
 in the browser. It reads small static files of street ranges, built for all 58 California counties
-from each county's public data. The [sample app](https://precinct.netpress.com/) shows each
+from each county's public data. The [sample app](https://lookup.usegis.org/) shows each
 precinct on a map.
 
 <p>

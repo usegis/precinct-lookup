@@ -62,4 +62,4 @@ Precinct map is a live layer published by Kern County, last edited September
 2026. Address file is pieced together from public layers in Kern County. Road
 centerlines are a live layer published by Kern County, last edited September
 2026. Census TIGER address ranges and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

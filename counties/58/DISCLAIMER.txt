@@ -11,4 +11,4 @@ SOURCES
 Precinct map is a June 2026 snapshot from the Statewide Database. Address file
 is a live layer published by Yuba County. Census TIGER address ranges and
 Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

@@ -1,16 +1,16 @@
 {
   "name": "precinct-lookup",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Find a voter's precinct, and its shape, from a street address, in the browser, using street ranges",
   "license": "MIT",
   "author": "Netpress.com",
-  "homepage": "https://precinct.netpress.com/",
+  "homepage": "https://lookup.usegis.org/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woodie/street-ranges.git"
+    "url": "git+https://github.com/usegis/precinct-lookup.git"
   },
   "bugs": {
-    "url": "https://github.com/woodie/street-ranges/issues"
+    "url": "https://github.com/usegis/precinct-lookup/issues"
   },
   "keywords": [
     "precinct",

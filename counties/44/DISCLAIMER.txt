@@ -18,4 +18,4 @@ SOURCES
 Precinct map is a live layer published by Santa Cruz County, last edited June
 2026. Address file is a live layer published by Santa Cruz County, last edited
 August 2026. Census TIGER address ranges and Statewide Database voters by block.
-https://github.com/woodie/street-ranges#sources
+https://github.com/usegis/precinct-lookup#sources

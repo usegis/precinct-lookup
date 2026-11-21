@@ -11,8 +11,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 
 | No. | Description | Voters |
 | --- | --- | --- |
-| [1](https://precinct.netpress.com/#02-1) | Markleeville; Lp Canyon Rd, Upper Sunset Lake | 208 |
-| [2](https://precinct.netpress.com/#02-2) | Alpine Village; Blue Lakes Rd, Lost Lakes | 162 |
-| [3](https://precinct.netpress.com/#02-3) | Alpine Village; Old State Hwy 88, Carson River Rd | 128 |
-| [4](https://precinct.netpress.com/#02-4) | Bear Valley and Kirkwood; Highland Lakes, Lake Alpine | 204 |
-| [5](https://precinct.netpress.com/#02-5) | Mesa Vista; Emigrant Trl, Foothill Rd | 229 |
+| [1](https://lookup.usegis.org/#02-1) | Markleeville; Lp Canyon Rd, Upper Sunset Lake | 208 |
+| [2](https://lookup.usegis.org/#02-2) | Alpine Village; Blue Lakes Rd, Lost Lakes | 162 |
+| [3](https://lookup.usegis.org/#02-3) | Alpine Village; Old State Hwy 88, Carson River Rd | 128 |
+| [4](https://lookup.usegis.org/#02-4) | Bear Valley and Kirkwood; Highland Lakes, Lake Alpine | 204 |
+| [5](https://lookup.usegis.org/#02-5) | Mesa Vista; Emigrant Trl, Foothill Rd | 229 |
