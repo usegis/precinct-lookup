@@ -67,6 +67,11 @@ files and `outline()` for a precinct's shape. No map, districts or races. `src/m
 page, built on it. `npm run package` builds `dist/` (not committed); publishing runs the full
 check first. Woodie publishes, or says yes first.
 
+`bin/precinct-lookup.js` is `npx precinct-lookup fetch <county>`: plain Node with no dependencies. It
+copies a county's published files from lookup.usegis.org into a local `counties/` folder, in the same
+layout, removes zipcodes the site dropped, and adds the county to the local `index.json`. It
+reads only the static files, never the build in ca-lookup.
+
 ## The page
 
 - One input and one answer: the precinct, with its map when there is an outline. Races and

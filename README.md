@@ -47,6 +47,19 @@ A page without a build step can load it from a CDN:
 What a precinct means (its districts, representatives or polling place) is left to your app;
 [Your own county lookup](docs/COUNTY_LOOKUP.md) shows one way.
 
+## Host a county's files
+
+To serve the files yourself, copy a county's from lookup.usegis.org into `counties/`, and run it
+again to update them:
+
+```bash
+npx precinct-lookup fetch "San Mateo"
+```
+
+A county is its number (`41`) or its name; name several to copy each, and add `--dir` for
+another folder. Then use `remoteSource('https://your.site/counties/')`, and keep each
+county's `DISCLAIMER.txt` with its files.
+
 ## Sources
 
 Each county's ranges come from the best it publishes: each address with its precinct, address
