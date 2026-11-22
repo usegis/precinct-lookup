@@ -15,8 +15,8 @@ praising counties that share well and inviting the rest, never framing one as fa
   number, like `1-49` or `1234-1236`, is its first number. County abbreviations such as `WY`
   and `TERR` as `WAY` and `TER`, the same as the build.
 - Tehama is built from its own street data (each address with its precinct) and 2025 precincts.
-- `precinct-lookup` 0.2.1 is on npm (2026-11-20), with aliases, hyphenated house numbers, highway names and the
-  abbreviations, fetching from lookup.usegis.org; 0.2.0 is deprecated.
+- `precinct-lookup` 0.3.0 is on npm (2026-11-21), adding `npx precinct-lookup fetch <county>`; 0.2.1 (2026-11-20)
+  brought aliases, hyphenated house numbers, highway names and the abbreviations; 0.2.0 is deprecated.
 - The page is on GitHub Pages at lookup.usegis.org (a CNAME at Network Solutions), since 2026-11-20, when the repo
   moved from woodie/street-ranges to usegis/precinct-lookup; precinct.netpress.com redirects there
   (woodie/precinct-netpress-redirect).
