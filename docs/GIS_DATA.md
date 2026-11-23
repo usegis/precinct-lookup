@@ -13,7 +13,7 @@ election or GIS system, so the lookup gives the county's own answer. This is ext
 
 | County | Street data | Precinct map |
 | --- | --- | --- |
-| [El Dorado](counties/EL_DORADO.md) 192K | Request, 11/26 | Request, 11/26 |
+| [El Dorado](counties/EL_DORADO.md) 192K | Request, 11/26 | [Live layer](https://services.arcgis.com/UHg8l1wC48WQyDSO/arcgis/rest/services/Precincts/FeatureServer/0) |
 | [Inyo](counties/INYO.md) 18K | [Live layer](https://gis.inyo.gov/server/rest/services/AttributedAddresses/FeatureServer/0)† | [Live layer](https://gis.inyo.gov/server/rest/services/Election_Precincts/FeatureServer/1)† |
 | [Monterey](counties/MONTEREY.md) 434K | [File, 8/26](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) | [File, 8/26](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/) |
 | [San Benito](counties/SAN_BENITO.md) 70K | [Live layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/ArcOnline_Addresses/FeatureServer/0) | [Live layer](https://services2.arcgis.com/NjMFCzThTMQy3AJa/arcgis/rest/services/San_Benito_County_Base_Precincts_2026/FeatureServer/2) |

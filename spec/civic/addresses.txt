@@ -27,7 +27,7 @@ Contra Costa County Elections, 555 Escobar Street, Martinez, CA 94553
 # Del Norte: Live map layer, Parcels
 Del Norte County Elections, 981 H Street, Crescent City, CA 95531
 
-# El Dorado: Map file by request, Street data by request
+# El Dorado: Live map layer, Street data by request
 El Dorado County Elections, 3883 Ponderosa Road, Shingle Springs, CA 95682
 
 # Fresno: Live map layer, Live address points
