@@ -100,7 +100,7 @@ Orange County Men's Jail, 550 N Flower Street, Santa Ana, CA 92703
 # Placer: Map file by request, Live address points
 Placer County Elections, 3715 Atherton Rd, Rocklin, CA 95765
 
-# Plumas: SWDB map, Address file
+# Plumas: Map file by request, Address file
 Plumas County Elections, 520 Main Street, Quincy, CA 95971
 
 # Riverside: Live map layer (June), Live address points
