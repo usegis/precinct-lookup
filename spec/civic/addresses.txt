@@ -165,7 +165,7 @@ Solano County Elections, 675 Texas Street, Fairfield, CA 94533
 # Sonoma: Live map layer, Live address points
 Sonoma County Elections, 3880 Brickway Blvd, Santa Rosa, CA 95403
 
-# Stanislaus: SWDB map, Live address points
+# Stanislaus: Map file by request, Live address points
 Stanislaus County Elections, 1021 I Street, Modesto, CA 95354
 
 # Sutter: Live map layer, Live address points
