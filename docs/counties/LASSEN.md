@@ -2,12 +2,12 @@
 
 [All counties](../GIS_DATA.md)
 
-The 56 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
+The 57 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
 highways, streets, lakes). GIS data says where each county's outlines come from.
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.
-15,354 of SWDB's 15,356 voters are in a precinct listed here.
+15,356 of SWDB's 15,356 voters are in a precinct listed here.
 
 | No. | Description | Voters |
 | --- | --- | --- |
@@ -61,8 +61,9 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [507](https://lookup.usegis.org/#18-507) | Doyle; Homestead Ranch Rd, Doyle Grade Rd | 479 |
 | [508](https://lookup.usegis.org/#18-508) | Herlong; David S Hall Ave, Co Rd 8283 | 92 |
 | [509](https://lookup.usegis.org/#18-509) | Scott Rd, Highway 70, Bent D Rd | 38 |
-| [510](https://lookup.usegis.org/#18-510) | Mail Route Rd, Buckhorn Reservoir, Co Rd 506 | 70 |
-| [511](https://lookup.usegis.org/#18-511) | Madeline; Mendiboure Reservoir, Clarks Valley Rd | 35 |
+| [510](https://lookup.usegis.org/#18-510) | Mail Route Rd, Buckhorn Reservoir, Co Rd 502 | 70 |
+| [511](https://lookup.usegis.org/#18-511) | Madeline; Mendiboure Reservoir, Co Rte 527 | 35 |
+| [512](https://lookup.usegis.org/#18-512) | Blue Lake, Newland Reservoir, Red Rock Rd | 2 |
 | [513](https://lookup.usegis.org/#18-513) | Susanville; Rice Canyon Rd, Belfast Rd | 161 |
 | [514](https://lookup.usegis.org/#18-514) | Milford; Milford Grade, Honey Lake | 238 |
 | [515](https://lookup.usegis.org/#18-515) | Janesville; Blickenstaff Rd, Lake Crest Rd | 318 |
