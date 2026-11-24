@@ -94,7 +94,7 @@ available. This is often unreliable, especially in rural areas.
 
 | County | Precinct map | Addresses |
 | --- | --- | --- |
-| [Lassen](counties/LASSEN.md) 28K | [SWDB, 6/26](https://statewidedatabase.org/) | [Census TIGER](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) |
+| [Lassen](counties/LASSEN.md) 28K | [SWDB, 6/26](https://statewidedatabase.org/) | [Census TIGER/UTM](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) |
 | [Modoc](counties/MODOC.md) 8.4K | [Live layer](https://services6.arcgis.com/MIuDOWgDqUpHjCEg/arcgis/rest/services/Voting_Precincts___10_14_25_WFL1/FeatureServer/13) | [Census TIGER](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) |
 
 \* Published by a third party, not an authoritative source.\
