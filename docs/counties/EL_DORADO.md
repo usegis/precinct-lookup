@@ -2,7 +2,7 @@
 
 [All counties](../GIS_DATA.md)
 
-The 447 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
+The 450 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
 highways, streets, lakes). GIS data says where each county's outlines come from.
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
@@ -160,7 +160,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3067114](https://lookup.usegis.org/#09-3067114) | Along N Canyon Rd | 4 |
 | [3067501](https://lookup.usegis.org/#09-3067501) | Pocket Mine Rd, Holland Dr, Kona Dr | 94 |
 | [3067502](https://lookup.usegis.org/#09-3067502) | Hassler Rd, Mount Olympus Dr, Old Hassler Creek Ln | 170 |
-| [3067504](https://lookup.usegis.org/#09-3067504) | Mosquito Rd, Union Ridge Rd, Fruitridge Rd | 610 |
+| [3067504](https://lookup.usegis.org/#09-3067504) | Union Ridge Rd, Fruitridge Rd, Mosquito Rd | 610 |
 | [3067505](https://lookup.usegis.org/#09-3067505) | Mosquito Rd, Dancing Oaks Rd, Keeble Ln | 32 |
 | [3067506](https://lookup.usegis.org/#09-3067506) | Near Union Ridge Rd | 0 |
 | [3067507](https://lookup.usegis.org/#09-3067507) | Mountain Way, Prosperity Ln, Church Ranch Rd | 0 |
@@ -236,6 +236,8 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [3577513](https://lookup.usegis.org/#09-3577513) | Near Puma Point Ln | 0 |
 | [4037501](https://lookup.usegis.org/#09-4037501) | Cameron Park; Royce Dr, Bentley Dr | 495 |
 | [4063101](https://lookup.usegis.org/#09-4063101) | Blodgett Forest Rd, Spring Rd, Sand Mt Blvd | 2 |
+| [4063107](https://lookup.usegis.org/#09-4063107) | Stumpy Meadows Lake, Onion Valley Rd, Peavine Point Rd | 0 |
+| [4063110](https://lookup.usegis.org/#09-4063110) | Mosquito Rd, Wentworth Springs Rd, Old Pino | 0 |
 | [4097103](https://lookup.usegis.org/#09-4097103) | South Fork American River, Rock Creek Rd, Mule Skinner Rd | 3 |
 | [4097106](https://lookup.usegis.org/#09-4097106) | S Fork Rd, Rafters Ln, Campfire Cir | 6 |
 | [4097109](https://lookup.usegis.org/#09-4097109) | South Fork American River, Rock Creek Rd | 0 |
@@ -443,6 +445,7 @@ highways, streets, lakes). GIS data says where each county's outlines come from.
 | [5633117](https://lookup.usegis.org/#09-5633117) | Meyers; Rainbow Rd, Panorama Dr | 461 |
 | [5633119](https://lookup.usegis.org/#09-5633119) | Sierra Ski Ranch Rd, Lake Audrian, Sayles Canyon Trl | 24 |
 | [5633121](https://lookup.usegis.org/#09-5633121) | Lake Margaret, Cody Meadows | 0 |
+| [5633123](https://lookup.usegis.org/#09-5633123) | Near Strawberry Creek Rd | 0 |
 | [5633127](https://lookup.usegis.org/#09-5633127) | Black Bart Ave, Golden Bear Trl, Plateau Cir | 701 |
 | [5633129](https://lookup.usegis.org/#09-5633129) | Along Winnemucca Ave and Silver Tip Ave | 0 |
 | [5633131](https://lookup.usegis.org/#09-5633131) | Pioneer Trl, Onnontioga St, Washoan Blvd | 846 |
