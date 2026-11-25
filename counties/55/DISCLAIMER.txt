@@ -8,10 +8,10 @@ before making decisions based on this information.
 
 SOURCES
 
-Precinct map is a June 2026 snapshot from the Statewide Database. Address file
-is a 2026 snapshot of parcels published by Tuolumne County. Road centerlines are
-a live layer published by Tuolumne County, last edited October 2026. Census
-TIGER address ranges and Statewide Database voters by block.
+Precinct map is a September 2022 snapshot provided by Tuolumne County. Address
+file is a 2026 snapshot of parcels published by Tuolumne County. Road
+centerlines are a live layer published by Tuolumne County, last edited October
+2026. Census TIGER address ranges and Statewide Database voters by block.
 https://github.com/usegis/precinct-lookup#sources
 
 LICENSE
