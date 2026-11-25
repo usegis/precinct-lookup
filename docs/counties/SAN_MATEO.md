@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 1,001 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a live layer published by San Mateo County](https://gis.smcgov.org/maps25/rest/services/ACRE/ACRE_GIS/MapServer/0).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

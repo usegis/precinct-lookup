@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 1,468 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a live layer published by Sacramento County, last edited August 2026](https://services1.arcgis.com/5NARefyPVtAeuJPU/ArcGIS/rest/services/VoterRegistrationPrecincts/FeatureServer/2).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

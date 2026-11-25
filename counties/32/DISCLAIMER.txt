@@ -10,6 +10,6 @@ of Voters.
 SOURCES
 
 Precinct map is a February 2026 snapshot provided by Plumas County. Address file
-is a July 2026 snapshot provided by Plumas County. Census TIGER address ranges
+is a July 2026 snapshot published by Plumas County. Census TIGER address ranges
 and Statewide Database voters by block.
 https://github.com/usegis/precinct-lookup#sources

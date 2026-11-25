@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 81 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a November 2024 snapshot from the Statewide Database](https://statewidedatabase.org/).
 
 **Voters:** registered voters for the November 5, 2024 general, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

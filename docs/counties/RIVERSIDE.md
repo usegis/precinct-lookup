@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 3,957 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a June 2026 snapshot published by Riverside County](https://services1.arcgis.com/pWmBUdSlVpXStHU6/arcgis/rest/services/Regular_Precincts_from_Feb_2/FeatureServer/0).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

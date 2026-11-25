@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 457 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [an August 2026 snapshot published by Monterey County](https://www.countyofmonterey.gov/government/departments-a-h/elections/candidates/voter-data-and-gis-shape-files/).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

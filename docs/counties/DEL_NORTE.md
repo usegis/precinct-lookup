@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 19 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a live layer published by Del Norte County, last edited May 2022](https://services3.arcgis.com/IkUDY1vRIUWiVvcz/arcgis/rest/services/Precincts2021/FeatureServer/0).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

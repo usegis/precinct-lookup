@@ -8,6 +8,6 @@ before making decisions based on this information.
 
 SOURCES
 
-Precinct map is an August 2026 snapshot provided by Monterey County. Street file
-is an August 2026 snapshot provided by Monterey County.
+Precinct map is an August 2026 snapshot published by Monterey County. Street
+file is an August 2026 snapshot published by Monterey County.
 https://github.com/usegis/precinct-lookup#sources

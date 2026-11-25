@@ -34,6 +34,6 @@ herein until this agreement is properly terminated in accordance with its terms.
 SOURCES
 
 Precinct map is a live layer published by Contra Costa County, last edited July
-2026. Address file is an October 2025 snapshot provided by Contra Costa County.
+2026. Address file is an October 2025 snapshot published by Contra Costa County.
 Census TIGER address ranges and Statewide Database voters by block.
 https://github.com/usegis/precinct-lookup#sources

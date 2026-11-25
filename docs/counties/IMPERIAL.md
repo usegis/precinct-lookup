@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 290 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a live layer published by Imperial County, last edited October 2026](https://services7.arcgis.com/RomaVqqozKczDNgd/arcgis/rest/services/ElectionGeography_public_15dd531d79d148a29be12ba72c150cc2/FeatureServer/1).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

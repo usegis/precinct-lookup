@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 69 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a 2025 snapshot published by Tehama County](https://services2.arcgis.com/3iNbxbY9zhyxPvde/arcgis/rest/services/Precinct_Blocks_2025_By_Registered_Voters/FeatureServer/0).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

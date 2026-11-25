@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 722 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [an October 2026 snapshot published by Santa Barbara County](https://www.countyofsb.org/acr-elections-maps).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.

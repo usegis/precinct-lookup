@@ -8,7 +8,7 @@ before making decisions based on this information.
 
 SOURCES
 
-Precinct map is an August 2026 snapshot provided by Orange County. Address file
+Precinct map is an August 2026 snapshot published by Orange County. Address file
 is a live layer published by Orange County, last edited August 2026. Census
 TIGER address ranges and Statewide Database voters by block.
 https://github.com/usegis/precinct-lookup#sources

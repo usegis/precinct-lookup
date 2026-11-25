@@ -3,7 +3,9 @@
 [All counties](../GIS_DATA.md)
 
 The 276 precinct outlines the lookup uses, each with a description from Census TIGER 2026 (towns,
-highways, streets, lakes). GIS data says where each county's outlines come from.
+highways, streets, lakes).
+
+**Precinct map:** [a live layer published by Shasta County](https://gis.shastacounty.gov/arcgis/rest/services/Internet/November_2026_General_Election/FeatureServer/8).
 
 **Voters:** registered voters for the June 2, 2026 primary, from the [Statewide Database](https://statewidedatabase.org/)
 (SWDB), which counts them for each precinct in the county's voter file, matched here by precinct number.
