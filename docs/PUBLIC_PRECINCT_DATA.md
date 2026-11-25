@@ -1,7 +1,8 @@
 # Public precinct data
 
-We're building a free lookup for every California county: type an address, see its precinct.
-It's built only from public data, and it needs two things from each county.
+[precinct-lookup](https://www.npmjs.com/package/precinct-lookup) is an open source library that finds an address's
+precinct in every California county, and the [sample app](https://lookup.usegis.org/) shows it working. It's built
+only from public data, and it needs two things from each county.
 
 ## What we need
 
