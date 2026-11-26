@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install
+      - run: npm ci
       - run: npx eslint . && npx tsc --noEmit && npx html-validate public/
       - run: npm run test-js
       - name: Check public/main.js is built from src/
