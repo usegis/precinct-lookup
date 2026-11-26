@@ -5,19 +5,21 @@ import { justBeforeEach } from 'penultimate'
 import { lookup, lookupLink, normalizeStreet, parseAddress, start } from '../../src/main.ts'
 import type { Address, Answer, Index, Shapes, Source, Streets } from '../../src/main.ts'
 
-const drawn = vi.hoisted(() => ({ maps: 0, outlines: [] as unknown[], removed: 0, fitted: 0, loading: false, zoom: '', level: 0 }))
+const drawn = vi.hoisted(() => ({ maps: 0, outlines: [] as unknown[], removed: 0, fitted: 0, loading: false, zoom: '', level: 0, center: [] as unknown }))
 vi.mock('leaflet', () => {
   const layer = { addTo: () => layer, isLoading: () => drawn.loading, once: (_event: string, loaded: () => void) => { setTimeout(loaded) } }
   return {
-    map: () => {
+    map: (_element: unknown, opening: { center: unknown, zoom: number }) => {
       drawn.maps++
+      drawn.center = opening.center
+      drawn.level = opening.zoom
       return {
         attributionControl: { setPrefix: () => {} },
         zoomControl: { setPosition: (corner: string) => { drawn.zoom = corner } },
         createPane: () => ({ style: {} }),
         invalidateSize: () => {},
         getBoundsZoom: () => 16,
-        setView: (_center: unknown, level: number) => { drawn.fitted++; drawn.level = level }
+        setView: (center: unknown, level: number) => { drawn.fitted++; drawn.center = center; drawn.level = level }
       }
     },
     point: (x: number, y: number) => ({ x, y }),
@@ -25,7 +27,7 @@ vi.mock('leaflet', () => {
     svg: () => ({}),
     geoJSON: (shape: unknown) => {
       drawn.outlines.push(shape)
-      const outline = { addTo: () => outline, getBounds: () => ({ getCenter: () => ({}) }), remove: () => { drawn.removed++ } }
+      const outline = { addTo: () => outline, getBounds: () => ({ getCenter: () => 'the precinct' }), remove: () => { drawn.removed++ } }
       return outline
     }
   }
@@ -503,7 +505,7 @@ describe('start', () => {
       listen(type, listener)
     })
     document.documentElement.innerHTML = readFileSync('public/index.html', 'utf8')
-    Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '', level: 0 })
+    Object.assign(drawn, { maps: 0, outlines: [], removed: 0, fitted: 0, loading: false, zoom: '', level: 0, center: [] })
     document.documentElement.className = ''
     fetchFile = vi.fn(async (url: string) => reply(
       ({
@@ -523,6 +525,19 @@ describe('start', () => {
       document.querySelector('form')!.requestSubmit()
     }
     await settled()
+  })
+
+  context('when the page opens', () => {
+    beforeEach(() => { typed = '' })
+
+    it('shows the State Capitol', () => {
+      expect(drawn.center).toEqual([38.5767, -121.4934])
+      expect(drawn.level).toBe(16)
+    })
+
+    it('names it for screen readers', () => {
+      expect(map().ariaLabel).toBe('Map of the California State Capitol')
+    })
   })
 
   context('when the street ranges load', () => {
@@ -676,8 +691,8 @@ describe('start', () => {
   })
 
   context('when the precinct has a map', () => {
-    it('shows it', () => {
-      expect(map().hidden).toBe(false)
+    it('shows it on the map', () => {
+      expect(map().classList).toContain('precinct')
     })
 
     it('outlines the precinct from the file', () => {
@@ -831,8 +846,13 @@ describe('start', () => {
   context('when the visitor resets after a map', () => {
     justBeforeEach(() => { resetButton().click() })
 
-    it('hides the map', () => {
-      expect(map().hidden).toBe(true)
+    it('takes the precinct off the map', () => {
+      expect(map().classList).not.toContain('precinct')
+    })
+
+    it('goes back to the State Capitol', () => {
+      expect(drawn.center).toEqual([38.5767, -121.4934])
+      expect(drawn.level).toBe(16)
     })
 
     it('hides the link', () => {
@@ -877,8 +897,8 @@ describe('start', () => {
       expect(result()).toBe('7904: Santa Clara County')
     })
 
-    it('shows no map', () => {
-      expect(map().hidden).toBe(true)
+    it('shows no precinct on the map', () => {
+      expect(map().classList).not.toContain('precinct')
     })
 
     it('offers no link', () => {
@@ -898,8 +918,8 @@ describe('start', () => {
       expect(result()).toBe('7904: Santa Clara County')
     })
 
-    it('shows no map', () => {
-      expect(map().hidden).toBe(true)
+    it('shows no precinct on the map', () => {
+      expect(map().classList).not.toContain('precinct')
     })
   })
 
@@ -926,8 +946,8 @@ describe('start', () => {
       })
     })
 
-    it('shows no map', () => {
-      expect(map().hidden).toBe(true)
+    it('shows no precinct on the map', () => {
+      expect(map().classList).not.toContain('precinct')
     })
   })
 
@@ -945,8 +965,8 @@ describe('start', () => {
       expect(result()).toBe('7904: Santa Clara County')
     })
 
-    it('shows the map', () => {
-      expect(map().hidden).toBe(false)
+    it('shows it on the map', () => {
+      expect(map().classList).toContain('precinct')
     })
 
     it('disables Apply', () => {

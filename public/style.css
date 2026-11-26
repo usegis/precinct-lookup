@@ -19,7 +19,6 @@ button:disabled { opacity: .45; cursor: default; }
 /* Phones print from the browser's own Share menu, and the pill would wrap onto its own line. */
 @media (max-width: 600px) { #print { display: none; } }
 #map { aspect-ratio: 4 / 3; background: #f6f5f5; border-radius: 8px; margin-bottom: 16px; }
-#map[hidden] { display: none; }
 #map .leaflet-veil-pane, #map .leaflet-boost-pane { mix-blend-mode: saturation; }
 /* One line of credits, like Esri's own Leaflet plugin; a tap shows them all. */
 #map .leaflet-bottom.leaflet-right { left: 0; }
@@ -33,7 +32,7 @@ button:disabled { opacity: .45; cursor: default; }
   html:not(.printing) .lookup .panel { position: absolute; z-index: 1001; top: 12px; left: 50%; transform: translateX(-50%); width: min(560px, calc(100% - 24px)); box-sizing: border-box; padding: 10px 12px; border-radius: 14px; background: var(--bg); box-shadow: 0 2px 8px rgb(0 0 0 / 30%); }
   /* The title takes the place the answer row takes later, so the panel keeps its height. */
   html:not(.printing) .lookup .panel > h1 { height: 26.2px; margin: 0 0 8px; font-size: 20px; line-height: 26.2px; }
-  html:not(.printing) .lookup main:has(#map:not([hidden])) .panel > h1 { display: none; }
+  html:not(.printing) .lookup main:has(#map.precinct) .panel > h1 { display: none; }
   html:not(.printing) .lookup .answer, html:not(.printing) .lookup .answer:has(.pill:not([hidden])) { min-height: 0; margin: 8px 0 0; }
   html:not(.printing) .lookup .answer:has(#result:empty) { display: none; }
   html:not(.printing) .lookup footer { box-sizing: border-box; width: 100%; max-width: none; margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0 16px; padding: 8px 16px; }

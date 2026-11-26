@@ -22,11 +22,13 @@ const VEIL = { stroke: false, fillColor: '#808080', fillOpacity: 1, interactive:
 const FADE = { stroke: false, fillColor: '#fff', fillOpacity: 0.4, interactive: false }
 const BOOST = { stroke: false, fillColor: '#f00', fillOpacity: 0.5, interactive: false }
 const WIDE = 1// screens past each edge that the shapes are drawn, so a drag doesn't uncover the map
+const CAPITOL: L.LatLngTuple = [38.5767, -121.4934]
+const CAPITOL_ZOOM = 16
 const WORLD: Position[] = [[-180, -85], [180, -85], [180, 85], [-180, 85], [-180, -85]]
 
-// Esri's street map, with the veil, the fade, the boost and the outline over it.
+// Esri's street map, opening on the State Capitol, with the veil, the fade, the boost and the outline over it.
 function precinctMap (element: HTMLElement): [L.Map, L.TileLayer] {
-  const map = L.map(element, { maxZoom: DEEPEST })
+  const map = L.map(element, { maxZoom: DEEPEST, center: CAPITOL, zoom: CAPITOL_ZOOM })
   map.zoomControl.setPosition('bottomright')
   map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a> | Powered by <a href="https://www.esri.com">Esri</a>')
   const tiles = L.tileLayer(TILES, { maxZoom: DEEPEST, attribution: ATTRIBUTION }).addTo(map)
@@ -56,8 +58,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
   let applied = ''
   let shownPrecinct = ''
   let latest = 0
-  let leaflet: L.Map | undefined
-  let tiles: L.TileLayer | undefined
   let outline: L.GeoJSON | undefined
   let veil: L.GeoJSON | undefined
   let fade: L.GeoJSON | undefined
@@ -79,9 +79,15 @@ export function start ({ document, fetch }: Env = globalThis): void {
     mapIndex: (county) => getShapes(`${county}/shapes/index`, {}),
     maps: (county, zip) => getShapes(`${county}/shapes/${zip}`, NO_SHAPES).catch(() => NO_SHAPES)
   }
+  const [leaflet, tiles] = precinctMap(map)
   const clearHash = () => history.replaceState(null, '', location.pathname + location.search)
   const hideMap = () => {
-    map.hidden = true
+    outline?.remove()
+    veil?.remove()
+    fade?.remove()
+    boost?.remove()
+    map.classList.remove('precinct')
+    map.ariaLabel = 'Map of the California State Capitol'
     countyData.hidden = true
     copy.hidden = true
     print.hidden = true
@@ -93,22 +99,17 @@ export function start ({ document, fetch }: Env = globalThis): void {
   }
   // On screen the map opens one step out from a snug fit, so the precinct has room around it; a print stays snug.
   const fit = () => {
-    leaflet!.invalidateSize()
+    leaflet.invalidateSize()
     const bounds = outline!.getBounds()
-    const snug = Math.min(leaflet!.getBoundsZoom(bounds, false, L.point(32, 32)), DEEPEST_START)
+    const snug = Math.min(leaflet.getBoundsZoom(bounds, false, L.point(32, 32)), DEEPEST_START)
     const roomy = document.documentElement.classList.contains('printing') ? 0 : 1
-    leaflet!.setView(bounds.getCenter(), snug - roomy, { animate: false })
+    leaflet.setView(bounds.getCenter(), snug - roomy, { animate: false })
   }
   const showMap = async ({ county, number, zip }: Found, run: number) => {
     const shape = (await source.maps(county, zip)).features.find((feature: Feature) => feature.id === number)
     if (run !== latest || !shape) return
-    map.hidden = false
+    map.classList.add('precinct')
     map.ariaLabel = `Map of precinct ${number}`
-    if (!leaflet) [leaflet, tiles] = precinctMap(map)
-    outline?.remove()
-    veil?.remove()
-    fade?.remove()
-    boost?.remove()
     // Everything but the precinct turns a lighter gray, so the precinct keeps its color and contrast.
     const outside: Feature<Polygon> = { ...shape, geometry: { type: 'Polygon', coordinates: [WORLD, ...shape.geometry.coordinates] } }
     veil = L.geoJSON(outside, { style: VEIL, ...drawIn('veil') }).addTo(leaflet)
@@ -160,6 +161,7 @@ export function start ({ document, fetch }: Env = globalThis): void {
     result.textContent = ''
     reset.hidden = true
     hideMap()
+    leaflet.setView(CAPITOL, CAPITOL_ZOOM, { animate: false })
     clearHash()
     input.focus()
   })
@@ -184,12 +186,12 @@ export function start ({ document, fetch }: Env = globalThis): void {
     notePrint()
     document.documentElement.classList.add('printing')
     fit()
-    if (tiles!.isLoading()) await new Promise((resolve) => tiles!.once('load', resolve))
+    if (tiles.isLoading()) await new Promise((resolve) => tiles.once('load', resolve))
     window.print()
   })
   // Printing from the browser's menu sizes the map to the page too, without waiting for tiles.
   window.addEventListener('beforeprint', () => {
-    if (map.hidden || document.documentElement.classList.contains('printing')) return
+    if (!map.classList.contains('precinct') || document.documentElement.classList.contains('printing')) return
     notePrint()
     document.documentElement.classList.add('printing')
     fit()
