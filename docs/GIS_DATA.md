@@ -77,7 +77,7 @@ holds, and on a large lot its middle can sit in another precinct. This is mostly
 
 | County | Precinct map | Addresses |
 | --- | --- | --- |
-| [Alpine](counties/ALPINE.md) 1.0K | [SWDB, 6/26](https://statewidedatabase.org/) | [Parcels, 2025](https://services1.arcgis.com/9z9tEfqo0TExR9C8/arcgis/rest/services/AlpineCountyParcels_22_23_PublicUpdate/FeatureServer/0) |
+| [Alpine](counties/ALPINE.md) 1.0K | [SWDB, 6/26](https://statewidedatabase.org/) | [Parcels, 2025](https://services1.arcgis.com/9z9tEfqo0TExR9C8/arcgis/rest/services/AlpineCountyParcels_Viewer/FeatureServer/0) |
 | [Colusa](counties/COLUSA.md) 22K | Request, 12/22 | [Parcels, 2026](https://services5.arcgis.com/RHVBVx0fVmUtvfJV/arcgis/rest/services/Colusa_County_Tax_Parcels/FeatureServer/0) |
 | [Del Norte](counties/DEL_NORTE.md) 26K | [Live layer](https://services3.arcgis.com/IkUDY1vRIUWiVvcz/arcgis/rest/services/Precincts2021/FeatureServer/0) | [Parcels, 2026](https://services3.arcgis.com/IkUDY1vRIUWiVvcz/arcgis/rest/services/Parcels_20241125/FeatureServer/0) |
 | [Glenn](counties/GLENN.md) 28K | [Live layer](https://services3.arcgis.com/GUHJKBhKMcD5JjTe/arcgis/rest/services/Precincts_2_19_26/FeatureServer/0) | [Parcels, 2023](https://services3.arcgis.com/GUHJKBhKMcD5JjTe/arcgis/rest/services/Zoning_Finder/FeatureServer/0) |
