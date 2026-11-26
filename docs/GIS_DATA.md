@@ -84,7 +84,7 @@ holds, and on a large lot its middle can sit in another precinct. This is mostly
 | [Imperial](counties/IMPERIAL.md) 181K | [Live layer](https://services7.arcgis.com/RomaVqqozKczDNgd/arcgis/rest/services/ElectionGeography_public_15dd531d79d148a29be12ba72c150cc2/FeatureServer/1) | [Parcels, 2023](https://services7.arcgis.com/RomaVqqozKczDNgd/arcgis/rest/services/Parcels_Oct_2023/FeatureServer/0) |
 | [Lake](counties/LAKE.md) 68K | [SWDB, 11/24](https://statewidedatabase.org/) | [Parcels, 2026](https://gis.lakecountyca.gov/server/rest/services/Parcels/MapServer/0) |
 | [Nevada](counties/NEVADA.md) 102K | [Live layer](https://services1.arcgis.com/UvqJJ6GFv4u5BZQj/arcgis/rest/services/Voter_Precincts_PUBLIC/FeatureServer/0) | [Parcels, 2026](https://maps.nevadacountyca.gov/arcgis/rest/services/web_public/Open_Data_Layers_Nevada_County/FeatureServer/100) |
-| [Sierra](counties/SIERRA.md) 3.1K | Request, 1/22 | [Parcels, 2025](https://services2.arcgis.com/2yQutf5QqkjGa5Rs/arcgis/rest/services/SierraParcelAd_ExportFeature/FeatureServer/1)\* |
+| [Sierra](counties/SIERRA.md) 3.1K | Request, 1/22 | [Parcels, 9/25](https://services2.arcgis.com/2yQutf5QqkjGa5Rs/arcgis/rest/services/SierraParcelAd_ExportFeature/FeatureServer/1)\* |
 | [Tuolumne](counties/TUOLUMNE.md) 53K | [File, 9/22](https://www.tuolumnecounty.ca.gov/526/File-Access-List) | [Parcels, 2026](https://services3.arcgis.com/afQpMaliVrwHS7Ud/arcgis/rest/services/Parcels_WithSiteAddress/FeatureServer/2) |
 
 ## Census TIGER and SWDB

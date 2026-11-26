@@ -9,6 +9,6 @@ before making decisions based on this information.
 SOURCES
 
 Precinct map is a January 2022 snapshot provided by Sierra County. Address file
-is a 2025 snapshot of Sierra County parcels from a third party. Census TIGER
-address ranges and Statewide Database voters by block.
+is a September 2025 snapshot of Sierra County parcels from a third party. Census
+TIGER address ranges and Statewide Database voters by block.
 https://github.com/usegis/precinct-lookup#sources
