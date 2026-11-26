@@ -4,7 +4,8 @@ Every California county publishes its precincts directly or indirectly (after ea
 the Statewide Database (SWDB). Most counties publish current precincts and addresses themselves, nearly all as
 live ArcGIS layers or downloadable files. Each county's sources are below, grouped by how its street
 ranges are built. [Sources](SOURCES.md) explains the approach. Each county links to its precincts, with registered
-voters from SWDB.
+voters from SWDB. The state's geoportal keeps a
+[list of every county's GIS portal](https://gis.data.ca.gov/pages/local-gov#countygov).
 
 ## Street data
 
