@@ -161,7 +161,6 @@ export function start ({ document, fetch }: Env = globalThis): void {
     result.textContent = ''
     reset.hidden = true
     hideMap()
-    leaflet.setView(CAPITOL, CAPITOL_ZOOM, { animate: false })
     clearHash()
     input.focus()
   })

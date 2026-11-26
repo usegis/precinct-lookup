@@ -850,9 +850,9 @@ describe('start', () => {
       expect(map().classList).not.toContain('precinct')
     })
 
-    it('goes back to the State Capitol', () => {
-      expect(drawn.center).toEqual([38.5767, -121.4934])
-      expect(drawn.level).toBe(16)
+    it('leaves the map where it was', () => {
+      expect(drawn.center).toBe('the precinct')
+      expect(drawn.level).toBe(15)
     })
 
     it('hides the link', () => {
